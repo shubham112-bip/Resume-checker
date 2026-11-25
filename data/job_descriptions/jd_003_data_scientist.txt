@@ -1,0 +1,23 @@
+Job Title: Data Scientist & Machine Learning Engineer
+Experience: 2-4 years
+Education: Master's or Bachelor's in Data Science, Statistics, Computer Science or related
+
+Responsibilities:
+- Build predictive machine learning pipelines and statistical models using scikit-learn
+- Conduct exploratory data analysis and feature engineering on high-dimensional datasets
+- Design SQL extraction pipelines from relational databases and cloud warehouses
+- Develop deep learning neural networks for natural language processing applications
+
+Required Skills:
+- Python
+- Machine Learning
+- Pandas
+- scikit-learn
+- SQL
+
+Preferred Skills:
+- PyTorch
+- Deep Learning
+- NLP
+- Statistics
+- Data Visualization

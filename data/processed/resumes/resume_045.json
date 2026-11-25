@@ -1,0 +1,134 @@
+{
+  "resume_id": "resume_045",
+  "resumeId": "resume_045",
+  "fileName": "45.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Django",
+    "Django REST Framework",
+    "React",
+    "PostgreSQL",
+    "Redis",
+    "Git",
+    "Docker",
+    "OOP",
+    "Agile",
+    "Nginx",
+    "Selenium",
+    "SQLite"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "Python Developer ( to )",
+      "organization": "Claustrophobia,",
+      "start": "Aug. 2021",
+      "end": "present",
+      "durationMonths": 63,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Social Network, Notification Bot, Catalogs, API",
+      "description": "",
+      "technologies": []
+    },
+    {
+      "name": "Technologies",
+      "description": "Python, Django, DRF, Docker, SQLite, Nginx, HTML, CSS",
+      "technologies": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "Docker",
+        "SQLite",
+        "Nginx",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Python",
+    "JS",
+    "HTML",
+    "CSS"
+  ],
+  "raw_text": "Russia, Fryazino | | /\nSUMMARY\n2 years of web application development experience.\nExperience in the full cycle of creating web applications: architecture, server, code,\ndeployment.\nKnow how to work with legacy, why tests are needed, how to communicate with team\nmembers to achieve the best results.\nSKILLS ACCOMPLISHMENTS\nLanguages: Python, JS, HTML, CSS. Optimized critical services. Reduced\nFrameworks: Django, DRF, React. response time from a few minutes to\nLibraries: asyncio, aiohttp, aiogram. a few seconds.\nDatabases: PostgreSQL, Redis. Managed a team of 2 developers.\nTools: PyCharm, Git, Lens, Docker, Acted as a mentor.\nYouTrack, TeamCity, Sentry, Bitbucket. Independently developed 3\nTechniques: OOP, TDD, Scrum commercial projects from scratch.\nEDUCATION\nPython Developer ()\nYandex.Practicum\nBack-End Python Developer Professional Training Course\nSoftware Engineer Unfinished higher education ()\nMoscow State Forest University, Moscow\nElectronics and systems engineering, Applied mathematics and computer science\nWORK EXPERIENCE\nPython Developer (Aug. 2021 to present)\nClaustrophobia,\nProjects: Website, Store, API, CRM, Dashboard, Game Bot\nTechnologies: Python, Django, DRF, Docker, PostgreSQL, Redis, React, HTML, CSS, JS\nPython Developer (Apr. 2021 Aug. 2021)\nLegsy Socks,\nProjects: Financial Bot, Automation Bot\nTechnologies: Python, Django, DRF, asyncio, aiohttp, Docker, PostgreSQL, Nginx, Selenium\nPython Developer (Education, Sep. 2020 Aug. 2021)\nYandex.Practicum,\nProjects: Social Network, Notification Bot, Catalogs, API\nTechnologies: Python, Django, DRF, Docker, SQLite, Nginx, HTML, CSS",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "2 years of web application development experience.\nExperience in the full cycle of creating web applications: architecture, server, code,\ndeployment.\nKnow how to work with legacy, why tests are needed, how to communicate with team\nmembers to achieve the best results.\nSKILLS ACCOMPLISHMENTS\nLanguages: Python, JS, HTML, CSS. Optimized critical services. Reduced\nFrameworks: Django, DRF, React. response time from a few minutes to\nLibraries: asyncio, aiohttp, aiogram. a few seconds.\nDatabases: PostgreSQL, Redis. Managed a team of 2 developers.",
+  "totalExperienceMonths": 63,
+  "experienceYears": 5.2,
+  "sections": {
+    "header": "Russia, Fryazino | | /",
+    "summary": "2 years of web application development experience.\nExperience in the full cycle of creating web applications: architecture, server, code,\ndeployment.\nKnow how to work with legacy, why tests are needed, how to communicate with team\nmembers to achieve the best results.\nSKILLS ACCOMPLISHMENTS\nLanguages: Python, JS, HTML, CSS. Optimized critical services. Reduced\nFrameworks: Django, DRF, React. response time from a few minutes to\nLibraries: asyncio, aiohttp, aiogram. a few seconds.\nDatabases: PostgreSQL, Redis. Managed a team of 2 developers.",
+    "skills": "PyCharm, Git, Lens, Docker, Acted as a mentor.\nYouTrack, TeamCity, Sentry, Bitbucket. Independently developed 3\nTechniques: OOP, TDD, Scrum commercial projects from scratch.",
+    "education": "Python Developer ()\nYandex.Practicum\nBack-End Python Developer Professional Training Course\nSoftware Engineer Unfinished higher education ()\nMoscow State Forest University, Moscow\nElectronics and systems engineering, Applied mathematics and computer science",
+    "experience": "Python Developer (Aug. 2021 to present)\nClaustrophobia,",
+    "projects": "Social Network, Notification Bot, Catalogs, API\nTechnologies: Python, Django, DRF, Docker, SQLite, Nginx, HTML, CSS"
+  },
+  "metadata": {
+    "fileName": "45.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 63,
+    "experienceYears": 5.2,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1610,
+      "wordCount": 215,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "skills",
+      "education",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 58.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.35,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 1,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 58.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

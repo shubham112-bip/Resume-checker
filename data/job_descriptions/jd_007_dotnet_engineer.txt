@@ -1,0 +1,25 @@
+Job Title: Senior .NET Software Engineer
+Experience: 4-8 years
+Education: BTech, BE, MCA or equivalent degree in Computer Science
+
+Responsibilities:
+- Architect and develop high-throughput enterprise backend services using C# and .NET Core
+- Design and optimize relational database schemas and queries using SQL Server and Entity Framework
+- Build scalable RESTful Web APIs, GraphQL services, and microservices
+- Deploy and monitor cloud workloads on Microsoft Azure infrastructure
+
+Required Skills:
+- C#
+- .NET Core
+- ASP.NET
+- SQL Server
+- Entity Framework
+- REST APIs
+
+Preferred Skills:
+- Azure
+- TypeScript
+- Angular
+- Microservices
+- Redis
+- Docker

@@ -1,0 +1,123 @@
+{
+  "resume_id": "resume_048",
+  "resumeId": "resume_048",
+  "fileName": "48.docx",
+  "candidateName": "ANALYTICS LEAD",
+  "skills": [
+    "Leadership",
+    "C",
+    "Tableau",
+    "SQL",
+    "Python",
+    "Power BI",
+    "Teamwork"
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "degreeLevel": 3,
+      "field": "Sales & Marketing",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "MBA (Sales & Marketing)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Competitve Analytics Team Lead",
+      "organization": "",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    },
+    {
+      "title": "OZON",
+      "organization": "Leading team of 18 Analysts, providing busisness isnights for inhouse",
+      "start": "2022",
+      "end": "Present",
+      "durationMonths": 58,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": []
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Team Leading English"
+  ],
+  "raw_text": "ANALYTICS LEAD\nExperience\nCompetitve Analytics Team Lead\nOZON | 2022 - Present\nLeading team of 18 Analysts, providing busisness isnights for inhouse\nProfile\nstakeholders: pricing, promotions, comepetitive activities, GMV and\nI like challenging tasks and assortment analysis. Presenting results to C-level with Tableau, Powe\nbringing projects done from BI, Powerpoint tools. Maintaining dashbords and data marts.\nscratch to full execution. I Team Stack:\nlove learning and quickly adapt SQL/Postgre/Python/Airflow/Hadoop/Kafka/Vertica/Tableau/PowerBI\nto new envirioment and tasks.\nCategory Business Manager\nSamsung | 2019 - 2022\nDevelopment and execution strategy of Home Appiances development\nin CIS. Sales stucture, Assortment/Pricing/Marketing/PLC/P&L.\nGrew ctaegory GMV, Profit and introduced new product type (DW)\nMS 0.5% ->7%\nDW MS 0% -> 11%\nProduct Manager\nNikon | 2013 - 2019\nNikon DSLR & Optics mangement #1 MS, development of accessories\nsales strategy. Sport Optics development #1 MS, promotions and\nproduct creation in collaboration with HQ.\nEducation\nMBA (Sales & Marketing)\nIBDA, Moscow | 2015 - 2017\nClassic MBA for Sales & Marketing Management.\nPsychology/Masters Degree\nMoscow State University, Moscow | 2005 - 2010\nDescription of the education/course.\nSkills\nSkills Language\nTeam Leading English\nPlanning Russian\nProject French\nmanagement Hebrew\nSales\nNegotiations\nAnalytics\nContact\nTools\nArad (IL)/ Moscow (RU)\nMS Office\n\nBI Tools\n\nSQL/Python\nSAP\n/victor.kravtsov.92",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "stakeholders: pricing, promotions, comepetitive activities, GMV and\nI like challenging tasks and assortment analysis. Presenting results to C-level with Tableau, Powe\nbringing projects done from BI, Powerpoint tools. Maintaining dashbords and data marts.\nscratch to full execution. I Team Stack:\nlove learning and quickly adapt SQL/Postgre/Python/Airflow/Hadoop/Kafka/Vertica/Tableau/PowerBI\nto new envirioment and tasks.\nCategory Business Manager\nSamsung | 2019 - 2022\nDevelopment and execution strategy of Home Appiances development\nin CIS. Sales stucture, Assortment/Pricing/Marketing/PLC/P&L.\nGrew ctaegory GMV, Profit and introduced new product type (DW)\nMS 0.5% ->7%\nDW MS 0% -> 11%\nProduct Manager\nNikon | 2013 - 2019\nNikon DSLR & Optics mangement #1 MS, development of accessories\nsales strategy. Sport Optics development #1 MS, promotions and\nproduct creation in collaboration with HQ.",
+  "totalExperienceMonths": 58,
+  "experienceYears": 4.8,
+  "sections": {
+    "header": "ANALYTICS LEAD",
+    "experience": "Competitve Analytics Team Lead\nOZON | 2022 - Present\nLeading team of 18 Analysts, providing busisness isnights for inhouse",
+    "summary": "stakeholders: pricing, promotions, comepetitive activities, GMV and\nI like challenging tasks and assortment analysis. Presenting results to C-level with Tableau, Powe\nbringing projects done from BI, Powerpoint tools. Maintaining dashbords and data marts.\nscratch to full execution. I Team Stack:\nlove learning and quickly adapt SQL/Postgre/Python/Airflow/Hadoop/Kafka/Vertica/Tableau/PowerBI\nto new envirioment and tasks.\nCategory Business Manager\nSamsung | 2019 - 2022\nDevelopment and execution strategy of Home Appiances development\nin CIS. Sales stucture, Assortment/Pricing/Marketing/PLC/P&L.\nGrew ctaegory GMV, Profit and introduced new product type (DW)\nMS 0.5% ->7%\nDW MS 0% -> 11%\nProduct Manager\nNikon | 2013 - 2019\nNikon DSLR & Optics mangement #1 MS, development of accessories\nsales strategy. Sport Optics development #1 MS, promotions and\nproduct creation in collaboration with HQ.",
+    "education": "MBA (Sales & Marketing)\nIBDA, Moscow | 2015 - 2017\nClassic MBA for Sales & Marketing Management.\nPsychology/Masters Degree\nMoscow State University, Moscow | 2005 - 2010\nDescription of the education/course.",
+    "skills": "Arad (IL)/ Moscow (RU)\nMS Office\n\nBI Tools\n\nSQL/Python\nSAP\n/victor.kravtsov.92"
+  },
+  "metadata": {
+    "fileName": "48.docx",
+    "candidateName": "ANALYTICS LEAD",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 58,
+    "experienceYears": 4.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1483,
+      "wordCount": 205,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "summary",
+      "education",
+      "skills"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 65.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.59,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "introduced"
+    ],
+    "quantifiedBulletsCount": 10,
+    "totalBulletsCount": 27,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 65.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

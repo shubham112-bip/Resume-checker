@@ -1,0 +1,152 @@
+{
+  "resume_id": "sample_04_sneha_rao_data_scientist",
+  "resumeId": "sample_04_sneha_rao_data_scientist",
+  "fileName": "04_sneha_rao_data_scientist.docx",
+  "candidateName": "Sneha Rao",
+  "skills": [
+    "Machine Learning",
+    "Statistics",
+    "Python",
+    "Data Analysis",
+    "Pandas",
+    "NumPy",
+    "scikit-learn",
+    "PyTorch",
+    "SQL",
+    "Data Visualization",
+    "Tableau",
+    "Deep Learning",
+    "NLP",
+    "Data Structures"
+  ],
+  "education": [
+    {
+      "degree": "MSc",
+      "degreeLevel": 3,
+      "field": "Statistics & Data Analytics",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "MSc in Statistics & Data Analytics, University of Mumbai, 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist at Predictive Analytics Corp ( - )",
+      "organization": "Engineered customer churn classification models using scikit-learn Random Forests, improving retention campaign ROI by 24%.",
+      "start": "Jul 2021",
+      "end": "Present",
+      "durationMonths": 64,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Constructed automated data cleaning and feature engineering pipelines in Python and Pandas processing 2M+ records daily.",
+        "Authored complex SQL analytical queries to extract cohort behavioral metrics from cloud data warehouse.",
+        "Designed and deployed deep learning natural language processing models in PyTorch for sentiment categorization."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Credit Risk Scoring Model",
+      "description": "Trained XGBoost and Logistic Regression algorithms predicting loan default probability with 0.88 ROC-AUC.",
+      "technologies": [
+        "Data Structures"
+      ]
+    },
+    {
+      "name": "Customer Segmentation Engine",
+      "description": "Developed unsupervised K-Means clustering model identifying 5 high-value consumer demographics.",
+      "technologies": []
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Sneha Rao\nData Scientist & Machine Learning Specialist | [EMAIL REDACTED] | +91 97665 54433 | linkedin.com/in/sneharao\nProfessional Summary\nData Scientist with 3 years of experience developing machine learning models, statistical analysis, and Python data pipelines. Passionate about turning complex datasets into actionable business intelligence.\nEducation\nMSc in Statistics & Data Analytics, University of Mumbai, 2021\nTechnical Skills\nPython, Machine Learning, Pandas, NumPy, scikit-learn, PyTorch, SQL, Statistics, Data Visualization, Tableau, Matplotlib\nWork Experience\nData Scientist at Predictive Analytics Corp (Jul 2021 - Present)\nEngineered customer churn classification models using scikit-learn Random Forests, improving retention campaign ROI by 24%.\nConstructed automated data cleaning and feature engineering pipelines in Python and Pandas processing 2M+ records daily.\nAuthored complex SQL analytical queries to extract cohort behavioral metrics from cloud data warehouse.\nDesigned and deployed deep learning natural language processing models in PyTorch for sentiment categorization.\nProjects\nCredit Risk Scoring Model: Trained XGBoost and Logistic Regression algorithms predicting loan default probability with 0.88 ROC-AUC.\nCustomer Segmentation Engine: Developed unsupervised K-Means clustering model identifying 5 high-value consumer demographics.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/sneharao",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "Data Scientist with 3 years of experience developing machine learning models, statistical analysis, and Python data pipelines. Passionate about turning complex datasets into actionable business intelligence.",
+  "totalExperienceMonths": 64,
+  "experienceYears": 5.3,
+  "sections": {
+    "header": "Sneha Rao\nData Scientist & Machine Learning Specialist | [EMAIL REDACTED] | +91 97665 54433 | linkedin.com/in/sneharao",
+    "summary": "Data Scientist with 3 years of experience developing machine learning models, statistical analysis, and Python data pipelines. Passionate about turning complex datasets into actionable business intelligence.",
+    "education": "MSc in Statistics & Data Analytics, University of Mumbai, 2021",
+    "skills": "Python, Machine Learning, Pandas, NumPy, scikit-learn, PyTorch, SQL, Statistics, Data Visualization, Tableau, Matplotlib",
+    "experience": "Data Scientist at Predictive Analytics Corp (Jul 2021 - Present)\nEngineered customer churn classification models using scikit-learn Random Forests, improving retention campaign ROI by 24%.\nConstructed automated data cleaning and feature engineering pipelines in Python and Pandas processing 2M+ records daily.\nAuthored complex SQL analytical queries to extract cohort behavioral metrics from cloud data warehouse.\nDesigned and deployed deep learning natural language processing models in PyTorch for sentiment categorization.",
+    "projects": "Credit Risk Scoring Model: Trained XGBoost and Logistic Regression algorithms predicting loan default probability with 0.88 ROC-AUC.\nCustomer Segmentation Engine: Developed unsupervised K-Means clustering model identifying 5 high-value consumer demographics."
+  },
+  "metadata": {
+    "fileName": "04_sneha_rao_data_scientist.docx",
+    "candidateName": "Sneha Rao",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 64,
+    "experienceYears": 5.3,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1373,
+      "wordCount": 172,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 77.7,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "automated",
+      "constructed",
+      "deployed",
+      "designed",
+      "developed",
+      "trained"
+    ],
+    "quantifiedBulletsCount": 4,
+    "totalBulletsCount": 5,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (automated, constructed, deployed, designed, developed).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 77.7/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

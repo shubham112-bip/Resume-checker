@@ -1,0 +1,173 @@
+{
+  "resume_id": "resume_016",
+  "resumeId": "resume_016",
+  "fileName": "16.docx",
+  "candidateName": "Israel, Beer Sheva",
+  "skills": [
+    "Java",
+    "Kotlin",
+    "System Design",
+    "Spring Boot",
+    "SQL",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "Agile",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Python"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's degree, Computer Science"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Master's degree, Engineering and Technology",
+      "organization": "in Computer Science",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    },
+    {
+      "title": "Raiffeisen Bank Russia",
+      "organization": "Senior Software Developer",
+      "start": "Jan 2022",
+      "end": "June 2022",
+      "durationMonths": 5,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Skills & Expertise",
+        "system design of a new KYC platform",
+        "collecting business requirements Java",
+        "development from scratch (Java, Kotlin) Spring Framework",
+        "SQL, Postgres, Oracle"
+      ]
+    },
+    {
+      "title": "Deutsche Bank  -  Kafka, Cassandra",
+      "organization": "Software Engineer / Senior Software Engineer Git, Docker, TeamCity, GitLab",
+      "start": "Aug 2018",
+      "end": "Dec 2021",
+      "durationMonths": 40,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Agile, Scrum, SAFE methodologies",
+        "international teams in risk management Basic JavaScript, HTML, CSS",
+        "instances in different locations across the globe Kotlin, Scala, Python",
+        "Java (mainly), Python, Scala",
+        "development of new features Languages",
+        "SL3 support",
+        "Russian native, English advanced"
+      ]
+    },
+    {
+      "title": "QIWI",
+      "organization": "Software Developer / Senior Software Developer",
+      "start": "Dec 2015",
+      "end": "Aug 2018",
+      "durationMonths": 32,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "new features for payment processing engine",
+        "refactoring of legacy systems",
+        "mentor for interns"
+      ]
+    },
+    {
+      "title": "I-Teco",
+      "organization": "Junior Java Developer / Java Developer",
+      "start": "May 2013",
+      "end": "Jan 2015",
+      "durationMonths": 20,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "outsource projects",
+        "Java, GWT, HTML, CSS"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "SL3 support"
+  ],
+  "raw_text": "Senior Software Engineer (Java/Kotlin Backend Developer)\nIsrael, Beer Sheva\nContacts\nEducation\nTelegram\nWhatsApp\nNational Research University Moscow\nPower Engineering Institute\n\nSep 2006 - June 2010\nBachelor's degree, Computer Science\nCell\nSep 2011 - June 2013\nExperience\nMaster's degree, Engineering and Technology\nin Computer Science\nRaiffeisen Bank Russia Jan 2022 - June 2022\nSenior Software Developer\nSkills & Expertise\nsystem design of a new KYC platform\ncollecting business requirements Java\ndevelopment from scratch (Java, Kotlin) Spring Framework\nSQL, Postgres, Oracle\nDeutsche Bank Aug 2018 - Dec 2021 Kafka, Cassandra\nSoftware Engineer / Senior Software Engineer Git, Docker, TeamCity, GitLab\nAgile, Scrum, SAFE methodologies\ninternational teams in risk management Basic JavaScript, HTML, CSS\ninstances in different locations across the globe Kotlin, Scala, Python\nJava (mainly), Python, Scala\ndevelopment of new features Languages\nSL3 support\nRussian native, English advanced\nQIWI Dec 2015 - Aug 2018\nSoftware Developer / Senior Software Developer\nnew features for payment processing engine\nrefactoring of legacy systems\nmentor for interns\nI-Teco May 2013 - Jan 2015\nJunior Java Developer / Java Developer\noutsource projects\nJava, GWT, HTML, CSS",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 97,
+  "experienceYears": 8.1,
+  "sections": {
+    "header": "Senior Software Engineer (Java/Kotlin Backend Developer)\nIsrael, Beer Sheva\nContacts",
+    "education": "Telegram\nWhatsApp\nNational Research University Moscow\nPower Engineering Institute\n\nSep 2006 - June 2010\nBachelor's degree, Computer Science\nCell\nSep 2011 - June 2013",
+    "experience": "Master's degree, Engineering and Technology\nin Computer Science\nRaiffeisen Bank Russia Jan 2022 - June 2022\nSenior Software Developer\nSkills & Expertise\nsystem design of a new KYC platform\ncollecting business requirements Java\ndevelopment from scratch (Java, Kotlin) Spring Framework\nSQL, Postgres, Oracle\nDeutsche Bank Aug 2018 - Dec 2021 Kafka, Cassandra\nSoftware Engineer / Senior Software Engineer Git, Docker, TeamCity, GitLab\nAgile, Scrum, SAFE methodologies\ninternational teams in risk management Basic JavaScript, HTML, CSS\ninstances in different locations across the globe Kotlin, Scala, Python\nJava (mainly), Python, Scala\ndevelopment of new features Languages\nSL3 support\nRussian native, English advanced\nQIWI Dec 2015 - Aug 2018\nSoftware Developer / Senior Software Developer\nnew features for payment processing engine\nrefactoring of legacy systems\nmentor for interns\nI-Teco May 2013 - Jan 2015\nJunior Java Developer / Java Developer\noutsource projects\nJava, GWT, HTML, CSS"
+  },
+  "metadata": {
+    "fileName": "16.docx",
+    "candidateName": "Israel, Beer Sheva",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 97,
+    "experienceYears": 8.1,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1257,
+      "wordCount": 179,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "education",
+      "experience"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 54.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.35,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 17,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 54.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

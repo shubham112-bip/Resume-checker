@@ -1,0 +1,158 @@
+{
+  "resume_id": "resume_015",
+  "resumeId": "resume_015",
+  "fileName": "15.docx",
+  "candidateName": "Experience Summary",
+  "skills": [
+    "Angular",
+    "REST APIs",
+    "jQuery",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "JavaScript",
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "SQLite",
+    "MySQL",
+    "MongoDB",
+    "Agile",
+    "WebSockets",
+    "React"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Description: Knowledgebase project with time and resource management for educational processes in",
+      "organization": "commercial specialized educational institutions.",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Britannica (Tel Aviv, Israel) Web Front End Developer",
+        "Responsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution",
+        "(ASPX) to newest solutions and technologies(Angular 7+), refactored code.",
+        "Technologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket",
+        "2017/04 - 2018/10 Athena (Holon, Israel) Web Front End Developer",
+        "Description: Documentation accounting system. Search engine for seeking information in open sources",
+        "and building structured knowledge base with internal search.",
+        "Responsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest",
+        "solutions and technologies",
+        "Technologies used: HTML5, CSS3 , AngularJS(1.5), Angular(2+), NodeJS, WebSocket",
+        "2016/03 - 2017/04 Freelance Web Front End Developer",
+        "\"Neighbro\"",
+        "Description: project designed as mini social network for tenants and landlords.",
+        "Responsibilities: projected and implemented API and UX. written documentation",
+        "Technologies used: HTML5, Jquery, JavaScript, AngularJS(1.3), NodeJS",
+        "Panels Dashboard",
+        "Description: Web application/dashboard for analysis survey data, visualization statistical data.",
+        "Responsibilities: projected and implemented API and UX",
+        "Technologies used: HTML5, AJAX, JavaScript, ReactJS, Bootstrap, CSS",
+        "2012/02 - 2016/03 WOXAPP (Dnipro, Ukraine) Web Front End Developer",
+        "Description: Cloud storage for photos, with social networking, forum and chat.",
+        "Responsibilities: projected and implemented UX and client-server logic",
+        "Technologies used: HTML5, AJAX, JavaScript"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Hebrew",
+    "English",
+    "Russian"
+  ],
+  "raw_text": "Frontend Developer - 8 years experience\n[REDACTED - not used for evaluation]\nResidence: Holon Languages: Hebrew, English, Russian\nExperience Summary\nWEB technologies: Angular, Webpack, REST, Ajax, JQuery, HTML, CSS, BootStrap\nProgramming languages: JavaScript, NodeJS, Typescript, Python, Perl\nDataBases: SQLite, MySQL, MongoDB, neo4j, tinyDB\nMethodology : Agile, Waterfall, SCRUM\nExperience\n- Britannica (Tel Aviv, Israel) Web Front End Developer\nDescription: Knowledgebase project with time and resource management for educational processes in\ncommercial specialized educational institutions.\nResponsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution\n(ASPX) to newest solutions and technologies(Angular 7+), refactored code.\nTechnologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket\n2017/04 - 2018/10 Athena (Holon, Israel) Web Front End Developer\nDescription: Documentation accounting system. Search engine for seeking information in open sources\nand building structured knowledge base with internal search.\nResponsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest\nsolutions and technologies\nTechnologies used: HTML5, CSS3 , AngularJS(1.5), Angular(2+), NodeJS, WebSocket\n2016/03 - 2017/04 Freelance Web Front End Developer\n\"Neighbro\"\nDescription: project designed as mini social network for tenants and landlords.\nResponsibilities: projected and implemented API and UX. written documentation\nTechnologies used: HTML5, Jquery, JavaScript, AngularJS(1.3), NodeJS\nPanels Dashboard\nDescription: Web application/dashboard for analysis survey data, visualization statistical data.\nResponsibilities: projected and implemented API and UX\nTechnologies used: HTML5, AJAX, JavaScript, ReactJS, Bootstrap, CSS\n2012/02 - 2016/03 WOXAPP (Dnipro, Ukraine) Web Front End Developer\n\nDescription: Cloud storage for photos, with social networking, forum and chat.\nResponsibilities: projected and implemented UX and client-server logic\nTechnologies used: HTML5, AJAX, JavaScript\nEducation\n2002/08 2007/06 National Mining University Dnepropetrovsk Ukraine\nDegree: Software Developer Master Degree\nRecommendations available upon request.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Frontend Developer - 8 years experience\n[REDACTED - not used for evaluation]\nResidence: Holon Languages: Hebrew, English, Russian\nExperience Summary\nWEB technologies: Angular, Webpack, REST, Ajax, JQuery, HTML, CSS, BootStrap\nProgramming languages: JavaScript, NodeJS, Typescript, Python, Perl\nDataBases: SQLite, MySQL, MongoDB, neo4j, tinyDB\nMethodology : Agile, Waterfall, SCRUM",
+    "experience": "- Britannica (Tel Aviv, Israel) Web Front End Developer\nDescription: Knowledgebase project with time and resource management for educational processes in\ncommercial specialized educational institutions.\nResponsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution\n(ASPX) to newest solutions and technologies(Angular 7+), refactored code.\nTechnologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket\n2017/04 - 2018/10 Athena (Holon, Israel) Web Front End Developer\nDescription: Documentation accounting system. Search engine for seeking information in open sources\nand building structured knowledge base with internal search.\nResponsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest\nsolutions and technologies\nTechnologies used: HTML5, CSS3 , AngularJS(1.5), Angular(2+), NodeJS, WebSocket\n2016/03 - 2017/04 Freelance Web Front End Developer\n\"Neighbro\"\nDescription: project designed as mini social network for tenants and landlords.\nResponsibilities: projected and implemented API and UX. written documentation\nTechnologies used: HTML5, Jquery, JavaScript, AngularJS(1.3), NodeJS\nPanels Dashboard\nDescription: Web application/dashboard for analysis survey data, visualization statistical data.\nResponsibilities: projected and implemented API and UX\nTechnologies used: HTML5, AJAX, JavaScript, ReactJS, Bootstrap, CSS\n2012/02 - 2016/03 WOXAPP (Dnipro, Ukraine) Web Front End Developer\n\nDescription: Cloud storage for photos, with social networking, forum and chat.\nResponsibilities: projected and implemented UX and client-server logic\nTechnologies used: HTML5, AJAX, JavaScript",
+    "education": "2002/08 2007/06 National Mining University Dnepropetrovsk Ukraine\nDegree: Software Developer Master Degree\nRecommendations available upon request."
+  },
+  "metadata": {
+    "fileName": "15.docx",
+    "candidateName": "Experience Summary",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2193,
+      "wordCount": 272,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 74.2,
+    "qualityGrade": "Good",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "designed",
+      "implemented",
+      "migrated",
+      "optimized",
+      "refactored"
+    ],
+    "quantifiedBulletsCount": 7,
+    "totalBulletsCount": 23,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (designed, implemented, migrated, optimized, refactored).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 74.2/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

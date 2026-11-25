@@ -1,0 +1,121 @@
+{
+  "resumeId": "resume_007_07_vikram_malhotra_java_backend",
+  "fileName": "07_vikram_malhotra_java_backend.docx",
+  "candidateName": "Vikram Malhotra",
+  "contact": {
+    "email": "vikram.malhotra@example.com",
+    "phone": null,
+    "linkedin": "linkedin.com/in/vikrammalhotra",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "Backend Software Engineer with 3.5 years of expertise in enterprise Java, Spring Boot microservices, Hibernate ORM, and high-performance relational databases.",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "Hibernate",
+    "SQL",
+    "MySQL",
+    "REST APIs",
+    "Git",
+    "Docker",
+    "Unit Testing",
+    "Authentication"
+  ],
+  "education": [
+    {
+      "degree": "BTech",
+      "degreeLevel": 2,
+      "field": "Computer Science",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BTech in Computer Science, 2020"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Java Backend Developer at Global Payments Inc ( - )",
+      "organization": "Developed transactional banking microservices using Java and Spring Boot processing $2.5M in daily transactions.",
+      "start": "Sep 2020",
+      "end": "Present",
+      "durationMonths": 74,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Optimized Hibernate object-relational mapping and MySQL index configurations, boosting throughput by 35%.",
+        "Designed and implemented RESTful APIs adhering to OpenAPI 3.0 specifications with Spring Security authentication.",
+        "Maintained 92% automated unit test coverage using JUnit and Mockito."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Payment Processing Gateway",
+      "description": "Engineered asynchronous transaction dispatcher using Spring Boot and MySQL.",
+      "technologies": [
+        "Spring Boot",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Account Reconciliation Service",
+      "description": "Automated daily ledger settlement using Java scheduled batch processing.",
+      "technologies": [
+        "Java"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "totalExperienceMonths": 74,
+  "experienceYears": 6.2,
+  "sections": {
+    "header": "Vikram Malhotra\nSenior Java Backend Developer | vikram.malhotra@example.com | +91 98711 22334 | linkedin.com/in/vikrammalhotra",
+    "summary": "Backend Software Engineer with 3.5 years of expertise in enterprise Java, Spring Boot microservices, Hibernate ORM, and high-performance relational databases.",
+    "education": "BTech in Computer Science, 2020",
+    "skills": "Java, Spring Boot, Hibernate, SQL, MySQL, REST APIs, Microservices, Git, Docker, Unit Testing",
+    "experience": "Java Backend Developer at Global Payments Inc (Sep 2020 - Present)\nDeveloped transactional banking microservices using Java and Spring Boot processing $2.5M in daily transactions.\nOptimized Hibernate object-relational mapping and MySQL index configurations, boosting throughput by 35%.\nDesigned and implemented RESTful APIs adhering to OpenAPI 3.0 specifications with Spring Security authentication.\nMaintained 92% automated unit test coverage using JUnit and Mockito.",
+    "projects": "Payment Processing Gateway: Engineered asynchronous transaction dispatcher using Spring Boot and MySQL.\nAccount Reconciliation Service: Automated daily ledger settlement using Java scheduled batch processing."
+  },
+  "diagnostics": {
+    "fileType": "docx",
+    "parserUsed": "python-docx",
+    "pageCount": 1,
+    "charCount": 1162,
+    "wordCount": 145,
+    "imageCount": 0,
+    "tableCount": 0,
+    "isScanned": false,
+    "warnings": []
+  },
+  "sensitiveAttributesRemoved": [],
+  "qualityFeatures": {
+    "overallQualityScore": 78.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.85,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "actionVerbsFound": [
+      "automated",
+      "designed",
+      "engineered",
+      "implemented",
+      "optimized"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 5,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (automated, designed, engineered, implemented, optimized).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 78.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and high ATS readability."
+  }
+}

@@ -1,0 +1,23 @@
+Job Title: Senior Backend Software Engineer
+Experience: 3-5 years
+Education: Bachelor's or Master's in Computer Science or Software Engineering
+
+Responsibilities:
+- Architect high-throughput distributed microservices using Python and FastAPI
+- Design relational schemas in PostgreSQL and configure caching with Redis
+- Write robust unit and integration tests with PyTest achieving >90% coverage
+- Deploy containerized services on AWS using CI/CD pipelines
+
+Required Skills:
+- Python
+- FastAPI
+- SQL
+- PostgreSQL
+- REST APIs
+
+Preferred Skills:
+- Redis
+- Docker
+- AWS
+- Microservices
+- CI/CD

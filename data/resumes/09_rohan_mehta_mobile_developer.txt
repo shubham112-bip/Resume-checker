@@ -1,0 +1,23 @@
+Rohan Mehta
+Email: rohan.mehta@example.com | Phone: +91 98200 11223
+LinkedIn: linkedin.com/in/rohanmehta-mobile | GitHub: github.com/rohanmehta
+
+Professional Summary:
+Mobile Application Developer with 2.5 years of experience building cross-platform iOS and Android apps using Flutter, Dart, and React Native.
+
+Education:
+BCA in Computer Applications, 2021
+
+Technical Skills:
+Flutter, Dart, React Native, JavaScript, Firebase, REST APIs, Git, Android Studio, Mobile App Development
+
+Professional Experience:
+Mobile Developer at AppCrafters Studio (Jul 2021 - Present)
+• Built and published 3 cross-platform mobile apps on Google Play Store and Apple App Store using Flutter and Dart.
+• Integrated Firebase cloud authentication, Firestore real-time database, and cloud push notifications.
+• Consumed backend REST APIs and implemented offline-first SQLite caching for 80,000 active mobile users.
+• Improved app launch time by 30% through widget tree optimization and state management in Riverpod.
+
+Projects:
+Fitness Tracker Mobile App:
+Cross-platform Flutter application tracking workouts and health metrics with interactive charts and REST backend sync.

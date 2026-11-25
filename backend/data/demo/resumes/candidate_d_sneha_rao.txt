@@ -1,0 +1,22 @@
+Sneha Rao
+Email: sneha.rao@example.com | Phone: 9766554433
+LinkedIn: linkedin.com/in/sneharao | GitHub: github.com/sneharao
+
+Summary:
+Data Analyst with 1 year experience in statistical analysis, machine learning and Python data pipelines.
+
+Education:
+BSc in Statistics, 2023
+
+Skills:
+Python, Pandas, NumPy, scikit-learn, Matplotlib, SQL, Excel, Tableau
+
+Experience:
+Data Analyst Intern at Analytics Lab (Jun 2023 - May 2024)
+• Conducted exploratory data analysis on consumer demographic datasets using Python and Pandas.
+• Wrote SQL queries to extract data from data warehouse tables.
+• Created interactive business intelligence dashboards in Tableau.
+
+Projects:
+Customer Churn Prediction:
+Built classification models using scikit-learn and evaluated precision and recall curves.

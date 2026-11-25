@@ -1,0 +1,144 @@
+{
+  "resume_id": "resume_029",
+  "resumeId": "resume_029",
+  "fileName": "29.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "React",
+    "JavaScript",
+    "Node.js",
+    "Redux",
+    "Express",
+    "HTML",
+    "CSS",
+    "SASS",
+    "MongoDB",
+    "Java",
+    "Spring Boot",
+    "OOP",
+    "Hibernate",
+    "Bootstrap",
+    "PostgreSQL",
+    "SQL",
+    "Git",
+    "Android",
+    "C++",
+    "Data Structures"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's Degree Software engineering at Moscow Technological"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Gold ventures investment Israel, Java software developer",
+      "organization": "Technologies: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Hibernate, Maven,",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Thymeleaf, HTML, CSS, Bootstrap, PostgreSQL, Debian, GitHub.",
+        "Responsibilities:",
+        "Develop database structure, develop backend on Spring Boot/MVC/Security/JPA",
+        "Develop frontend with Thymeleaf, HTML and Bootstrap, Deploy project",
+        "Group management",
+        "Key Achievements:",
+        "I worked as a team leader, developed a working application, and deployed it to a web server.",
+        "Neolines, Frontend developer"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    "Cisco, CCNA course. Routing and switching. Introduction to network technologies",
+    "IITC College, Certificate. Course: Java and Android Programming",
+    "Links",
+    "Github:",
+    "Linkedln:",
+    "Artstation:",
+    "Languages: English (professional working proficiency), Russian (native), Hebrew(basic)"
+  ],
+  "achievements": [],
+  "languages": [
+    "Russian (native)",
+    "Hebrew(basic)"
+  ],
+  "raw_text": "Israel, Netanya tel: , e-mail:\nFrontend Developer/ Full stack Developer\nAn energetic, motivated and responsible young developer. I enjoy learning new technologies and want to\nimprove my skills that I acquired at university and studied independently and grow as a developer. Now I'm\ndeveloping on React.js/Node.js. I graduated from Art School, like design and my creativity helps me in front-\nend development, and I would like to use it in my work.\nTechnologies: React.js, Redux, Node.js, Express.js, JavaScript, HTML, CSS, SCSS, MongoDB, Java, Spring\nBoot, Spring MVC, OOP, Hibernate, Bootstrap, PostgreSQL, SQL, Git.\nExperience\nGold ventures investment Israel, Java software developer\nTechnologies: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Hibernate, Maven,\nThymeleaf, HTML, CSS, Bootstrap, PostgreSQL, Debian, GitHub.\nResponsibilities:\nDevelop database structure, develop backend on Spring Boot/MVC/Security/JPA\nDevelop frontend with Thymeleaf, HTML and Bootstrap, Deploy project\nGroup management\nKey Achievements:\nI worked as a team leader, developed a working application, and deployed it to a web server.\nNeolines, Frontend developer\nTechnologies: Drupal, Photoshop, Bootstrap, HTML, CSS.\nResponsibilities:\nDevelop frontend elements, using HTML, CSS, Photoshop, Bootstrap\nContent management and copywriting, using Drupal 6/7\nKey Achievements:\nParticipated in the development and support of four projects.\nEducation\nUdemy course. Development on React.js/Node.js\nDevelopment Internet market Build Ecommerce Website Like Amazon [React & Node &\nMongoDB].\nTechnologies: Node.js, Express.js, React.js, Redux, MongoDB, CSS\nMasa Tlalim Israel education program: Java programming.\nStudied: Java core, Collection API, Android.\nBachelor's Degree Software engineering at Moscow Technological\nUniversity\nStudied: Java, C++, JavaScript, Pascal, Programming, Data Structure, Algorithms, OOP, Software,\nengineering, Mathematics, SQL, Databases, Cisco.\nGraduation work: Inventorys program for department of the institute. Technologies: Android, Java, Spring\nBoot, Spring Data JPA, Spring MVC, Hibernate, Maven, PostgreSQL, Mustache.\nCertificates:\nCisco, CCNA course. Routing and switching. Introduction to network technologies\nIITC College, Certificate. Course: Java and Android Programming\nLinks\nGithub:\nLinkedln:\nArtstation:\nLanguages: English (professional working proficiency), Russian (native), Hebrew(basic)",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Israel, Netanya tel: , e-mail:\nFrontend Developer/ Full stack Developer\nAn energetic, motivated and responsible young developer. I enjoy learning new technologies and want to\nimprove my skills that I acquired at university and studied independently and grow as a developer. Now I'm\ndeveloping on React.js/Node.js. I graduated from Art School, like design and my creativity helps me in front-\nend development, and I would like to use it in my work.\nTechnologies: React.js, Redux, Node.js, Express.js, JavaScript, HTML, CSS, SCSS, MongoDB, Java, Spring\nBoot, Spring MVC, OOP, Hibernate, Bootstrap, PostgreSQL, SQL, Git.",
+    "experience": "Gold ventures investment Israel, Java software developer\nTechnologies: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Hibernate, Maven,\nThymeleaf, HTML, CSS, Bootstrap, PostgreSQL, Debian, GitHub.\nResponsibilities:\nDevelop database structure, develop backend on Spring Boot/MVC/Security/JPA\nDevelop frontend with Thymeleaf, HTML and Bootstrap, Deploy project\nGroup management\nKey Achievements:\nI worked as a team leader, developed a working application, and deployed it to a web server.\nNeolines, Frontend developer",
+    "skills": "Drupal, Photoshop, Bootstrap, HTML, CSS.\nResponsibilities:\nDevelop frontend elements, using HTML, CSS, Photoshop, Bootstrap\nContent management and copywriting, using Drupal 6/7\nKey Achievements:\nParticipated in the development and support of four projects.",
+    "education": "Udemy course. Development on React.js/Node.js\nDevelopment Internet market Build Ecommerce Website Like Amazon [React & Node &\nMongoDB].\nTechnologies: Node.js, Express.js, React.js, Redux, MongoDB, CSS\nMasa Tlalim Israel education program: Java programming.\nStudied: Java core, Collection API, Android.\nBachelor's Degree Software engineering at Moscow Technological\nUniversity\nStudied: Java, C++, JavaScript, Pascal, Programming, Data Structure, Algorithms, OOP, Software,\nengineering, Mathematics, SQL, Databases, Cisco.\nGraduation work: Inventorys program for department of the institute. Technologies: Android, Java, Spring\nBoot, Spring Data JPA, Spring MVC, Hibernate, Maven, PostgreSQL, Mustache.",
+    "certifications": "Cisco, CCNA course. Routing and switching. Introduction to network technologies\nIITC College, Certificate. Course: Java and Android Programming\nLinks\nGithub:\nLinkedln:\nArtstation:\nLanguages: English (professional working proficiency), Russian (native), Hebrew(basic)"
+  },
+  "metadata": {
+    "fileName": "29.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2425,
+      "wordCount": 313,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "skills",
+      "education",
+      "certifications"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 68.1,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.58,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "deployed",
+      "developed"
+    ],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 8,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 68.1/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

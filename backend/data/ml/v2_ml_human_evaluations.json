@@ -1,0 +1,1785 @@
+{
+  "evaluation_timestamp": "2026-11-24T23:03:36.698070",
+  "model_evaluated": "Logistic Regression (Balanced, v2)",
+  "feature_version": "canonical_v2",
+  "locked_benchmark_64": {
+    "dataset_name": "human_validation",
+    "sample_size": 64,
+    "rule_v1": {
+      "accuracy": 0.5,
+      "macro_precision": 0.5726,
+      "macro_recall": 0.5417,
+      "macro_f1": 0.4677,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.375,
+      "false_shortlist_rate": 0.0,
+      "false_shortlist_count": 0,
+      "predicted_shortlist_count": 12,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.4103,
+          "recall": 1.0,
+          "f1": 0.5818,
+          "support": 16
+        },
+        "review": {
+          "precision": 0.3077,
+          "recall": 0.25,
+          "f1": 0.2759,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.375,
+          "f1": 0.5455,
+          "support": 32
+        }
+      },
+      "confusion_matrix": [
+        [
+          16,
+          0,
+          0
+        ],
+        [
+          12,
+          4,
+          0
+        ],
+        [
+          11,
+          9,
+          12
+        ]
+      ]
+    },
+    "rule_v2": {
+      "accuracy": 0.6719,
+      "macro_precision": 0.6487,
+      "macro_recall": 0.6458,
+      "macro_f1": 0.6456,
+      "shortlist_precision": 0.8276,
+      "shortlist_recall": 0.75,
+      "false_shortlist_rate": 0.1724,
+      "false_shortlist_count": 5,
+      "predicted_shortlist_count": 29,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1": 0.75,
+          "support": 16
+        },
+        "review": {
+          "precision": 0.3684,
+          "recall": 0.4375,
+          "f1": 0.4,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 0.8276,
+          "recall": 0.75,
+          "f1": 0.7869,
+          "support": 32
+        }
+      },
+      "confusion_matrix": [
+        [
+          12,
+          4,
+          0
+        ],
+        [
+          4,
+          7,
+          5
+        ],
+        [
+          0,
+          8,
+          24
+        ]
+      ]
+    },
+    "ml_v1": {
+      "accuracy": 0.4688,
+      "macro_precision": 0.559,
+      "macro_recall": 0.5208,
+      "macro_f1": 0.4387,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.3125,
+      "false_shortlist_rate": 0.0,
+      "false_shortlist_count": 0,
+      "predicted_shortlist_count": 10,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.4103,
+          "recall": 1.0,
+          "f1": 0.5818,
+          "support": 16
+        },
+        "review": {
+          "precision": 0.2667,
+          "recall": 0.25,
+          "f1": 0.2581,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.3125,
+          "f1": 0.4762,
+          "support": 32
+        }
+      },
+      "confusion_matrix": [
+        [
+          16,
+          0,
+          0
+        ],
+        [
+          12,
+          4,
+          0
+        ],
+        [
+          11,
+          11,
+          10
+        ]
+      ]
+    },
+    "ml_v2": {
+      "accuracy": 0.6719,
+      "macro_precision": 0.6487,
+      "macro_recall": 0.6458,
+      "macro_f1": 0.6456,
+      "shortlist_precision": 0.8276,
+      "shortlist_recall": 0.75,
+      "false_shortlist_rate": 0.1724,
+      "false_shortlist_count": 5,
+      "predicted_shortlist_count": 29,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1": 0.75,
+          "support": 16
+        },
+        "review": {
+          "precision": 0.3684,
+          "recall": 0.4375,
+          "f1": 0.4,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 0.8276,
+          "recall": 0.75,
+          "f1": 0.7869,
+          "support": 32
+        }
+      },
+      "confusion_matrix": [
+        [
+          12,
+          4,
+          0
+        ],
+        [
+          4,
+          7,
+          5
+        ],
+        [
+          0,
+          8,
+          24
+        ]
+      ]
+    },
+    "ml_v2_calibrated": {
+      "accuracy": 0.6719,
+      "macro_precision": 0.6487,
+      "macro_recall": 0.6458,
+      "macro_f1": 0.6456,
+      "shortlist_precision": 0.8276,
+      "shortlist_recall": 0.75,
+      "false_shortlist_rate": 0.1724,
+      "false_shortlist_count": 5,
+      "predicted_shortlist_count": 29,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1": 0.75,
+          "support": 16
+        },
+        "review": {
+          "precision": 0.3684,
+          "recall": 0.4375,
+          "f1": 0.4,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 0.8276,
+          "recall": 0.75,
+          "f1": 0.7869,
+          "support": 32
+        }
+      },
+      "confusion_matrix": [
+        [
+          12,
+          4,
+          0
+        ],
+        [
+          4,
+          7,
+          5
+        ],
+        [
+          0,
+          8,
+          24
+        ]
+      ]
+    },
+    "pairs_detail": [
+      {
+        "pair_index": 1,
+        "resume_id": "resume_019",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 77.0,
+        "score_v2": 78.3
+      },
+      {
+        "pair_index": 2,
+        "resume_id": "sample_07_vikram_malhotra_java_backend",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 79.6,
+        "score_v2": 82.0
+      },
+      {
+        "pair_index": 3,
+        "resume_id": "sample_06_ananya_iyer_devops_cloud",
+        "jd_id": "jd_004_devops_cloud",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 85.1,
+        "score_v2": 85.1
+      },
+      {
+        "pair_index": 4,
+        "resume_id": "sample_04_sneha_rao_data_scientist",
+        "jd_id": "jd_003_data_scientist",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 77.7,
+        "score_v2": 80.0
+      },
+      {
+        "pair_index": 5,
+        "resume_id": "resume_020",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 66.0,
+        "score_v2": 72.1
+      },
+      {
+        "pair_index": 6,
+        "resume_id": "resume_025",
+        "jd_id": "jd_007_dotnet_engineer",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 61.2,
+        "score_v2": 65.8
+      },
+      {
+        "pair_index": 7,
+        "resume_id": "sample_08_priya_nair_frontend_specialist",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 86.6,
+        "score_v2": 86.6
+      },
+      {
+        "pair_index": 8,
+        "resume_id": "resume_037",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 32.6,
+        "score_v2": 57.3
+      },
+      {
+        "pair_index": 9,
+        "resume_id": "sample_09_rohan_mehta_mobile_developer",
+        "jd_id": "jd_010_mobile_developer",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 76.8,
+        "score_v2": 77.5
+      },
+      {
+        "pair_index": 10,
+        "resume_id": "resume_008",
+        "jd_id": "jd_010_mobile_developer",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 55.3,
+        "score_v2": 57.6
+      },
+      {
+        "pair_index": 11,
+        "resume_id": "sample_10_deepa_joshi_qa_automation",
+        "jd_id": "jd_009_qa_automation_sdet",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 83.8,
+        "score_v2": 83.7
+      },
+      {
+        "pair_index": 12,
+        "resume_id": "resume_058",
+        "jd_id": "jd_009_qa_automation_sdet",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 65.5,
+        "score_v2": 66.9
+      },
+      {
+        "pair_index": 13,
+        "resume_id": "resume_040",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 72.5,
+        "score_v2": 73.8
+      },
+      {
+        "pair_index": 14,
+        "resume_id": "resume_055",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 64.5,
+        "score_v2": 72.0
+      },
+      {
+        "pair_index": 15,
+        "resume_id": "resume_065",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 31.2,
+        "score_v2": 60.4
+      },
+      {
+        "pair_index": 16,
+        "resume_id": "sample_01_rahul_sharma_fullstack",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 78.9,
+        "score_v2": 83.8
+      },
+      {
+        "pair_index": 17,
+        "resume_id": "resume_028",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 66.8,
+        "score_v2": 68.3
+      },
+      {
+        "pair_index": 18,
+        "resume_id": "resume_015",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "shortlist",
+        "ml_v1": "weak_match",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 45.4,
+        "score_v2": 66.4
+      },
+      {
+        "pair_index": 19,
+        "resume_id": "resume_045",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 49.5,
+        "score_v2": 59.9
+      },
+      {
+        "pair_index": 20,
+        "resume_id": "resume_043",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "shortlist",
+        "ml_v1": "weak_match",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 38.4,
+        "score_v2": 67.5
+      },
+      {
+        "pair_index": 21,
+        "resume_id": "resume_051",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 28.0,
+        "score_v2": 60.1
+      },
+      {
+        "pair_index": 22,
+        "resume_id": "resume_052",
+        "jd_id": "jd_007_dotnet_engineer",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 67.7,
+        "score_v2": 71.1
+      },
+      {
+        "pair_index": 23,
+        "resume_id": "resume_035",
+        "jd_id": "jd_010_mobile_developer",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 32.4,
+        "score_v2": 50.9
+      },
+      {
+        "pair_index": 24,
+        "resume_id": "resume_039",
+        "jd_id": "jd_009_qa_automation_sdet",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 75.0,
+        "score_v2": 75.1
+      },
+      {
+        "pair_index": 25,
+        "resume_id": "resume_060",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 50.6,
+        "score_v2": 59.1
+      },
+      {
+        "pair_index": 26,
+        "resume_id": "resume_064",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 54.0,
+        "score_v2": 75.6
+      },
+      {
+        "pair_index": 27,
+        "resume_id": "resume_048",
+        "jd_id": "jd_003_data_scientist",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 53.0,
+        "score_v2": 57.3
+      },
+      {
+        "pair_index": 28,
+        "resume_id": "resume_057",
+        "jd_id": "jd_004_devops_cloud",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 63.4,
+        "score_v2": 65.0
+      },
+      {
+        "pair_index": 29,
+        "resume_id": "sample_02_vinit_surve_semantic_backend",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 63.3,
+        "score_v2": 67.8
+      },
+      {
+        "pair_index": 30,
+        "resume_id": "sample_05_karan_verma_junior_btech",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 70.2,
+        "score_v2": 73.0
+      },
+      {
+        "pair_index": 31,
+        "resume_id": "resume_002",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 71.4,
+        "score_v2": 78.4
+      },
+      {
+        "pair_index": 32,
+        "resume_id": "resume_061",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "shortlist",
+        "ml_v1": "weak_match",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 39.2,
+        "score_v2": 66.8
+      },
+      {
+        "pair_index": 33,
+        "resume_id": "resume_013",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 36.1,
+        "score_v2": 55.6
+      },
+      {
+        "pair_index": 34,
+        "resume_id": "resume_044",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 24.1,
+        "score_v2": 38.9
+      },
+      {
+        "pair_index": 35,
+        "resume_id": "resume_009",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 63.5,
+        "score_v2": 67.1
+      },
+      {
+        "pair_index": 36,
+        "resume_id": "resume_011",
+        "jd_id": "jd_007_dotnet_engineer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 37.5,
+        "score_v2": 49.1
+      },
+      {
+        "pair_index": 37,
+        "resume_id": "resume_030",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 28.9,
+        "score_v2": 37.7
+      },
+      {
+        "pair_index": 38,
+        "resume_id": "resume_031",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "shortlist",
+        "ml_v1": "weak_match",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 39.3,
+        "score_v2": 70.9
+      },
+      {
+        "pair_index": 39,
+        "resume_id": "resume_046",
+        "jd_id": "jd_007_dotnet_engineer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 40.7,
+        "score_v2": 48.5
+      },
+      {
+        "pair_index": 40,
+        "resume_id": "resume_023",
+        "jd_id": "jd_011_cybersecurity_analyst",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 52.3,
+        "score_v2": 53.2
+      },
+      {
+        "pair_index": 41,
+        "resume_id": "resume_037",
+        "jd_id": "jd_012_ui_ux_product_designer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "shortlist",
+        "ml_v1": "weak_match",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 37.5,
+        "score_v2": 68.4
+      },
+      {
+        "pair_index": 42,
+        "resume_id": "resume_042",
+        "jd_id": "jd_004_devops_cloud",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 35.4,
+        "score_v2": 55.6
+      },
+      {
+        "pair_index": 43,
+        "resume_id": "resume_059",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 17.3,
+        "score_v2": 34.1
+      },
+      {
+        "pair_index": 44,
+        "resume_id": "resume_018",
+        "jd_id": "jd_010_mobile_developer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 27.8,
+        "score_v2": 43.3
+      },
+      {
+        "pair_index": 45,
+        "resume_id": "sample_03_amit_patel_keyword_stuffing",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "review",
+        "rule_v2": "review",
+        "ml_v1": "review",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 58.6,
+        "score_v2": 61.5
+      },
+      {
+        "pair_index": 46,
+        "resume_id": "sample_01_rahul_sharma_fullstack",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 64.1,
+        "score_v2": 71.1
+      },
+      {
+        "pair_index": 47,
+        "resume_id": "sample_07_vikram_malhotra_java_backend",
+        "jd_id": "jd_007_dotnet_engineer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 52.7,
+        "score_v2": 55.2
+      },
+      {
+        "pair_index": 48,
+        "resume_id": "sample_10_deepa_joshi_qa_automation",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 66.8,
+        "score_v2": 67.7
+      },
+      {
+        "pair_index": 49,
+        "resume_id": "sample_11_rohit_kulkarni_sales_operations",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 38.7,
+        "score_v2": 39.7
+      },
+      {
+        "pair_index": 50,
+        "resume_id": "sample_11_rohit_kulkarni_sales_operations",
+        "jd_id": "jd_003_data_scientist",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 38.7,
+        "score_v2": 39.7
+      },
+      {
+        "pair_index": 51,
+        "resume_id": "sample_11_rohit_kulkarni_sales_operations",
+        "jd_id": "jd_011_cybersecurity_analyst",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 39.8,
+        "score_v2": 40.9
+      },
+      {
+        "pair_index": 52,
+        "resume_id": "sample_04_sneha_rao_data_scientist",
+        "jd_id": "jd_012_ui_ux_product_designer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 41.9,
+        "score_v2": 41.9
+      },
+      {
+        "pair_index": 53,
+        "resume_id": "sample_04_sneha_rao_data_scientist",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 42.1,
+        "score_v2": 42.1
+      },
+      {
+        "pair_index": 54,
+        "resume_id": "sample_06_ananya_iyer_devops_cloud",
+        "jd_id": "jd_012_ui_ux_product_designer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 42.7,
+        "score_v2": 42.7
+      },
+      {
+        "pair_index": 55,
+        "resume_id": "sample_08_priya_nair_frontend_specialist",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 42.6,
+        "score_v2": 42.6
+      },
+      {
+        "pair_index": 56,
+        "resume_id": "sample_08_priya_nair_frontend_specialist",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 46.0,
+        "score_v2": 46.2
+      },
+      {
+        "pair_index": 57,
+        "resume_id": "resume_065",
+        "jd_id": "jd_012_ui_ux_product_designer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 14.1,
+        "score_v2": 33.1
+      },
+      {
+        "pair_index": 58,
+        "resume_id": "resume_065",
+        "jd_id": "jd_003_data_scientist",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 18.6,
+        "score_v2": 42.0
+      },
+      {
+        "pair_index": 59,
+        "resume_id": "resume_058",
+        "jd_id": "jd_012_ui_ux_product_designer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 41.9,
+        "score_v2": 42.8
+      },
+      {
+        "pair_index": 60,
+        "resume_id": "resume_008",
+        "jd_id": "jd_004_devops_cloud",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 44.4,
+        "score_v2": 48.1
+      },
+      {
+        "pair_index": 61,
+        "resume_id": "resume_035",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 15.6,
+        "score_v2": 31.6
+      },
+      {
+        "pair_index": 62,
+        "resume_id": "resume_019",
+        "jd_id": "jd_003_data_scientist",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 53.0,
+        "score_v2": 57.4
+      },
+      {
+        "pair_index": 63,
+        "resume_id": "resume_025",
+        "jd_id": "jd_010_mobile_developer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 52.2,
+        "score_v2": 55.8
+      },
+      {
+        "pair_index": 64,
+        "resume_id": "sample_10_deepa_joshi_qa_automation",
+        "jd_id": "jd_012_ui_ux_product_designer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 49.1,
+        "score_v2": 49.0
+      }
+    ]
+  },
+  "independent_benchmark_28": {
+    "dataset_name": "human_validation_phase3",
+    "sample_size": 28,
+    "rule_v1": {
+      "accuracy": 0.2857,
+      "macro_precision": 0.4394,
+      "macro_recall": 0.3571,
+      "macro_f1": 0.2054,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.0714,
+      "false_shortlist_rate": 0.0,
+      "false_shortlist_count": 0,
+      "predicted_shortlist_count": 1,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.3182,
+          "recall": 1.0,
+          "f1": 0.4828,
+          "support": 7
+        },
+        "review": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 7
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.0714,
+          "f1": 0.1333,
+          "support": 14
+        }
+      },
+      "confusion_matrix": [
+        [
+          7,
+          0,
+          0
+        ],
+        [
+          7,
+          0,
+          0
+        ],
+        [
+          8,
+          5,
+          1
+        ]
+      ]
+    },
+    "rule_v2": {
+      "accuracy": 0.5,
+      "macro_precision": 0.5758,
+      "macro_recall": 0.5238,
+      "macro_f1": 0.4963,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.4286,
+      "false_shortlist_rate": 0.0,
+      "false_shortlist_count": 0,
+      "predicted_shortlist_count": 6,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.5455,
+          "recall": 0.8571,
+          "f1": 0.6667,
+          "support": 7
+        },
+        "review": {
+          "precision": 0.1818,
+          "recall": 0.2857,
+          "f1": 0.2222,
+          "support": 7
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.4286,
+          "f1": 0.6,
+          "support": 14
+        }
+      },
+      "confusion_matrix": [
+        [
+          6,
+          1,
+          0
+        ],
+        [
+          5,
+          2,
+          0
+        ],
+        [
+          0,
+          8,
+          6
+        ]
+      ]
+    },
+    "ml_v1": {
+      "accuracy": 0.2857,
+      "macro_precision": 0.4394,
+      "macro_recall": 0.3571,
+      "macro_f1": 0.2054,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.0714,
+      "false_shortlist_rate": 0.0,
+      "false_shortlist_count": 0,
+      "predicted_shortlist_count": 1,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.3182,
+          "recall": 1.0,
+          "f1": 0.4828,
+          "support": 7
+        },
+        "review": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 7
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.0714,
+          "f1": 0.1333,
+          "support": 14
+        }
+      },
+      "confusion_matrix": [
+        [
+          7,
+          0,
+          0
+        ],
+        [
+          7,
+          0,
+          0
+        ],
+        [
+          8,
+          5,
+          1
+        ]
+      ]
+    },
+    "ml_v2": {
+      "accuracy": 0.5,
+      "macro_precision": 0.5758,
+      "macro_recall": 0.5238,
+      "macro_f1": 0.4963,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.4286,
+      "false_shortlist_rate": 0.0,
+      "false_shortlist_count": 0,
+      "predicted_shortlist_count": 6,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.5455,
+          "recall": 0.8571,
+          "f1": 0.6667,
+          "support": 7
+        },
+        "review": {
+          "precision": 0.1818,
+          "recall": 0.2857,
+          "f1": 0.2222,
+          "support": 7
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.4286,
+          "f1": 0.6,
+          "support": 14
+        }
+      },
+      "confusion_matrix": [
+        [
+          6,
+          1,
+          0
+        ],
+        [
+          5,
+          2,
+          0
+        ],
+        [
+          0,
+          8,
+          6
+        ]
+      ]
+    },
+    "ml_v2_calibrated": {
+      "accuracy": 0.5,
+      "macro_precision": 0.5758,
+      "macro_recall": 0.5238,
+      "macro_f1": 0.4963,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.4286,
+      "false_shortlist_rate": 0.0,
+      "false_shortlist_count": 0,
+      "predicted_shortlist_count": 6,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.5455,
+          "recall": 0.8571,
+          "f1": 0.6667,
+          "support": 7
+        },
+        "review": {
+          "precision": 0.1818,
+          "recall": 0.2857,
+          "f1": 0.2222,
+          "support": 7
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.4286,
+          "f1": 0.6,
+          "support": 14
+        }
+      },
+      "confusion_matrix": [
+        [
+          6,
+          1,
+          0
+        ],
+        [
+          5,
+          2,
+          0
+        ],
+        [
+          0,
+          8,
+          6
+        ]
+      ]
+    },
+    "pairs_detail": [
+      {
+        "pair_index": 1,
+        "resume_id": "resume_001",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "shortlist",
+        "rule_v2": "shortlist",
+        "ml_v1": "shortlist",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 80.4,
+        "score_v2": 81.4
+      },
+      {
+        "pair_index": 2,
+        "resume_id": "resume_010",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 67.6,
+        "score_v2": 69.6
+      },
+      {
+        "pair_index": 3,
+        "resume_id": "resume_037",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 40.1,
+        "score_v2": 53.6
+      },
+      {
+        "pair_index": 4,
+        "resume_id": "resume_11005406",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 46.5,
+        "score_v2": 49.4
+      },
+      {
+        "pair_index": 5,
+        "resume_id": "resume_049",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 33.4,
+        "score_v2": 56.9
+      },
+      {
+        "pair_index": 6,
+        "resume_id": "resume_026",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "shortlist",
+        "ml_v1": "weak_match",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 44.4,
+        "score_v2": 64.6
+      },
+      {
+        "pair_index": 7,
+        "resume_id": "resume_055",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "STRONG_MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 66.9,
+        "score_v2": 70.4
+      },
+      {
+        "pair_index": 8,
+        "resume_id": "resume_012",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 33.0,
+        "score_v2": 62.0
+      },
+      {
+        "pair_index": 9,
+        "resume_id": "sample_04_sneha_rao_data_scientist",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "review",
+        "ml_v1": "review",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 55.6,
+        "score_v2": 55.6
+      },
+      {
+        "pair_index": 10,
+        "resume_id": "sample_06_ananya_iyer_devops_cloud",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 50.2,
+        "score_v2": 53.4
+      },
+      {
+        "pair_index": 11,
+        "resume_id": "resume_053",
+        "jd_id": "jd_006_java_backend",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 27.8,
+        "score_v2": 60.0
+      },
+      {
+        "pair_index": 12,
+        "resume_id": "resume_039",
+        "jd_id": "jd_002_backend_fastapi",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 65.2,
+        "score_v2": 70.3
+      },
+      {
+        "pair_index": 13,
+        "resume_id": "resume_009",
+        "jd_id": "jd_010_mobile_developer",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "review",
+        "rule_v2": "shortlist",
+        "ml_v1": "review",
+        "ml_v2": "shortlist",
+        "ml_v2_calibrated": "shortlist",
+        "score_v1": 62.3,
+        "score_v2": 64.3
+      },
+      {
+        "pair_index": 14,
+        "resume_id": "resume_12085736",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "MATCH",
+        "human_3class": "shortlist",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 51.2,
+        "score_v2": 52.6
+      },
+      {
+        "pair_index": 15,
+        "resume_id": "resume_12085736",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 51.5,
+        "score_v2": 52.8
+      },
+      {
+        "pair_index": 16,
+        "resume_id": "resume_10480456",
+        "jd_id": "jd_003_data_scientist",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 44.1,
+        "score_v2": 45.4
+      },
+      {
+        "pair_index": 17,
+        "resume_id": "resume_13837784",
+        "jd_id": "jd_012_ui_ux_product_designer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 42.4,
+        "score_v2": 43.3
+      },
+      {
+        "pair_index": 18,
+        "resume_id": "resume_059",
+        "jd_id": "jd_007_dotnet_engineer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 13.4,
+        "score_v2": 25.0
+      },
+      {
+        "pair_index": 19,
+        "resume_id": "resume_10329506",
+        "jd_id": "jd_011_cybersecurity_analyst",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 42.5,
+        "score_v2": 44.3
+      },
+      {
+        "pair_index": 20,
+        "resume_id": "sample_05_karan_verma_junior_btech",
+        "jd_id": "jd_004_devops_cloud",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 24.1,
+        "score_v2": 24.0
+      },
+      {
+        "pair_index": 21,
+        "resume_id": "resume_040",
+        "jd_id": "jd_007_dotnet_engineer",
+        "human_label": "REVIEW",
+        "human_3class": "review",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 54.9,
+        "score_v2": 56.0
+      },
+      {
+        "pair_index": 22,
+        "resume_id": "resume_10076271",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 41.8,
+        "score_v2": 42.8
+      },
+      {
+        "pair_index": 23,
+        "resume_id": "resume_10005171",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 40.9,
+        "score_v2": 41.9
+      },
+      {
+        "pair_index": 24,
+        "resume_id": "resume_10062724",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 40.6,
+        "score_v2": 41.6
+      },
+      {
+        "pair_index": 25,
+        "resume_id": "resume_13837784",
+        "jd_id": "jd_005_frontend_specialist",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 41.3,
+        "score_v2": 42.3
+      },
+      {
+        "pair_index": 26,
+        "resume_id": "resume_3547447",
+        "jd_id": "jd_001_fullstack_jr",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 34.0,
+        "score_v2": 35.1
+      },
+      {
+        "pair_index": 27,
+        "resume_id": "resume_11773767",
+        "jd_id": "jd_003_data_scientist",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "review",
+        "ml_v1": "weak_match",
+        "ml_v2": "review",
+        "ml_v2_calibrated": "review",
+        "score_v1": 45.3,
+        "score_v2": 49.6
+      },
+      {
+        "pair_index": 28,
+        "resume_id": "resume_10251432",
+        "jd_id": "jd_008_network_engineer",
+        "human_label": "WEAK_MATCH",
+        "human_3class": "weak_match",
+        "rule_v1": "weak_match",
+        "rule_v2": "weak_match",
+        "ml_v1": "weak_match",
+        "ml_v2": "weak_match",
+        "ml_v2_calibrated": "weak_match",
+        "score_v1": 40.8,
+        "score_v2": 41.8
+      }
+    ]
+  }
+}

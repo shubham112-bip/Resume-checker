@@ -1,0 +1,95 @@
+{
+  "resume_id": "resume_058",
+  "resumeId": "resume_058",
+  "fileName": "58.docx",
+  "candidateName": "QA Automation Engineer",
+  "skills": [
+    "C#",
+    "Selenium",
+    "Git",
+    "Azure",
+    "SQL",
+    "SQL Server"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": null,
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English (proficient)"
+  ],
+  "raw_text": "QA Automation Engineer\n(WhatsApp available)\n\ntelegram:\nPROFESSIONAL SUMMARY EDUCATION RELEVANT EXPERIENCE\nA QA Automation Engineer Master degree of Computer Arcadia inc.\nwith 4 years of software and Information Systems QA Automation engineer\ndevelopment and testing Security/Information March 2021 - present day\nexperience, specializing in Assurance\nautomating web and API Ural State University SKB Kontur\nscenarios and developing test 2012 - 2018 QA Automation Engineer\nframeworks using C#. August 2019 - October 2020\nQA specialist\nAugust 2016 - October 2018\nSKILLS\nManual testing: Web, Desktop, API.\nAutomation of web services and API scenarios (#, NUnit,\nSelenium, NSubstitute).\nPerformance and coverage analysis for existing tests.\nSupport and development of test frameworks.\nCreating checklists, test cases, test plans, test reports and\nother test documentation.\nWorking with version control and CI systems: Git, Bitbucket,\nAzure DevOps, TeamCity.\nExperience with bug tracking systems: YouTrack, Azure\nDevOps.\nSQL scripting (mostly MS SQL).\nMentoring and onboarding.\nPresentation of new features to customers and stakeholders.\nLANGUAGES\nEnglish (proficient)\nRussian (native)\nHebrew (basic, currently learning)",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "QA Automation Engineer\n(WhatsApp available)\n\ntelegram:\nPROFESSIONAL SUMMARY EDUCATION RELEVANT EXPERIENCE\nA QA Automation Engineer Master degree of Computer Arcadia inc.\nwith 4 years of software and Information Systems QA Automation engineer\ndevelopment and testing Security/Information March 2021 - present day\nexperience, specializing in Assurance\nautomating web and API Ural State University SKB Kontur\nscenarios and developing test 2012 - 2018 QA Automation Engineer\nframeworks using C#. August 2019 - October 2020\nQA specialist\nAugust 2016 - October 2018",
+    "skills": "Manual testing: Web, Desktop, API.\nAutomation of web services and API scenarios (#, NUnit,\nSelenium, NSubstitute).\nPerformance and coverage analysis for existing tests.\nSupport and development of test frameworks.\nCreating checklists, test cases, test plans, test reports and\nother test documentation.\nWorking with version control and CI systems: Git, Bitbucket,\nAzure DevOps, TeamCity.\nExperience with bug tracking systems: YouTrack, Azure\nDevOps.\nSQL scripting (mostly MS SQL).\nMentoring and onboarding.\nPresentation of new features to customers and stakeholders.",
+    "other": "English (proficient)\nRussian (native)\nHebrew (basic, currently learning)"
+  },
+  "metadata": {
+    "fileName": "58.docx",
+    "candidateName": "QA Automation Engineer",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1214,
+      "wordCount": 166,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 58.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 6,
+    "totalBulletsCount": 23,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 58.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

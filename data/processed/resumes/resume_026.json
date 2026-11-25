@@ -1,0 +1,155 @@
+{
+  "resume_id": "resume_026",
+  "resumeId": "resume_026",
+  "fileName": "26.docx",
+  "candidateName": "Tel Aviv",
+  "skills": [
+    "Python",
+    "Django",
+    "Unit Testing",
+    "PostgreSQL",
+    "Docker",
+    "JavaScript",
+    "FastAPI",
+    "Microservices",
+    "Agile",
+    "Leadership",
+    "C++",
+    "C"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "[PHONE REDACTED] BestDoctor, Senior backend dev in the medical insurance sphere.",
+      "organization": "Python/Django/PyTest, Docker, zero-code intergrations",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "(cid:123) Implemented multiple features in a huge Django Admin with a bit of JS",
+        "(cid:123) Solved a problem by a paid service instead of a month of coding from scratch",
+        "[PHONE REDACTED] Domclick (Sberbank), Tech lead and backend dev in a new buildings storefront.",
+        "Python/asyncio/FastAPI/PyTest, Docker, Kubernets, PostgreSQL, Elastic",
+        "(cid:123) Improved stability, performance, test-coverage and architecture of several micro-services",
+        "(cid:123) Introduced SRE practices (monitorings, safe migrations) and processes on keeping them go",
+        "(cid:123) Improved work processes, e.g. made scrum work as much as it was possible.",
+        "(cid:123) Closely worked with the product manager (designed principal implementations; helped to fit features to sprints)",
+        "[PHONE REDACTED] Yandex, Backend development in the intranet department.",
+        "Python/Django/Celery/PyTest, Docker, PostgreSQL/YQL",
+        "(cid:123) Worked with more than 10 projects, mainly with the internal hiring system.",
+        "(cid:123) Increased Yandex employee hiring rate and decreased leaving rate by developing reference giving system and",
+        "employee rotation system",
+        "(cid:123) Launched a negotiation service. Designed a state machine for creating a new negotiation.",
+        "(cid:123) LeadedmigrationtoanewPaaS.Improved5affectedlibs/tools,migrated3projectsmyself,managedmigration",
+        "of 10 other projects.",
+        "(cid:123) Mentored in Yandex Backend Development school",
+        "[PHONE REDACTED] ARCCN, RnD in the field of Software-Defined Networking.",
+        "(cid:123) Developed of a link state monitoring system (C++, Python. BFD, OpenFlow protocols)",
+        "(cid:123) Designed a rule caching system for OpenFlow software switches (C, Intel DPDK. P4 protocol)"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English (fluent)",
+    "Russian (mothertongue)"
+  ],
+  "raw_text": "Tel Aviv\n(cid:72)\n(cid:66)\nSenior Software Developer (cid:205)\nagrml.github.io/me/\nFor more than 5 years I develop software with an urge to help people\nsolve their problems. I develop product rather than close issues.\nProactivity, empathy, focusing on the product result, end-user\nexperience, and runtime stability these are the qualities I value most\nboth in colleagues and myself. Do we match?\nSkills summary\nPro-level Backend development [Python/Django/asyncio/PyTest, PostgreSQL, Docker]\nMid-level Kubernets, Elastic Search. Mentoring. Team leading\nLanguages English (fluent), Russian (mothertongue)\nProfessional Experience\n[PHONE REDACTED] BestDoctor, Senior backend dev in the medical insurance sphere.\nPython/Django/PyTest, Docker, zero-code intergrations\n(cid:123) Implemented multiple features in a huge Django Admin with a bit of JS\n(cid:123) Solved a problem by a paid service instead of a month of coding from scratch\n[PHONE REDACTED] Domclick (Sberbank), Tech lead and backend dev in a new buildings storefront.\nPython/asyncio/FastAPI/PyTest, Docker, Kubernets, PostgreSQL, Elastic\n(cid:123) Improved stability, performance, test-coverage and architecture of several micro-services\n(cid:123) Introduced SRE practices (monitorings, safe migrations) and processes on keeping them go\n(cid:123) Improved work processes, e.g. made scrum work as much as it was possible.\n(cid:123) Closely worked with the product manager (designed principal implementations; helped to fit features to sprints)\n[PHONE REDACTED] Yandex, Backend development in the intranet department.\nPython/Django/Celery/PyTest, Docker, PostgreSQL/YQL\n(cid:123) Worked with more than 10 projects, mainly with the internal hiring system.\n(cid:123) Increased Yandex employee hiring rate and decreased leaving rate by developing reference giving system and\nemployee rotation system\n(cid:123) Launched a negotiation service. Designed a state machine for creating a new negotiation.\n(cid:123) LeadedmigrationtoanewPaaS.Improved5affectedlibs/tools,migrated3projectsmyself,managedmigration\nof 10 other projects.\n(cid:123) Mentored in Yandex Backend Development school\n[PHONE REDACTED] ARCCN, RnD in the field of Software-Defined Networking.\n(cid:123) Developed of a link state monitoring system (C++, Python. BFD, OpenFlow protocols)\n(cid:123) Designed a rule caching system for OpenFlow software switches (C, Intel DPDK. P4 protocol)\nEducation\n[PHONE REDACTED] Bachelor of Computer Science, Moscow State University.\nDepartment of Computational Mathematics and Cybernetics\nPublications and teaching\n2021 \"Developing backend using Django,\" an online course author and lecturer:\n2021 \"The way I develop software,\" an article on Medium [RU]:\n2017 \"UsinghashfunctionstoaccelerateperformanceofOpenFlowswitches,\"AgranovskiyM.,ShalimovA.//Program\nsystems and toolware, MSU, 2017",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": "github.io/me/"
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Tel Aviv\n(cid:72)\n(cid:66)\nSenior Software Developer (cid:205)\nagrml.github.io/me/\nFor more than 5 years I develop software with an urge to help people\nsolve their problems. I develop product rather than close issues.\nProactivity, empathy, focusing on the product result, end-user\nexperience, and runtime stability these are the qualities I value most\nboth in colleagues and myself. Do we match?\nSkills summary\nPro-level Backend development [Python/Django/asyncio/PyTest, PostgreSQL, Docker]\nMid-level Kubernets, Elastic Search. Mentoring. Team leading\nLanguages English (fluent), Russian (mothertongue)",
+    "experience": "[PHONE REDACTED] BestDoctor, Senior backend dev in the medical insurance sphere.\nPython/Django/PyTest, Docker, zero-code intergrations\n(cid:123) Implemented multiple features in a huge Django Admin with a bit of JS\n(cid:123) Solved a problem by a paid service instead of a month of coding from scratch\n[PHONE REDACTED] Domclick (Sberbank), Tech lead and backend dev in a new buildings storefront.\nPython/asyncio/FastAPI/PyTest, Docker, Kubernets, PostgreSQL, Elastic\n(cid:123) Improved stability, performance, test-coverage and architecture of several micro-services\n(cid:123) Introduced SRE practices (monitorings, safe migrations) and processes on keeping them go\n(cid:123) Improved work processes, e.g. made scrum work as much as it was possible.\n(cid:123) Closely worked with the product manager (designed principal implementations; helped to fit features to sprints)\n[PHONE REDACTED] Yandex, Backend development in the intranet department.\nPython/Django/Celery/PyTest, Docker, PostgreSQL/YQL\n(cid:123) Worked with more than 10 projects, mainly with the internal hiring system.\n(cid:123) Increased Yandex employee hiring rate and decreased leaving rate by developing reference giving system and\nemployee rotation system\n(cid:123) Launched a negotiation service. Designed a state machine for creating a new negotiation.\n(cid:123) LeadedmigrationtoanewPaaS.Improved5affectedlibs/tools,migrated3projectsmyself,managedmigration\nof 10 other projects.\n(cid:123) Mentored in Yandex Backend Development school\n[PHONE REDACTED] ARCCN, RnD in the field of Software-Defined Networking.\n(cid:123) Developed of a link state monitoring system (C++, Python. BFD, OpenFlow protocols)\n(cid:123) Designed a rule caching system for OpenFlow software switches (C, Intel DPDK. P4 protocol)",
+    "education": "[PHONE REDACTED] Bachelor of Computer Science, Moscow State University.\nDepartment of Computational Mathematics and Cybernetics\nPublications and teaching\n2021 \"Developing backend using Django,\" an online course author and lecturer:\n2021 \"The way I develop software,\" an article on Medium [RU]:\n2017 \"UsinghashfunctionstoaccelerateperformanceofOpenFlowswitches,\"AgranovskiyM.,ShalimovA.//Program\nsystems and toolware, MSU, 2017"
+  },
+  "metadata": {
+    "fileName": "26.docx",
+    "candidateName": "Tel Aviv",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2797,
+      "wordCount": 351,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Phone number",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Phone number",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 81.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 1.0,
+    "actionVerbScore": 1.0,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "decreased",
+      "designed",
+      "developed",
+      "implemented",
+      "improved",
+      "increased",
+      "introduced",
+      "launched",
+      "mentored",
+      "solved"
+    ],
+    "quantifiedBulletsCount": 14,
+    "totalBulletsCount": 20,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (decreased, designed, developed, implemented, improved).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 81.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

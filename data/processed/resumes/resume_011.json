@@ -1,0 +1,123 @@
+{
+  "resume_id": "resume_011",
+  "resumeId": "resume_011",
+  "fileName": "11.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "C",
+    "C++",
+    "C#",
+    "Agile",
+    "Jira",
+    "Git",
+    "Java",
+    "Linux",
+    "Bash",
+    "Deep Learning",
+    "SQL",
+    "HTML"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": "computer science",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    },
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": "computer science",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's"
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "C++",
+    "C",
+    "C#",
+    "SQL",
+    "UniVerse BASIC",
+    "Java",
+    "C++",
+    "C",
+    "C#",
+    "SQL",
+    "UniVerse BASIC",
+    "Java",
+    "C++",
+    "C",
+    "C#",
+    "SQL",
+    "UniVerse BASIC",
+    "Java"
+  ],
+  "raw_text": "\u2022 Experience in C, C++ and C# programming\nWorking knowledge of Agile, Jira and Git\nBasic knowledge of Java\nSkilled in Windows, AIX and Linux system administration.\nCommon knowledge of TCP/IP protocol and SSL\nGood understanding of all stages of software development process including debugging and code analysis to troubleshoot and fix software bugs, advising software support team\nHigh understanding of design and working process of operating system, experience in system programming\nWorking knowledge of UNIX shell scripting\nExperienced in developing user interfaces\nSkilled in understanding software security concepts and application compliance with security standards like\nGood experience in cross-platform application development\nHigher education in computer science, master degree in computer science (neural networks).\nMotivation, potential and great desire to work well and get knowledge.\nSKILLS SUMMARY\n\nEDUCATION and TRAINING\nCertificate \u201cDB2 9 Fundamentals\u201d in June 2014\nEnglish Pre-advanced (IBA certificate, 2015)\nA bachelor\u2019s degree in computer science, \u201cComputer systems and networks\u201d faculty, Belarusian State University of Informatics and Radio-electronics, Minsk (2013)\nA master degree in computer science, Belarusian State University of Informatics and Radio-electronics, Minsk (2016)\nEducation course D8L89 IBM Lotus Domino 8.5 System Administration at the Institute of IT & Business Administration (2016)\nCertificate \u201cRed Hat System Administration\u201d in November 2016\nCertificate \u201cRocket MV Certification exam - U2 Family Application Development\u201d in June 2017\nEducation course Java Basics at the Institute of IT & Business Administration in June 2020\n\nProgramming Languages: | C++, C, C#, SQL, UniVerse BASIC, Java | C++, C, C#, SQL, UniVerse BASIC, Java | C++, C, C#, SQL, UniVerse BASIC, Java\nOperating Systems: | Windows, Linux, AIX, Solaris, Symbian (a mobile computing platform for smart phones). | Windows, Linux, AIX, Solaris, Symbian (a mobile computing platform for smart phones). | Windows, Linux, AIX, Solaris, Symbian (a mobile computing platform for smart phones).\nWeb Technologies: | HTML, XML. | HTML, XML. | HTML, XML.\nDatabases: | IBM DB2, Rocket UniVerse, UniData; | IBM DB2, Rocket UniVerse, UniData; | IBM DB2, Rocket UniVerse, UniData;\nOther Skills: | IBM Tivoli storage Manager (TSM); IBM General Parallel File System (GPFS); IBM Configuration Management Version Control (CMVC); Git, Jira, Agile, SVN; Unix Shells (ksh, bash); IBM Domino; Common knowledge of TCP/IP protocol and SSL; The GNU: Compiler Collection (gcc & g++), developer's tool for directing; recompilation (make), debugger (gdb); An open source developer's tool for browsing source code (cscope). MS Visual C++ (2010, 2017); WinAPI; WPF MFC, STL, Qt SDK (a cross-platform application framework), Code::Blocks SBXA, Wintegrate. | IBM Tivoli storage Manager (TSM); IBM General Parallel File System (GPFS); IBM Configuration Management Version Control (CMVC); Git, Jira, Agile, SVN; Unix Shells (ksh, bash); IBM Domino; Common knowledge of TCP/IP protocol and SSL; The GNU: Compiler Collection (gcc & g++), developer's tool for directing; recompilation (make), debugger (gdb); An open source developer's tool for browsing source code (cscope). MS Visual C++ (2010, 2017); WinAPI; WPF MFC, STL, Qt SDK (a cross-platform application framework), Code::Blocks SBXA, Wintegrate. | IBM Tivoli storage Manager (TSM); IBM General Parallel File System (GPFS); IBM Configuration Management Version Control (CMVC); Git, Jira, Agile, SVN; Unix Shells (ksh, bash); IBM Domino; Common knowledge of TCP/IP protocol and SSL; The GNU: Compiler Collection (gcc & g++), developer's tool for directing; recompilation (make), debugger (gdb); An open source developer's tool for browsing source code (cscope). MS Visual C++ (2010, 2017); WinAPI; WPF MFC, STL, Qt SDK (a cross-platform application framework), Code::Blocks SBXA, Wintegrate.\nForeign Languages: | English | Upper Intermediate | Good knowledge of grammar. Can understand, discuss, and write texts on both business and general activities, including technical discussions, and explain a viewpoint on an issue or a particular theme.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "\u2022 Experience in C, C++ and C# programming\nWorking knowledge of Agile, Jira and Git\nBasic knowledge of Java\nSkilled in Windows, AIX and Linux system administration.\nCommon knowledge of TCP/IP protocol and SSL\nGood understanding of all stages of software development process including debugging and code analysis to troubleshoot and fix software bugs, advising software support team\nHigh understanding of design and working process of operating system, experience in system programming\nWorking knowledge of UNIX shell scripting\nExperienced in developing user interfaces\nSkilled in understanding software security concepts and application compliance with security standards like\nGood experience in cross-platform application development\nHigher education in computer science, master degree in computer science (neural networks).\nMotivation, potential and great desire to work well and get knowledge.\nSKILLS SUMMARY\n\nEDUCATION and TRAINING\nCertificate \u201cDB2 9 Fundamentals\u201d in June 2014\nEnglish Pre-advanced (IBA certificate, 2015)\nA bachelor\u2019s degree in computer science, \u201cComputer systems and networks\u201d faculty, Belarusian State University of Informatics and Radio-electronics, Minsk (2013)\nA master degree in computer science, Belarusian State University of Informatics and Radio-electronics, Minsk (2016)\nEducation course D8L89 IBM Lotus Domino 8.5 System Administration at the Institute of IT & Business Administration (2016)\nCertificate \u201cRed Hat System Administration\u201d in November 2016\nCertificate \u201cRocket MV Certification exam - U2 Family Application Development\u201d in June 2017\nEducation course Java Basics at the Institute of IT & Business Administration in June 2020\n\nProgramming Languages: | C++, C, C#, SQL, UniVerse BASIC, Java | C++, C, C#, SQL, UniVerse BASIC, Java | C++, C, C#, SQL, UniVerse BASIC, Java\nOperating Systems: | Windows, Linux, AIX, Solaris, Symbian (a mobile computing platform for smart phones). | Windows, Linux, AIX, Solaris, Symbian (a mobile computing platform for smart phones). | Windows, Linux, AIX, Solaris, Symbian (a mobile computing platform for smart phones).\nWeb Technologies: | HTML, XML. | HTML, XML. | HTML, XML.\nDatabases: | IBM DB2, Rocket UniVerse, UniData; | IBM DB2, Rocket UniVerse, UniData; | IBM DB2, Rocket UniVerse, UniData;\nOther Skills: | IBM Tivoli storage Manager (TSM); IBM General Parallel File System (GPFS); IBM Configuration Management Version Control (CMVC); Git, Jira, Agile, SVN; Unix Shells (ksh, bash); IBM Domino; Common knowledge of TCP/IP protocol and SSL; The GNU: Compiler Collection (gcc & g++), developer's tool for directing; recompilation (make), debugger (gdb); An open source developer's tool for browsing source code (cscope). MS Visual C++ (2010, 2017); WinAPI; WPF MFC, STL, Qt SDK (a cross-platform application framework), Code::Blocks SBXA, Wintegrate. | IBM Tivoli storage Manager (TSM); IBM General Parallel File System (GPFS); IBM Configuration Management Version Control (CMVC); Git, Jira, Agile, SVN; Unix Shells (ksh, bash); IBM Domino; Common knowledge of TCP/IP protocol and SSL; The GNU: Compiler Collection (gcc & g++), developer's tool for directing; recompilation (make), debugger (gdb); An open source developer's tool for browsing source code (cscope). MS Visual C++ (2010, 2017); WinAPI; WPF MFC, STL, Qt SDK (a cross-platform application framework), Code::Blocks SBXA, Wintegrate. | IBM Tivoli storage Manager (TSM); IBM General Parallel File System (GPFS); IBM Configuration Management Version Control (CMVC); Git, Jira, Agile, SVN; Unix Shells (ksh, bash); IBM Domino; Common knowledge of TCP/IP protocol and SSL; The GNU: Compiler Collection (gcc & g++), developer's tool for directing; recompilation (make), debugger (gdb); An open source developer's tool for browsing source code (cscope). MS Visual C++ (2010, 2017); WinAPI; WPF MFC, STL, Qt SDK (a cross-platform application framework), Code::Blocks SBXA, Wintegrate.\nForeign Languages: | English | Upper Intermediate | Good knowledge of grammar. Can understand, discuss, and write texts on both business and general activities, including technical discussions, and explain a viewpoint on an issue or a particular theme."
+  },
+  "metadata": {
+    "fileName": "11.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 4173,
+      "wordCount": 602,
+      "imageCount": 0,
+      "tableCount": 1,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 63.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 10,
+    "totalBulletsCount": 28,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 63.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

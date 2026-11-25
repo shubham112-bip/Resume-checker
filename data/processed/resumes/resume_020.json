@@ -1,0 +1,118 @@
+{
+  "resume_id": "resume_020",
+  "resumeId": "resume_020",
+  "fileName": "20.docx",
+  "candidateName": "Full-Stack Developer",
+  "skills": [
+    "PHP",
+    "Node.js",
+    "JavaScript",
+    "React",
+    "Redux",
+    "MySQL",
+    "PostgreSQL",
+    "Python",
+    "Go",
+    "MongoDB",
+    "Angular",
+    "Vue.js",
+    "CSS",
+    "SASS",
+    "Authentication",
+    "Docker",
+    "AWS",
+    "Teamwork"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "EDUCATION Belarusian State University of Informatics and Radioelectronics Bachelor's Degree (2017"
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Full-Stack Developer\nSUMMARY Main stack: PHP, Node.js, React.js (Redux, Mobx), MySQL/PostgreSQL.\nDon't have experience but would like to develop skills with Python, Golang, MongoDB,\nAngular, and Vue.js.\nDon't want to work with CSS/LESS/SASS.\nWORK Tanndu Full Stack Developer ( now)\nEXPERIENCE Experience with external APIs;\nIntegrated PayPal and authorization with Apple/Google/Facebook;\nGained experience in ReactJS (Redux, MobX), ReactNative, PHP, MySQL, Docker, Chrome\nExtensions;\nDeployed projects on AWS/Heroku;\nWas involved in the hiring process developer positions, interviewed candidates.\nBOOKIE iGaming Full-Stack Developer ( )\nImplemented new features;\nDeveloped strong skills in React JS, Backbone.js, Node.js, PHP;\nMigrated the project from gulp + RequireJS to Webpack (ES6);\nAcquired software design pattern knowledge;\nGained eld relevant experience;\nOn-job skills advancement for career growth;\nLearned good programming practices from seasoned developers.\nMapsoft Junior Full-Stack Developer ( )\nImplemented new features;\nManaged bug xes;\nGained experience in Symfony 2.8, ExtJS.\nEDUCATION Belarusian State University of Informatics and Radioelectronics Bachelor's Degree (2017\n2021)\nEngineering-Psychological Maintenance Of Information Technologies\nMCB Associate's Degree (2012 2017)\nInformation Technology Software\nSOFT SKILLS Team player\nCondent\nGetting things done\nIndependent\nPassionate and enthusiastic\nCONTACTS linkedin:\n[REDACTED - not used for evaluation]\nPowered by",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Full-Stack Developer\nSUMMARY Main stack: PHP, Node.js, React.js (Redux, Mobx), MySQL/PostgreSQL.\nDon't have experience but would like to develop skills with Python, Golang, MongoDB,\nAngular, and Vue.js.\nDon't want to work with CSS/LESS/SASS.\nWORK Tanndu Full Stack Developer ( now)\nEXPERIENCE Experience with external APIs;\nIntegrated PayPal and authorization with Apple/Google/Facebook;\nGained experience in ReactJS (Redux, MobX), ReactNative, PHP, MySQL, Docker, Chrome\nExtensions;\nDeployed projects on AWS/Heroku;\nWas involved in the hiring process developer positions, interviewed candidates.\nBOOKIE iGaming Full-Stack Developer ( )\nImplemented new features;\nDeveloped strong skills in React JS, Backbone.js, Node.js, PHP;\nMigrated the project from gulp + RequireJS to Webpack (ES6);\nAcquired software design pattern knowledge;\nGained eld relevant experience;\nOn-job skills advancement for career growth;\nLearned good programming practices from seasoned developers.\nMapsoft Junior Full-Stack Developer ( )\nImplemented new features;\nManaged bug xes;\nGained experience in Symfony 2.8, ExtJS.\nEDUCATION Belarusian State University of Informatics and Radioelectronics Bachelor's Degree (2017\n2021)\nEngineering-Psychological Maintenance Of Information Technologies\nMCB Associate's Degree (2012 2017)\nInformation Technology Software\nSOFT SKILLS Team player\nCondent\nGetting things done\nIndependent\nPassionate and enthusiastic\nCONTACTS linkedin:\n[REDACTED - not used for evaluation]\nPowered by"
+  },
+  "metadata": {
+    "fileName": "20.docx",
+    "candidateName": "Full-Stack Developer",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1470,
+      "wordCount": 188,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 64.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "deployed",
+      "developed",
+      "implemented",
+      "integrated",
+      "managed",
+      "migrated"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 30,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (deployed, developed, implemented, integrated, managed)."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 64.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

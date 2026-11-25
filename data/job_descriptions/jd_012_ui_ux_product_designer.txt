@@ -1,0 +1,24 @@
+Job Title: UI/UX Product Designer
+Experience: 2-5 years
+Education: Bachelor degree in Design, Human-Computer Interaction (HCI), Computer Science, or equivalent portfolio
+
+Responsibilities:
+- Conduct qualitative and quantitative user research, stakeholder interviews, and usability evaluation studies
+- Create low-fidelity wireframes, interactive user flows, and high-fidelity production prototypes in Figma
+- Establish and evolve accessible, multi-platform design systems and component libraries
+- Collaborate closely with frontend engineering teams to ensure pixel-perfect design system implementation
+
+Required Skills:
+- Figma
+- User Research
+- Wireframing
+- Prototyping
+- UI Design
+- Usability Testing
+
+Preferred Skills:
+- HTML
+- CSS
+- Design Systems
+- Design Thinking
+- Responsive Design

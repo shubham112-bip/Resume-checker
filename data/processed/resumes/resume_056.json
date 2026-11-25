@@ -1,0 +1,85 @@
+{
+  "resume_id": "resume_056",
+  "resumeId": "resume_056",
+  "fileName": "56.docx",
+  "candidateName": "Israel, Tel-Aviv",
+  "skills": [
+    "C#",
+    "OOP",
+    "Git",
+    "Android",
+    "Leadership"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "WPF and MEF"
+  ],
+  "raw_text": "Israel, Tel-Aviv\nDependable Game Developer with more than 11 years of experience. nmail.com\nStated developer carrier as AS 3 developer and after 4 years switched to\nUnity3d. Have deep knowledge is C# and Unit as well as a full circle of Game pozdnyakov-\nDevelopment.\nEXPERIENCE SKILLS\nVK,Remote Developer Unity3D\nAPRIL 2020 - PRESENT C#\nPorted a bunch of games from Macromedia Flash to Unity3d WASM. UniRX\nMade 3 mobile game prototypes.\nZenject\nCurrently working on tactical RPG mobile game.\nOOP/SOLID/MVP\nTech stack: Unity3D, WASM, UniRX, Zenject, Addressables\nShaders/ URP /HDRP\nAdvalange,Moscow Developer Git\nJULY 2019 - APRIL 2020\nDeveloped automated workflow solutions that empower laboratories to achieve\nmore. LANGUAGES\nMake stable real instrument simulation using Unity3d, WPF and MEF.\nRussian - native\nTech stack: Unity3D, C#, WPF, MEF\nArtteam,MoscowDeveloper English -B2\nSEPTEMBER 2017 - JULY 2019\nMade application for interior presentation which helps people to choose the\nstyle of their accommodation using VR and XR tech in Unity.\nThe application runs on iOS, Android and HTC Vive platforms.\nTech stack: Unity3D, Zenject, VR, AR, Blender, Photoshop\nCrazyPanda,MoscowDeveloper\nAPRIL 2017 - OCTOBER 2018\nTook a part in the casual game development team.\nTech stack: Unity3D, Zenject, UniRX, Behaviour Tree\nIronuts,MoscowDeveloper\nMARCH 2015 - AUGUST 2017\nWorked on mobile games and done three RPG and one Casual game as Team\nlead.\nPET PROJECTS",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Israel, Tel-Aviv\nDependable Game Developer with more than 11 years of experience. nmail.com\nStated developer carrier as AS 3 developer and after 4 years switched to\nUnity3d. Have deep knowledge is C# and Unit as well as a full circle of Game pozdnyakov-\nDevelopment.\nEXPERIENCE SKILLS\nVK,Remote Developer Unity3D\nAPRIL 2020 - PRESENT C#\nPorted a bunch of games from Macromedia Flash to Unity3d WASM. UniRX\nMade 3 mobile game prototypes.\nZenject\nCurrently working on tactical RPG mobile game.\nOOP/SOLID/MVP",
+    "skills": "Unity3D, Zenject, UniRX, Behaviour Tree\nIronuts,MoscowDeveloper\nMARCH 2015 - AUGUST 2017\nWorked on mobile games and done three RPG and one Casual game as Team\nlead.\nPET PROJECTS"
+  },
+  "metadata": {
+    "fileName": "56.docx",
+    "candidateName": "Israel, Tel-Aviv",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1453,
+      "wordCount": 221,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 57.0,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.2,
+    "atsReadabilityScore": 0.55,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "automated",
+      "developed"
+    ],
+    "quantifiedBulletsCount": 8,
+    "totalBulletsCount": 27,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 57.0/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

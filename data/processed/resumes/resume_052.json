@@ -1,0 +1,207 @@
+{
+  "resume_id": "resume_052",
+  "resumeId": "resume_052",
+  "fileName": "52.docx",
+  "candidateName": "Portfolio:",
+  "skills": [
+    "Teamwork",
+    "Agile",
+    ".NET",
+    "Linux",
+    "SQL Server",
+    "SQL",
+    "Docker",
+    "Microservices",
+    "MongoDB",
+    "CI/CD",
+    "Azure",
+    "Unit Testing",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "AWS",
+    "jQuery",
+    "PostgreSQL",
+    "REST APIs",
+    "C#"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "MTS Developing voice-bot (Asterisk + .Net 6.0, microservices, kafka,",
+      "organization": "Senior Software postgres, s3).",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Developer Achievement: Within 3 month created alpha version from scratch by"
+      ]
+    },
+    {
+      "title": "TO  implementing rtp voice traffic real-time high frequency low latency",
+      "organization": "transfer between Asterisk & microservices (GRPC, multithreading)",
+      "start": "MAR 2022",
+      "end": "PRESENT",
+      "durationMonths": 56,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Runcall.ru Developing & maintaining voice-bot (Postgres, .net core 3.1-5.0,",
+        "Lead Software Developer Rest Api, MVR Razor & jQuery, Asterisk + .Net microservices, kafka,"
+      ]
+    },
+    {
+      "title": "TO  AWS)",
+      "organization": "Solo responsibility for architecture decisions, short-term well-quality",
+      "start": "MAR 2019",
+      "end": "MAR 2022",
+      "durationMonths": 36,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "development & feature delivery, supervision of junior developers.",
+        "Achievement: Created own sip-phone software server to reduce",
+        "companys costs by over 20%.",
+        "Swordfish Security Developing & maintaining TPP - Trust Protection Platform (SSL",
+        "c# developer Certificate & SSH Key management):"
+      ]
+    },
+    {
+      "title": "TO  cross-platform desktop app (Win Forms & Xamarin Mac)",
+      "organization": "web part (MsSql,.Net 4.6, Rest Api, jQuery, Backbone)",
+      "start": "MAR 2018",
+      "end": "MAR 2019",
+      "durationMonths": 12,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Achievement: replaced shared files approach with .net standard for",
+        "desktop app, which allowed to reduce maintenance time by half.",
+        "Brain Systems Ltd Developing & maintaining ERP system for Russian hospitals (.Net",
+        "Senior .Net developer 4.5, WinForms, MSSQL, MVC Razor & jQuery, DevExpress tools)."
+      ]
+    },
+    {
+      "title": "TO  Full responsibility for short-term development & feature delivery,",
+      "organization": "supervision of junior developers.",
+      "start": "NOV 2015",
+      "end": "MAR 2018",
+      "durationMonths": 28,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "SevenTest Developing desktop WPF applications for utility purposes (.Net 4.5,",
+        "Middle .Net Developer WPF). Creating MSI packages (InstallShield, WIX)."
+      ]
+    },
+    {
+      "title": "TO",
+      "organization": "",
+      "start": "OCT 2012",
+      "end": "SEP 2015",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    },
+    {
+      "title": "Education Saint-Petersburg University of Engeneering & Economics  TO  , Specialist",
+      "organization": "Certifications MS: Programming in C# Microsoft FEB 2016",
+      "start": "2008",
+      "end": "2013",
+      "durationMonths": 71,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "[REDACTED - not used for evaluation]\nPortfolio:\n[REDACTED - not used for evaluation]\nmentoring. Problem-solver with strong interpersonal and teamwork skills who is excited to work in\nagile and fast-paced team. Fluent proficiency in English and native Russian language.\nSkills\nFrameworks Databases DevOps\n.Net 3.1 - 6.0, Asp Net Posgres (latest) Linux (CentOS, Debian)\nMVC, Http Web API, MS SQL Docker\nGRPC, Microservices Mongo DB (latest) CI/CD (TFS, Azure\n.Net Classic (4.0-4.8) Pipelines, Jenkins)\nUnit testing (NUnit)\nEF, Linq2Db\nMultithreading\nUI Cloud: Other\nWeb UI (html, js, css, AWS (S3, EC2) Asterisk\njQuery, MVC Razor) Azure (Cloud Computing, Apache Kafka\nWindows Desktop Service Bus)\n(WinForms, WPF) Other (Yandex cloud)\nMacOS (Xamarin Cocoa\n+ Mono)\nExperience\nMTS Developing voice-bot (Asterisk + .Net 6.0, microservices, kafka,\nSenior Software postgres, s3).\nDeveloper Achievement: Within 3 month created alpha version from scratch by\nMAR 2022 TO PRESENT implementing rtp voice traffic real-time high frequency low latency\ntransfer between Asterisk & microservices (GRPC, multithreading)\nRuncall.ru Developing & maintaining voice-bot (Postgres, .net core 3.1-5.0,\nLead Software Developer Rest Api, MVR Razor & jQuery, Asterisk + .Net microservices, kafka,\nMAR 2019 TO MAR 2022 AWS)\nSolo responsibility for architecture decisions, short-term well-quality\ndevelopment & feature delivery, supervision of junior developers.\nAchievement: Created own sip-phone software server to reduce\ncompanys costs by over 20%.\nSwordfish Security Developing & maintaining TPP - Trust Protection Platform (SSL\nc# developer Certificate & SSH Key management):\nMAR 2018 TO MAR 2019 cross-platform desktop app (Win Forms & Xamarin Mac)\nweb part (MsSql,.Net 4.6, Rest Api, jQuery, Backbone)\nAchievement: replaced shared files approach with .net standard for\ndesktop app, which allowed to reduce maintenance time by half.\nBrain Systems Ltd Developing & maintaining ERP system for Russian hospitals (.Net\nSenior .Net developer 4.5, WinForms, MSSQL, MVC Razor & jQuery, DevExpress tools).\nNOV 2015 TO MAR 2018 Full responsibility for short-term development & feature delivery,\nsupervision of junior developers.\nSevenTest Developing desktop WPF applications for utility purposes (.Net 4.5,\nMiddle .Net Developer WPF). Creating MSI packages (InstallShield, WIX).\nOCT 2012 TO SEP 2015\nEducation Saint-Petersburg University of Engeneering & Economics 2008 TO 2013 , Specialist\nCertifications MS: Programming in C# Microsoft FEB 2016",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 224,
+  "experienceYears": 18.7,
+  "sections": {
+    "header": "[REDACTED - not used for evaluation]\nPortfolio:\n[REDACTED - not used for evaluation]\nmentoring. Problem-solver with strong interpersonal and teamwork skills who is excited to work in\nagile and fast-paced team. Fluent proficiency in English and native Russian language.",
+    "skills": "Frameworks Databases DevOps\n.Net 3.1 - 6.0, Asp Net Posgres (latest) Linux (CentOS, Debian)\nMVC, Http Web API, MS SQL Docker\nGRPC, Microservices Mongo DB (latest) CI/CD (TFS, Azure\n.Net Classic (4.0-4.8) Pipelines, Jenkins)\nUnit testing (NUnit)\nEF, Linq2Db\nMultithreading\nUI Cloud: Other\nWeb UI (html, js, css, AWS (S3, EC2) Asterisk\njQuery, MVC Razor) Azure (Cloud Computing, Apache Kafka\nWindows Desktop Service Bus)\n(WinForms, WPF) Other (Yandex cloud)\nMacOS (Xamarin Cocoa\n+ Mono)",
+    "experience": "MTS Developing voice-bot (Asterisk + .Net 6.0, microservices, kafka,\nSenior Software postgres, s3).\nDeveloper Achievement: Within 3 month created alpha version from scratch by\nMAR 2022 TO PRESENT implementing rtp voice traffic real-time high frequency low latency\ntransfer between Asterisk & microservices (GRPC, multithreading)\nRuncall.ru Developing & maintaining voice-bot (Postgres, .net core 3.1-5.0,\nLead Software Developer Rest Api, MVR Razor & jQuery, Asterisk + .Net microservices, kafka,\nMAR 2019 TO MAR 2022 AWS)\nSolo responsibility for architecture decisions, short-term well-quality\ndevelopment & feature delivery, supervision of junior developers.\nAchievement: Created own sip-phone software server to reduce\ncompanys costs by over 20%.\nSwordfish Security Developing & maintaining TPP - Trust Protection Platform (SSL\nc# developer Certificate & SSH Key management):\nMAR 2018 TO MAR 2019 cross-platform desktop app (Win Forms & Xamarin Mac)\nweb part (MsSql,.Net 4.6, Rest Api, jQuery, Backbone)\nAchievement: replaced shared files approach with .net standard for\ndesktop app, which allowed to reduce maintenance time by half.\nBrain Systems Ltd Developing & maintaining ERP system for Russian hospitals (.Net\nSenior .Net developer 4.5, WinForms, MSSQL, MVC Razor & jQuery, DevExpress tools).\nNOV 2015 TO MAR 2018 Full responsibility for short-term development & feature delivery,\nsupervision of junior developers.\nSevenTest Developing desktop WPF applications for utility purposes (.Net 4.5,\nMiddle .Net Developer WPF). Creating MSI packages (InstallShield, WIX).\nOCT 2012 TO SEP 2015\nEducation Saint-Petersburg University of Engeneering & Economics 2008 TO 2013 , Specialist\nCertifications MS: Programming in C# Microsoft FEB 2016"
+  },
+  "metadata": {
+    "fileName": "52.docx",
+    "candidateName": "Portfolio:",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 224,
+    "experienceYears": 18.7,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2578,
+      "wordCount": 366,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "experience"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 67.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "created"
+    ],
+    "quantifiedBulletsCount": 7,
+    "totalBulletsCount": 14,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 67.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

@@ -1,0 +1,22 @@
+Job Title: Senior Frontend React Engineer
+Experience: 3-6 years
+Education: Bachelor's degree in Computer Science or equivalent practical experience
+
+Responsibilities:
+- Build performant user-facing single page applications using React and Next.js
+- Implement responsive utility-first styling with Tailwind CSS
+- Optimize web core vitals, bundle splitting, and client-side rendering performance
+- Consume backend REST APIs and manage client state using Redux Toolkit
+
+Required Skills:
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+Preferred Skills:
+- Redux
+- REST APIs
+- Responsive Design
+- Unit Testing

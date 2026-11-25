@@ -1,0 +1,19 @@
+Rohit Kulkarni
+Email: rohit.kulkarni@example.com | Phone: +91 98330 44556
+LinkedIn: linkedin.com/in/rohitkulkarni
+
+Career Profile:
+Sales Operations and Business Development professional with 2 years of experience in enterprise lead qualification, CRM pipeline management, and client relationship building.
+
+Education:
+Bachelor of Business Administration (BBA), 2022
+
+Core Competencies:
+Sales Operations, Lead Generation, CRM Management, Microsoft Excel, Client Communication, Contract Negotiation
+
+Professional Experience:
+Sales Associate at Apex Commercial Services (Jun 2022 - Present)
+• Managed outbound sales prospecting campaigns, generating 140+ qualified enterprise leads per quarter.
+• Maintained customer account records and opportunity stages in Salesforce CRM database.
+• Prepared weekly sales pipeline reports and executive slide decks for regional leadership reviews.
+• Negotiated pricing proposals and coordinated contract execution with enterprise clients.

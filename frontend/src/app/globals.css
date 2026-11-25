@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+}
+
+@theme {
+  --font-headline: "Plus Jakarta Sans", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+/* Custom font utility classes matching Stitch Design System */
+.font-headline-lg { font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif; }
+.font-headline-md { font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif; }
+.font-headline-sm { font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif; }
+.font-body-lg { font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif; }
+.font-body-md { font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif; }
+.font-body-sm { font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif; }
+.font-label-lg { font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; }
+.font-label-md { font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 500; }
+.font-label-sm { font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 500; }
+.font-data-mono { font-family: "JetBrains Mono", ui-monospace, monospace; }
+.font-data-mono-sm { font-family: "JetBrains Mono", ui-monospace, monospace; }
+.font-code-sm { font-family: "JetBrains Mono", ui-monospace, monospace; }
+
+/* Material Symbols Outlined Icon Styling */
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+  vertical-align: middle;
+}
+
+body {
+  background: #f8fafc;
+  color: #0f172a;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}

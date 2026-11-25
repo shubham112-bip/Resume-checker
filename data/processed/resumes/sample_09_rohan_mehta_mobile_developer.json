@@ -1,0 +1,143 @@
+{
+  "resume_id": "sample_09_rohan_mehta_mobile_developer",
+  "resumeId": "sample_09_rohan_mehta_mobile_developer",
+  "fileName": "09_rohan_mehta_mobile_developer.txt",
+  "candidateName": "Rohan Mehta",
+  "skills": [
+    "Git",
+    "Android",
+    "Flutter",
+    "React",
+    "React Native",
+    "JavaScript",
+    "Firebase",
+    "REST APIs",
+    "Authentication",
+    "SQLite"
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "degreeLevel": 2,
+      "field": "Computer Applications",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BCA in Computer Applications, 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Mobile Developer at AppCrafters Studio ( - )",
+      "organization": "",
+      "start": "Jul 2021",
+      "end": "Present",
+      "durationMonths": 64,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Built and published 3 cross-platform mobile apps on Google Play Store and Apple App Store using Flutter and Dart.",
+        "Integrated Firebase cloud authentication, Firestore real-time database, and cloud push notifications.",
+        "Consumed backend REST APIs and implemented offline-first SQLite caching for 80,000 active mobile users.",
+        "Improved app launch time by 30% through widget tree optimization and state management in Riverpod."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fitness Tracker Mobile App",
+      "description": "Cross-platform Flutter application tracking workouts and health metrics with interactive charts and REST backend sync.",
+      "technologies": [
+        "Flutter",
+        "REST APIs"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Rohan Mehta\n[REDACTED - not used for evaluation]\nLinkedIn: linkedin.com/in/rohanmehta-mobile | GitHub: github.com/rohanmehta\n\nProfessional Summary:\nMobile Application Developer with 2.5 years of experience building cross-platform iOS and Android apps using Flutter, Dart, and React Native.\n\nEducation:\nBCA in Computer Applications, 2021\n\nTechnical Skills:\nFlutter, Dart, React Native, JavaScript, Firebase, REST APIs, Git, Android Studio, Mobile App Development\n\nProfessional Experience:\nMobile Developer at AppCrafters Studio (Jul 2021 - Present)\n\u2022 Built and published 3 cross-platform mobile apps on Google Play Store and Apple App Store using Flutter and Dart.\n\u2022 Integrated Firebase cloud authentication, Firestore real-time database, and cloud push notifications.\n\u2022 Consumed backend REST APIs and implemented offline-first SQLite caching for 80,000 active mobile users.\n\u2022 Improved app launch time by 30% through widget tree optimization and state management in Riverpod.\n\nProjects:\nFitness Tracker Mobile App:\nCross-platform Flutter application tracking workouts and health metrics with interactive charts and REST backend sync.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/rohanmehta-mobile",
+    "github": "github.com/rohanmehta",
+    "portfolio": null
+  },
+  "summary": "Mobile Application Developer with 2.5 years of experience building cross-platform iOS and Android apps using Flutter, Dart, and React Native.",
+  "totalExperienceMonths": 64,
+  "experienceYears": 5.3,
+  "sections": {
+    "header": "Rohan Mehta\n[REDACTED - not used for evaluation]\nLinkedIn: linkedin.com/in/rohanmehta-mobile | GitHub: github.com/rohanmehta",
+    "summary": "Mobile Application Developer with 2.5 years of experience building cross-platform iOS and Android apps using Flutter, Dart, and React Native.",
+    "education": "BCA in Computer Applications, 2021",
+    "skills": "Flutter, Dart, React Native, JavaScript, Firebase, REST APIs, Git, Android Studio, Mobile App Development",
+    "experience": "Mobile Developer at AppCrafters Studio (Jul 2021 - Present)\n\u2022 Built and published 3 cross-platform mobile apps on Google Play Store and Apple App Store using Flutter and Dart.\n\u2022 Integrated Firebase cloud authentication, Firestore real-time database, and cloud push notifications.\n\u2022 Consumed backend REST APIs and implemented offline-first SQLite caching for 80,000 active mobile users.\n\u2022 Improved app launch time by 30% through widget tree optimization and state management in Riverpod.",
+    "projects": "Fitness Tracker Mobile App:\nCross-platform Flutter application tracking workouts and health metrics with interactive charts and REST backend sync."
+  },
+  "metadata": {
+    "fileName": "09_rohan_mehta_mobile_developer.txt",
+    "candidateName": "Rohan Mehta",
+    "fileType": "TXT",
+    "totalExperienceMonths": 64,
+    "experienceYears": 5.3,
+    "diagnostics": {
+      "fileType": "txt",
+      "parserUsed": "plain text (utf-8)",
+      "pageCount": 1,
+      "charCount": 1151,
+      "wordCount": 152,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 74.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.7,
+    "quantificationScore": 1.0,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "built",
+      "implemented",
+      "improved",
+      "integrated"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 5,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 74.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

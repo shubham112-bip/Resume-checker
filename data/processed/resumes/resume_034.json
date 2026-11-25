@@ -1,0 +1,159 @@
+{
+  "resume_id": "resume_034",
+  "resumeId": "resume_034",
+  "fileName": "34.docx",
+  "candidateName": "SUMMARY EDUCATION",
+  "skills": [
+    "PHP",
+    "Node.js",
+    "HTML",
+    "CSS",
+    "SASS",
+    "JavaScript",
+    "Laravel",
+    "Bash",
+    "React",
+    "Express",
+    "jQuery",
+    "Bootstrap",
+    "Linux",
+    "MySQL",
+    "MongoDB",
+    "Git"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "SKILLS & EXPERTISE",
+      "organization": "Front-end: HTML, CSS(SASS),",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Full-stack Developer Sep 2019",
+        "JavaScript(ES6+)",
+        "in Actvtec",
+        "Back-end: PHP 7+(Laravel), NodeJS, Bash",
+        "Libraries and Frameworks:",
+        "Responsibilities and Experience:",
+        "React, Express, Jquery,",
+        "Developing e-commerce website (both back-end and front-end).",
+        "Bootstrap 4+, PureCSS",
+        "Maintaining ready-made WordPress projects and legacy code and",
+        "Operating System: Linux, Windows",
+        "Actvtec main project misrot.com.",
+        "Web Tools: Webpack",
+        "Working with product managers and implemented new content by",
+        "CMS: WordPress",
+        "request and regulation.",
+        "Databases: MariaDB/MySQL,",
+        "Front-end: HTML, JS, AJAX, JQuery",
+        "MongoDB",
+        "Working with UI/UX designer according to product owner",
+        "Version control: Git (Github, Bitbucket)",
+        "requirements, pixel perfect implementation of complex UI using",
+        "CSS3(SCSS), Bootstrap",
+        "Resources",
+        "Back-end: PHP, MySQL, Linux"
+      ]
+    },
+    {
+      "title": "Developer and Coordinator in Israel",
+      "organization": "on behalf of the \"Alternative\"",
+      "start": "Dec 2017",
+      "end": "Jul 2019",
+      "durationMonths": 19,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "[REDACTED - not used for evaluation]\nSUMMARY EDUCATION\nPHP/NodeJS full-stack developer. BA in Ariel University in\nTalented, with analytical mind, full of motivation and good work ethic. Economics and Management\nComing with passion to code and develop. Looking for a challenging\ndevelopment job that involves advanced technologies and logical challenges. Cisco network academy,\nRecommendations are available upon request. PC hardware and software solutions\nEXPERIENCE\nSKILLS & EXPERTISE\nFront-end: HTML, CSS(SASS),\nFull-stack Developer Sep 2019\nJavaScript(ES6+)\nin Actvtec\nBack-end: PHP 7+(Laravel), NodeJS, Bash\nLibraries and Frameworks:\nResponsibilities and Experience:\nReact, Express, Jquery,\nDeveloping e-commerce website (both back-end and front-end).\nBootstrap 4+, PureCSS\nMaintaining ready-made WordPress projects and legacy code and\nOperating System: Linux, Windows\nActvtec main project misrot.com.\nWeb Tools: Webpack\nWorking with product managers and implemented new content by\nCMS: WordPress\nrequest and regulation.\nDatabases: MariaDB/MySQL,\nFront-end: HTML, JS, AJAX, JQuery\nMongoDB\nWorking with UI/UX designer according to product owner\nVersion control: Git (Github, Bitbucket)\nrequirements, pixel perfect implementation of complex UI using\nCSS3(SCSS), Bootstrap\nResources\nBack-end: PHP, MySQL, Linux\n\nDeveloper and Coordinator in Israel Dec 2017 - Jul 2019\n\non behalf of the \"Alternative\"\nLanguages\nResponsibilities and Experience:\nDevelopment and maintaining website alternative.help\nDeveloping client-side logic for applying and submitting a English\nform (JS, AJAX, PHP) Hebrew\nCreating content management portal and implemented admin Russian\ninterface for the MySQL database Azerbaijani\nProject construction, management and representation\nConducting job interviews for professionals and volunteers in the\nproject.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 19,
+  "experienceYears": 1.6,
+  "sections": {
+    "header": "[REDACTED - not used for evaluation]\nSUMMARY EDUCATION\nPHP/NodeJS full-stack developer. BA in Ariel University in\nTalented, with analytical mind, full of motivation and good work ethic. Economics and Management\nComing with passion to code and develop. Looking for a challenging\ndevelopment job that involves advanced technologies and logical challenges. Cisco network academy,\nRecommendations are available upon request. PC hardware and software solutions",
+    "experience": "SKILLS & EXPERTISE\nFront-end: HTML, CSS(SASS),\nFull-stack Developer Sep 2019\nJavaScript(ES6+)\nin Actvtec\nBack-end: PHP 7+(Laravel), NodeJS, Bash\nLibraries and Frameworks:\nResponsibilities and Experience:\nReact, Express, Jquery,\nDeveloping e-commerce website (both back-end and front-end).\nBootstrap 4+, PureCSS\nMaintaining ready-made WordPress projects and legacy code and\nOperating System: Linux, Windows\nActvtec main project misrot.com.\nWeb Tools: Webpack\nWorking with product managers and implemented new content by\nCMS: WordPress\nrequest and regulation.\nDatabases: MariaDB/MySQL,\nFront-end: HTML, JS, AJAX, JQuery\nMongoDB\nWorking with UI/UX designer according to product owner\nVersion control: Git (Github, Bitbucket)\nrequirements, pixel perfect implementation of complex UI using\nCSS3(SCSS), Bootstrap\nResources\nBack-end: PHP, MySQL, Linux\n\nDeveloper and Coordinator in Israel Dec 2017 - Jul 2019\n\non behalf of the \"Alternative\"",
+    "other": "Responsibilities and Experience:\nDevelopment and maintaining website alternative.help\nDeveloping client-side logic for applying and submitting a English\nform (JS, AJAX, PHP) Hebrew\nCreating content management portal and implemented admin Russian\ninterface for the MySQL database Azerbaijani\nProject construction, management and representation\nConducting job interviews for professionals and volunteers in the\nproject."
+  },
+  "metadata": {
+    "fileName": "34.docx",
+    "candidateName": "SUMMARY EDUCATION",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 19,
+    "experienceYears": 1.6,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1807,
+      "wordCount": 234,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 57.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.55,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "implemented"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 25,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 57.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

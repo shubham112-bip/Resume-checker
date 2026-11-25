@@ -1,0 +1,121 @@
+{
+  "resumeId": "resume_002_02_vinit_surve_semantic_backend",
+  "fileName": "02_vinit_surve_semantic_backend.pdf",
+  "candidateName": "Vinit Surve",
+  "contact": {
+    "email": "vinit.surve@example.com",
+    "phone": null,
+    "linkedin": "linkedin.com/in/vinitsurve",
+    "github": "github.com/vinitsurve",
+    "portfolio": null
+  },
+  "summary": "Software engineer with 2 years experience architecting modern client-server architectures, robust web endpoints and relational\ndatabases. Strong focus on backend service scalability.",
+  "skills": [
+    "JavaScript",
+    "Express",
+    "React",
+    "PostgreSQL",
+    "Git",
+    "Linux",
+    "REST APIs",
+    "Authentication"
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "degreeLevel": 3,
+      "field": "First Class with Distinction",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Master of Computer Applications (MCA), Pune University, 2022 (First Class with Distinction)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Junior Web Systems Developer at CloudScale Solutions ( - )",
+      "organization": "40%.",
+      "start": "Aug 2022",
+      "end": "Present",
+      "durationMonths": 51,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Engineered RESTful backend web services utilizing Express framework and JavaScript runtime for healthcare logistics.",
+        "Designed normalized relational database schemas and optimized stored procedures in PostgreSQL, reducing query latency by",
+        "Developed modular Single Page Application components using React component hierarchy and state hooks.",
+        "Spearheaded integration of secure JSON endpoints and OAuth2 authentication for over 25,000 active patient profiles."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Clinical Monitoring Portal",
+      "description": "Developed interactive diagnostic dashboard using React connected to Express backend web services.",
+      "technologies": [
+        "React",
+        "Express"
+      ]
+    },
+    {
+      "name": "Inventory Tracking System",
+      "description": "Engineered automated order fulfillment pipeline using JavaScript and relational PostgreSQL tables.",
+      "technologies": [
+        "JavaScript",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "totalExperienceMonths": 51,
+  "experienceYears": 4.2,
+  "sections": {
+    "header": "Vinit Surve\nSoftware Engineer - Web & API Architecture | vinit.surve@example.com | +91 98234 56789 | linkedin.com/in/vinitsurve |\ngithub.com/vinitsurve",
+    "summary": "Software engineer with 2 years experience architecting modern client-server architectures, robust web endpoints and relational\ndatabases. Strong focus on backend service scalability.",
+    "education": "Master of Computer Applications (MCA), Pune University, 2022 (First Class with Distinction)",
+    "skills": "JavaScript, Express.js, React.js, PostgreSQL, Git, Web Services, Linux, RESTful Web APIs, Database Design",
+    "experience": "Junior Web Systems Developer at CloudScale Solutions (Aug 2022 - Present)\n\u2022 Engineered RESTful backend web services utilizing Express framework and JavaScript runtime for healthcare logistics.\n\u2022 Designed normalized relational database schemas and optimized stored procedures in PostgreSQL, reducing query latency by\n40%.\n\u2022 Developed modular Single Page Application components using React component hierarchy and state hooks.\n\u2022 Spearheaded integration of secure JSON endpoints and OAuth2 authentication for over 25,000 active patient profiles.",
+    "projects": "Clinical Monitoring Portal: Developed interactive diagnostic dashboard using React connected to Express backend web services.\nInventory Tracking System: Engineered automated order fulfillment pipeline using JavaScript and relational PostgreSQL tables."
+  },
+  "diagnostics": {
+    "fileType": "pdf",
+    "parserUsed": "PyMuPDF (layout text)",
+    "pageCount": 1,
+    "charCount": 1405,
+    "wordCount": 176,
+    "imageCount": 0,
+    "tableCount": 0,
+    "isScanned": false,
+    "warnings": []
+  },
+  "sensitiveAttributesRemoved": [],
+  "qualityFeatures": {
+    "overallQualityScore": 79.5,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.85,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 0.7,
+    "clarityScore": 1.0,
+    "actionVerbsFound": [
+      "automated",
+      "designed",
+      "developed",
+      "engineered",
+      "optimized",
+      "spearheaded"
+    ],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 6,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (automated, designed, developed, engineered, optimized)."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 79.5/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and high ATS readability."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "resume_id": "resume_063",
+  "resumeId": "resume_063",
+  "fileName": "63.docx",
+  "candidateName": "FRONTEND DEVELOPER",
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Node.js",
+    "Git",
+    "Problem Solving"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Economics (bachelor's degree) of faculty:"
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "FRONTEND DEVELOPER\nPROFESSIONAL SUMMARY EXPERIENCE\nI've got experience building and working Assistant Manager\non JavaScript projects. I'm familiar with Wal & Joe Jewelry | Feb 2018 - Present\nJavaScript (ES6), HTML, CSS, Node.js, plus\nGithub links:\nmodern libraries and frameworks.\n1.\nPassionate about working on exciting\n2.\nprojects.\n3.\nI've graduated from Moscow National\nResearch University of Higher School of\nStore Floor Manager\nEconomics (bachelor's degree) of faculty:\nThe Rodrup House | May 2016 - Aug 2017\nBusiness-Informatics.\n- Assisted customers on the floor\n- Attended to the specific requests of customers\n- Provided and suggested the best type of merchandise to buy\nACADEMIC EDUCATION\nMoscow National Research University of Higher School of\nEconomics\nBachelor of Business-Informatics, 2013\nUdemy\nComplete JavaScript Course, 2021\nCONTACT INFO: SKILLS:\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nTel-Aviv, Israel Highly organized\n/ Innovative problem-solving\nAttention to details",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "FRONTEND DEVELOPER\nPROFESSIONAL SUMMARY EXPERIENCE\nI've got experience building and working Assistant Manager\non JavaScript projects. I'm familiar with Wal & Joe Jewelry | Feb 2018 - Present\nJavaScript (ES6), HTML, CSS, Node.js, plus\nGithub links:\nmodern libraries and frameworks.\n1.\nPassionate about working on exciting\n2.\nprojects.\n3.\nI've graduated from Moscow National\nResearch University of Higher School of\nStore Floor Manager\nEconomics (bachelor's degree) of faculty:\nThe Rodrup House | May 2016 - Aug 2017\nBusiness-Informatics.\n- Assisted customers on the floor\n- Attended to the specific requests of customers\n- Provided and suggested the best type of merchandise to buy\nACADEMIC EDUCATION\nMoscow National Research University of Higher School of\nEconomics\nBachelor of Business-Informatics, 2013\nUdemy\nComplete JavaScript Course, 2021\nCONTACT INFO: SKILLS:\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nTel-Aviv, Israel Highly organized\n/ Innovative problem-solving\nAttention to details"
+  },
+  "metadata": {
+    "fileName": "63.docx",
+    "candidateName": "FRONTEND DEVELOPER",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1042,
+      "wordCount": 148,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 52.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.5,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "organized"
+    ],
+    "quantifiedBulletsCount": 4,
+    "totalBulletsCount": 23,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 52.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

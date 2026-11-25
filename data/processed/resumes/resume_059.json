@@ -1,0 +1,86 @@
+{
+  "resume_id": "resume_059",
+  "resumeId": "resume_059",
+  "fileName": "59.docx",
+  "candidateName": "C++ Developer, Python Developer",
+  "skills": [
+    "C++",
+    "Python",
+    "HTML",
+    "CSS",
+    "Git",
+    "SQLite"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "C++"
+  ],
+  "raw_text": "C++ Developer, Python Developer\nHaifa Cell:\nwww.\nPROGRAMMING LANGUAGES:\nC++\nPYTHON\nHTML\nCSS\nSKILLS:\nGIT\nBoost\nSTL\nOpenGL\nCMake\nSFML\nSQLite\nMicrocontrollers\nCURL\nLANGUAGES:\nRussian (Native)\nEnglish (B1-B2)\nHebrew (A1-A2)\nEducations and Curses:\nUlpan, Bet, UTime, 2022\nABOUT ME:\nI'm self-taught. Everything I know I have learned on my own. I like to learn new\nthings and add non-standard solutions. I am looking for my first job as a junior\nprogrammer or intern.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "I'm self-taught. Everything I know I have learned on my own. I like to learn new\nthings and add non-standard solutions. I am looking for my first job as a junior\nprogrammer or intern.",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "C++ Developer, Python Developer\nHaifa Cell:\nwww.\nPROGRAMMING LANGUAGES:\nC++\nPYTHON\nHTML\nCSS",
+    "skills": "GIT\nBoost\nSTL\nOpenGL\nCMake\nSFML\nSQLite\nMicrocontrollers\nCURL",
+    "other": "Russian (Native)\nEnglish (B1-B2)\nHebrew (A1-A2)\nEducations and Curses:\nUlpan, Bet, UTime, 2022",
+    "summary": "I'm self-taught. Everything I know I have learned on my own. I like to learn new\nthings and add non-standard solutions. I am looking for my first job as a junior\nprogrammer or intern."
+  },
+  "metadata": {
+    "fileName": "59.docx",
+    "candidateName": "C++ Developer, Python Developer",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 460,
+      "wordCount": 73,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "other",
+      "summary"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 50.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.25,
+    "atsReadabilityScore": 0.5,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.7,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 6,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 50.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

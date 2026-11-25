@@ -1,0 +1,154 @@
+{
+  "resume_id": "sample_06_ananya_iyer_devops_cloud",
+  "resumeId": "sample_06_ananya_iyer_devops_cloud",
+  "fileName": "06_ananya_iyer_devops_cloud.pdf",
+  "candidateName": "Ananya Iyer",
+  "skills": [
+    "AWS",
+    "Kubernetes",
+    "CI/CD",
+    "Docker",
+    "Terraform",
+    "Linux",
+    "Python",
+    "Bash",
+    "Git",
+    "Nginx",
+    "Microservices"
+  ],
+  "education": [
+    {
+      "degree": "BTech",
+      "degreeLevel": 2,
+      "field": "Information Technology",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BTech in Information Technology, 2020"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior DevOps Engineer at FinTech Cloud Solutions ( - )",
+      "organization": "",
+      "start": "Oct 2020",
+      "end": "Present",
+      "durationMonths": 73,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Architected multi-region AWS cloud infrastructure utilizing Terraform, achieving 99.99% service availability.",
+        "Managed production Kubernetes clusters (EKS) hosting 45+ microservices with automated Horizontal Pod Autoscaling.",
+        "Built automated CI/CD pipelines using GitHub Actions, cutting release deployment cycles from 2 hours to 14 minutes.",
+        "Hardened Linux operating system environments and implemented automated vulnerability scanning in Docker image builds."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Infrastructure-as-Code Framework",
+      "description": "Automated provisioning of VPC, RDS, and EKS clusters using reusable Terraform modules.",
+      "technologies": [
+        "AWS",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Zero-Downtime Migration",
+      "description": "Orchestrated migration of 12 legacy monoliths into Docker containers hosted on AWS.",
+      "technologies": [
+        "Docker",
+        "AWS"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Ananya Iyer\nDevOps & Cloud Infrastructure Engineer | [EMAIL REDACTED] | +91 98450 12345 | linkedin.com/in/ananyaiyer\n\nProfessional Summary\nDevOps Engineer with 4 years of experience automating AWS cloud infrastructure, orchestrating Kubernetes clusters, and building\nrobust CI/CD pipelines for high-availability systems.\n\nEducation\nBTech in Information Technology, 2020\n\nTechnical Skills\nAWS, Docker, Kubernetes, Terraform, Linux, CI/CD, Python, Bash, Git, Nginx\n\nWork Experience\nSenior DevOps Engineer at FinTech Cloud Solutions (Oct 2020 - Present)\n\u2022 Architected multi-region AWS cloud infrastructure utilizing Terraform, achieving 99.99% service availability.\n\u2022 Managed production Kubernetes clusters (EKS) hosting 45+ microservices with automated Horizontal Pod Autoscaling.\n\u2022 Built automated CI/CD pipelines using GitHub Actions, cutting release deployment cycles from 2 hours to 14 minutes.\n\u2022 Hardened Linux operating system environments and implemented automated vulnerability scanning in Docker image builds.\n\nProjects\nInfrastructure-as-Code Framework: Automated provisioning of VPC, RDS, and EKS clusters using reusable Terraform modules.\nZero-Downtime Migration: Orchestrated migration of 12 legacy monoliths into Docker containers hosted on AWS.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/ananyaiyer",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "DevOps Engineer with 4 years of experience automating AWS cloud infrastructure, orchestrating Kubernetes clusters, and building\nrobust CI/CD pipelines for high-availability systems.",
+  "totalExperienceMonths": 73,
+  "experienceYears": 6.1,
+  "sections": {
+    "header": "Ananya Iyer\nDevOps & Cloud Infrastructure Engineer | [EMAIL REDACTED] | +91 98450 12345 | linkedin.com/in/ananyaiyer",
+    "summary": "DevOps Engineer with 4 years of experience automating AWS cloud infrastructure, orchestrating Kubernetes clusters, and building\nrobust CI/CD pipelines for high-availability systems.",
+    "education": "BTech in Information Technology, 2020",
+    "skills": "AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, Python, Bash, Git, Nginx",
+    "experience": "Senior DevOps Engineer at FinTech Cloud Solutions (Oct 2020 - Present)\n\u2022 Architected multi-region AWS cloud infrastructure utilizing Terraform, achieving 99.99% service availability.\n\u2022 Managed production Kubernetes clusters (EKS) hosting 45+ microservices with automated Horizontal Pod Autoscaling.\n\u2022 Built automated CI/CD pipelines using GitHub Actions, cutting release deployment cycles from 2 hours to 14 minutes.\n\u2022 Hardened Linux operating system environments and implemented automated vulnerability scanning in Docker image builds.",
+    "projects": "Infrastructure-as-Code Framework: Automated provisioning of VPC, RDS, and EKS clusters using reusable Terraform modules.\nZero-Downtime Migration: Orchestrated migration of 12 legacy monoliths into Docker containers hosted on AWS."
+  },
+  "metadata": {
+    "fileName": "06_ananya_iyer_devops_cloud.pdf",
+    "candidateName": "Ananya Iyer",
+    "fileType": "PDF",
+    "totalExperienceMonths": 73,
+    "experienceYears": 6.1,
+    "diagnostics": {
+      "fileType": "pdf",
+      "parserUsed": "PyMuPDF (layout text)",
+      "pageCount": 1,
+      "charCount": 1263,
+      "wordCount": 158,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 80.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 1.0,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "architected",
+      "automated",
+      "built",
+      "implemented",
+      "managed",
+      "orchestrated"
+    ],
+    "quantifiedBulletsCount": 4,
+    "totalBulletsCount": 6,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (architected, automated, built, implemented, managed).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 80.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

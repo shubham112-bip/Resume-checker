@@ -1,0 +1,87 @@
+{
+  "resume_id": "resume_051",
+  "resumeId": "resume_051",
+  "fileName": "51.docx",
+  "candidateName": "Java Developer, Backend",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Teamwork",
+    "C#",
+    "C++",
+    "SQL",
+    "Git",
+    "C",
+    "Android"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English Pre-Intermediate",
+    "Russian Native"
+  ],
+  "raw_text": "Java Developer, Backend\nTel Aviv Cell: LinkedIn\nHave Java developer background with proven experience in optimizing Java code using\nSpring Boot framework.\nHave professional knowledge in implementing data transfer over the TCP/UDP protocol to\nthe server.\nBA in Informatics and Economy, with a passion for a constant professional development\nand self-study.\nHighly motivated to work in the technological environment, a great team-player with good\ncommunicational skills.\nHard Skills:\nJava Core, C#, C++, WPF, Spring Boot, SQL, Git.\nEducation and courses:\n2021 Ulpan Alef, Beit Borodetsky, Tel Aviv.\n2016 .\n2020 Java basic courses, online professional courses Udemy.\n2012 2015 C # and Delphi professional courses at the Novosibirsk Academy of\nDesign and Programming.\nExperience and participated projects:\n2020 2021 MASA Tlalim, Java and Android programming, educational program, Israel\nIn terms of the educational program I had experience in C# development and WPF framework\nfor Israeli startup in technological robotic sphere.\n2020 Internship, Service Engineer, Center for Financial Technologies, software\ndevelopment company for global financial and credit companies, Russia\nJava + Oracle Development\nOptimizing Java code using Spring Boot\nImplementing Database Queries\n2019 Summer internship as Java Developer at Eltex, a technological company which\ndevelops and manufactures network equipment, Russia\nOptimising Java code with using framework Spring Boot.\nDeveloping software for a router system.\nLanguages:\nEnglish Pre-Intermediate, Russian Native.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Java Developer, Backend\nTel Aviv Cell: LinkedIn\nHave Java developer background with proven experience in optimizing Java code using\nSpring Boot framework.\nHave professional knowledge in implementing data transfer over the TCP/UDP protocol to\nthe server.\nBA in Informatics and Economy, with a passion for a constant professional development\nand self-study.\nHighly motivated to work in the technological environment, a great team-player with good\ncommunicational skills.\nHard Skills:\nJava Core, C#, C++, WPF, Spring Boot, SQL, Git.\nEducation and courses:\n2021 Ulpan Alef, Beit Borodetsky, Tel Aviv.\n2016 .\n2020 Java basic courses, online professional courses Udemy.\n2012 2015 C # and Delphi professional courses at the Novosibirsk Academy of\nDesign and Programming.\nExperience and participated projects:\n2020 2021 MASA Tlalim, Java and Android programming, educational program, Israel\nIn terms of the educational program I had experience in C# development and WPF framework\nfor Israeli startup in technological robotic sphere.\n2020 Internship, Service Engineer, Center for Financial Technologies, software\ndevelopment company for global financial and credit companies, Russia\nJava + Oracle Development\nOptimizing Java code using Spring Boot\nImplementing Database Queries\n2019 Summer internship as Java Developer at Eltex, a technological company which\ndevelops and manufactures network equipment, Russia\nOptimising Java code with using framework Spring Boot.\nDeveloping software for a router system.",
+    "other": "English Pre-Intermediate, Russian Native."
+  },
+  "metadata": {
+    "fileName": "51.docx",
+    "candidateName": "Java Developer, Backend",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1550,
+      "wordCount": 218,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 56.0,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.2,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 7,
+    "totalBulletsCount": 27,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 56.0/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

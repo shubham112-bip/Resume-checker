@@ -1,0 +1,20 @@
+Job Title: Junior Full Stack Developer
+Experience: 0-2 years
+Education: BCA, BSc Computer Science, BTech, MCA or equivalent degree
+
+Responsibilities:
+- Build modern interactive web applications and responsive user interfaces
+- Develop scalable backend RESTful APIs and microservices
+- Design and optimize relational database queries and schemas
+- Collaborate with agile cross-functional teams and maintain code quality
+
+Required Skills:
+- React
+- Node.js
+- JavaScript
+- SQL
+- REST APIs
+
+Preferred Skills:
+- Docker
+- AWS

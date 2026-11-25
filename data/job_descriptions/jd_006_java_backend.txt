@@ -1,0 +1,22 @@
+Job Title: Java Microservices Backend Developer
+Experience: 2-4 years
+Education: BTech, BE, MCA in Computer Science
+
+Responsibilities:
+- Build enterprise-grade backend microservices using Java and Spring Boot
+- Design relational schemas and optimize database interactions using Hibernate ORM
+- Develop RESTful API contracts and integrate asynchronous message brokers
+- Write unit tests using JUnit and maintain clean object-oriented architecture
+
+Required Skills:
+- Java
+- Spring Boot
+- SQL
+- REST APIs
+- Microservices
+
+Preferred Skills:
+- Hibernate
+- MySQL
+- Docker
+- Git

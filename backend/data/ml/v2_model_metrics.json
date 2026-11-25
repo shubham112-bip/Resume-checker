@@ -1,0 +1,468 @@
+{
+  "dataset_metadata": {
+    "dataset_version": "canonical_v2",
+    "source_file": "backend/data/ml/v2_training_dataset.csv",
+    "total_pairs": 1512,
+    "total_resumes": 126,
+    "total_jds": 12,
+    "class_distribution": {
+      "weak_match": 1064,
+      "review": 314,
+      "shortlist": 134
+    },
+    "train_pairs": 1212,
+    "test_pairs": 300,
+    "train_resumes": 101,
+    "test_resumes": 25,
+    "resume_overlap": 0,
+    "features": [
+      "required_skill_match",
+      "experience_match",
+      "semantic_similarity",
+      "education_match",
+      "project_match",
+      "ats_score",
+      "resume_quality"
+    ],
+    "target_classes": [
+      "weak_match",
+      "review",
+      "shortlist"
+    ]
+  },
+  "model_evaluations": {
+    "Logistic Regression (Standard)": {
+      "accuracy": 0.9767,
+      "macro_precision": 0.9742,
+      "macro_recall": 0.9388,
+      "macro_f1": 0.955,
+      "weighted_f1": 0.9764,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.8696,
+      "predicted_shortlist_count": 20,
+      "false_shortlist_count": 0,
+      "false_shortlist_from_weak_count": 0,
+      "false_shortlist_rate": 0.0,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.9862,
+          "recall": 0.9953,
+          "f1": 0.9907,
+          "support": 215
+        },
+        "review": {
+          "precision": 0.9365,
+          "recall": 0.9516,
+          "f1": 0.944,
+          "support": 62
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.8696,
+          "f1": 0.9302,
+          "support": 23
+        }
+      },
+      "confusion_matrix": [
+        [
+          214,
+          1,
+          0
+        ],
+        [
+          3,
+          59,
+          0
+        ],
+        [
+          0,
+          3,
+          20
+        ]
+      ],
+      "cv_macro_f1_mean": 0.9503,
+      "cv_macro_f1_std": 0.0194,
+      "feature_importance": {
+        "required_skill_match": 3.7919,
+        "experience_match": 1.5572,
+        "semantic_similarity": 1.1144,
+        "education_match": 1.5074,
+        "project_match": 0.4224,
+        "ats_score": 0.3526,
+        "resume_quality": 0.1775
+      },
+      "importance_method": "Mean Absolute Coefficient magnitude",
+      "coefficients_by_class": {
+        "review": [
+          0.5002,
+          0.4431,
+          0.2186,
+          0.1951,
+          0.0873,
+          0.0257,
+          0.0321
+        ],
+        "shortlist": [
+          5.1877,
+          1.8928,
+          1.453,
+          2.0661,
+          0.5463,
+          0.5032,
+          0.2342
+        ],
+        "weak_match": [
+          -5.6879,
+          -2.3359,
+          -1.6716,
+          -2.2612,
+          -0.6336,
+          -0.5289,
+          -0.2663
+        ]
+      }
+    },
+    "Logistic Regression (Balanced)": {
+      "accuracy": 0.98,
+      "macro_precision": 0.9706,
+      "macro_recall": 0.9907,
+      "macro_f1": 0.9799,
+      "weighted_f1": 0.9803,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 1.0,
+      "predicted_shortlist_count": 23,
+      "false_shortlist_count": 0,
+      "false_shortlist_from_weak_count": 0,
+      "false_shortlist_rate": 0.0,
+      "per_class": {
+        "weak_match": {
+          "precision": 1.0,
+          "recall": 0.9721,
+          "f1": 0.9858,
+          "support": 215
+        },
+        "review": {
+          "precision": 0.9118,
+          "recall": 1.0,
+          "f1": 0.9538,
+          "support": 62
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 23
+        }
+      },
+      "confusion_matrix": [
+        [
+          209,
+          6,
+          0
+        ],
+        [
+          0,
+          62,
+          0
+        ],
+        [
+          0,
+          0,
+          23
+        ]
+      ],
+      "cv_macro_f1_mean": 0.959,
+      "cv_macro_f1_std": 0.0046,
+      "feature_importance": {
+        "required_skill_match": 4.1999,
+        "experience_match": 1.5793,
+        "semantic_similarity": 1.1796,
+        "education_match": 1.6615,
+        "project_match": 0.4496,
+        "ats_score": 0.409,
+        "resume_quality": 0.1664
+      },
+      "importance_method": "Mean Absolute Coefficient magnitude",
+      "coefficients_by_class": {
+        "review": [
+          -0.3108,
+          0.1213,
+          0.0848,
+          -0.1333,
+          0.013,
+          -0.0296,
+          -0.0036
+        ],
+        "shortlist": [
+          6.2999,
+          2.2477,
+          1.6847,
+          2.4922,
+          0.6614,
+          0.6136,
+          0.2496
+        ],
+        "weak_match": [
+          -5.9891,
+          -2.3689,
+          -1.7695,
+          -2.3589,
+          -0.6744,
+          -0.584,
+          -0.246
+        ]
+      }
+    },
+    "Random Forest (Standard)": {
+      "accuracy": 0.94,
+      "macro_precision": 0.9184,
+      "macro_recall": 0.8935,
+      "macro_f1": 0.9043,
+      "weighted_f1": 0.9403,
+      "shortlist_precision": 0.95,
+      "shortlist_recall": 0.8261,
+      "predicted_shortlist_count": 20,
+      "false_shortlist_count": 1,
+      "false_shortlist_from_weak_count": 0,
+      "false_shortlist_rate": 0.05,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.972,
+          "recall": 0.9674,
+          "f1": 0.9697,
+          "support": 215
+        },
+        "review": {
+          "precision": 0.8333,
+          "recall": 0.8871,
+          "f1": 0.8594,
+          "support": 62
+        },
+        "shortlist": {
+          "precision": 0.95,
+          "recall": 0.8261,
+          "f1": 0.8837,
+          "support": 23
+        }
+      },
+      "confusion_matrix": [
+        [
+          208,
+          7,
+          0
+        ],
+        [
+          6,
+          55,
+          1
+        ],
+        [
+          0,
+          4,
+          19
+        ]
+      ],
+      "cv_macro_f1_mean": 0.9023,
+      "cv_macro_f1_std": 0.0169,
+      "feature_importance": {
+        "required_skill_match": 0.4312,
+        "experience_match": 0.0519,
+        "semantic_similarity": 0.252,
+        "education_match": 0.0573,
+        "project_match": 0.0414,
+        "ats_score": 0.1357,
+        "resume_quality": 0.0306
+      },
+      "importance_method": "MDI (Gini Impurity reduction)"
+    },
+    "Random Forest (Balanced)": {
+      "accuracy": 0.9067,
+      "macro_precision": 0.8807,
+      "macro_recall": 0.8895,
+      "macro_f1": 0.8779,
+      "weighted_f1": 0.911,
+      "shortlist_precision": 0.95,
+      "shortlist_recall": 0.8261,
+      "predicted_shortlist_count": 20,
+      "false_shortlist_count": 1,
+      "false_shortlist_from_weak_count": 0,
+      "false_shortlist_rate": 0.05,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.9848,
+          "recall": 0.907,
+          "f1": 0.9443,
+          "support": 215
+        },
+        "review": {
+          "precision": 0.7073,
+          "recall": 0.9355,
+          "f1": 0.8056,
+          "support": 62
+        },
+        "shortlist": {
+          "precision": 0.95,
+          "recall": 0.8261,
+          "f1": 0.8837,
+          "support": 23
+        }
+      },
+      "confusion_matrix": [
+        [
+          195,
+          20,
+          0
+        ],
+        [
+          3,
+          58,
+          1
+        ],
+        [
+          0,
+          4,
+          19
+        ]
+      ],
+      "cv_macro_f1_mean": 0.8954,
+      "cv_macro_f1_std": 0.0268,
+      "feature_importance": {
+        "required_skill_match": 0.4647,
+        "experience_match": 0.034,
+        "semantic_similarity": 0.2524,
+        "education_match": 0.0518,
+        "project_match": 0.0354,
+        "ats_score": 0.1356,
+        "resume_quality": 0.0261
+      },
+      "importance_method": "MDI (Gini Impurity reduction)"
+    },
+    "KNN (Uniform, k=5)": {
+      "accuracy": 0.9333,
+      "macro_precision": 0.899,
+      "macro_recall": 0.8507,
+      "macro_f1": 0.8728,
+      "weighted_f1": 0.9309,
+      "shortlist_precision": 0.8571,
+      "shortlist_recall": 0.7826,
+      "predicted_shortlist_count": 21,
+      "false_shortlist_count": 3,
+      "false_shortlist_from_weak_count": 0,
+      "false_shortlist_rate": 0.1429,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.9511,
+          "recall": 0.9953,
+          "f1": 0.9727,
+          "support": 215
+        },
+        "review": {
+          "precision": 0.8889,
+          "recall": 0.7742,
+          "f1": 0.8276,
+          "support": 62
+        },
+        "shortlist": {
+          "precision": 0.8571,
+          "recall": 0.7826,
+          "f1": 0.8182,
+          "support": 23
+        }
+      },
+      "confusion_matrix": [
+        [
+          214,
+          1,
+          0
+        ],
+        [
+          11,
+          48,
+          3
+        ],
+        [
+          0,
+          5,
+          18
+        ]
+      ],
+      "cv_macro_f1_mean": 0.8905,
+      "cv_macro_f1_std": 0.0199,
+      "feature_importance": {},
+      "importance_method": "N/A (Instance-based KNN)"
+    },
+    "KNN (Distance, k=5)": {
+      "accuracy": 0.9367,
+      "macro_precision": 0.9011,
+      "macro_recall": 0.8561,
+      "macro_f1": 0.8769,
+      "weighted_f1": 0.9345,
+      "shortlist_precision": 0.8571,
+      "shortlist_recall": 0.7826,
+      "predicted_shortlist_count": 21,
+      "false_shortlist_count": 3,
+      "false_shortlist_from_weak_count": 0,
+      "false_shortlist_rate": 0.1429,
+      "per_class": {
+        "weak_match": {
+          "precision": 0.9554,
+          "recall": 0.9953,
+          "f1": 0.9749,
+          "support": 215
+        },
+        "review": {
+          "precision": 0.8909,
+          "recall": 0.7903,
+          "f1": 0.8376,
+          "support": 62
+        },
+        "shortlist": {
+          "precision": 0.8571,
+          "recall": 0.7826,
+          "f1": 0.8182,
+          "support": 23
+        }
+      },
+      "confusion_matrix": [
+        [
+          214,
+          1,
+          0
+        ],
+        [
+          10,
+          49,
+          3
+        ],
+        [
+          0,
+          5,
+          18
+        ]
+      ],
+      "cv_macro_f1_mean": 0.8913,
+      "cv_macro_f1_std": 0.0188,
+      "feature_importance": {},
+      "importance_method": "N/A (Instance-based KNN)"
+    }
+  },
+  "selected_best_model": "Logistic Regression (Balanced)",
+  "calibration_comparison": {
+    "uncalibrated": {
+      "log_loss": 0.0834,
+      "brier_score": 0.0462,
+      "macro_f1": 0.9799
+    },
+    "platt_sigmoid": {
+      "log_loss": 0.2255,
+      "brier_score": 0.1015,
+      "macro_f1": 0.9203
+    },
+    "isotonic": {
+      "log_loss": 0.1844,
+      "brier_score": 0.0712,
+      "macro_f1": 0.9764
+    }
+  },
+  "selected_calibration_method": "isotonic"
+}

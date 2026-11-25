@@ -1,0 +1,180 @@
+{
+  "resume_id": "resume_038",
+  "resumeId": "resume_038",
+  "fileName": "38.docx",
+  "candidateName": "SUMMARY EDUCATION",
+  "skills": [
+    "Leadership",
+    "Microservices",
+    "REST APIs",
+    "SQL",
+    "Agile",
+    "TypeScript",
+    "JavaScript",
+    "Unit Testing"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": null,
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Master's degree, Computer Software"
+    },
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Bachelors degree - Applied Mathematics",
+      "organization": "",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    },
+    {
+      "title": "Senior Business Analyst Team Lead  -  and Computer Science (2011 2015)",
+      "organization": "Mvideo-Eldorado,www.mvideo.ru, one of the biggesthardware stores in Russia SKILLS & EXPERTISE",
+      "start": "Oct 2018",
+      "end": "Present",
+      "durationMonths": 97,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Responsibilities and Experience:",
+        "requirementelicitation and elaboration",
+        "created new version of the online storewww.mvideo.ru,based on the",
+        "(business, functional, non-functional);",
+        "microservices (as business analyst), all main pages of product selection process",
+        "BPMN;",
+        "are in the pilot or production; UML;",
+        "built the analysis process from the scratch, created the site knowledge base; REST API;",
+        "led the analyst team, expanded it from 2 to 27 members; SQL;",
+        "was responsible for user-story mapping;",
+        "reengineering and creating new business processes; use case;",
+        "agile (scrum, kanban);",
+        "gathering and elaborations of different requirements: business, functional,",
+        "SEO in web applications.",
+        "non-functional, requirements for bff-level REST integrations;",
+        "supporting dev and QA teams during the entire feature life cycle;",
+        "estimating workloads and planning analyst tasks for product teams."
+      ]
+    },
+    {
+      "title": "Business analyst",
+      "organization": "",
+      "start": "Oct 2017",
+      "end": "Oct 2018",
+      "durationMonths": 12,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Gemotest laboratory",
+    "www"
+  ],
+  "raw_text": "[REDACTED - not used for evaluation]\nSUMMARY EDUCATION\nNational Research Nuclear University MEPhI\nI'm a business analyst with 6,5 years of experience in the software industry and 4,5 years\n(Moscow Engineering Physics Institute)\nof experience as business and system analyst. My focus area has been web applications in\nMaster's degree, Computer Software\neCommerce. I'm looking for a role of seniorbusinessand system (software) analyst, ready\nEngineering (2015 2017, Graduated with\nto expand the area of responsibility intoproductmanagement role.\nhonors)\nEXPERIENCE\nBachelors degree - Applied Mathematics\nSenior Business Analyst Team Lead Oct 2018 - Present and Computer Science (2011 2015)\nMvideo-Eldorado,www.mvideo.ru, one of the biggesthardware stores in Russia SKILLS & EXPERTISE\nResponsibilities and Experience:\nrequirementelicitation and elaboration\ncreated new version of the online storewww.mvideo.ru,based on the\n(business, functional, non-functional);\nmicroservices (as business analyst), all main pages of product selection process\nBPMN;\nare in the pilot or production; UML;\nbuilt the analysis process from the scratch, created the site knowledge base; REST API;\nled the analyst team, expanded it from 2 to 27 members; SQL;\nwas responsible for user-story mapping;\nreengineering and creating new business processes; use case;\nagile (scrum, kanban);\ngathering and elaborations of different requirements: business, functional,\nSEO in web applications.\nnon-functional, requirements for bff-level REST integrations;\nsupporting dev and QA teams during the entire feature life cycle;\nestimating workloads and planning analyst tasks for product teams.\nBusiness analyst Oct 2017 - Oct 2018\nLanguages\nGemotest laboratory,www.gemotest.ru,\nResponsibilities and Experience:\nEnglish - fluent\nremodeled registration process;\nRussian - native\ncreated and deployed to production the new algorithm for delivering\nGerman - basic (A1)\npatients results;\ncreated and deployed to production new payment process for cash\nAbout me\nregisters and new process of fulfilling field orders day to day;\nwas responsible for\nIn my free time I enjoy yacht racing,\nreengineering business process;\nsurfing, reading books and traveling.\nbusiness requirements elicitation, functional and non-functional\nrequirements elaborations;\nrelational database design (using UML diagrams, SQL);\ncreating the interface (using Axure RP).\nJunior software engineer Jan 2016 Jun 2017\nTS consulting, tsconsulting.ru\nCreated the software, using Siebel eScript and JavaScript, SQL queries.\nJunior QA automation engineer Jun 2013 Aug 2013\nAplana Development Center,\nResponsibilities and Experience:\ndeveloped Unit-tests, based on the acceptance criteria;\nresolved bugs identified as a result of testing.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "registers and new process of fulfilling field orders day to day;\nwas responsible for\nIn my free time I enjoy yacht racing,\nreengineering business process;\nsurfing, reading books and traveling.\nbusiness requirements elicitation, functional and non-functional\nrequirements elaborations;\nrelational database design (using UML diagrams, SQL);\ncreating the interface (using Axure RP).\nJunior software engineer Jan 2016 Jun 2017\nTS consulting, tsconsulting.ru\nCreated the software, using Siebel eScript and JavaScript, SQL queries.\nJunior QA automation engineer Jun 2013 Aug 2013\nAplana Development Center,\nResponsibilities and Experience:\ndeveloped Unit-tests, based on the acceptance criteria;\nresolved bugs identified as a result of testing.",
+  "totalExperienceMonths": 109,
+  "experienceYears": 9.1,
+  "sections": {
+    "header": "[REDACTED - not used for evaluation]\nSUMMARY EDUCATION\nNational Research Nuclear University MEPhI\nI'm a business analyst with 6,5 years of experience in the software industry and 4,5 years\n(Moscow Engineering Physics Institute)\nof experience as business and system analyst. My focus area has been web applications in\nMaster's degree, Computer Software\neCommerce. I'm looking for a role of seniorbusinessand system (software) analyst, ready\nEngineering (2015 2017, Graduated with\nto expand the area of responsibility intoproductmanagement role.\nhonors)",
+    "experience": "Bachelors degree - Applied Mathematics\nSenior Business Analyst Team Lead Oct 2018 - Present and Computer Science (2011 2015)\nMvideo-Eldorado,www.mvideo.ru, one of the biggesthardware stores in Russia SKILLS & EXPERTISE\nResponsibilities and Experience:\nrequirementelicitation and elaboration\ncreated new version of the online storewww.mvideo.ru,based on the\n(business, functional, non-functional);\nmicroservices (as business analyst), all main pages of product selection process\nBPMN;\nare in the pilot or production; UML;\nbuilt the analysis process from the scratch, created the site knowledge base; REST API;\nled the analyst team, expanded it from 2 to 27 members; SQL;\nwas responsible for user-story mapping;\nreengineering and creating new business processes; use case;\nagile (scrum, kanban);\ngathering and elaborations of different requirements: business, functional,\nSEO in web applications.\nnon-functional, requirements for bff-level REST integrations;\nsupporting dev and QA teams during the entire feature life cycle;\nestimating workloads and planning analyst tasks for product teams.\nBusiness analyst Oct 2017 - Oct 2018",
+    "other": "Gemotest laboratory,www.gemotest.ru,\nResponsibilities and Experience:\nEnglish - fluent\nremodeled registration process;\nRussian - native\ncreated and deployed to production the new algorithm for delivering\nGerman - basic (A1)\npatients results;\ncreated and deployed to production new payment process for cash",
+    "summary": "registers and new process of fulfilling field orders day to day;\nwas responsible for\nIn my free time I enjoy yacht racing,\nreengineering business process;\nsurfing, reading books and traveling.\nbusiness requirements elicitation, functional and non-functional\nrequirements elaborations;\nrelational database design (using UML diagrams, SQL);\ncreating the interface (using Axure RP).\nJunior software engineer Jan 2016 Jun 2017\nTS consulting, tsconsulting.ru\nCreated the software, using Siebel eScript and JavaScript, SQL queries.\nJunior QA automation engineer Jun 2013 Aug 2013\nAplana Development Center,\nResponsibilities and Experience:\ndeveloped Unit-tests, based on the acceptance criteria;\nresolved bugs identified as a result of testing."
+  },
+  "metadata": {
+    "fileName": "38.docx",
+    "candidateName": "SUMMARY EDUCATION",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 109,
+    "experienceYears": 9.1,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2742,
+      "wordCount": 374,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "other",
+      "summary"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 69.3,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.59,
+    "atsReadabilityScore": 0.55,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.7,
+    "quantificationScore": 0.55,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "built",
+      "created",
+      "expanded",
+      "led"
+    ],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 17,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 69.3/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

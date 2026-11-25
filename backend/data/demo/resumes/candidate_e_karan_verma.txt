@@ -1,0 +1,18 @@
+Karan Verma
+Email: karan.verma@example.com | Phone: 9899887766
+LinkedIn: linkedin.com/in/karanverma
+
+Career Objective:
+Computer Science graduate eager to begin a career in web software development.
+
+Education:
+BTech in Computer Science and Engineering, 2024
+
+Academic Skills:
+JavaScript, React, HTML, CSS, SQL, Git
+
+Academic Projects:
+Online Book Store (Final Year Capstone Project):
+• Created a book catalog website using React and CSS.
+• Implemented simple SQLite queries to store book titles and authors.
+• Wrote basic JavaScript functions for shopping cart operations.

@@ -1,0 +1,1612 @@
+{
+  "dataset_metadata": {
+    "name": "Phase 3 Fresh Independent Human Validation Dataset",
+    "file": "data/labels/human_validation_phase3.csv",
+    "total_pairs": 28,
+    "label_distribution": {
+      "STRONG_MATCH": 7,
+      "MATCH": 7,
+      "REVIEW": 7,
+      "WEAK_MATCH": 7
+    },
+    "three_class_distribution": {
+      "shortlist": 14,
+      "review": 7,
+      "weak_match": 7
+    },
+    "reviewer_id": "human_reviewer_02",
+    "protocol": "Single-blind (independent human evaluation without exposure to model predictions)"
+  },
+  "metrics": {
+    "baseline_v1_rule": {
+      "accuracy": 0.2857,
+      "macro_precision": 0.4394,
+      "macro_recall": 0.3571,
+      "macro_f1": 0.2054,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.0714,
+      "false_shortlist_rate": 0.0,
+      "per_class": {
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.0714,
+          "f1": 0.1333,
+          "support": 14
+        },
+        "review": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 7
+        },
+        "weak_match": {
+          "precision": 0.3182,
+          "recall": 1.0,
+          "f1": 0.4828,
+          "support": 7
+        }
+      },
+      "confusion_matrix": {
+        "labels": [
+          "shortlist",
+          "review",
+          "weak_match"
+        ],
+        "matrix": [
+          [
+            1,
+            5,
+            8
+          ],
+          [
+            0,
+            0,
+            7
+          ],
+          [
+            0,
+            0,
+            7
+          ]
+        ]
+      }
+    },
+    "candidate_v2_rule": {
+      "accuracy": 0.5,
+      "macro_precision": 0.5758,
+      "macro_recall": 0.5238,
+      "macro_f1": 0.4963,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.4286,
+      "false_shortlist_rate": 0.0,
+      "per_class": {
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.4286,
+          "f1": 0.6,
+          "support": 14
+        },
+        "review": {
+          "precision": 0.1818,
+          "recall": 0.2857,
+          "f1": 0.2222,
+          "support": 7
+        },
+        "weak_match": {
+          "precision": 0.5455,
+          "recall": 0.8571,
+          "f1": 0.6667,
+          "support": 7
+        }
+      },
+      "confusion_matrix": {
+        "labels": [
+          "shortlist",
+          "review",
+          "weak_match"
+        ],
+        "matrix": [
+          [
+            6,
+            8,
+            0
+          ],
+          [
+            0,
+            2,
+            5
+          ],
+          [
+            0,
+            1,
+            6
+          ]
+        ]
+      }
+    },
+    "baseline_v1_ml": {
+      "accuracy": 0.2857,
+      "macro_precision": 0.4394,
+      "macro_recall": 0.3571,
+      "macro_f1": 0.2054,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.0714,
+      "false_shortlist_rate": 0.0,
+      "per_class": {
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.0714,
+          "f1": 0.1333,
+          "support": 14
+        },
+        "review": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 7
+        },
+        "weak_match": {
+          "precision": 0.3182,
+          "recall": 1.0,
+          "f1": 0.4828,
+          "support": 7
+        }
+      },
+      "confusion_matrix": {
+        "labels": [
+          "shortlist",
+          "review",
+          "weak_match"
+        ],
+        "matrix": [
+          [
+            1,
+            5,
+            8
+          ],
+          [
+            0,
+            0,
+            7
+          ],
+          [
+            0,
+            0,
+            7
+          ]
+        ]
+      }
+    },
+    "candidate_v2_ml": {
+      "accuracy": 0.3214,
+      "macro_precision": 0.4561,
+      "macro_recall": 0.381,
+      "macro_f1": 0.2628,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 0.1429,
+      "false_shortlist_rate": 0.0,
+      "per_class": {
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 0.1429,
+          "f1": 0.25,
+          "support": 14
+        },
+        "review": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 7
+        },
+        "weak_match": {
+          "precision": 0.3684,
+          "recall": 1.0,
+          "f1": 0.5385,
+          "support": 7
+        }
+      },
+      "confusion_matrix": {
+        "labels": [
+          "shortlist",
+          "review",
+          "weak_match"
+        ],
+        "matrix": [
+          [
+            2,
+            7,
+            5
+          ],
+          [
+            0,
+            0,
+            7
+          ],
+          [
+            0,
+            0,
+            7
+          ]
+        ]
+      }
+    }
+  },
+  "comparison_summary": {
+    "rule_based": {
+      "v1_accuracy": 0.2857,
+      "v2_accuracy": 0.5,
+      "accuracy_delta": 0.2143,
+      "v1_macro_f1": 0.2054,
+      "v2_macro_f1": 0.4963,
+      "macro_f1_delta": 0.2909,
+      "v1_shortlist_recall": 0.0714,
+      "v2_shortlist_recall": 0.4286,
+      "shortlist_recall_delta": 0.3572,
+      "v1_shortlist_precision": 1.0,
+      "v2_shortlist_precision": 1.0,
+      "v1_false_shortlist_rate": 0.0,
+      "v2_false_shortlist_rate": 0.0
+    },
+    "ml_predictor": {
+      "v1_accuracy": 0.2857,
+      "v2_accuracy": 0.3214,
+      "accuracy_delta": 0.0357,
+      "v1_macro_f1": 0.2054,
+      "v2_macro_f1": 0.2628,
+      "macro_f1_delta": 0.0574,
+      "v1_shortlist_recall": 0.0714,
+      "v2_shortlist_recall": 0.1429,
+      "shortlist_recall_delta": 0.0715,
+      "v1_shortlist_precision": 1.0,
+      "v2_shortlist_precision": 1.0,
+      "v1_false_shortlist_rate": 0.0,
+      "v2_false_shortlist_rate": 0.0
+    }
+  },
+  "pair_evaluations": [
+    {
+      "pair_index": 1,
+      "resume_id": "resume_001",
+      "jd_id": "jd_006_java_backend",
+      "human_label": "STRONG_MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Direct Java enterprise match. 3+ years experience with Spring Boot, Hibernate, MySQL, and microservices.",
+      "reviewer_evidence": "Java, Spring Boot, Hibernate, Microservices, REST APIs, MySQL, Unit Testing",
+      "v1": {
+        "overall_fit_score": 80.4,
+        "rule_recommendation": "SHORTLIST",
+        "rule_3class": "shortlist",
+        "ml_recommendation": "shortlist",
+        "ml_probability": 0.96,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          1.0,
+          1.0,
+          0.408,
+          1.0,
+          0.4,
+          0.686,
+          0.69
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 81.4,
+        "rule_recommendation": "SHORTLIST",
+        "rule_3class": "shortlist",
+        "ml_recommendation": "shortlist",
+        "ml_probability": 0.977,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          1.0,
+          1.0,
+          0.408,
+          1.0,
+          0.5,
+          0.686,
+          0.69
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 2,
+      "resume_id": "resume_010",
+      "jd_id": "jd_005_frontend_specialist",
+      "human_label": "STRONG_MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Senior web frontend specialist with 5 years experience across modern React, TypeScript, Redux, and styling architecture.",
+      "reviewer_evidence": "React, TypeScript, Redux, JavaScript, HTML, CSS, SASS, Figma",
+      "v1": {
+        "overall_fit_score": 67.6,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.838,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.75,
+          1.0,
+          0.354,
+          0.7,
+          0.4,
+          0.552,
+          0.657
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 69.6,
+        "rule_recommendation": "SHORTLIST",
+        "rule_3class": "shortlist",
+        "ml_recommendation": "review",
+        "ml_probability": 0.663,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.783,
+          1.0,
+          0.354,
+          0.7,
+          0.5,
+          0.552,
+          0.657
+        ]
+      },
+      "score_delta_v2_minus_v1": 2.0,
+      "rule_improvement": true,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 3,
+      "resume_id": "resume_037",
+      "jd_id": "jd_001_fullstack_jr",
+      "human_label": "STRONG_MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Comprehensive junior full stack profile covering React frontend, Node.js backend, and REST API integration.",
+      "reviewer_evidence": "React, Node.js, JavaScript, HTML, CSS, Redux, REST APIs",
+      "v1": {
+        "overall_fit_score": 40.1,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.39,
+          0.7,
+          0.221,
+          0.2,
+          0.2,
+          0.407,
+          0.595
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 53.6,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.84,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.54,
+          1.0,
+          0.221,
+          0.2,
+          0.5,
+          0.407,
+          0.595
+        ]
+      },
+      "score_delta_v2_minus_v1": 13.5,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 4,
+      "resume_id": "resume_11005406",
+      "jd_id": "jd_008_network_engineer",
+      "human_label": "STRONG_MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Experienced infrastructure engineer with ISP vendor management, Windows server, Linux, routing, and telecom systems.",
+      "reviewer_evidence": "Linux, TCP/IP, Routing, Switching, Cisco, Windows Server, Telecom Infrastructure",
+      "v1": {
+        "overall_fit_score": 46.5,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.993,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.314,
+          1.0,
+          0.118,
+          0.2,
+          0.4,
+          0.539,
+          0.771
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 49.4,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.976,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.379,
+          1.0,
+          0.118,
+          0.2,
+          0.5,
+          0.539,
+          0.771
+        ]
+      },
+      "score_delta_v2_minus_v1": 2.9,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 5,
+      "resume_id": "resume_049",
+      "jd_id": "jd_002_backend_fastapi",
+      "human_label": "STRONG_MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Experienced backend software engineer proficient in Python web development, relational databases, and microservices.",
+      "reviewer_evidence": "Python, REST APIs, PostgreSQL, SQL, Docker, Microservices, Git",
+      "v1": {
+        "overall_fit_score": 33.4,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.52,
+          0.2,
+          0.068,
+          0.2,
+          0.2,
+          0.52,
+          0.718
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 56.9,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.634,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.67,
+          1.0,
+          0.068,
+          0.2,
+          0.5,
+          0.52,
+          0.718
+        ]
+      },
+      "score_delta_v2_minus_v1": 23.5,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 6,
+      "resume_id": "resume_026",
+      "jd_id": "jd_002_backend_fastapi",
+      "human_label": "STRONG_MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Senior backend engineer with 5+ years experience in Python, FastAPI, Django, PostgreSQL, Docker, and microservices.",
+      "reviewer_evidence": "Python, FastAPI, Django, PostgreSQL, Docker, Microservices, Unit Testing",
+      "v1": {
+        "overall_fit_score": 44.4,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.993,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.6,
+          0.2,
+          0.145,
+          0.8,
+          0.2,
+          0.607,
+          0.81
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 64.6,
+        "rule_recommendation": "SHORTLIST",
+        "rule_3class": "shortlist",
+        "ml_recommendation": "review",
+        "ml_probability": 0.581,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          1.0,
+          0.567,
+          0.145,
+          0.8,
+          0.3,
+          0.607,
+          0.81
+        ]
+      },
+      "score_delta_v2_minus_v1": 20.2,
+      "rule_improvement": true,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 7,
+      "resume_id": "resume_055",
+      "jd_id": "jd_005_frontend_specialist",
+      "human_label": "STRONG_MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Modern frontend engineer proficient in React, TypeScript, Next.js tooling, responsive UI, and component architecture.",
+      "reviewer_evidence": "React, TypeScript, JavaScript, CSS, HTML, WebSockets, REST APIs",
+      "v1": {
+        "overall_fit_score": 66.9,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.85,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.642,
+          1.0,
+          0.322,
+          0.9,
+          0.4,
+          0.648,
+          0.675
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 70.4,
+        "rule_recommendation": "SHORTLIST",
+        "rule_3class": "shortlist",
+        "ml_recommendation": "review",
+        "ml_probability": 0.544,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.725,
+          1.0,
+          0.322,
+          0.9,
+          0.5,
+          0.648,
+          0.675
+        ]
+      },
+      "score_delta_v2_minus_v1": 3.5,
+      "rule_improvement": true,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 8,
+      "resume_id": "resume_012",
+      "jd_id": "jd_005_frontend_specialist",
+      "human_label": "MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Competent frontend developer with solid JavaScript, TypeScript, and modern web application experience.",
+      "reviewer_evidence": "JavaScript, TypeScript, React, HTML, CSS, Git, Responsive UI",
+      "v1": {
+        "overall_fit_score": 33.0,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.5,
+          0.2,
+          0.079,
+          0.2,
+          0.2,
+          0.517,
+          0.725
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 62.0,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.797,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.833,
+          1.0,
+          0.079,
+          0.2,
+          0.5,
+          0.517,
+          0.725
+        ]
+      },
+      "score_delta_v2_minus_v1": 29.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 9,
+      "resume_id": "sample_04_sneha_rao_data_scientist",
+      "jd_id": "jd_002_backend_fastapi",
+      "human_label": "MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Python engineer with solid SQL querying, REST API integration, and clean code practices suitable for backend engineering.",
+      "reviewer_evidence": "Python, SQL, REST APIs, Pandas, Unit Testing, Git",
+      "v1": {
+        "overall_fit_score": 55.6,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.516,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.4,
+          1.0,
+          0.104,
+          0.9,
+          0.333,
+          0.582,
+          0.777
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 55.6,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.516,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.4,
+          1.0,
+          0.104,
+          0.9,
+          0.333,
+          0.582,
+          0.777
+        ]
+      },
+      "score_delta_v2_minus_v1": 0.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 10,
+      "resume_id": "sample_06_ananya_iyer_devops_cloud",
+      "jd_id": "jd_008_network_engineer",
+      "human_label": "MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Cloud infrastructure engineer with Linux administration, network security protocols, IP routing concepts, and Bash.",
+      "reviewer_evidence": "Linux, Bash, Docker, AWS, Networking, Security Protocols",
+      "v1": {
+        "overall_fit_score": 50.2,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.878,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.143,
+          1.0,
+          0.198,
+          1.0,
+          0.333,
+          0.556,
+          0.8
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 53.4,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.629,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.25,
+          1.0,
+          0.198,
+          1.0,
+          0.333,
+          0.556,
+          0.8
+        ]
+      },
+      "score_delta_v2_minus_v1": 3.2,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 11,
+      "resume_id": "resume_053",
+      "jd_id": "jd_006_java_backend",
+      "human_label": "MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Junior Java backend developer with solid core Java, OOP principles, SQL database knowledge, and Spring fundamentals.",
+      "reviewer_evidence": "Java, Spring Boot, OOP, SQL, Git, Teamwork",
+      "v1": {
+        "overall_fit_score": 27.8,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.36,
+          0.2,
+          0.141,
+          0.2,
+          0.2,
+          0.407,
+          0.56
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 60.0,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.696,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.8,
+          1.0,
+          0.141,
+          0.2,
+          0.5,
+          0.407,
+          0.56
+        ]
+      },
+      "score_delta_v2_minus_v1": 32.2,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 12,
+      "resume_id": "resume_039",
+      "jd_id": "jd_002_backend_fastapi",
+      "human_label": "MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Backend engineer with strong Python, Django, Flask, unit testing, and relational database background.",
+      "reviewer_evidence": "Python, Django, Flask, Unit Testing, SQL, Linux, Bash",
+      "v1": {
+        "overall_fit_score": 65.2,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.832,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.7,
+          1.0,
+          0.328,
+          0.2,
+          0.833,
+          0.519,
+          0.755
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 70.3,
+        "rule_recommendation": "SHORTLIST",
+        "rule_3class": "shortlist",
+        "ml_recommendation": "shortlist",
+        "ml_probability": 0.572,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.87,
+          1.0,
+          0.328,
+          0.2,
+          0.833,
+          0.519,
+          0.755
+        ]
+      },
+      "score_delta_v2_minus_v1": 5.1,
+      "rule_improvement": true,
+      "ml_improvement": true
+    },
+    {
+      "pair_index": 13,
+      "resume_id": "resume_009",
+      "jd_id": "jd_010_mobile_developer",
+      "human_label": "MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Software developer with native Java/C++ object-oriented mobile foundations and API integration capability.",
+      "reviewer_evidence": "Java, C++, JavaScript, OOP, REST APIs, HTML, CSS",
+      "v1": {
+        "overall_fit_score": 62.3,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "review",
+        "ml_probability": 0.933,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.583,
+          1.0,
+          0.222,
+          0.9,
+          0.4,
+          0.537,
+          0.615
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 64.3,
+        "rule_recommendation": "SHORTLIST",
+        "rule_3class": "shortlist",
+        "ml_recommendation": "review",
+        "ml_probability": 0.889,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.617,
+          1.0,
+          0.222,
+          0.9,
+          0.5,
+          0.537,
+          0.615
+        ]
+      },
+      "score_delta_v2_minus_v1": 2.0,
+      "rule_improvement": true,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 14,
+      "resume_id": "resume_12085736",
+      "jd_id": "jd_001_fullstack_jr",
+      "human_label": "MATCH",
+      "human_3class": "shortlist",
+      "reviewer_notes": "Web developer with production JavaScript, HTML, CSS, SQL, and user authentication experience suitable for junior fullstack.",
+      "reviewer_evidence": "JavaScript, HTML, CSS, SQL, Authentication, REST APIs",
+      "v1": {
+        "overall_fit_score": 51.2,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.924,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.32,
+          1.0,
+          0.069,
+          0.8,
+          0.4,
+          0.492,
+          0.748
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 52.6,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.888,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.33,
+          1.0,
+          0.069,
+          0.8,
+          0.5,
+          0.492,
+          0.748
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.4,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 15,
+      "resume_id": "resume_12085736",
+      "jd_id": "jd_005_frontend_specialist",
+      "human_label": "REVIEW",
+      "human_3class": "review",
+      "reviewer_notes": "Has web foundations in JavaScript, HTML, CSS, but lacks modern React component framework and TypeScript.",
+      "reviewer_evidence": "JavaScript, HTML, CSS, SQL, Authentication",
+      "v1": {
+        "overall_fit_score": 51.5,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.902,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.267,
+          1.0,
+          0.063,
+          1.0,
+          0.4,
+          0.489,
+          0.748
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 52.8,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.86,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.275,
+          1.0,
+          0.063,
+          1.0,
+          0.5,
+          0.489,
+          0.748
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.3,
+      "rule_improvement": true,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 16,
+      "resume_id": "resume_10480456",
+      "jd_id": "jd_003_data_scientist",
+      "human_label": "REVIEW",
+      "human_3class": "review",
+      "reviewer_notes": "Director of R&D with machine learning exposure and scientific methodology, but limited hands-on deep learning coding.",
+      "reviewer_evidence": "Machine Learning, Statistics, Research, Leadership, Teamwork",
+      "v1": {
+        "overall_fit_score": 44.1,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.998,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.12,
+          1.0,
+          0.007,
+          0.9,
+          0.4,
+          0.438,
+          0.596
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 45.4,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.996,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.13,
+          1.0,
+          0.007,
+          0.9,
+          0.5,
+          0.438,
+          0.596
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.3,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 17,
+      "resume_id": "resume_13837784",
+      "jd_id": "jd_012_ui_ux_product_designer",
+      "human_label": "REVIEW",
+      "human_3class": "review",
+      "reviewer_notes": "Digital media background with creative assets, web banner formatting, and HTML; lacks formal Figma wireframing and UX research.",
+      "reviewer_evidence": "HTML, Digital Media, Creative Design, Excel, Communication",
+      "v1": {
+        "overall_fit_score": 42.4,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.998,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.059,
+          0.9,
+          0.4,
+          0.487,
+          0.715
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 43.3,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.998,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.059,
+          0.9,
+          0.5,
+          0.487,
+          0.715
+        ]
+      },
+      "score_delta_v2_minus_v1": 0.9,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 18,
+      "resume_id": "resume_059",
+      "jd_id": "jd_007_dotnet_engineer",
+      "human_label": "REVIEW",
+      "human_3class": "review",
+      "reviewer_notes": "C++ developer with strong OOP and software engineering discipline, but no direct C# or .NET framework experience.",
+      "reviewer_evidence": "C++, OOP, Python, SQL, Git, HTML, CSS",
+      "v1": {
+        "overall_fit_score": 13.4,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.0,
+          0.2,
+          0.006,
+          0.2,
+          0.2,
+          0.285,
+          0.502
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 25.0,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.2,
+          0.425,
+          0.006,
+          0.2,
+          0.3,
+          0.285,
+          0.502
+        ]
+      },
+      "score_delta_v2_minus_v1": 11.6,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 19,
+      "resume_id": "resume_10329506",
+      "jd_id": "jd_011_cybersecurity_analyst",
+      "human_label": "REVIEW",
+      "human_3class": "review",
+      "reviewer_notes": "Client service specialist with Linux system skills, access control, and regulatory compliance awareness; lacks SIEM/SOC.",
+      "reviewer_evidence": "Linux, Compliance, Access Controls, Excel, Communication",
+      "v1": {
+        "overall_fit_score": 42.5,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.3,
+          1.0,
+          0.0,
+          0.2,
+          0.4,
+          0.45,
+          0.609
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 44.3,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.325,
+          1.0,
+          0.0,
+          0.2,
+          0.5,
+          0.45,
+          0.609
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.8,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 20,
+      "resume_id": "sample_05_karan_verma_junior_btech",
+      "jd_id": "jd_004_devops_cloud",
+      "human_label": "REVIEW",
+      "human_3class": "review",
+      "reviewer_notes": "Junior BTech with Linux, Git, and Docker exposure, but lacks production Kubernetes, Terraform, and AWS cloud management.",
+      "reviewer_evidence": "Linux, Git, Docker, REST APIs, SQL, Data Structures",
+      "v1": {
+        "overall_fit_score": 24.1,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.0,
+          0.2,
+          0.032,
+          0.8,
+          0.333,
+          0.515,
+          0.612
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 24.0,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.0,
+          0.2,
+          0.032,
+          0.8,
+          0.333,
+          0.515,
+          0.612
+        ]
+      },
+      "score_delta_v2_minus_v1": -0.1,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 21,
+      "resume_id": "resume_040",
+      "jd_id": "jd_007_dotnet_engineer",
+      "human_label": "REVIEW",
+      "human_3class": "review",
+      "reviewer_notes": "Experienced Java Spring Boot backend engineer; core OOP and enterprise architecture knowledge transfers to .NET/C#.",
+      "reviewer_evidence": "Java, Spring Boot, Hibernate, SQL, Microservices, REST APIs",
+      "v1": {
+        "overall_fit_score": 54.9,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.625,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.4,
+          1.0,
+          0.056,
+          1.0,
+          0.4,
+          0.514,
+          0.605
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 56.0,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.553,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": false,
+        "features_7d": [
+          0.4,
+          1.0,
+          0.056,
+          1.0,
+          0.5,
+          0.514,
+          0.605
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.1,
+      "rule_improvement": true,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 22,
+      "resume_id": "resume_10076271",
+      "jd_id": "jd_001_fullstack_jr",
+      "human_label": "WEAK_MATCH",
+      "human_3class": "weak_match",
+      "reviewer_notes": "Executive leadership profile (CEO) with zero software engineering or web development skills.",
+      "reviewer_evidence": "Leadership, Excel, Strategic Planning, Operations",
+      "v1": {
+        "overall_fit_score": 41.8,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.049,
+          0.9,
+          0.4,
+          0.42,
+          0.77
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 42.8,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.049,
+          0.9,
+          0.5,
+          0.42,
+          0.77
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 23,
+      "resume_id": "resume_10005171",
+      "jd_id": "jd_008_network_engineer",
+      "human_label": "WEAK_MATCH",
+      "human_3class": "weak_match",
+      "reviewer_notes": "Media activities and communications specialist with no IP networking, routing, or telecom hardware background.",
+      "reviewer_evidence": "Leadership, Media Relations, Public Relations, Communication",
+      "v1": {
+        "overall_fit_score": 40.9,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.0,
+          0.9,
+          0.4,
+          0.42,
+          0.748
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 41.9,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.0,
+          0.9,
+          0.5,
+          0.42,
+          0.748
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 24,
+      "resume_id": "resume_10062724",
+      "jd_id": "jd_008_network_engineer",
+      "human_label": "WEAK_MATCH",
+      "human_3class": "weak_match",
+      "reviewer_notes": "Psychiatric healthcare and crisis helpline background with no IT infrastructure or network engineering skills.",
+      "reviewer_evidence": "Excel, Teamwork, Crisis Intervention, Healthcare Documentation",
+      "v1": {
+        "overall_fit_score": 40.6,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.0,
+          0.9,
+          0.4,
+          0.41,
+          0.697
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 41.6,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.0,
+          0.9,
+          0.5,
+          0.41,
+          0.697
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 25,
+      "resume_id": "resume_13837784",
+      "jd_id": "jd_005_frontend_specialist",
+      "human_label": "WEAK_MATCH",
+      "human_3class": "weak_match",
+      "reviewer_notes": "Digital media buyer focusing on advertising campaigns; lacks frontend engineering, JavaScript, and React framework.",
+      "reviewer_evidence": "HTML, Excel, Media Buying, Digital Advertising, Communication",
+      "v1": {
+        "overall_fit_score": 41.3,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.035,
+          0.9,
+          0.4,
+          0.42,
+          0.715
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 42.3,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.035,
+          0.9,
+          0.5,
+          0.42,
+          0.715
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 26,
+      "resume_id": "resume_3547447",
+      "jd_id": "jd_001_fullstack_jr",
+      "human_label": "WEAK_MATCH",
+      "human_3class": "weak_match",
+      "reviewer_notes": "Mortgage banking foreclosure specialist with administrative finance background; no web programming experience.",
+      "reviewer_evidence": "Excel, Leadership, Banking Operations, Financial Compliance",
+      "v1": {
+        "overall_fit_score": 34.0,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.009,
+          0.2,
+          0.4,
+          0.42,
+          0.748
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 35.1,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.009,
+          0.2,
+          0.5,
+          0.42,
+          0.748
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.1,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 27,
+      "resume_id": "resume_11773767",
+      "jd_id": "jd_003_data_scientist",
+      "human_label": "WEAK_MATCH",
+      "human_3class": "weak_match",
+      "reviewer_notes": "Benefit advocate supervisor with general Excel usage; lacks machine learning, statistical modeling, and Python.",
+      "reviewer_evidence": "Excel, Teamwork, Problem Solving, Insurance Underwriting",
+      "v1": {
+        "overall_fit_score": 45.3,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.99,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.1,
+          1.0,
+          0.261,
+          0.7,
+          0.4,
+          0.42,
+          0.643
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 49.6,
+        "rule_recommendation": "REVIEW",
+        "rule_3class": "review",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.942,
+        "rule_agrees_with_human": false,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.21,
+          1.0,
+          0.261,
+          0.7,
+          0.5,
+          0.42,
+          0.643
+        ]
+      },
+      "score_delta_v2_minus_v1": 4.3,
+      "rule_improvement": false,
+      "ml_improvement": false
+    },
+    {
+      "pair_index": 28,
+      "resume_id": "resume_10251432",
+      "jd_id": "jd_008_network_engineer",
+      "human_label": "WEAK_MATCH",
+      "human_3class": "weak_match",
+      "reviewer_notes": "Corporate administrator focusing on office documentation and clerical tasks; no network infrastructure expertise.",
+      "reviewer_evidence": "Excel, C, Office Administration, Document Filing",
+      "v1": {
+        "overall_fit_score": 40.8,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 1.0,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.0,
+          0.9,
+          0.4,
+          0.42,
+          0.725
+        ]
+      },
+      "v2": {
+        "overall_fit_score": 41.8,
+        "rule_recommendation": "WEAK_MATCH",
+        "rule_3class": "weak_match",
+        "ml_recommendation": "weak_match",
+        "ml_probability": 0.999,
+        "rule_agrees_with_human": true,
+        "ml_agrees_with_human": true,
+        "features_7d": [
+          0.0,
+          1.0,
+          0.0,
+          0.9,
+          0.5,
+          0.42,
+          0.725
+        ]
+      },
+      "score_delta_v2_minus_v1": 1.0,
+      "rule_improvement": false,
+      "ml_improvement": false
+    }
+  ]
+}

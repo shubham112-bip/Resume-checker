@@ -1,0 +1,23 @@
+Vinit Surve
+Email: vinit.surve@example.com | Phone: 9823456789
+LinkedIn: linkedin.com/in/vinitsurve | GitHub: github.com/vinitsurve
+
+Profile Summary:
+Full stack software engineer with 1.5 years experience designing modern client-server architectures, web endpoints and relational databases.
+
+Education:
+Master of Computer Applications (MCA), 2023
+
+Core Competencies:
+JavaScript, Express.js, React.js, PostgreSQL, Git, Web Services
+
+Professional Experience:
+Junior Web Developer at CloudScale Solutions (Aug 2023 - Present)
+• Built RESTful backend web services using Express framework and JavaScript.
+• Developed interactive Single Page Applications using React component hierarchy.
+• Engineered relational database schemas and complex stored procedures in PostgreSQL.
+• Implemented client-server HTTP communication and secure JSON endpoints.
+
+Academic Projects:
+Healthcare Analytics Portal:
+Built an interactive clinical monitoring dashboard using React. Connected to an Express backend serving structured RESTful web APIs.

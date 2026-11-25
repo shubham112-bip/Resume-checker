@@ -1,0 +1,156 @@
+{
+  "resume_id": "resume_001",
+  "resumeId": "resume_001",
+  "fileName": "1.docx",
+  "candidateName": "Professional Skills",
+  "skills": [
+    "Java",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "jQuery",
+    "Git",
+    "SQL",
+    "MySQL",
+    "MongoDB",
+    "OOP",
+    "Spring Boot",
+    "Hibernate",
+    "REST APIs",
+    "Unit Testing",
+    "Postman",
+    "Linux",
+    "Microservices",
+    "Authentication",
+    "Bootstrap"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": "Computer Science and Information Technology",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "2000 - 2005: master's degree in Computer Science and Information Technology."
+    }
+  ],
+  "experience": [
+    {
+      "title": ": Backend JAVA developer, (Israel, Rehovot)",
+      "organization": "Latest project: Participation in the development of a microservice architecture for a system for storing educational information.",
+      "start": "2020",
+      "end": "now",
+      "durationMonths": 82,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Areas of responsibility:",
+        "Developed backend website application - RESTful Web service (Spring Boot Starter Web);",
+        "Authentication/Authorization (Spring Security);",
+        "Working with MongoDB, MySQL;",
+        "Writing and running junit tests, fixing defects",
+        "Email feedback.",
+        "JSON web token for user authentication using Swagger UI to render and interact with API, REST, HTTPS.",
+        "Tools summary: Spring Boot, Spring Security, Hibernate ORM, JSON, REST, MySQL, MongoDB, Java Persistence API, Maven, JDBC, Apache Tomcat, JUnit, HTML5, CSS3."
+      ]
+    },
+    {
+      "title": ": Full stack JAVA developer, Bank Otkritie (Russia, Moscow)",
+      "organization": "Preparation of non-standard reports by executing queries to SQL databases. Creating a simple web interface for entering a request and getting the result in a user-friendly form (HTML, CCS, Bootstrap, JavaScript).",
+      "start": "2017",
+      "end": "2019",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Performed hardware and software installations and provided high-level customer care, training, and technical support."
+      ]
+    },
+    {
+      "title": ": Software R-Style language developer, Privatbank (Ukraine, Dnepr)",
+      "organization": "Performed hardware and software installations and provided high-level customer care, training, and technical support.",
+      "start": "2005",
+      "end": "2017",
+      "durationMonths": 155,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Introduction of changes in the terms of service for bank products into the business logic of the program code.(R-Style Language)."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Java",
+    "JavaScript"
+  ],
+  "raw_text": "\u2022 Java full stack developer\n(60% \u2013 IN JAVA BACKEND DEVELOPMENT AND 40% \u2013 IN WEB FRONTEND)\n3+ years of experience FullStack development and 5+ total experience in software development\nphone********** linkedIn\n\nlocation Bat Yam email\n\nProfessional Skills\nProgramming languages: Java, JavaScript.\nWeb: HTML5/CSS3, JQuery, Bootstrap3\nEnvironments \u2013 IDE/tools: Eclipse, IntelliJ IDEA, GitHub.\nDatabases: SQL (MySQL), NoSQL (MongoDB).\nTechnologies & Frameworks: OOP, AOP, Spring MVC, JPA, Hibernate, JDBC, SpringBoot, Spring Security, Spring Web, REST, JSON, Maven, Junit, Git, Postman.\nSystems: Linux, Windows.\n\nProfessional Experience\n2020 - now: Backend JAVA developer, (Israel, Rehovot)\nLatest project: Participation in the development of a microservice architecture for a system for storing educational information.\nAreas of responsibility:\nDeveloped backend website application - RESTful Web service (Spring Boot Starter Web);\nAuthentication/Authorization (Spring Security);\nWorking with MongoDB, MySQL;\nWriting and running junit tests, fixing defects\nEmail feedback.\nJSON web token for user authentication using Swagger UI to render and interact with API, REST, HTTPS.\nTools summary: Spring Boot, Spring Security, Hibernate ORM, JSON, REST, MySQL, MongoDB, Java Persistence API, Maven, JDBC, Apache Tomcat, JUnit, HTML5, CSS3.\n\n2017 \u2013 2019: Full stack JAVA developer, Bank Otkritie (Russia, Moscow)\nPreparation of non-standard reports by executing queries to SQL databases. Creating a simple web interface for entering a request and getting the result in a user-friendly form (HTML, CCS, Bootstrap, JavaScript).\nPerformed hardware and software installations and provided high-level customer care, training, and technical support.\n\n2005 - 2017: Software R-Style language developer, Privatbank (Ukraine, Dnepr)\nPerformed hardware and software installations and provided high-level customer care, training, and technical support.\nIntroduction of changes in the terms of service for bank products into the business logic of the program code.(R-Style Language).\n\nEducation\n2000 - 2005: master's degree in Computer Science and Information Technology.\nSpecialization: design and production of electronic computing systems.\nNational Technical University of Ukraine\n\nOther\nLanguages: English, Hebrew, Russian, Ukrainian.\nRecommendations are available upon request",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 261,
+  "experienceYears": 21.8,
+  "sections": {
+    "header": "\u2022 Java full stack developer\n(60% \u2013 IN JAVA BACKEND DEVELOPMENT AND 40% \u2013 IN WEB FRONTEND)\n3+ years of experience FullStack development and 5+ total experience in software development\nphone********** linkedIn\n\nlocation Bat Yam email\n\nProfessional Skills\nProgramming languages: Java, JavaScript.\nWeb: HTML5/CSS3, JQuery, Bootstrap3\nEnvironments \u2013 IDE/tools: Eclipse, IntelliJ IDEA, GitHub.\nDatabases: SQL (MySQL), NoSQL (MongoDB).\nTechnologies & Frameworks: OOP, AOP, Spring MVC, JPA, Hibernate, JDBC, SpringBoot, Spring Security, Spring Web, REST, JSON, Maven, Junit, Git, Postman.\nSystems: Linux, Windows.",
+    "experience": "2020 - now: Backend JAVA developer, (Israel, Rehovot)\nLatest project: Participation in the development of a microservice architecture for a system for storing educational information.\nAreas of responsibility:\nDeveloped backend website application - RESTful Web service (Spring Boot Starter Web);\nAuthentication/Authorization (Spring Security);\nWorking with MongoDB, MySQL;\nWriting and running junit tests, fixing defects\nEmail feedback.\nJSON web token for user authentication using Swagger UI to render and interact with API, REST, HTTPS.\nTools summary: Spring Boot, Spring Security, Hibernate ORM, JSON, REST, MySQL, MongoDB, Java Persistence API, Maven, JDBC, Apache Tomcat, JUnit, HTML5, CSS3.\n\n2017 \u2013 2019: Full stack JAVA developer, Bank Otkritie (Russia, Moscow)\nPreparation of non-standard reports by executing queries to SQL databases. Creating a simple web interface for entering a request and getting the result in a user-friendly form (HTML, CCS, Bootstrap, JavaScript).\nPerformed hardware and software installations and provided high-level customer care, training, and technical support.\n\n2005 - 2017: Software R-Style language developer, Privatbank (Ukraine, Dnepr)\nPerformed hardware and software installations and provided high-level customer care, training, and technical support.\nIntroduction of changes in the terms of service for bank products into the business logic of the program code.(R-Style Language).",
+    "education": "2000 - 2005: master's degree in Computer Science and Information Technology.\nSpecialization: design and production of electronic computing systems.\nNational Technical University of Ukraine\n\nOther",
+    "other": "English, Hebrew, Russian, Ukrainian.\nRecommendations are available upon request"
+  },
+  "metadata": {
+    "fileName": "1.docx",
+    "candidateName": "Professional Skills",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 261,
+    "experienceYears": 21.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2355,
+      "wordCount": 315,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 69.0,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.7,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "developed"
+    ],
+    "quantifiedBulletsCount": 2,
+    "totalBulletsCount": 10,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 69.0/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

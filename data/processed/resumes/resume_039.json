@@ -1,0 +1,121 @@
+{
+  "resume_id": "resume_039",
+  "resumeId": "resume_039",
+  "fileName": "39.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Python",
+    "Bash",
+    "Java",
+    "C++",
+    "Flask",
+    "Django",
+    "Selenium",
+    "Unit Testing",
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "SQL Server",
+    "Redis",
+    "Git",
+    "Jira",
+    "Communication",
+    "Linux",
+    "C"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Developer"
+  ],
+  "raw_text": "[REDACTED - not used for evaluation]\nSUMMARY\nSKILLS & EXPERTISE\nLooking for a job as a Server Side Python Developer or Backend Python Programming languages:\nDeveloper. Python, Python3\n:Enterprise\nmanagement experience in different profit and nonprofit organizations. Bash\nPerl, Java, C++\nAble to effectively self-manage during independent projects, as well as\ncollaborate in a team setting.\nWeb frameworks and CRM:\nExperience in developing projects from scratch, as well as dealing with a\nFlask\nlegacy codebase.\nDjango\nMojolicious\nEXPERIENCE Wordpress\nAutomated testing frameworks:\nFreelance Software Development Feb. 2012 Present\nSelenium\nProjects shortlist: pytest\nDeveloped a custom python tool for administering large amount servers unittest\nfleet running on several providers.\nDeveloped Yandex Alice (voice assistant) integration with smart home SQL Servers:\nMySQL\nhardware provider Teplomonitor with Flask.\npostgresql\nDeveloped Selenium automation tests for Zharov Attorney's internal ERP\nMSSQL\nsystem with python. Made some improvements to this perl Mojolicious\nsqlite3\nbased ERP system. Project management and system administration as\nwell.\nNoSQL:\nDeveloped and supported a custom python program to transfer data Redis\nfrom most popular Russian business software suite 1C:Enterprise into\nMSSQL database for OLAP cube reporting. Code Version Systems:\ngit, cvs\ngithub, bitbucket\nProduct Manager Jun. 2011 Nov. 2013\nIssue Tracking Systems\nAnti-Corruption Foundation NGO\nBugzilla\nJira\nManaged RosYama project development.\nTrello\nManaged communication between RosYama users, lawyers, Megaplan\nprogrammers, system administrators and project donors to achieve\nstable user base growth. Operational Systems:\nCommunicated with Moscow city authorities to make integration Linux\nWindows\nbetween RosYama and Moscow city government site mos.ru.\nCreated a solid forum-based self-moderated community.\nWiki Engines:\nMediaWiki\nWaka Wiki\nQA Team Leader Jan. 2010 Mar. 2012\nYandex ltd\nLanguages\nDeveloped brand new automated testing framework for 1C:Enterprise\n8.0 business software suite from scratch on its internal programming Russian Native\nlanguage as Yandex needs it for upcoming IPO. English Fluent\nDeveloped about 1000 automated test, based on this system. Hebrew Beginner\nHead of IT department Jul. 2001 Dec. 2009 EDUCATION\nAlterplast ltd\n1984 1994\nSupervised every IT aspect of Alterlplast from the very beginning of the\nHigh School #218 Moscow, Russia,\ncompany. Created strong IT department with best industry practices involved: graduated as Laboratory assistant-\nBugzilla as bug tracker. Programmer\nCVS as code version system.\nwaka wiki as internal wiki for specs. 1994 1997\nDeveloped from scratch brand new automated testing framework for Studied chemistry at Moscow State\nUniversity\n1C:Enterprise 7.7 business software suite (written on an internal\nprogramming language).\nDeveloped a C++ program to integrate 1C:Enterprise internal code\nstorage with any Version Control Systems.\nDeveloped CVS and git commits integration with Bugzilla bug tracker.\nTuned and supported companys accounting program as 1C\nprogrammer.\nSupported and managed the 1C++ community (MediaWiki, Yabb forum,\nCVS repo, Bugzilla bugtracker).\nSoftware Developer Nov. 1998 Jun. C: Automatisation\nDeveloped new features for 1C:Enterprise on its own internal\nprogramming languages for different clients with very different needs\nvaries from single user local database up to 30 user distributed networks\nsystems based on MSSQL server.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "SKILLS & EXPERTISE\nLooking for a job as a Server Side Python Developer or Backend Python Programming languages:\nDeveloper. Python, Python3\n:Enterprise\nmanagement experience in different profit and nonprofit organizations. Bash\nPerl, Java, C++\nAble to effectively self-manage during independent projects, as well as\ncollaborate in a team setting.\nWeb frameworks and CRM:\nExperience in developing projects from scratch, as well as dealing with a\nFlask\nlegacy codebase.\nDjango\nMojolicious\nEXPERIENCE Wordpress\nAutomated testing frameworks:\nFreelance Software Development Feb. 2012 Present\nSelenium\nProjects shortlist: pytest\nDeveloped a custom python tool for administering large amount servers unittest\nfleet running on several providers.\nDeveloped Yandex Alice (voice assistant) integration with smart home SQL Servers:\nMySQL\nhardware provider Teplomonitor with Flask.\npostgresql\nDeveloped Selenium automation tests for Zharov Attorney's internal ERP\nMSSQL\nsystem with python. Made some improvements to this perl Mojolicious\nsqlite3\nbased ERP system. Project management and system administration as\nwell.\nNoSQL:\nDeveloped and supported a custom python program to transfer data Redis\nfrom most popular Russian business software suite 1C:Enterprise into\nMSSQL database for OLAP cube reporting. Code Version Systems:\ngit, cvs\ngithub, bitbucket\nProduct Manager Jun. 2011 Nov. 2013\nIssue Tracking Systems\nAnti-Corruption Foundation NGO\nBugzilla\nJira\nManaged RosYama project development.\nTrello\nManaged communication between RosYama users, lawyers, Megaplan\nprogrammers, system administrators and project donors to achieve\nstable user base growth. Operational Systems:\nCommunicated with Moscow city authorities to make integration Linux\nWindows\nbetween RosYama and Moscow city government site mos.ru.\nCreated a solid forum-based self-moderated community.\nWiki Engines:\nMediaWiki\nWaka Wiki\nQA Team Leader Jan. 2010 Mar. 2012\nYandex ltd",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "[REDACTED - not used for evaluation]",
+    "summary": "SKILLS & EXPERTISE\nLooking for a job as a Server Side Python Developer or Backend Python Programming languages:\nDeveloper. Python, Python3\n:Enterprise\nmanagement experience in different profit and nonprofit organizations. Bash\nPerl, Java, C++\nAble to effectively self-manage during independent projects, as well as\ncollaborate in a team setting.\nWeb frameworks and CRM:\nExperience in developing projects from scratch, as well as dealing with a\nFlask\nlegacy codebase.\nDjango\nMojolicious\nEXPERIENCE Wordpress\nAutomated testing frameworks:\nFreelance Software Development Feb. 2012 Present\nSelenium\nProjects shortlist: pytest\nDeveloped a custom python tool for administering large amount servers unittest\nfleet running on several providers.\nDeveloped Yandex Alice (voice assistant) integration with smart home SQL Servers:\nMySQL\nhardware provider Teplomonitor with Flask.\npostgresql\nDeveloped Selenium automation tests for Zharov Attorney's internal ERP\nMSSQL\nsystem with python. Made some improvements to this perl Mojolicious\nsqlite3\nbased ERP system. Project management and system administration as\nwell.\nNoSQL:\nDeveloped and supported a custom python program to transfer data Redis\nfrom most popular Russian business software suite 1C:Enterprise into\nMSSQL database for OLAP cube reporting. Code Version Systems:\ngit, cvs\ngithub, bitbucket\nProduct Manager Jun. 2011 Nov. 2013\nIssue Tracking Systems\nAnti-Corruption Foundation NGO\nBugzilla\nJira\nManaged RosYama project development.\nTrello\nManaged communication between RosYama users, lawyers, Megaplan\nprogrammers, system administrators and project donors to achieve\nstable user base growth. Operational Systems:\nCommunicated with Moscow city authorities to make integration Linux\nWindows\nbetween RosYama and Moscow city government site mos.ru.\nCreated a solid forum-based self-moderated community.\nWiki Engines:\nMediaWiki\nWaka Wiki\nQA Team Leader Jan. 2010 Mar. 2012\nYandex ltd",
+    "other": "Developed brand new automated testing framework for 1C:Enterprise\n8.0 business software suite from scratch on its internal programming Russian Native\nlanguage as Yandex needs it for upcoming IPO. English Fluent\nDeveloped about 1000 automated test, based on this system. Hebrew Beginner\nHead of IT department Jul. 2001 Dec. 2009 EDUCATION\nAlterplast ltd\n1984 1994\nSupervised every IT aspect of Alterlplast from the very beginning of the\nHigh School #218 Moscow, Russia,\ncompany. Created strong IT department with best industry practices involved: graduated as Laboratory assistant-\nBugzilla as bug tracker. Programmer\nCVS as code version system.\nwaka wiki as internal wiki for specs. 1994 1997\nDeveloped from scratch brand new automated testing framework for Studied chemistry at Moscow State\nUniversity\n1C:Enterprise 7.7 business software suite (written on an internal\nprogramming language).\nDeveloped a C++ program to integrate 1C:Enterprise internal code\nstorage with any Version Control Systems.\nDeveloped CVS and git commits integration with Bugzilla bug tracker.\nTuned and supported companys accounting program as 1C\nprogrammer.\nSupported and managed the 1C++ community (MediaWiki, Yabb forum,\nCVS repo, Bugzilla bugtracker).\nSoftware Developer Nov. 1998 Jun. C: Automatisation\nDeveloped new features for 1C:Enterprise on its own internal\nprogramming languages for different clients with very different needs\nvaries from single user local database up to 30 user distributed networks\nsystems based on MSSQL server."
+  },
+  "metadata": {
+    "fileName": "39.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 3529,
+      "wordCount": 490,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 67.0,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.25,
+    "atsReadabilityScore": 0.55,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "automated",
+      "created",
+      "developed",
+      "managed",
+      "supervised"
+    ],
+    "quantifiedBulletsCount": 14,
+    "totalBulletsCount": 58,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (automated, created, developed, managed, supervised)."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 67.0/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

@@ -1,0 +1,22 @@
+Job Title: DevOps & Cloud Platform Engineer
+Experience: 2-5 years
+Education: BTech, BE, MCA or equivalent in Computer Science / IT
+
+Responsibilities:
+- Design and automate cloud infrastructure deployments on Amazon Web Services (AWS)
+- Maintain production Kubernetes clusters and containerized microservices
+- Author Infrastructure-as-Code modules using Terraform
+- Build automated continuous integration and continuous deployment (CI/CD) pipelines
+
+Required Skills:
+- AWS
+- Docker
+- Kubernetes
+- Linux
+- CI/CD
+
+Preferred Skills:
+- Terraform
+- Python
+- Bash
+- Nginx

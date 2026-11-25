@@ -1,0 +1,122 @@
+{
+  "resume_id": "sample_11_rohit_kulkarni_sales_operations",
+  "resumeId": "sample_11_rohit_kulkarni_sales_operations",
+  "fileName": "11_rohit_kulkarni_sales_operations.txt",
+  "candidateName": "Rohit Kulkarni",
+  "skills": [
+    "Excel",
+    "Communication",
+    "Leadership"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": "BBA",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sales Associate at Apex Commercial Services ( - )",
+      "organization": "",
+      "start": "Jun 2022",
+      "end": "Present",
+      "durationMonths": 53,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Managed outbound sales prospecting campaigns, generating 140+ qualified enterprise leads per quarter.",
+        "Maintained customer account records and opportunity stages in Salesforce CRM database.",
+        "Prepared weekly sales pipeline reports and executive slide decks for regional leadership reviews.",
+        "Negotiated pricing proposals and coordinated contract execution with enterprise clients."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Rohit Kulkarni\n[REDACTED - not used for evaluation]\nLinkedIn: linkedin.com/in/rohitkulkarni\n\nCareer Profile:\nSales Operations and Business Development professional with 2 years of experience in enterprise lead qualification, CRM pipeline management, and client relationship building.\n\nEducation:\nBachelor of Business Administration (BBA), 2022\n\nCore Competencies:\nSales Operations, Lead Generation, CRM Management, Microsoft Excel, Client Communication, Contract Negotiation\n\nProfessional Experience:\nSales Associate at Apex Commercial Services (Jun 2022 - Present)\n\u2022 Managed outbound sales prospecting campaigns, generating 140+ qualified enterprise leads per quarter.\n\u2022 Maintained customer account records and opportunity stages in Salesforce CRM database.\n\u2022 Prepared weekly sales pipeline reports and executive slide decks for regional leadership reviews.\n\u2022 Negotiated pricing proposals and coordinated contract execution with enterprise clients.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/rohitkulkarni",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 53,
+  "experienceYears": 4.4,
+  "sections": {
+    "header": "Rohit Kulkarni\n[REDACTED - not used for evaluation]\nLinkedIn: linkedin.com/in/rohitkulkarni\n\nCareer Profile:\nSales Operations and Business Development professional with 2 years of experience in enterprise lead qualification, CRM pipeline management, and client relationship building.",
+    "education": "Bachelor of Business Administration (BBA), 2022",
+    "skills": "Sales Operations, Lead Generation, CRM Management, Microsoft Excel, Client Communication, Contract Negotiation",
+    "experience": "Sales Associate at Apex Commercial Services (Jun 2022 - Present)\n\u2022 Managed outbound sales prospecting campaigns, generating 140+ qualified enterprise leads per quarter.\n\u2022 Maintained customer account records and opportunity stages in Salesforce CRM database.\n\u2022 Prepared weekly sales pipeline reports and executive slide decks for regional leadership reviews.\n\u2022 Negotiated pricing proposals and coordinated contract execution with enterprise clients."
+  },
+  "metadata": {
+    "fileName": "11_rohit_kulkarni_sales_operations.txt",
+    "candidateName": "Rohit Kulkarni",
+    "fileType": "TXT",
+    "totalExperienceMonths": 53,
+    "experienceYears": 4.4,
+    "diagnostics": {
+      "fileType": "txt",
+      "parserUsed": "plain text (utf-8)",
+      "pageCount": 1,
+      "charCount": 971,
+      "wordCount": 118,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "education",
+      "skills",
+      "experience"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 66.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.7,
+    "quantificationScore": 0.85,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "coordinated",
+      "managed",
+      "negotiated"
+    ],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 4,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 66.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

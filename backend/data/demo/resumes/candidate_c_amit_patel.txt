@@ -1,0 +1,22 @@
+Amit Patel
+Email: amit.patel@example.com | Phone: 9811223344
+LinkedIn: linkedin.com/in/amitpatel
+
+Summary:
+React React React Node.js Node.js Node.js AWS AWS AWS SQL SQL SQL developer seeking full stack roles.
+
+Education:
+BCA in Computer Applications, 2022
+
+Technical Skills:
+React, React, React, Node.js, Node.js, Node.js, JavaScript, JavaScript, SQL, SQL, SQL, AWS, AWS, AWS, Docker, Docker
+
+Experience:
+Sales Operations Associate at Retail Corp (Jan 2023 - Present)
+• Managed Excel sales spreadsheets and weekly inventory reporting.
+• Maintained customer relationship data in CRM databases.
+• Prepared presentation slides for monthly executive review meetings.
+
+Projects:
+Calculator App:
+Created a basic desktop arithmetic calculator using Python Tkinter.

@@ -1,0 +1,149 @@
+{
+  "resume_id": "resume_041",
+  "resumeId": "resume_041",
+  "fileName": "41.docx",
+  "candidateName": "Fullstack Web Developer",
+  "skills": [
+    "Vue.js",
+    "Angular",
+    "REST APIs",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Node.js",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "SQLite",
+    "MySQL",
+    "MongoDB",
+    "Agile",
+    "Microservices",
+    "WebSockets"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Description: Development of a program for visualizing various data on a geographic map. Structuring",
+      "organization": "information for display and processing. Developing part of Business Logic that moved to Client Side.",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "present Intelos (Tel Aviv, Israel) Web FrontEnd Developer",
+        "Responsibilities: Development and support of the client side of the project based on the Vue framework",
+        "using modern techniques and technologies. Also supporting API on backend, e.g. controllers.",
+        "Technologies used: HTML5, CSS3 ,VueJs 2, EcmaScript, JavaScript",
+        "Britannica (Tel Aviv, Israel) Web Full Stack Developer",
+        "Description: Knowledgebase project with time and resource management for educational processes in",
+        "commercial specialized educational institutions.",
+        "Responsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution",
+        "(ASPX) to newest solutions and technologies(Angular 7+, NodeJS microservices), refactored code.",
+        "Technologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket, MongoDB",
+        "Athena (Holon, Israel) Web Front End Developer",
+        "Description: Documentation accounting system. Search engine for seeking information in open sources",
+        "and building structured knowledge base with internal search.",
+        "Responsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest",
+        "solutions and technologies.",
+        "Technologies used: HTML5, CSS3, Angular(2+), Typescript, NodeJS, WebSocket, MongoDB, Neo4j"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Hebrew",
+    "English",
+    "Russian"
+  ],
+  "raw_text": "Fullstack Web Developer\n[REDACTED - not used for evaluation]\nResidence: Hadera Languages: Hebrew, English, Russian\nExperience Summary\nWEB technologies: VueJs, Angular, Webpack, REST, HTML, CSS, BootStrap, NodeJS\nProgramming languages: JavaScript, Typescript, Python, Perl\nDataBases: SQLite, MySQL, MongoDB, neo4j, tinyDB, SnowFlake\nMethodology : Agile, Waterfall, SCRUM\nExperience\n- present Intelos (Tel Aviv, Israel) Web FrontEnd Developer\nDescription: Development of a program for visualizing various data on a geographic map. Structuring\ninformation for display and processing. Developing part of Business Logic that moved to Client Side.\nResponsibilities: Development and support of the client side of the project based on the Vue framework\nusing modern techniques and technologies. Also supporting API on backend, e.g. controllers.\nTechnologies used: HTML5, CSS3 ,VueJs 2, EcmaScript, JavaScript\n- Britannica (Tel Aviv, Israel) Web Full Stack Developer\nDescription: Knowledgebase project with time and resource management for educational processes in\ncommercial specialized educational institutions.\nResponsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution\n(ASPX) to newest solutions and technologies(Angular 7+, NodeJS microservices), refactored code.\nTechnologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket, MongoDB\n- Athena (Holon, Israel) Web Front End Developer\nDescription: Documentation accounting system. Search engine for seeking information in open sources\nand building structured knowledge base with internal search.\nResponsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest\nsolutions and technologies.\nTechnologies used: HTML5, CSS3, Angular(2+), Typescript, NodeJS, WebSocket, MongoDB, Neo4j\nEducation\n- National Mining University, Dnipropetrovsk Ukraine\nDegree: Computer Science Master Degree\nRecommendations available upon request.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Fullstack Web Developer\n[REDACTED - not used for evaluation]\nResidence: Hadera Languages: Hebrew, English, Russian\nExperience Summary\nWEB technologies: VueJs, Angular, Webpack, REST, HTML, CSS, BootStrap, NodeJS\nProgramming languages: JavaScript, Typescript, Python, Perl\nDataBases: SQLite, MySQL, MongoDB, neo4j, tinyDB, SnowFlake\nMethodology : Agile, Waterfall, SCRUM",
+    "experience": "- present Intelos (Tel Aviv, Israel) Web FrontEnd Developer\nDescription: Development of a program for visualizing various data on a geographic map. Structuring\ninformation for display and processing. Developing part of Business Logic that moved to Client Side.\nResponsibilities: Development and support of the client side of the project based on the Vue framework\nusing modern techniques and technologies. Also supporting API on backend, e.g. controllers.\nTechnologies used: HTML5, CSS3 ,VueJs 2, EcmaScript, JavaScript\n- Britannica (Tel Aviv, Israel) Web Full Stack Developer\nDescription: Knowledgebase project with time and resource management for educational processes in\ncommercial specialized educational institutions.\nResponsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution\n(ASPX) to newest solutions and technologies(Angular 7+, NodeJS microservices), refactored code.\nTechnologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket, MongoDB\n- Athena (Holon, Israel) Web Front End Developer\nDescription: Documentation accounting system. Search engine for seeking information in open sources\nand building structured knowledge base with internal search.\nResponsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest\nsolutions and technologies.\nTechnologies used: HTML5, CSS3, Angular(2+), Typescript, NodeJS, WebSocket, MongoDB, Neo4j",
+    "education": "- National Mining University, Dnipropetrovsk Ukraine\nDegree: Computer Science Master Degree\nRecommendations available upon request."
+  },
+  "metadata": {
+    "fileName": "41.docx",
+    "candidateName": "Fullstack Web Developer",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1927,
+      "wordCount": 247,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 68.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.7,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "migrated",
+      "optimized",
+      "refactored"
+    ],
+    "quantifiedBulletsCount": 4,
+    "totalBulletsCount": 16,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 68.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

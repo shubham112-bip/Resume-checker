@@ -1,0 +1,23 @@
+Rahul Sharma
+Email: rahul.sharma@example.com | Phone: 9876543210
+LinkedIn: linkedin.com/in/rahulsharma-dev | GitHub: github.com/rahulsharma
+
+Professional Summary:
+Passionate Full Stack Developer with 1.5 years of experience building scalable web applications. Proficient in React, Node.js, and SQL databases.
+
+Education:
+BTech in Computer Science, 2023
+
+Technical Skills:
+React, Node.js, JavaScript, Express, SQL, PostgreSQL, REST APIs, Git, Docker
+
+Work Experience:
+Software Engineer at Acme Technologies (Jul 2023 - Present)
+• Developed responsive user interfaces using React and Tailwind CSS.
+• Built RESTful backend APIs with Node.js and Express for customer portal.
+• Designed and optimized PostgreSQL queries and relational database schemas.
+• Containerized microservices using Docker for automated cloud deployments.
+
+Projects:
+E-Commerce Web Platform:
+Full-stack web application built using React, Node.js, Express, and SQL database. Integrated JWT authentication and Stripe checkout.

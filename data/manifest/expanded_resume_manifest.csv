@@ -1,0 +1,127 @@
+filename,file_path,resume_id,file_type,word_count,parsing_status,extracted_skill_count,specialization,status,duplicate_status,source
+01_rahul_sharma_fullstack.pdf,data/resumes/01_rahul_sharma_fullstack.pdf,sample_01_rahul_sharma_fullstack,PDF,183,SUCCESS,18,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+02_vinit_surve_semantic_backend.pdf,data/resumes/02_vinit_surve_semantic_backend.pdf,sample_02_vinit_surve_semantic_backend,PDF,177,SUCCESS,8,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+03_amit_patel_keyword_stuffing.pdf,data/resumes/03_amit_patel_keyword_stuffing.pdf,sample_03_amit_patel_keyword_stuffing,PDF,119,SUCCESS,9,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+04_sneha_rao_data_scientist.docx,data/resumes/04_sneha_rao_data_scientist.docx,sample_04_sneha_rao_data_scientist,DOCX,173,SUCCESS,14,Sales & Marketing,EXISTING,UNIQUE,SAMPLE_REFERENCE
+05_karan_verma_junior_btech.docx,data/resumes/05_karan_verma_junior_btech.docx,sample_05_karan_verma_junior_btech,DOCX,137,SUCCESS,11,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+06_ananya_iyer_devops_cloud.pdf,data/resumes/06_ananya_iyer_devops_cloud.pdf,sample_06_ananya_iyer_devops_cloud,PDF,159,SUCCESS,11,Sales & Marketing,EXISTING,UNIQUE,SAMPLE_REFERENCE
+07_vikram_malhotra_java_backend.docx,data/resumes/07_vikram_malhotra_java_backend.docx,sample_07_vikram_malhotra_java_backend,DOCX,146,SUCCESS,11,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+08_priya_nair_frontend_specialist.pdf,data/resumes/08_priya_nair_frontend_specialist.pdf,sample_08_priya_nair_frontend_specialist,PDF,165,SUCCESS,11,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+09_rohan_mehta_mobile_developer.txt,data/resumes/09_rohan_mehta_mobile_developer.txt,sample_09_rohan_mehta_mobile_developer,TXT,151,SUCCESS,10,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+1.docx,data/resumes/1.docx,resume_001,DOCX,315,SUCCESS,19,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+10.docx,data/resumes/10.docx,resume_010,DOCX,277,SUCCESS,19,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+10005171.pdf,data/resumes/10005171.pdf,resume_10005171,PDF,772,SUCCESS,1,Media & Communications,NEW,UNIQUE,EXPANDED_CORPUS
+10062724.pdf,data/resumes/10062724.pdf,resume_10062724,PDF,1515,SUCCESS,2,Healthcare & Clinical,NEW,UNIQUE,EXPANDED_CORPUS
+10076271.pdf,data/resumes/10076271.pdf,resume_10076271,PDF,765,SUCCESS,2,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+10186968.pdf,data/resumes/10186968.pdf,resume_10186968,PDF,518,SUCCESS,3,Social Services & Advocacy,NEW,UNIQUE,EXPANDED_CORPUS
+10251432.pdf,data/resumes/10251432.pdf,resume_10251432,PDF,677,SUCCESS,2,Operations & Administration,NEW,UNIQUE,EXPANDED_CORPUS
+10329506.pdf,data/resumes/10329506.pdf,resume_10329506,PDF,634,SUCCESS,5,Customer & Client Services,NEW,UNIQUE,EXPANDED_CORPUS
+10344379.pdf,data/resumes/10344379.pdf,resume_10344379,PDF,663,SUCCESS,2,General Management & Operations,NEW,UNIQUE,EXPANDED_CORPUS
+10466208.pdf,data/resumes/10466208.pdf,resume_10466208,PDF,903,SUCCESS,3,Sales & Marketing,NEW,UNIQUE,EXPANDED_CORPUS
+10480456.pdf,data/resumes/10480456.pdf,resume_10480456,PDF,2072,SUCCESS,4,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+10515955.pdf,data/resumes/10515955.pdf,resume_10515955,PDF,772,SUCCESS,1,Media & Communications,NEW,UNIQUE,EXPANDED_CORPUS
+10554236.pdf,data/resumes/10554236.pdf,resume_10554236,PDF,3466,SUCCESS,3,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+10568183.pdf,data/resumes/10568183.pdf,resume_10568183,PDF,1000,SUCCESS,3,Operations & Administration,NEW,UNIQUE,EXPANDED_CORPUS
+10659182.pdf,data/resumes/10659182.pdf,resume_10659182,PDF,649,SUCCESS,2,Education & Training,NEW,UNIQUE,EXPANDED_CORPUS
+10674770.pdf,data/resumes/10674770.pdf,resume_10674770,PDF,1047,SUCCESS,3,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+10818478.pdf,data/resumes/10818478.pdf,resume_10818478,PDF,311,SUCCESS,2,General Management & Operations,NEW,UNIQUE,EXPANDED_CORPUS
+10909673.pdf,data/resumes/10909673.pdf,resume_10909673,PDF,786,SUCCESS,1,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+10_deepa_joshi_qa_automation.txt,data/resumes/10_deepa_joshi_qa_automation.txt,sample_10_deepa_joshi_qa_automation,TXT,142,SUCCESS,10,Sales & Marketing,EXISTING,UNIQUE,SAMPLE_REFERENCE
+11.docx,data/resumes/11.docx,resume_011,DOCX,602,SUCCESS,12,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+11005406.pdf,data/resumes/11005406.pdf,resume_11005406,PDF,811,SUCCESS,5,Software & Technology,NEW,UNIQUE,EXPANDED_CORPUS
+11065180.pdf,data/resumes/11065180.pdf,resume_11065180,PDF,615,SUCCESS,5,Operations & Administration,NEW,UNIQUE,EXPANDED_CORPUS
+11163645.pdf,data/resumes/11163645.pdf,resume_11163645,PDF,628,SUCCESS,1,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+11174187.pdf,data/resumes/11174187.pdf,resume_11174187,PDF,1314,SUCCESS,0,Healthcare & Clinical,NEW,UNIQUE,EXPANDED_CORPUS
+11188218.pdf,data/resumes/11188218.pdf,resume_11188218,PDF,820,SUCCESS,4,Social Services & Advocacy,NEW,UNIQUE,EXPANDED_CORPUS
+11262933.pdf,data/resumes/11262933.pdf,resume_11262933,PDF,878,SUCCESS,3,General Management & Operations,NEW,UNIQUE,EXPANDED_CORPUS
+11266906.pdf,data/resumes/11266906.pdf,resume_11266906,PDF,938,SUCCESS,4,Sales & Marketing,NEW,UNIQUE,EXPANDED_CORPUS
+11270462.pdf,data/resumes/11270462.pdf,resume_11270462,PDF,861,SUCCESS,1,Media & Communications,NEW,UNIQUE,EXPANDED_CORPUS
+11378657.pdf,data/resumes/11378657.pdf,resume_11378657,PDF,689,SUCCESS,3,Healthcare & Clinical,NEW,UNIQUE,EXPANDED_CORPUS
+11605833.pdf,data/resumes/11605833.pdf,resume_11605833,PDF,700,SUCCESS,3,Healthcare & Clinical,NEW,UNIQUE,EXPANDED_CORPUS
+11637468.pdf,data/resumes/11637468.pdf,resume_11637468,PDF,787,SUCCESS,3,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+11653906.pdf,data/resumes/11653906.pdf,resume_11653906,PDF,790,SUCCESS,2,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+11672279.pdf,data/resumes/11672279.pdf,resume_11672279,PDF,868,SUCCESS,3,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+11677012.pdf,data/resumes/11677012.pdf,resume_11677012,PDF,330,SUCCESS,5,Media & Communications,NEW,UNIQUE,EXPANDED_CORPUS
+11704150.pdf,data/resumes/11704150.pdf,resume_11704150,PDF,618,SUCCESS,2,Software & Technology,NEW,UNIQUE,EXPANDED_CORPUS
+11759079.pdf,data/resumes/11759079.pdf,resume_11759079,PDF,849,SUCCESS,2,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+11773767.pdf,data/resumes/11773767.pdf,resume_11773767,PDF,655,SUCCESS,3,Social Services & Advocacy,NEW,UNIQUE,EXPANDED_CORPUS
+11773925.pdf,data/resumes/11773925.pdf,resume_11773925,PDF,795,SUCCESS,3,Sales & Marketing,NEW,UNIQUE,EXPANDED_CORPUS
+11842348.pdf,data/resumes/11842348.pdf,resume_11842348,PDF,684,SUCCESS,1,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+11963737.pdf,data/resumes/11963737.pdf,resume_11963737,PDF,640,SUCCESS,5,Social Services & Advocacy,NEW,UNIQUE,EXPANDED_CORPUS
+11_rohit_kulkarni_sales_operations.txt,data/resumes/11_rohit_kulkarni_sales_operations.txt,sample_11_rohit_kulkarni_sales_operations,TXT,117,SUCCESS,3,Software & Technology,EXISTING,UNIQUE,SAMPLE_REFERENCE
+12.docx,data/resumes/12.docx,resume_012,DOCX,750,SUCCESS,25,Operations & Administration,EXISTING,UNIQUE,UPLOADED_REAL_65
+12065211.pdf,data/resumes/12065211.pdf,resume_12065211,PDF,783,SUCCESS,3,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+12085736.pdf,data/resumes/12085736.pdf,resume_12085736,PDF,767,SUCCESS,6,Software & Technology,NEW,UNIQUE,EXPANDED_CORPUS
+12171093.pdf,data/resumes/12171093.pdf,resume_12171093,PDF,497,SUCCESS,3,Social Services & Advocacy,NEW,UNIQUE,EXPANDED_CORPUS
+12202337.pdf,data/resumes/12202337.pdf,resume_12202337,PDF,742,SUCCESS,6,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+12338274.pdf,data/resumes/12338274.pdf,resume_12338274,PDF,810,SUCCESS,0,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+12442909.pdf,data/resumes/12442909.pdf,resume_12442909,PDF,656,SUCCESS,5,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+12544735.pdf,data/resumes/12544735.pdf,resume_12544735,PDF,468,SUCCESS,3,Social Services & Advocacy,NEW,UNIQUE,EXPANDED_CORPUS
+12780508.pdf,data/resumes/12780508.pdf,resume_12780508,PDF,994,SUCCESS,2,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+12802330.pdf,data/resumes/12802330.pdf,resume_12802330,PDF,817,SUCCESS,3,Finance & Accounting,NEW,UNIQUE,EXPANDED_CORPUS
+13.docx,data/resumes/13.docx,resume_013,DOCX,242,SUCCESS,21,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+13328680.pdf,data/resumes/13328680.pdf,resume_13328680,PDF,815,SUCCESS,5,Executive & Leadership,NEW,UNIQUE,EXPANDED_CORPUS
+13343786.pdf,data/resumes/13343786.pdf,resume_13343786,PDF,845,SUCCESS,3,Software & Technology,NEW,UNIQUE,EXPANDED_CORPUS
+13503650.pdf,data/resumes/13503650.pdf,resume_13503650,PDF,663,SUCCESS,4,Media & Communications,NEW,UNIQUE,EXPANDED_CORPUS
+13837784.pdf,data/resumes/13837784.pdf,resume_13837784,PDF,346,SUCCESS,3,Media & Communications,NEW,UNIQUE,EXPANDED_CORPUS
+14.docx,data/resumes/14.docx,resume_014,DOCX,498,SUCCESS,14,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+15.docx,data/resumes/15.docx,resume_015,DOCX,276,SUCCESS,16,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+16.docx,data/resumes/16.docx,resume_016,DOCX,179,SUCCESS,13,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+17.docx,data/resumes/17.docx,resume_017,DOCX,296,SUCCESS,17,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+18.docx,data/resumes/18.docx,resume_018,DOCX,282,SUCCESS,6,General Management & Operations,EXISTING,UNIQUE,UPLOADED_REAL_65
+19.docx,data/resumes/19.docx,resume_019,DOCX,320,SUCCESS,28,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+2.docx,data/resumes/2.docx,resume_002,DOCX,596,SUCCESS,19,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+20.docx,data/resumes/20.docx,resume_020,DOCX,192,SUCCESS,18,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+21.docx,data/resumes/21.docx,resume_021,DOCX,368,SUCCESS,8,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+22.docx,data/resumes/22.docx,resume_022,DOCX,244,SUCCESS,4,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+23.docx,data/resumes/23.docx,resume_023,DOCX,354,SUCCESS,18,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+24.docx,data/resumes/24.docx,resume_024,DOCX,223,SUCCESS,20,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+25.docx,data/resumes/25.docx,resume_025,DOCX,321,SUCCESS,20,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+26.docx,data/resumes/26.docx,resume_026,DOCX,356,SUCCESS,12,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+27.docx,data/resumes/27.docx,resume_027,DOCX,408,SUCCESS,17,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+28.docx,data/resumes/28.docx,resume_028,DOCX,457,SUCCESS,26,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+29.docx,data/resumes/29.docx,resume_029,DOCX,313,SUCCESS,20,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+3.docx,data/resumes/3.docx,resume_003,DOCX,318,SUCCESS,27,Software & Technology,NEAR_DUPLICATE,NEAR_DUPLICATE,UPLOADED_REAL_65
+30.docx,data/resumes/30.docx,resume_030,DOCX,144,SUCCESS,12,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+31.docx,data/resumes/31.docx,resume_031,DOCX,357,SUCCESS,24,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+32.docx,data/resumes/32.docx,resume_032,DOCX,496,SUCCESS,11,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+33.docx,data/resumes/33.docx,resume_033,DOCX,336,SUCCESS,19,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+34.docx,data/resumes/34.docx,resume_034,DOCX,237,SUCCESS,16,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+35.docx,data/resumes/35.docx,resume_035,DOCX,245,SUCCESS,8,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+3547447.pdf,data/resumes/3547447.pdf,resume_3547447,PDF,687,SUCCESS,3,General Management & Operations,NEW,UNIQUE,EXPANDED_CORPUS
+36.docx,data/resumes/36.docx,resume_036,DOCX,532,SUCCESS,6,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+37.docx,data/resumes/37.docx,resume_037,DOCX,213,SUCCESS,6,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+38.docx,data/resumes/38.docx,resume_038,DOCX,376,SUCCESS,8,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+39.docx,data/resumes/39.docx,resume_039,DOCX,489,SUCCESS,18,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+4.docx,data/resumes/4.docx,resume_004,DOCX,431,SUCCESS,19,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+40.docx,data/resumes/40.docx,resume_040,DOCX,281,SUCCESS,27,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+41.docx,data/resumes/41.docx,resume_041,DOCX,251,SUCCESS,16,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+42.docx,data/resumes/42.docx,resume_042,DOCX,182,SUCCESS,11,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+43.docx,data/resumes/43.docx,resume_043,DOCX,309,SUCCESS,17,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+44.docx,data/resumes/44.docx,resume_044,DOCX,171,SUCCESS,10,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+45.docx,data/resumes/45.docx,resume_045,DOCX,215,SUCCESS,16,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+46.docx,data/resumes/46.docx,resume_046,DOCX,332,SUCCESS,14,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+47.docx,data/resumes/47.docx,resume_047,DOCX,824,SUCCESS,12,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+48.docx,data/resumes/48.docx,resume_048,DOCX,205,SUCCESS,7,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+49.docx,data/resumes/49.docx,resume_049,DOCX,386,SUCCESS,20,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+5.docx,data/resumes/5.docx,resume_005,DOCX,314,SUCCESS,21,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+50.docx,data/resumes/50.docx,resume_050,DOCX,583,SUCCESS,7,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+51.docx,data/resumes/51.docx,resume_051,DOCX,218,SUCCESS,9,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+52.docx,data/resumes/52.docx,resume_052,DOCX,359,SUCCESS,20,Sales & Marketing,EXISTING,UNIQUE,UPLOADED_REAL_65
+53.docx,data/resumes/53.docx,resume_053,DOCX,217,SUCCESS,9,Software & Technology,NEAR_DUPLICATE,NEAR_DUPLICATE,UPLOADED_REAL_65
+54.docx,data/resumes/54.docx,resume_054,DOCX,256,SUCCESS,8,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+55.docx,data/resumes/55.docx,resume_055,DOCX,297,SUCCESS,23,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+56.docx,data/resumes/56.docx,resume_056,DOCX,221,SUCCESS,5,General Management & Operations,EXISTING,UNIQUE,UPLOADED_REAL_65
+57.docx,data/resumes/57.docx,resume_057,DOCX,284,SUCCESS,11,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+58.docx,data/resumes/58.docx,resume_058,DOCX,166,SUCCESS,6,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+59.docx,data/resumes/59.docx,resume_059,DOCX,73,SUCCESS,6,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+6.docx,data/resumes/6.docx,resume_006,DOCX,403,SUCCESS,33,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+60.docx,data/resumes/60.docx,resume_060,DOCX,183,SUCCESS,10,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+61.docx,data/resumes/61.docx,resume_061,DOCX,243,SUCCESS,20,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+62.docx,data/resumes/62.docx,resume_062,DOCX,216,SUCCESS,7,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+63.docx,data/resumes/63.docx,resume_063,DOCX,148,SUCCESS,6,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+64.docx,data/resumes/64.docx,resume_064,DOCX,305,SUCCESS,16,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+65.docx,data/resumes/65.docx,resume_065,DOCX,360,SUCCESS,2,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+7.docx,data/resumes/7.docx,resume_007,DOCX,406,SUCCESS,28,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+8.docx,data/resumes/8.docx,resume_008,DOCX,365,SUCCESS,12,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65
+9.docx,data/resumes/9.docx,resume_009,DOCX,354,SUCCESS,18,Software & Technology,EXISTING,UNIQUE,UPLOADED_REAL_65

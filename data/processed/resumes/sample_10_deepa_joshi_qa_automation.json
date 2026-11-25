@@ -1,0 +1,144 @@
+{
+  "resume_id": "sample_10_deepa_joshi_qa_automation",
+  "resumeId": "sample_10_deepa_joshi_qa_automation",
+  "fileName": "10_deepa_joshi_qa_automation.txt",
+  "candidateName": "Deepa Joshi",
+  "skills": [
+    "CI/CD",
+    "Selenium",
+    "Unit Testing",
+    "Python",
+    "Postman",
+    "REST APIs",
+    "Git",
+    "SQL",
+    "Microservices",
+    "HTML"
+  ],
+  "education": [
+    {
+      "degree": "BTech",
+      "degreeLevel": 2,
+      "field": "Information Technology",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BTech in Information Technology, 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Quality Assurance Engineer at Enterprise Soft ( - )",
+      "organization": "",
+      "start": "Jul 2021",
+      "end": "Present",
+      "durationMonths": 64,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Developed automated end-to-end regression test suite in Python and Selenium, reducing manual testing effort by 70%.",
+        "Authored comprehensive API integration tests in Postman and PyTest validating 120+ microservice endpoints.",
+        "Integrated test execution into Jenkins and GitHub Actions CI/CD pipelines for automated pull request gating.",
+        "Performed SQL backend database validations ensuring transaction data consistency."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Automated Web Test Framework",
+      "description": "Built modular Page Object Model framework in Python and Selenium with automated HTML test reporting.",
+      "technologies": [
+        "Python",
+        "Selenium",
+        "HTML"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Deepa Joshi\n[REDACTED - not used for evaluation]\nLinkedIn: linkedin.com/in/deepajoshi-qa\n\nProfessional Summary:\nQA Automation Engineer with 3 years of experience in automated test framework development, API validation, and continuous testing in CI/CD pipelines.\n\nEducation:\nBTech in Information Technology, 2021\n\nTechnical Skills:\nSelenium, PyTest, Unit Testing, Python, Postman, REST APIs, Git, CI/CD, SQL, Test Automation\n\nExperience:\nQuality Assurance Engineer at Enterprise Soft (Jul 2021 - Present)\n\u2022 Developed automated end-to-end regression test suite in Python and Selenium, reducing manual testing effort by 70%.\n\u2022 Authored comprehensive API integration tests in Postman and PyTest validating 120+ microservice endpoints.\n\u2022 Integrated test execution into Jenkins and GitHub Actions CI/CD pipelines for automated pull request gating.\n\u2022 Performed SQL backend database validations ensuring transaction data consistency.\n\nProjects:\nAutomated Web Test Framework:\nBuilt modular Page Object Model framework in Python and Selenium with automated HTML test reporting.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/deepajoshi-qa",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "QA Automation Engineer with 3 years of experience in automated test framework development, API validation, and continuous testing in CI/CD pipelines.",
+  "totalExperienceMonths": 64,
+  "experienceYears": 5.3,
+  "sections": {
+    "header": "Deepa Joshi\n[REDACTED - not used for evaluation]\nLinkedIn: linkedin.com/in/deepajoshi-qa",
+    "summary": "QA Automation Engineer with 3 years of experience in automated test framework development, API validation, and continuous testing in CI/CD pipelines.",
+    "education": "BTech in Information Technology, 2021",
+    "skills": "Selenium, PyTest, Unit Testing, Python, Postman, REST APIs, Git, CI/CD, SQL, Test Automation",
+    "experience": "Quality Assurance Engineer at Enterprise Soft (Jul 2021 - Present)\n\u2022 Developed automated end-to-end regression test suite in Python and Selenium, reducing manual testing effort by 70%.\n\u2022 Authored comprehensive API integration tests in Postman and PyTest validating 120+ microservice endpoints.\n\u2022 Integrated test execution into Jenkins and GitHub Actions CI/CD pipelines for automated pull request gating.\n\u2022 Performed SQL backend database validations ensuring transaction data consistency.",
+    "projects": "Automated Web Test Framework:\nBuilt modular Page Object Model framework in Python and Selenium with automated HTML test reporting."
+  },
+  "metadata": {
+    "fileName": "10_deepa_joshi_qa_automation.txt",
+    "candidateName": "Deepa Joshi",
+    "fileType": "TXT",
+    "totalExperienceMonths": 64,
+    "experienceYears": 5.3,
+    "diagnostics": {
+      "fileType": "txt",
+      "parserUsed": "plain text (utf-8)",
+      "pageCount": 1,
+      "charCount": 1086,
+      "wordCount": 143,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 74.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.7,
+    "quantificationScore": 1.0,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "automated",
+      "built",
+      "developed",
+      "integrated"
+    ],
+    "quantifiedBulletsCount": 2,
+    "totalBulletsCount": 5,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 74.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

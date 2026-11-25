@@ -1,0 +1,104 @@
+{
+  "resume_id": "resume_033",
+  "resumeId": "resume_033",
+  "fileName": "33.docx",
+  "candidateName": "Mob | Telegram |",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "Machine Learning",
+    "Flask",
+    "NumPy",
+    "Pandas",
+    "Docker",
+    "Microservices",
+    "Kubernetes",
+    "Django",
+    "MongoDB",
+    "CSS",
+    "Java",
+    "JavaScript",
+    "Node.js",
+    "HTML",
+    "TypeScript",
+    "Hibernate"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Native Russian",
+    "Upper-Intermediate English"
+  ],
+  "raw_text": "Mob | Telegram |\nEDUCATION\n2012 , November TINKOFF BANK (tinkoff.ru), Russia\n2022, February Senior Software Developer (Python)\nWas supporting legacy code and implementing new features. Stack: Python, Fastapi, Postgres,\nKafka\n2020, June MTS GROUP (mts.ru), Russia\n2021, August Python Developer\nCreated an api for ML model. Stack: Python, Flask, Postgres, Numpy, Pandas, Docker\nDeveloped (in a team of 5) an infrastructure service with microservice architecture. Was involved\nin creation of DAGs for Airflow, tasks for Celery. Was working with DB Postgres and Aerospike,\ndeveloping producers and consumers for Kafka and manifests for Kubernetes.\n2019, August FIRST LINE SOFTWARE (firstlinesoftware.com), Russia\n2020, June Python Developer\nIntegrated a back-end of Django-based online shop with Stripe API\nDeveloped an algorithm for making a graph acyclic by deleting a minimal number of edges\nIncreased by 10 times the speed of classification in ML model by optimizing business logic in\nPython code base\nProposed additional validation of ML models and improved F-score from 80 to 92%.\n2017, December KINODANZA (kinodanz.ru), Russia\n2019, August Python Developer\nCreated an application for distributed processing of 3-D models in local network (simplified\nanalogue of ftrack). This involved designing network and database architecture, developing a GUI\nand client-server interaction. Stack: Python 2.7, PySide, MongoDB, XML, CSS(QSS),\nQWebSocket\nEnhanced the security of companys internal data by creating a Python module for Windows\n(using Windows AD, win32api)\n2017, July AISA (aisa.ru), Russia\nDecember Web-Developer\nImproved companys product by finding and fixing logical bugs. Worked with: Java, Spring, JS,\nEXT.js, Node js, SOAP, SVN\nMade project build on Ant\n2016, July MAPPING, Russia\nSeptember SWE Intern\nCreated a web page for the company site using HTML, CSS and Typescript\nWas involved in back-end development. Learned basics of Java Spring, Hibernate, HQL\n2013, September DANONE, Russia\n2014, May Assistant in Department of Demand Planning\nWas preparing datasets for demand forecasting\nWorked with visualization tools (mostly Deductor) to present forecasting results to the\nmanagement\nADDITIONAL INFORMATION\nLanguages Native Russian, Upper-Intermediate English\nSports&Culture Basketball, chess\nNationality Russian, new repatriant in Israel",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Mob | Telegram |",
+    "education": "2012 , November TINKOFF BANK (tinkoff.ru), Russia\n2022, February Senior Software Developer (Python)\nWas supporting legacy code and implementing new features. Stack: Python, Fastapi, Postgres,\nKafka\n2020, June MTS GROUP (mts.ru), Russia\n2021, August Python Developer\nCreated an api for ML model. Stack: Python, Flask, Postgres, Numpy, Pandas, Docker\nDeveloped (in a team of 5) an infrastructure service with microservice architecture. Was involved\nin creation of DAGs for Airflow, tasks for Celery. Was working with DB Postgres and Aerospike,\ndeveloping producers and consumers for Kafka and manifests for Kubernetes.\n2019, August FIRST LINE SOFTWARE (firstlinesoftware.com), Russia\n2020, June Python Developer\nIntegrated a back-end of Django-based online shop with Stripe API\nDeveloped an algorithm for making a graph acyclic by deleting a minimal number of edges\nIncreased by 10 times the speed of classification in ML model by optimizing business logic in\nPython code base\nProposed additional validation of ML models and improved F-score from 80 to 92%.\n2017, December KINODANZA (kinodanz.ru), Russia\n2019, August Python Developer\nCreated an application for distributed processing of 3-D models in local network (simplified\nanalogue of ftrack). This involved designing network and database architecture, developing a GUI\nand client-server interaction. Stack: Python 2.7, PySide, MongoDB, XML, CSS(QSS),\nQWebSocket\nEnhanced the security of companys internal data by creating a Python module for Windows\n(using Windows AD, win32api)\n2017, July AISA (aisa.ru), Russia\nDecember Web-Developer\nImproved companys product by finding and fixing logical bugs. Worked with: Java, Spring, JS,\nEXT.js, Node js, SOAP, SVN\nMade project build on Ant\n2016, July MAPPING, Russia\nSeptember SWE Intern\nCreated a web page for the company site using HTML, CSS and Typescript\nWas involved in back-end development. Learned basics of Java Spring, Hibernate, HQL\n2013, September DANONE, Russia\n2014, May Assistant in Department of Demand Planning\nWas preparing datasets for demand forecasting\nWorked with visualization tools (mostly Deductor) to present forecasting results to the\nmanagement\nADDITIONAL INFORMATION\nLanguages Native Russian, Upper-Intermediate English\nSports&Culture Basketball, chess\nNationality Russian, new repatriant in Israel"
+  },
+  "metadata": {
+    "fileName": "33.docx",
+    "candidateName": "Mob | Telegram |",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2349,
+      "wordCount": 336,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 72.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "created",
+      "developed",
+      "enhanced",
+      "improved",
+      "increased",
+      "integrated"
+    ],
+    "quantifiedBulletsCount": 18,
+    "totalBulletsCount": 39,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (created, developed, enhanced, improved, increased).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 72.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

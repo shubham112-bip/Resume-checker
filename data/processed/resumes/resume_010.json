@@ -1,0 +1,155 @@
+{
+  "resume_id": "resume_010",
+  "resumeId": "resume_010",
+  "fileName": "10.docx",
+  "candidateName": "\u2022 WEB FRONTEND DEVELOPER",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "HTML",
+    "CSS",
+    "SASS",
+    "Node.js",
+    "React",
+    "React Native",
+    "Angular",
+    "jQuery",
+    "Redux",
+    "Bootstrap",
+    "Git",
+    "Figma",
+    "MySQL",
+    "Linux",
+    "WebSockets",
+    "Android"
+  ],
+  "education": [
+    {
+      "degree": "Diploma",
+      "degreeLevel": 1,
+      "field": "Engineering",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Diploma in Engineering, Heat supply, gas supply and ventilation."
+    }
+  ],
+  "experience": [
+    {
+      "title": ": Frontend developer (remote, part-time)",
+      "organization": "Support and development of game sites for cryptocurrencies casino.",
+      "start": "2021",
+      "end": "present",
+      "durationMonths": 70,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "WPG (Nitzana, Israel)",
+        "Development of a constructor and panel of social polls \"Lemur\". Improvement of functionality for entering other markets."
+      ]
+    },
+    {
+      "title": ": Frontend developer",
+      "organization": "Support and development of the functionality of a large network of auto parts stores.",
+      "start": "2017",
+      "end": "2021",
+      "durationMonths": 59,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "WPG (Kharkiv , Ukraine)",
+        "Support and development of game sites for cryptocurrencies casino. Development of new games with CSS and JavaScript animations. For one of the games, I developed an additional server part on NodeJS using WebSocket.",
+        "Development of a constructor and panel of social polls \"Lemur\". Direct participation in the creation of a product, concept, implementation in terms of interaction of online panels (web, iOS, Android), constructors, offline applications for taking surveys without the Internet. Development of a online panel application for surveys of respondents for iOS / Android using React Native.",
+        "Sometimes outsourcing of small projects."
+      ]
+    },
+    {
+      "title": ": HTML markup",
+      "organization": "Website layout (with pixel perfect, responsive, CSS and JS animations).",
+      "start": "2016",
+      "end": "2017",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "WPG (Kharkiv, Ukraine)",
+        "2016: Freelance",
+        "Kharkiv, Ukraine",
+        "HTML markup. PSD to HTML. WordPress plugins development."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "PHP"
+  ],
+  "raw_text": "\u2022 WEB FRONTEND DEVELOPER\n5 years of experience in frontend development\n\nEXPERIENCE SUMMARY\nProgramming languages: JavaScript, TypeScript, PHP\nWeb: HTML, CSS, SASS, JavaScript, TypeScript, Pug/Jade, Haml, NodeJS, Gulp, Webpack\nFrameworks: React, React Native, Angular\nLibraries: jQuery, Redux, RxJS, Chart.js, Anime.js, TinyMCE, Material UI, Bootstrap, Tilwind and more..\nEnvironments \u2013 IDE/tools: PhpStorm, VS Code, GitHub, Adobe Photoshop, Figma.\nDatabases: MySQL\nSystem: Windows, Linux, MacOS\n\nEXPERIENCE\n2021-present: Frontend developer (remote, part-time)\n-- WPG (Nitzana, Israel)\nSupport and development of game sites for cryptocurrencies casino.\nDevelopment of a constructor and panel of social polls \"Lemur\". Improvement of functionality for entering other markets.\n2017-2021: Frontend developer\n-- WPG (Kharkiv , Ukraine)\nSupport and development of the functionality of a large network of auto parts stores.\nSupport and development of game sites for cryptocurrencies casino. Development of new games with CSS and JavaScript animations. For one of the games, I developed an additional server part on NodeJS using WebSocket.\nDevelopment of a constructor and panel of social polls \"Lemur\". Direct participation in the creation of a product, concept, implementation in terms of interaction of online panels (web, iOS, Android), constructors, offline applications for taking surveys without the Internet. Development of a online panel application for surveys of respondents for iOS / Android using React Native.\nSometimes outsourcing of small projects.\n2016-2017: HTML markup\n-- WPG (Kharkiv, Ukraine)\nWebsite layout (with pixel perfect, responsive, CSS and JS animations).\n2016: Freelance\n-- Kharkiv, Ukraine\nHTML markup. PSD to HTML. WordPress plugins development.\n\nEDUCATION\n2012- 2017: O.M. Beketov National University of Urban Economy in Kharkiv.\nDiploma in Engineering, Heat supply, gas supply and ventilation.\n| Residence: Herzliya\n|\nLinkedIn: | Languages: English, Hebrew, Ukrainian, Russian",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 130,
+  "experienceYears": 10.8,
+  "sections": {
+    "header": "\u2022 WEB FRONTEND DEVELOPER\n5 years of experience in frontend development\n\nEXPERIENCE SUMMARY\nProgramming languages: JavaScript, TypeScript, PHP\nWeb: HTML, CSS, SASS, JavaScript, TypeScript, Pug/Jade, Haml, NodeJS, Gulp, Webpack\nFrameworks: React, React Native, Angular\nLibraries: jQuery, Redux, RxJS, Chart.js, Anime.js, TinyMCE, Material UI, Bootstrap, Tilwind and more..\nEnvironments \u2013 IDE/tools: PhpStorm, VS Code, GitHub, Adobe Photoshop, Figma.\nDatabases: MySQL\nSystem: Windows, Linux, MacOS",
+    "experience": "2021-present: Frontend developer (remote, part-time)\n-- WPG (Nitzana, Israel)\nSupport and development of game sites for cryptocurrencies casino.\nDevelopment of a constructor and panel of social polls \"Lemur\". Improvement of functionality for entering other markets.\n2017-2021: Frontend developer\n-- WPG (Kharkiv , Ukraine)\nSupport and development of the functionality of a large network of auto parts stores.\nSupport and development of game sites for cryptocurrencies casino. Development of new games with CSS and JavaScript animations. For one of the games, I developed an additional server part on NodeJS using WebSocket.\nDevelopment of a constructor and panel of social polls \"Lemur\". Direct participation in the creation of a product, concept, implementation in terms of interaction of online panels (web, iOS, Android), constructors, offline applications for taking surveys without the Internet. Development of a online panel application for surveys of respondents for iOS / Android using React Native.\nSometimes outsourcing of small projects.\n2016-2017: HTML markup\n-- WPG (Kharkiv, Ukraine)\nWebsite layout (with pixel perfect, responsive, CSS and JS animations).\n2016: Freelance\n-- Kharkiv, Ukraine\nHTML markup. PSD to HTML. WordPress plugins development.",
+    "education": "2012- 2017: O.M. Beketov National University of Urban Economy in Kharkiv.\nDiploma in Engineering, Heat supply, gas supply and ventilation.\n| Residence: Herzliya\n|\nLinkedIn: | Languages: English, Hebrew, Ukrainian, Russian"
+  },
+  "metadata": {
+    "fileName": "10.docx",
+    "candidateName": "\u2022 WEB FRONTEND DEVELOPER",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 130,
+    "experienceYears": 10.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2002,
+      "wordCount": 277,
+      "imageCount": 0,
+      "tableCount": 1,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 64.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.55,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "developed"
+    ],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 10,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 64.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

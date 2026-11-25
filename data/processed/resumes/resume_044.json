@@ -1,0 +1,131 @@
+{
+  "resume_id": "resume_044",
+  "resumeId": "resume_044",
+  "fileName": "44.docx",
+  "candidateName": "Back-end Developer",
+  "skills": [
+    "Git",
+    "PHP",
+    "Python",
+    "C++",
+    "Laravel",
+    "Flask",
+    "MySQL",
+    "Linux",
+    "REST APIs",
+    "Authentication"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "PHP Developer (9 month)",
+      "organization": "Unique Technologies LLC - Dnipro, Ukraine",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Developed server side of web and mobile applications using PHP, MySQL",
+        "Wrote new applications components and edited old ones using Laravel 5",
+        "Worked with team of developers to resolved Front-End and Back-End issues",
+        "Worked with GitFlow",
+        "WEB Developer (5 month)",
+        "Concord Bank - Dnipro, Ukraine",
+        "Maintained web application using php, Laravel",
+        "Developer of bank services",
+        "Worked with GitFlow",
+        "PHP Developer (4 month)",
+        "cheapfortrip.ru - Dnipro, Ukraine",
+        "Developed small projects in PHP (backend, API)",
+        "Used Symfony 4, MySQL."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Php",
+    "Python",
+    "C++"
+  ],
+  "raw_text": "Back-end Developer\nMobile phone:\n[REDACTED - not used for evaluation]\nGit:\nLocation: Petah Tikva, Israel\nProfessional skills:\nLanguages: Php, Python, C++\nFrameworks: Laravel, Symfony, flask\nDB: MySQL\nOS: Linux, Windows\nOther: Git, Composer, REST API, RedMine, Trello, JWT, Apache\nWork experience:\nPHP Developer (9 month)\nUnique Technologies LLC - Dnipro, Ukraine\nDeveloped server side of web and mobile applications using PHP, MySQL\nWrote new applications components and edited old ones using Laravel 5\nWorked with team of developers to resolved Front-End and Back-End issues\nWorked with GitFlow\nWEB Developer (5 month)\nConcord Bank - Dnipro, Ukraine\nMaintained web application using php, Laravel\nDeveloper of bank services\nWorked with GitFlow\nPHP Developer (4 month)\ncheapfortrip.ru - Dnipro, Ukraine\nDeveloped small projects in PHP (backend, API)\nUsed Symfony 4, MySQL.\nEducation:\n2018 Hillel IT school php development\nNTUDP (Dnipro Polytechnic National Technical University). Computer engineering\nDNURT (Dnipro National University of Rail Transport). Computer engineering\nLanguages knowledge:\nHebrew Beginner\nEnglish Fluent\nRussian Native, Ukrainian Native\nRecommendations:\nUnique Technologies LLC - Dnipro, Ukraine\nAlex Stepanov",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Back-end Developer\nMobile phone:\n[REDACTED - not used for evaluation]\nGit:\nLocation: Petah Tikva, Israel\nProfessional skills:",
+    "other": "Php, Python, C++\nFrameworks: Laravel, Symfony, flask\nDB: MySQL\nOS: Linux, Windows\nOther: Git, Composer, REST API, RedMine, Trello, JWT, Apache",
+    "experience": "PHP Developer (9 month)\nUnique Technologies LLC - Dnipro, Ukraine\nDeveloped server side of web and mobile applications using PHP, MySQL\nWrote new applications components and edited old ones using Laravel 5\nWorked with team of developers to resolved Front-End and Back-End issues\nWorked with GitFlow\nWEB Developer (5 month)\nConcord Bank - Dnipro, Ukraine\nMaintained web application using php, Laravel\nDeveloper of bank services\nWorked with GitFlow\nPHP Developer (4 month)\ncheapfortrip.ru - Dnipro, Ukraine\nDeveloped small projects in PHP (backend, API)\nUsed Symfony 4, MySQL.",
+    "education": "2018 Hillel IT school php development\nNTUDP (Dnipro Polytechnic National Technical University). Computer engineering\nDNURT (Dnipro National University of Rail Transport). Computer engineering\nLanguages knowledge:\nHebrew Beginner\nEnglish Fluent\nRussian Native, Ukrainian Native\nRecommendations:\nUnique Technologies LLC - Dnipro, Ukraine\nAlex Stepanov"
+  },
+  "metadata": {
+    "fileName": "44.docx",
+    "candidateName": "Back-end Developer",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1212,
+      "wordCount": 167,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "other",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 65.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "developed",
+      "resolved"
+    ],
+    "quantifiedBulletsCount": 4,
+    "totalBulletsCount": 13,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 65.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

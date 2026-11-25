@@ -1,0 +1,106 @@
+{
+  "resume_id": "resume_025",
+  "resumeId": "resume_025",
+  "fileName": "25.docx",
+  "candidateName": "Auth0, PowerBI, SSRS, Git;",
+  "skills": [
+    ".NET",
+    "C#",
+    "GraphQL",
+    "TypeScript",
+    "Angular",
+    "Bootstrap",
+    "Node.js",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "SQL Server",
+    "SQL",
+    "Redis",
+    "MongoDB",
+    "Azure",
+    "AWS",
+    "Power BI",
+    "Git",
+    "Leadership",
+    "Communication"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Education Bachelor's degree 01/2022"
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": ", Senior .NET Engineer, \"\n, , 36 \" ,\nSkills C#, .NET Core, Web API, GraphQL, ASP.NET MVC, TypeScript, Angular 4+, RxJS,\nNgRx, NGXS, Bootstrap, Material, Node.js, Expres, HTML, CSS, MS SQL, EF Core,\nDapper, Redis, MongoDB, Database design, T-SQL, LINQ, MS Dynamics CRM;\nMicrosoft Azure: AppService, Functions, Service Bus, Redis, Queues, Key-\nVault, Application Insights; Azure DevOps; AWS; DigitalOcean, Heroku;\nAuth0, PowerBI, SSRS, Git;\nWork experience 04/2022 07/2022 (project employment)\nFull Stack Engineer, , Jerusalem, Israel\nDesigned and developed the educational application for the teachers and students using .NET Core, Angular\n13, and MongoDB.\n08/2021 07/2022 (project employment)\n.NET Team/Tech Lead, Management Consultant, A-TeamGlobal, Zaporizhya, Ukraine\nWorking as a team lead on a backend of mobile project related to European political parties, set up an working\nenvironment and proper SDLC, providing management and delivery consultations to company management,\nclosely working with customers with working scope negotiations, considering human resources, participating\nin interviews.\n04/2020 08/2021\n.NET Team Lead, WebLegends Kyiv, Ukraine\nLeading software development of two projects simultaneously, making a decision about the technical stack\nand priorities, allocating human resources, communicating with stakeholders.\n10/2019 03/2020 (project employment)\nBootcamp Manager/.NET Teacher, Tbilisi, Georgia\nLecturing programming classes for several groups of students, managing another teaching members, creating\nworkflow for final students project including creating project from scratch, setting up all the development and\ntask tracking environments, supervising of creating specifications and prototypes for project, leading 15\ntrainee developers finishing MVP and making demo.\n02/2011 10/2019\n.NET Developer, various companies, Ukraine\nWeb development using ASP.NET MVC, Web API, JavaScript.\nEducation Bachelor's degree 01/2022\nMykolaiv Building College Ethereum Blockchain Developer Bootcamp With\nSoftware Engineering Solidity Udemy\n09/2008 - 06//2021\nFlashloans EatTheBlocks\n01/2014\nASP.NET MVC Advanced CyberBionicSystematics\n06/2013\nC# for Professionals CyberBionicSystematics\nAbout Have perfect communication skills, decent experience in mentorship and education.\nIm amateur runner, have completed certificate of first aid courses, good sense of humor.\nHebrew \\ , English professional proficiency, Ukrainian/Russian native.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": ", Senior .NET Engineer, \"\n, , 36 \" ,\nSkills C#, .NET Core, Web API, GraphQL, ASP.NET MVC, TypeScript, Angular 4+, RxJS,\nNgRx, NGXS, Bootstrap, Material, Node.js, Expres, HTML, CSS, MS SQL, EF Core,\nDapper, Redis, MongoDB, Database design, T-SQL, LINQ, MS Dynamics CRM;\nMicrosoft Azure: AppService, Functions, Service Bus, Redis, Queues, Key-\nVault, Application Insights; Azure DevOps; AWS; DigitalOcean, Heroku;\nAuth0, PowerBI, SSRS, Git;\nWork experience 04/2022 07/2022 (project employment)\nFull Stack Engineer, , Jerusalem, Israel\nDesigned and developed the educational application for the teachers and students using .NET Core, Angular\n13, and MongoDB.\n08/2021 07/2022 (project employment)\n.NET Team/Tech Lead, Management Consultant, A-TeamGlobal, Zaporizhya, Ukraine\nWorking as a team lead on a backend of mobile project related to European political parties, set up an working\nenvironment and proper SDLC, providing management and delivery consultations to company management,\nclosely working with customers with working scope negotiations, considering human resources, participating\nin interviews.\n04/2020 08/2021\n.NET Team Lead, WebLegends Kyiv, Ukraine\nLeading software development of two projects simultaneously, making a decision about the technical stack\nand priorities, allocating human resources, communicating with stakeholders.\n10/2019 03/2020 (project employment)\nBootcamp Manager/.NET Teacher, Tbilisi, Georgia\nLecturing programming classes for several groups of students, managing another teaching members, creating\nworkflow for final students project including creating project from scratch, setting up all the development and\ntask tracking environments, supervising of creating specifications and prototypes for project, leading 15\ntrainee developers finishing MVP and making demo.\n02/2011 10/2019\n.NET Developer, various companies, Ukraine\nWeb development using ASP.NET MVC, Web API, JavaScript.\nEducation Bachelor's degree 01/2022\nMykolaiv Building College Ethereum Blockchain Developer Bootcamp With\nSoftware Engineering Solidity Udemy\n09/2008 - 06//2021\nFlashloans EatTheBlocks\n01/2014\nASP.NET MVC Advanced CyberBionicSystematics\n06/2013\nC# for Professionals CyberBionicSystematics\nAbout Have perfect communication skills, decent experience in mentorship and education.\nIm amateur runner, have completed certificate of first aid courses, good sense of humor.\nHebrew \\ , English professional proficiency, Ukrainian/Russian native."
+  },
+  "metadata": {
+    "fileName": "25.docx",
+    "candidateName": "Auth0, PowerBI, SSRS, Git;",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2453,
+      "wordCount": 321,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 65.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "designed",
+      "developed"
+    ],
+    "quantifiedBulletsCount": 11,
+    "totalBulletsCount": 37,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 65.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

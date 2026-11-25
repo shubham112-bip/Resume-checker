@@ -1,0 +1,24 @@
+Job Title: Mobile Application Engineer
+Experience: 2-5 years
+Education: Bachelor degree in Computer Science, Information Technology, or equivalent
+
+Responsibilities:
+- Develop, maintain, and publish cross-platform and native mobile applications for iOS and Android
+- Implement clean, responsive user interfaces and smooth animations based on design wireframes
+- Integrate mobile apps with secure backend RESTful APIs, WebSockets, and third-party SDKs
+- Optimize mobile application performance, battery efficiency, and local offline data storage
+
+Required Skills:
+- Flutter
+- React Native
+- Mobile Development
+- REST APIs
+- Git
+- JavaScript
+
+Preferred Skills:
+- Android
+- iOS
+- Dart
+- Swift
+- GraphQL

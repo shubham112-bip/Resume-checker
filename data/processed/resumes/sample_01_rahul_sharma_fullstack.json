@@ -1,0 +1,171 @@
+{
+  "resume_id": "sample_01_rahul_sharma_fullstack",
+  "resumeId": "sample_01_rahul_sharma_fullstack",
+  "fileName": "01_rahul_sharma_fullstack.pdf",
+  "candidateName": "Rahul Sharma",
+  "skills": [
+    "React",
+    "Node.js",
+    "JavaScript",
+    "TypeScript",
+    "Express",
+    "SQL",
+    "PostgreSQL",
+    "REST APIs",
+    "Git",
+    "Docker",
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "Microservices",
+    "CI/CD",
+    "Authentication",
+    "WebSockets",
+    "Redis"
+  ],
+  "education": [
+    {
+      "degree": "BTech",
+      "degreeLevel": 2,
+      "field": "Computer Science & Engineering",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BTech in Computer Science & Engineering, National Institute of Technology, 2022 (GPA: 8.7/10)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer at Acme Technologies ( - )",
+      "organization": "32%.",
+      "start": "Jul 2022",
+      "end": "Present",
+      "durationMonths": 52,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Architected and deployed responsive client dashboards using React and TypeScript, increasing user session engagement by",
+        "Developed scalable backend microservices using Node.js and Express, handling over 500,000 daily API requests with <50ms",
+        "latency.",
+        "Optimized complex PostgreSQL queries and indexing strategies, reducing average report generation time by 45%.",
+        "Containerized application components using Docker and streamlined deployment using automated GitHub Actions CI/CD."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Commerce Cloud Platform",
+      "description": "Engineered full-stack retail application using React, Node.js, and PostgreSQL. Integrated Stripe payment gateway and JWT authentication.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "PostgreSQL",
+        "Authentication"
+      ]
+    },
+    {
+      "name": "Real-Time Chat Microservice",
+      "description": "Built WebSockets messaging backend in Node.js with Redis pub/sub handling 10k concurrent connections.",
+      "technologies": [
+        "Microservices",
+        "WebSockets",
+        "Node.js",
+        "JavaScript",
+        "Redis"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Rahul Sharma\nFull Stack Software Engineer | [EMAIL REDACTED] | +91 98765 43210 | linkedin.com/in/rahulsharma-dev |\ngithub.com/rahulsharma\n\nProfessional Summary\nResults-oriented Full Stack Developer with 2 years of professional experience building scalable web applications. Proficient in\nReact, Node.js, and relational database systems.\n\nEducation\nBTech in Computer Science & Engineering, National Institute of Technology, 2022 (GPA: 8.7/10)\n\nTechnical Skills\nReact, Node.js, JavaScript, TypeScript, Express, SQL, PostgreSQL, REST APIs, Git, Docker, HTML5, CSS3, Tailwind CSS\n\nWork Experience\nSoftware Engineer at Acme Technologies (Jul 2022 - Present)\n\u2022 Architected and deployed responsive client dashboards using React and TypeScript, increasing user session engagement by\n32%.\n\u2022 Developed scalable backend microservices using Node.js and Express, handling over 500,000 daily API requests with <50ms\nlatency.\n\u2022 Optimized complex PostgreSQL queries and indexing strategies, reducing average report generation time by 45%.\n\u2022 Containerized application components using Docker and streamlined deployment using automated GitHub Actions CI/CD.\n\nProjects\nE-Commerce Cloud Platform: Engineered full-stack retail application using React, Node.js, and PostgreSQL. Integrated Stripe\npayment gateway and JWT authentication.\nReal-Time Chat Microservice: Built WebSockets messaging backend in Node.js with Redis pub/sub handling 10k concurrent\nconnections.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/rahulsharma-dev",
+    "github": "github.com/rahulsharma",
+    "portfolio": null
+  },
+  "summary": "Results-oriented Full Stack Developer with 2 years of professional experience building scalable web applications. Proficient in\nReact, Node.js, and relational database systems.",
+  "totalExperienceMonths": 52,
+  "experienceYears": 4.3,
+  "sections": {
+    "header": "Rahul Sharma\nFull Stack Software Engineer | [EMAIL REDACTED] | +91 98765 43210 | linkedin.com/in/rahulsharma-dev |\ngithub.com/rahulsharma",
+    "summary": "Results-oriented Full Stack Developer with 2 years of professional experience building scalable web applications. Proficient in\nReact, Node.js, and relational database systems.",
+    "education": "BTech in Computer Science & Engineering, National Institute of Technology, 2022 (GPA: 8.7/10)",
+    "skills": "React, Node.js, JavaScript, TypeScript, Express, SQL, PostgreSQL, REST APIs, Git, Docker, HTML5, CSS3, Tailwind CSS",
+    "experience": "Software Engineer at Acme Technologies (Jul 2022 - Present)\n\u2022 Architected and deployed responsive client dashboards using React and TypeScript, increasing user session engagement by\n32%.\n\u2022 Developed scalable backend microservices using Node.js and Express, handling over 500,000 daily API requests with <50ms\nlatency.\n\u2022 Optimized complex PostgreSQL queries and indexing strategies, reducing average report generation time by 45%.\n\u2022 Containerized application components using Docker and streamlined deployment using automated GitHub Actions CI/CD.",
+    "projects": "E-Commerce Cloud Platform: Engineered full-stack retail application using React, Node.js, and PostgreSQL. Integrated Stripe\npayment gateway and JWT authentication.\nReal-Time Chat Microservice: Built WebSockets messaging backend in Node.js with Redis pub/sub handling 10k concurrent\nconnections."
+  },
+  "metadata": {
+    "fileName": "01_rahul_sharma_fullstack.pdf",
+    "candidateName": "Rahul Sharma",
+    "fileType": "PDF",
+    "totalExperienceMonths": 52,
+    "experienceYears": 4.3,
+    "diagnostics": {
+      "fileType": "pdf",
+      "parserUsed": "PyMuPDF (layout text)",
+      "pageCount": 1,
+      "charCount": 1452,
+      "wordCount": 182,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 82.2,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 1.0,
+    "quantificationScore": 1.0,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "architected",
+      "automated",
+      "built",
+      "deployed",
+      "developed",
+      "engineered",
+      "integrated",
+      "optimized",
+      "streamlined"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 7,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (architected, automated, built, deployed, developed).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 82.2/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

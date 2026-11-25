@@ -1,0 +1,109 @@
+{
+  "resume_id": "resume_012",
+  "resumeId": "resume_012",
+  "fileName": "12.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Communication",
+    "Problem Solving",
+    "Time Management",
+    "Leadership",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "SQL",
+    "PostgreSQL",
+    "Agile",
+    "Redux",
+    "HTML",
+    "Node.js",
+    "Express",
+    "SQL Server",
+    "Unit Testing",
+    "REST APIs",
+    "Git",
+    "Jira",
+    "Statistics",
+    "Next.js",
+    "CSS",
+    "C++",
+    "C#",
+    ".NET"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "systems",
+    "complexes"
+  ],
+  "raw_text": "Haifa, Israel Languages Personal qualities Quick learner Flexibility Communication skills Problem solving Time management Leadership Critical thinking Education Computing machines, systems, complexes, and networks 2006 \u2013 2012 Moscow Aviation Institute (National Research University) Honours degree | Front End developer Summary A senior web developer with 10+ years development experience. Created both the web and the mobile applications utilizing JavaScript, Typescript, React. Have full-Stack development experience and deep knowledge of the databases (SQL, PostgreSQL). Participated in more than 10 successful projects. Implemented several projects from the scratch (combined the roles of a developer and a project/product manager), and in other projects led the development teams. Experience Front End Team lead / Senior Developer 2020 \u2013 Present AviaBit Performed a developer role while leading the web and mobile application development team. Main projects: \u00abAviabit Web\u00bb \u2014 a personal account application for airline/airport employees; \u00abPersonal account of the cashier\u00bb application; \u00abElectronic Flight Bag\u00bb application. Responsibilities: Coding for at least 60% of work time, Defining the stack and architecture, creating projects from scratch to successful industrial implementation, Hiring, adaptation and development of new team members, Creation and implementation of code quality standards and code style, Strategic planning, building Scrum processes within the team, Support and development of previously created projects, Participation in conferences and product presentations. Key achievements: Created \u00abAviabit Web\u00bb \u2014 a personal account application for the airline/airport employees: Progressive Web Application adapted for the mobile devices with an ability to work offline. Implemented technically complex solutions: aircraft movement schedule (thousands of interactive objects displayed inside SVG); flight map (displaying airports, meteorological information, aircraft routes); interactive aircraft ground handling scoreboard; platform for personnel training and testing, Led the project to launch and implement \u00abAviabit Web\u00bb in 30+ airlines and airports. The users working with the application daily in some of the companies: 1000+ people (pilots, flight attendants, airport service workers, managers). Stack: React, Redux, TypeScript, JS, ES6, D3, HTML, Material-UI, NodeJS, Express, T-SQL, Webpack, Jest, REST, JSON, GIT, TFS, JIRA, Trello. Senior Front End Developer 2021 \u2013 Present School Tennis League Part-time, socially significant project. Participating in the project which develops amateur tennis. Responsibilities: Creating a web application with Server-Side Rendering SSR from the scratch. Writing a code for the key functionalities, Application publication and support, Review of developers\u2019 and designers\u2019 work. Key achievements: Contributed to a creation of the first amateur children's tennis league, in which non-professional children can participate in tournaments, Implemented and launched a project with SSR in a short time: player's personal account (payment, statistics, registration for tournaments), functionality for referees (automatically generated tournament grid, account management, training platform). Stack: React, Redux, TypeScript, JS, ES6, HTML, Material-UI, Next.JS, SSR, PostgreSQL, Jest, Babel, GIT. Senior developer 2014 \u2013 2020 Aviabit Developed applications: \u00abElectronic Flight Bag\u00bb for pilots; the company's business card website; \u00abCashier's Personal account\u00bb. Responsibilities: Web applications creation and support Work on the company's first iPad app \u2014 \u00abElectronic Flight Bag\u00bb, Communication with customers (pilots and navigators): collecting requirements, feedback analysis, product roadmap development, Application architecture design, Apache Cordova application development using React in WebView, Backend development (NodeJS, Express), Application building and publishing on the App Store. Key achievements: A leading role in creation of the Electronic Flight Bag pilot tablet application, that allowed the pilots to work with navigational information, fill out a flight report and have access to the necessary documentation. Implementation of complex technical tasks: merge data, dynamic generation of forms based on the config, mathematical calculations when editing the route of the aircraft, optimization of the interface, solving problems with the use of the device's RAM when synchronizing data. Stack: React, Redux, JS, ES6, HTML, CSS, SSAS, Material-UI, NodeJS, Express, REST, T-SQL, Apache Cordova, Webpack, Jest, Enzyme, Babel, GIT, TFS. Developer / Lead Maintenance Engineer 2009 \u2013 2014 Aviabit Promotion from product implementation specialist to development. Responsibilities: Customer support, Participation in the product development (C++, MFC, T-SQL). Stored procedures development for reports and analytical cubes, query optimization and participation in database design (MS OLAP, T-SQL), Web services creation and development for integration between the systems (SOAP, C#, T-SQL), Mobile applications development (Windows Phone, WPF, .Net, T-SQL), Existing products support (.Net, C#, T-SQL), Query optimization and participation in database design, Transfer of knowledge to the new team members. Key achievements: Took over support and development of several projects in no time. Created mobile applications (control the performance of aircraft maintenance). Developed the integration with third-party systems, Designed a multidimensional data warehouse. Stack: .Net, C#, WPF, C++, MFC, JS, HTML, CSS, Windows Phone/Mobile, SOAP, OLAP, T-SQL, TFS.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Haifa, Israel Languages Personal qualities Quick learner Flexibility Communication skills Problem solving Time management Leadership Critical thinking Education Computing machines, systems, complexes, and networks 2006 \u2013 2012 Moscow Aviation Institute (National Research University) Honours degree | Front End developer Summary A senior web developer with 10+ years development experience. Created both the web and the mobile applications utilizing JavaScript, Typescript, React. Have full-Stack development experience and deep knowledge of the databases (SQL, PostgreSQL). Participated in more than 10 successful projects. Implemented several projects from the scratch (combined the roles of a developer and a project/product manager), and in other projects led the development teams. Experience Front End Team lead / Senior Developer 2020 \u2013 Present AviaBit Performed a developer role while leading the web and mobile application development team. Main projects: \u00abAviabit Web\u00bb \u2014 a personal account application for airline/airport employees; \u00abPersonal account of the cashier\u00bb application; \u00abElectronic Flight Bag\u00bb application. Responsibilities: Coding for at least 60% of work time, Defining the stack and architecture, creating projects from scratch to successful industrial implementation, Hiring, adaptation and development of new team members, Creation and implementation of code quality standards and code style, Strategic planning, building Scrum processes within the team, Support and development of previously created projects, Participation in conferences and product presentations. Key achievements: Created \u00abAviabit Web\u00bb \u2014 a personal account application for the airline/airport employees: Progressive Web Application adapted for the mobile devices with an ability to work offline. Implemented technically complex solutions: aircraft movement schedule (thousands of interactive objects displayed inside SVG); flight map (displaying airports, meteorological information, aircraft routes); interactive aircraft ground handling scoreboard; platform for personnel training and testing, Led the project to launch and implement \u00abAviabit Web\u00bb in 30+ airlines and airports. The users working with the application daily in some of the companies: 1000+ people (pilots, flight attendants, airport service workers, managers). Stack: React, Redux, TypeScript, JS, ES6, D3, HTML, Material-UI, NodeJS, Express, T-SQL, Webpack, Jest, REST, JSON, GIT, TFS, JIRA, Trello. Senior Front End Developer 2021 \u2013 Present School Tennis League Part-time, socially significant project. Participating in the project which develops amateur tennis. Responsibilities: Creating a web application with Server-Side Rendering SSR from the scratch. Writing a code for the key functionalities, Application publication and support, Review of developers\u2019 and designers\u2019 work. Key achievements: Contributed to a creation of the first amateur children's tennis league, in which non-professional children can participate in tournaments, Implemented and launched a project with SSR in a short time: player's personal account (payment, statistics, registration for tournaments), functionality for referees (automatically generated tournament grid, account management, training platform). Stack: React, Redux, TypeScript, JS, ES6, HTML, Material-UI, Next.JS, SSR, PostgreSQL, Jest, Babel, GIT. Senior developer 2014 \u2013 2020 Aviabit Developed applications: \u00abElectronic Flight Bag\u00bb for pilots; the company's business card website; \u00abCashier's Personal account\u00bb. Responsibilities: Web applications creation and support Work on the company's first iPad app \u2014 \u00abElectronic Flight Bag\u00bb, Communication with customers (pilots and navigators): collecting requirements, feedback analysis, product roadmap development, Application architecture design, Apache Cordova application development using React in WebView, Backend development (NodeJS, Express), Application building and publishing on the App Store. Key achievements: A leading role in creation of the Electronic Flight Bag pilot tablet application, that allowed the pilots to work with navigational information, fill out a flight report and have access to the necessary documentation. Implementation of complex technical tasks: merge data, dynamic generation of forms based on the config, mathematical calculations when editing the route of the aircraft, optimization of the interface, solving problems with the use of the device's RAM when synchronizing data. Stack: React, Redux, JS, ES6, HTML, CSS, SSAS, Material-UI, NodeJS, Express, REST, T-SQL, Apache Cordova, Webpack, Jest, Enzyme, Babel, GIT, TFS. Developer / Lead Maintenance Engineer 2009 \u2013 2014 Aviabit Promotion from product implementation specialist to development. Responsibilities: Customer support, Participation in the product development (C++, MFC, T-SQL). Stored procedures development for reports and analytical cubes, query optimization and participation in database design (MS OLAP, T-SQL), Web services creation and development for integration between the systems (SOAP, C#, T-SQL), Mobile applications development (Windows Phone, WPF, .Net, T-SQL), Existing products support (.Net, C#, T-SQL), Query optimization and participation in database design, Transfer of knowledge to the new team members. Key achievements: Took over support and development of several projects in no time. Created mobile applications (control the performance of aircraft maintenance). Developed the integration with third-party systems, Designed a multidimensional data warehouse. Stack: .Net, C#, WPF, C++, MFC, JS, HTML, CSS, Windows Phone/Mobile, SOAP, OLAP, T-SQL, TFS."
+  },
+  "metadata": {
+    "fileName": "12.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 5632,
+      "wordCount": 750,
+      "imageCount": 0,
+      "tableCount": 1,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 72.5,
+    "qualityGrade": "Good",
+    "completenessScore": 0.2,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "created",
+      "designed",
+      "developed",
+      "generated",
+      "implemented",
+      "launched",
+      "led"
+    ],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 1,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (created, designed, developed, generated, implemented).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 72.5/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

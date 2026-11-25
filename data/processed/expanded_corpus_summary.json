@@ -1,0 +1,54 @@
+{
+  "old_profile_count": 76,
+  "newly_discovered_profile_count": 50,
+  "total_profile_count": 126,
+  "unique_new_profiles": 50,
+  "exact_duplicates": 0,
+  "near_duplicates_in_manifest": 2,
+  "old_pairs_count": 912,
+  "new_pairs_count": 600,
+  "total_pairs_count": 1512,
+  "generalization_evaluation": {
+    "total_evaluated_pairs": 600,
+    "accuracy": 0.9883,
+    "macro_precision": 0.9386,
+    "macro_recall": 0.8704,
+    "macro_f1": 0.8857,
+    "shortlist_precision": 0.8158,
+    "shortlist_recall": 1.0,
+    "rule_agreement_rate": 0.9883,
+    "status": "PASS",
+    "confusion_matrix": [
+      [
+        31,
+        0,
+        0
+      ],
+      [
+        7,
+        11,
+        0
+      ],
+      [
+        0,
+        0,
+        551
+      ]
+    ],
+    "class_distribution_true": {
+      "weak_match": 551,
+      "shortlist": 31,
+      "review": 18
+    },
+    "class_distribution_pred": {
+      "weak_match": 551,
+      "shortlist": 38,
+      "review": 11
+    }
+  },
+  "retraining_decision": {
+    "status": "NOT YET RECOMMENDED",
+    "rationale": "The existing production model generalizes exceptionally well to the 50 new resumes (600 pairs) with 98.83% accuracy and 98.83% rule agreement. Retraining is not recommended because current model parameters are highly robust and retain the locked human-validated calibration benchmark intact."
+  },
+  "candidate_pool_size": 30
+}

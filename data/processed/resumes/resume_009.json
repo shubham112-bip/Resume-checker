@@ -1,0 +1,190 @@
+{
+  "resume_id": "resume_009",
+  "resumeId": "resume_009",
+  "fileName": "9.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "JavaScript",
+    "Java",
+    "C#",
+    "C++",
+    "C",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "React",
+    "Android",
+    "Git",
+    "Agile",
+    "Figma",
+    "Teamwork",
+    "Redux",
+    "Unit Testing",
+    "Node.js",
+    ".NET"
+  ],
+  "education": [
+    {
+      "degree": "BSc",
+      "degreeLevel": 2,
+      "field": "Telematics",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "BSc"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Customer Care Associate | CGS (Netanya, Israel)",
+      "organization": "Project: Customer care for Dell (***************** in CIS.",
+      "start": "2020",
+      "end": "2022",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Areas of responsibilities:",
+        "Support Dell customers and service providers in CIS"
+      ]
+    },
+    {
+      "title": "Frontend React developer | Inetex Ltd (Rehovot, Israel)",
+      "organization": "Project: A single page web application of ticket service: 1) Administrator/ moderator control panel: simple and clear mechanism for managing events; for setting up the structure of concert halls with prices and capacity; 2) User part: user-friendly interface for booking and buying tickets through PayPal service.",
+      "start": "2019",
+      "end": "2020",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Areas of responsibilities:",
+        "developing responsive UI;",
+        "building and maintaining code, participating in code review;",
+        "adding new features, fixing problems;",
+        "code deployment.",
+        "Technologies: ES6+, HTML5, CSS3, LESS, React, React Router, React DayPicker, Redux, Bootstrap, Material UI, MomentJS, JSON, NPM, Jest, ESLint, AJAX, webpack, Babel.",
+        "Process organization technologies: git, GitHub, Scrum, pair-programming, Trello."
+      ]
+    },
+    {
+      "title": "User Support and Information Security IT Specialist | Bayer KAZ LLP (Almaty, Kazakhstan)",
+      "organization": "Areas of responsibilities:",
+      "start": "2017",
+      "end": "2019",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Developing and supporting corporate website on SharePoint, users support, physical infrastructure monitoring, IT security issues preventing and monitoring."
+      ]
+    },
+    {
+      "title": "Junior Web Developer | STEAM & M (Almaty, Kazakhstan)",
+      "organization": "Projects: enterprise management system which includes employee and equipment management, production processes management. Road display system \u2013 shows traffic level, nearest places and important information.",
+      "start": "2016",
+      "end": "2017",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Areas of responsibilities:",
+        "building and maintaining code, participating in code review;",
+        "adding and testing new features, fixing problems;",
+        "Technologies: Node.js, Asp.net, ES6+, HTML5, CSS3, Bootstrap, JSON, NPM, ESLint, AJAX, webpack, Babel.",
+        "Process organization technologies: git, GitHub, Discord, VSTS."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English",
+    "Hebrew",
+    "Russian",
+    "German",
+    "Kazakh"
+  ],
+  "raw_text": "\u2022 Frontend developer\n\nLanguages: English, Hebrew, Russian, German, Kazakh\nResidence: Tel-Aviv Area, Israel\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nProgramming languages: JavaScript ES6+, familiar with Java, C#, C++/C.\nWeb: HTML5/CSS3, NPM, webpack, Babel, Bootstrap, Material UI, React, LESS.\nTechnologies & Frameworks: JSON, AJAX.\nEnvironments-IDE: WebStorm, Eclipse, Intellij IDEA, Android Studio, Visual Studio, Visual Studio Code, GitHub, Agile, UML, Adobe Photoshop, Figma.\nCollaboration tools: Slack, MS Teams, Trello\n\nPROFESSIONAL EXPERIENCE:\n2020-2022 | Customer Care Associate | CGS (Netanya, Israel) |\nProject: Customer care for Dell (***************** in CIS.\nAreas of responsibilities:\nSupport Dell customers and service providers in CIS\n2019 \u2013 2020 | Frontend React developer | Inetex Ltd (Rehovot, Israel) |\nProject: A single page web application of ticket service: 1) Administrator/ moderator control panel: simple and clear mechanism for managing events; for setting up the structure of concert halls with prices and capacity; 2) User part: user-friendly interface for booking and buying tickets through PayPal service.\nAreas of responsibilities:\ndeveloping responsive UI;\nbuilding and maintaining code, participating in code review;\nadding new features, fixing problems;\ncode deployment.\nTechnologies: ES6+, HTML5, CSS3, LESS, React, React Router, React DayPicker, Redux, Bootstrap, Material UI, MomentJS, JSON, NPM, Jest, ESLint, AJAX, webpack, Babel.\nProcess organization technologies: git, GitHub, Scrum, pair-programming, Trello.\n2017 \u2013 2019 | User Support and Information Security IT Specialist | Bayer KAZ LLP (Almaty, Kazakhstan) |\nAreas of responsibilities:\nDeveloping and supporting corporate website on SharePoint, users support, physical infrastructure monitoring, IT security issues preventing and monitoring.\n2016 \u2013 2017 | Junior Web Developer | STEAM & M (Almaty, Kazakhstan)\nProjects: enterprise management system which includes employee and equipment management, production processes management. Road display system \u2013 shows traffic level, nearest places and important information.\nAreas of responsibilities:\nbuilding and maintaining code, participating in code review;\nadding and testing new features, fixing problems;\nTechnologies: Node.js, Asp.net, ES6+, HTML5, CSS3, Bootstrap, JSON, NPM, ESLint, AJAX, webpack, Babel.\nProcess organization technologies: git, GitHub, Discord, VSTS.\n\nEDUCATION:\n2017 \u2013 2018 | Software Development | STEP Computer Academy (Almaty, Kazakhstan).\n2011 \u2013 2015 | B.Sc. in Telematics | Kazakh-German University (Almaty, Kazakhstan).",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 83,
+  "experienceYears": 6.9,
+  "sections": {
+    "header": "\u2022 Frontend developer",
+    "other": "English, Hebrew, Russian, German, Kazakh\nResidence: Tel-Aviv Area, Israel\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nProgramming languages: JavaScript ES6+, familiar with Java, C#, C++/C.\nWeb: HTML5/CSS3, NPM, webpack, Babel, Bootstrap, Material UI, React, LESS.\nTechnologies & Frameworks: JSON, AJAX.\nEnvironments-IDE: WebStorm, Eclipse, Intellij IDEA, Android Studio, Visual Studio, Visual Studio Code, GitHub, Agile, UML, Adobe Photoshop, Figma.\nCollaboration tools: Slack, MS Teams, Trello",
+    "experience": "2020-2022 | Customer Care Associate | CGS (Netanya, Israel) |\nProject: Customer care for Dell (***************** in CIS.\nAreas of responsibilities:\nSupport Dell customers and service providers in CIS\n2019 \u2013 2020 | Frontend React developer | Inetex Ltd (Rehovot, Israel) |\nProject: A single page web application of ticket service: 1) Administrator/ moderator control panel: simple and clear mechanism for managing events; for setting up the structure of concert halls with prices and capacity; 2) User part: user-friendly interface for booking and buying tickets through PayPal service.\nAreas of responsibilities:\ndeveloping responsive UI;\nbuilding and maintaining code, participating in code review;\nadding new features, fixing problems;\ncode deployment.\nTechnologies: ES6+, HTML5, CSS3, LESS, React, React Router, React DayPicker, Redux, Bootstrap, Material UI, MomentJS, JSON, NPM, Jest, ESLint, AJAX, webpack, Babel.\nProcess organization technologies: git, GitHub, Scrum, pair-programming, Trello.\n2017 \u2013 2019 | User Support and Information Security IT Specialist | Bayer KAZ LLP (Almaty, Kazakhstan) |\nAreas of responsibilities:\nDeveloping and supporting corporate website on SharePoint, users support, physical infrastructure monitoring, IT security issues preventing and monitoring.\n2016 \u2013 2017 | Junior Web Developer | STEAM & M (Almaty, Kazakhstan)\nProjects: enterprise management system which includes employee and equipment management, production processes management. Road display system \u2013 shows traffic level, nearest places and important information.\nAreas of responsibilities:\nbuilding and maintaining code, participating in code review;\nadding and testing new features, fixing problems;\nTechnologies: Node.js, Asp.net, ES6+, HTML5, CSS3, Bootstrap, JSON, NPM, ESLint, AJAX, webpack, Babel.\nProcess organization technologies: git, GitHub, Discord, VSTS.",
+    "education": "2017 \u2013 2018 | Software Development | STEP Computer Academy (Almaty, Kazakhstan).\n2011 \u2013 2015 | B.Sc. in Telematics | Kazakh-German University (Almaty, Kazakhstan)."
+  },
+  "metadata": {
+    "fileName": "9.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 83,
+    "experienceYears": 6.9,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2599,
+      "wordCount": 346,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "other",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 61.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.55,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 15,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 61.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

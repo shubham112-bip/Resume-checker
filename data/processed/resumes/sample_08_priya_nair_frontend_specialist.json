@@ -1,0 +1,154 @@
+{
+  "resume_id": "sample_08_priya_nair_frontend_specialist",
+  "resumeId": "sample_08_priya_nair_frontend_specialist",
+  "fileName": "08_priya_nair_frontend_specialist.pdf",
+  "candidateName": "Priya Nair",
+  "skills": [
+    "React",
+    "Next.js",
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "Tailwind CSS",
+    "Redux",
+    "REST APIs",
+    "HTML",
+    "Responsive Design",
+    "Unit Testing"
+  ],
+  "education": [
+    {
+      "degree": "BTech",
+      "degreeLevel": 2,
+      "field": "Computer Science",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BTech in Computer Science, 2020"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Frontend Engineer at SaaSify Media ( - )",
+      "organization": "48%.",
+      "start": "Aug 2020",
+      "end": "Present",
+      "durationMonths": 75,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Spearheaded migration of legacy single page application to Next.js with server-side rendering, improving First Contentful Paint by",
+        "Architected component design system in React, TypeScript, and Tailwind CSS adopted across 4 engineering teams.",
+        "Integrated Redux Toolkit for complex client-side state caching, reducing redundant network queries by 60%.",
+        "Wrote automated frontend unit and integration tests using Jest and React Testing Library."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Analytics Dashboard Portal",
+      "description": "Built interactive chart visualization suite using React, Next.js, and Recharts.",
+      "technologies": [
+        "React",
+        "Next.js",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Design Component Library",
+      "description": "Created open-source accessible component library with 100% TypeScript type safety.",
+      "technologies": [
+        "TypeScript"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Priya Nair\nSenior Frontend React / Next.js Engineer | [EMAIL REDACTED] | +91 99887 66554 | linkedin.com/in/priyanair-dev\n\nProfessional Summary\nFrontend Engineer with 4 years of experience crafting high-performance, accessible web interfaces using React, Next.js,\nTypeScript, and modern CSS frameworks.\n\nEducation\nBTech in Computer Science, 2020\n\nTechnical Skills\nReact, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, REST APIs, HTML, CSS, Responsive Design, Unit Testing\n\nWork Experience\nSenior Frontend Engineer at SaaSify Media (Aug 2020 - Present)\n\u2022 Spearheaded migration of legacy single page application to Next.js with server-side rendering, improving First Contentful Paint by\n48%.\n\u2022 Architected component design system in React, TypeScript, and Tailwind CSS adopted across 4 engineering teams.\n\u2022 Integrated Redux Toolkit for complex client-side state caching, reducing redundant network queries by 60%.\n\u2022 Wrote automated frontend unit and integration tests using Jest and React Testing Library.\n\nProjects\nAnalytics Dashboard Portal: Built interactive chart visualization suite using React, Next.js, and Recharts.\nDesign Component Library: Created open-source accessible component library with 100% TypeScript type safety.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/priyanair-dev",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "Frontend Engineer with 4 years of experience crafting high-performance, accessible web interfaces using React, Next.js,\nTypeScript, and modern CSS frameworks.",
+  "totalExperienceMonths": 75,
+  "experienceYears": 6.2,
+  "sections": {
+    "header": "Priya Nair\nSenior Frontend React / Next.js Engineer | [EMAIL REDACTED] | +91 99887 66554 | linkedin.com/in/priyanair-dev",
+    "summary": "Frontend Engineer with 4 years of experience crafting high-performance, accessible web interfaces using React, Next.js,\nTypeScript, and modern CSS frameworks.",
+    "education": "BTech in Computer Science, 2020",
+    "skills": "React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, REST APIs, HTML, CSS, Responsive Design, Unit Testing",
+    "experience": "Senior Frontend Engineer at SaaSify Media (Aug 2020 - Present)\n\u2022 Spearheaded migration of legacy single page application to Next.js with server-side rendering, improving First Contentful Paint by\n48%.\n\u2022 Architected component design system in React, TypeScript, and Tailwind CSS adopted across 4 engineering teams.\n\u2022 Integrated Redux Toolkit for complex client-side state caching, reducing redundant network queries by 60%.\n\u2022 Wrote automated frontend unit and integration tests using Jest and React Testing Library.",
+    "projects": "Analytics Dashboard Portal: Built interactive chart visualization suite using React, Next.js, and Recharts.\nDesign Component Library: Created open-source accessible component library with 100% TypeScript type safety."
+  },
+  "metadata": {
+    "fileName": "08_priya_nair_frontend_specialist.pdf",
+    "candidateName": "Priya Nair",
+    "fileType": "PDF",
+    "totalExperienceMonths": 75,
+    "experienceYears": 6.2,
+    "diagnostics": {
+      "fileType": "pdf",
+      "parserUsed": "PyMuPDF (layout text)",
+      "pageCount": 1,
+      "charCount": 1242,
+      "wordCount": 164,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 80.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 1.0,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "architected",
+      "automated",
+      "built",
+      "created",
+      "integrated",
+      "spearheaded"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 6,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (architected, automated, built, created, integrated).",
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections)."
+    ],
+    "verdict": "Resume Quality Score: 80.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

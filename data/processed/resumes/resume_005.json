@@ -1,0 +1,169 @@
+{
+  "resume_id": "resume_005",
+  "resumeId": "resume_005",
+  "fileName": "5.docx",
+  "candidateName": "Relevant Experience Summary:",
+  "skills": [
+    "Java",
+    "Node.js",
+    "React",
+    "Angular",
+    "JavaScript",
+    "Python",
+    "Go",
+    "Microservices",
+    "MySQL",
+    "MongoDB",
+    "Firebase",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "REST APIs",
+    "Spring Boot",
+    "CI/CD",
+    "Unit Testing",
+    "Jira",
+    "Authentication",
+    "Express"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": "Business Administration",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    }
+  ],
+  "experience": [
+    {
+      "title": ": Java Microservices / Python Developer, Amdocs (Israel, Raanana)",
+      "organization": "Was involved in CPQ project which allows Telecom industry to provide price configuration on delivering internet products to its customers. An example would be delivering Business Internet/Wifi to hundreds of MacDonald\u2019s branches.",
+      "start": "2019",
+      "end": "2020",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Eclipse, IntelliJ, PyCharm \u2022 Kafka (Spring Cloud Stream) \u2022 RESTful Web service (Spring Boot Starter Web) \u2022 MySQL and Couchbase (MySQL Connector Java, Starter Data JPA) \u2022 OpenShift/Docker/Kubernetes, Jenkins \u2022 PyTest/Python, JUnit \u2022 Jira, Confluence, Rally \u2022 Linux, Windows"
+      ]
+    },
+    {
+      "title": ": Fullstack Java/JS Developer, Inetex LTD (Israel, Rehovot),",
+      "organization": "Project: Health Care Monitoring System. Application using massaging allows to doctor immediately react on abnormal state of the patients health data",
+      "start": "2017",
+      "end": "2019",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Kafka (Spring Cloud Stream)",
+        "RESTfull Web service (Spring Boot Starter Web)",
+        "Authentication/Authorization (Spring Security)",
+        "MySQL and MongoDB (MySQL Connector Java, Starter Data JPA)",
+        "Project: Social network inside the company that allows users to share knowledge (sharing and posting)",
+        "Angular CLI",
+        "NodeJS, Express , MongoDB"
+      ]
+    },
+    {
+      "title": ": Full stack Java/JS Developer, WebSoft (Russia, Smolensk)",
+      "organization": "Project: Car renting. Service was built for the company that rents its own car to clients",
+      "start": "2014",
+      "end": "2017",
+      "durationMonths": 47,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "RESTfull Web service (Spring Boot Starter Web)",
+        "Authentication/Authorization/Accounting (Spring Security)",
+        "Interface with MySQL (MySQL Connector Java, Starter Data JPA)",
+        "Project: Web-Scrapping application that enables user to get prices of the competitors.",
+        "Nodejs, MongoDB, CLI"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "Go"
+  ],
+  "raw_text": "6 years of proven experience\n(4 years in Java Backend/1 year in NodeJS /1 year in React/Angular)\n[REDACTED - not used for evaluation]\nRelevant Experience Summary:\nProgramming languages: Java, JavaScript, Python, Go\nTechnologies & Frameworks: Spring, Nodejs, Angular, React, Microservices Architecture\nEnvironments: Eclipse, IntelliJ IDEA , Visual Studio, WebStorm, PyCharm\nDatabases: MySQL, HBase, Cassandra, MongoDB, Couchbase\nStreaming: Kafka\nClouding: Heroku, Firebase, Docker/Kubernetes/OpenShift\nOperating systems: Linux, Windows\nProfessional Experience:\n2019 - 2020: Java Microservices / Python Developer, Amdocs (Israel, Raanana)\nWas involved in CPQ project which allows Telecom industry to provide price configuration on delivering internet products to its customers. An example would be delivering Business Internet/Wifi to hundreds of MacDonald\u2019s branches.\n\u2022 Eclipse, IntelliJ, PyCharm \u2022 Kafka (Spring Cloud Stream) \u2022 RESTful Web service (Spring Boot Starter Web) \u2022 MySQL and Couchbase (MySQL Connector Java, Starter Data JPA) \u2022 OpenShift/Docker/Kubernetes, Jenkins \u2022 PyTest/Python, JUnit \u2022 Jira, Confluence, Rally \u2022 Linux, Windows\n2017 - 2019: Fullstack Java/JS Developer, Inetex LTD (Israel, Rehovot),\nProject: Health Care Monitoring System. Application using massaging allows to doctor immediately react on abnormal state of the patients health data\nKafka (Spring Cloud Stream)\nRESTfull Web service (Spring Boot Starter Web)\nAuthentication/Authorization (Spring Security)\nMySQL and MongoDB (MySQL Connector Java, Starter Data JPA)\nProject: Social network inside the company that allows users to share knowledge (sharing and posting)\nAngular CLI\nNodeJS, Express , MongoDB\n2014-2017: Full stack Java/JS Developer, WebSoft (Russia, Smolensk)\nProject: Car renting. Service was built for the company that rents its own car to clients\nRESTfull Web service (Spring Boot Starter Web)\nAuthentication/Authorization/Accounting (Spring Security)\nInterface with MySQL (MySQL Connector Java, Starter Data JPA)\nProject: Web-Scrapping application that enables user to get prices of the competitors.\nNodejs, MongoDB, CLI\nEducation:\n2011-2013: Masters in Business Administration (Touro College, Germany)\n2006-2011: Masters in Computerized Economics (University of Economics, Russia)\nLanguage:\nHebrew(fluent), English(fluent), Russian\n\nRecommendations are available upon request.\n| Java/JS Developer",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 83,
+  "experienceYears": 6.9,
+  "sections": {
+    "header": "6 years of proven experience\n(4 years in Java Backend/1 year in NodeJS /1 year in React/Angular)\n[REDACTED - not used for evaluation]\nRelevant Experience Summary:\nProgramming languages: Java, JavaScript, Python, Go\nTechnologies & Frameworks: Spring, Nodejs, Angular, React, Microservices Architecture\nEnvironments: Eclipse, IntelliJ IDEA , Visual Studio, WebStorm, PyCharm\nDatabases: MySQL, HBase, Cassandra, MongoDB, Couchbase\nStreaming: Kafka\nClouding: Heroku, Firebase, Docker/Kubernetes/OpenShift\nOperating systems: Linux, Windows",
+    "experience": "2019 - 2020: Java Microservices / Python Developer, Amdocs (Israel, Raanana)\nWas involved in CPQ project which allows Telecom industry to provide price configuration on delivering internet products to its customers. An example would be delivering Business Internet/Wifi to hundreds of MacDonald\u2019s branches.\n\u2022 Eclipse, IntelliJ, PyCharm \u2022 Kafka (Spring Cloud Stream) \u2022 RESTful Web service (Spring Boot Starter Web) \u2022 MySQL and Couchbase (MySQL Connector Java, Starter Data JPA) \u2022 OpenShift/Docker/Kubernetes, Jenkins \u2022 PyTest/Python, JUnit \u2022 Jira, Confluence, Rally \u2022 Linux, Windows\n2017 - 2019: Fullstack Java/JS Developer, Inetex LTD (Israel, Rehovot),\nProject: Health Care Monitoring System. Application using massaging allows to doctor immediately react on abnormal state of the patients health data\nKafka (Spring Cloud Stream)\nRESTfull Web service (Spring Boot Starter Web)\nAuthentication/Authorization (Spring Security)\nMySQL and MongoDB (MySQL Connector Java, Starter Data JPA)\nProject: Social network inside the company that allows users to share knowledge (sharing and posting)\nAngular CLI\nNodeJS, Express , MongoDB\n2014-2017: Full stack Java/JS Developer, WebSoft (Russia, Smolensk)\nProject: Car renting. Service was built for the company that rents its own car to clients\nRESTfull Web service (Spring Boot Starter Web)\nAuthentication/Authorization/Accounting (Spring Security)\nInterface with MySQL (MySQL Connector Java, Starter Data JPA)\nProject: Web-Scrapping application that enables user to get prices of the competitors.\nNodejs, MongoDB, CLI",
+    "education": "2011-2013: Masters in Business Administration (Touro College, Germany)\n2006-2011: Masters in Computerized Economics (University of Economics, Russia)\nLanguage:\nHebrew(fluent), English(fluent), Russian\n\nRecommendations are available upon request.\n| Java/JS Developer"
+  },
+  "metadata": {
+    "fileName": "5.docx",
+    "candidateName": "Relevant Experience Summary:",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 83,
+    "experienceYears": 6.9,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2397,
+      "wordCount": 311,
+      "imageCount": 0,
+      "tableCount": 1,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 63.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 13,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 63.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

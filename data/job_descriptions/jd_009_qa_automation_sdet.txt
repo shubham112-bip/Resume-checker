@@ -1,0 +1,24 @@
+Job Title: QA Automation Engineer & SDET
+Experience: 3-5 years
+Education: Bachelor degree in Computer Science, IT, or equivalent technical engineering field
+
+Responsibilities:
+- Design, implement, and maintain scalable automated testing frameworks for web applications and APIs
+- Write reliable end-to-end test suites using Selenium, PyTest, and modern automation tools
+- Integrate automated regression suites into CI/CD build and release pipelines
+- Perform deep backend REST API validation, database verification, and defect lifecycle tracking in JIRA
+
+Required Skills:
+- Selenium
+- Python
+- Test Automation
+- PyTest
+- API Testing
+- SQL
+
+Preferred Skills:
+- CI/CD
+- Docker
+- JIRA
+- Cypress
+- Performance Testing

@@ -1,0 +1,124 @@
+{
+  "resume_id": "resume_030",
+  "resumeId": "resume_030",
+  "fileName": "30.docx",
+  "candidateName": "FRONT END DEVELOPER",
+  "skills": [
+    "CSS",
+    "Java",
+    "Leadership",
+    "HTML",
+    "SASS",
+    "Bootstrap",
+    "JavaScript",
+    "REST APIs",
+    "React",
+    "Redux",
+    "Git",
+    "Node.js"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "CONTACTS Elpisor Ltd, Rehovot, Israel",
+      "organization": "Front End Developer",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Migrated layout to responsive BEM based model",
+        "from legacy adaptive, use of code minification",
+        "m",
+        "methods, css sprites, as well as the optimization of",
+        "all images, which decreased time to support all",
+        "/in/christina-lorman- possible device resolutions on avg by 20%.",
+        "/"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "FRONT END DEVELOPER\nTel-Aviv, Israel Age: 28 years old\nWORK EXPERIENCE\nCONTACTS Elpisor Ltd, Rehovot, Israel\n\nFront End Developer\n\nMigrated layout to responsive BEM based model\n\nfrom legacy adaptive, use of code minification\nm\nmethods, css sprites, as well as the optimization of\nall images, which decreased time to support all\n/in/christina-lorman- possible device resolutions on avg by 20%.\n/\nEDUCATION\nanChristina\n2019 Tel-Ran Educational Center Ltd. Israel\n[REDACTED - not used for evaluation]\nIsrael\nABOUT ME\nLANGUAGES\nI have finished one-year course and have one-year experiance. I\nkeep studying Java and planning to become a full-stack\nEnglish\ndeveloper.\nB2 - Upper Intermediate\nRecommendations are available upon request.\nHebrew\nB2 - Upper Intermediate\nRECOMMENDATIONS\nRussian\nC2 - Proficiency Pavel Rosenfeld, Front End Team Lead, Elpisor Ltd, Israel\n(+972)\nSKILLS\nHTML5\nCSS + SASS/LESS\nBootstrap\nES6\nJavaScript\nREST API\nReact + Redux\nWebpack\nGit\nNode.js",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "FRONT END DEVELOPER\nTel-Aviv, Israel Age: 28 years old",
+    "experience": "CONTACTS Elpisor Ltd, Rehovot, Israel\n\nFront End Developer\n\nMigrated layout to responsive BEM based model\n\nfrom legacy adaptive, use of code minification\nm\nmethods, css sprites, as well as the optimization of\nall images, which decreased time to support all\n/in/christina-lorman- possible device resolutions on avg by 20%.\n/",
+    "education": "anChristina\n2019 Tel-Ran Educational Center Ltd. Israel\n[REDACTED - not used for evaluation]\nIsrael",
+    "other": "I have finished one-year course and have one-year experiance. I\nkeep studying Java and planning to become a full-stack\nEnglish\ndeveloper.\nB2 - Upper Intermediate\nRecommendations are available upon request.\nHebrew\nB2 - Upper Intermediate\nRECOMMENDATIONS\nRussian\nC2 - Proficiency Pavel Rosenfeld, Front End Team Lead, Elpisor Ltd, Israel\n(+972)",
+    "skills": "HTML5\nCSS + SASS/LESS\nBootstrap\nES6\nJavaScript\nREST API\nReact + Redux\nWebpack\nGit\nNode.js"
+  },
+  "metadata": {
+    "fileName": "30.docx",
+    "candidateName": "FRONT END DEVELOPER",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 959,
+      "wordCount": 141,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education",
+      "other",
+      "skills"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Nationality",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Nationality",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 58.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.5,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.7,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "decreased",
+      "migrated"
+    ],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 7,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 58.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

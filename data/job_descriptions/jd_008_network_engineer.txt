@@ -1,0 +1,25 @@
+Job Title: Network Infrastructure & Telecommunications Engineer
+Experience: 3-6 years
+Education: Bachelor degree in Telecommunications, Electronics, Computer Engineering, or CCNA/CCNP certification
+
+Responsibilities:
+- Configure, monitor, and troubleshoot enterprise network switches, routers, and telecommunication systems
+- Maintain complex routing protocols including BGP, OSPF, and static routing across multi-site networks
+- Configure secure site-to-site and remote access VPN tunnels and firewalls
+- Analyze network packet traces using Wireshark to resolve Layer 2 and Layer 3 performance bottlenecks
+
+Required Skills:
+- Cisco
+- Routing
+- Switching
+- TCP/IP
+- VPN
+- BGP
+- OSPF
+
+Preferred Skills:
+- Wireshark
+- Linux
+- Firewalls
+- Network Automation
+- Python

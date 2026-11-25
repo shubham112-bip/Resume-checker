@@ -1,0 +1,147 @@
+{
+  "resume_id": "sample_05_karan_verma_junior_btech",
+  "resumeId": "sample_05_karan_verma_junior_btech",
+  "fileName": "05_karan_verma_junior_btech.docx",
+  "candidateName": "Karan Verma",
+  "skills": [
+    "Data Structures",
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "SQL",
+    "Git",
+    "Node.js",
+    "REST APIs",
+    "Postman",
+    "SQLite"
+  ],
+  "education": [
+    {
+      "degree": "BTech",
+      "degreeLevel": 2,
+      "field": "Computer Science and Engineering",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BTech in Computer Science and Engineering, 2024 (First Class)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Development Intern at CodeStart Labs ( - )",
+      "organization": "Assisted senior engineers in refactoring React component layouts for company landing page.",
+      "start": "Jan 2024",
+      "end": "Jun 2024",
+      "durationMonths": 5,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Wrote clean semantic HTML and responsive CSS stylesheets for mobile viewports.",
+        "Tested simple REST endpoints and documented API parameters in Postman."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Online Book Store (Capstone Project): Developed interactive catalog website using React and CSS with basic SQLite backend.",
+      "description": "",
+      "technologies": [
+        "React",
+        "CSS",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Task Manager Web App",
+      "description": "Built to-do list manager using vanilla JavaScript and localStorage.",
+      "technologies": [
+        "JavaScript"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Karan Verma\nAssociate Software Engineer (Recent Graduate) | [EMAIL REDACTED] | +91 98998 87766 | linkedin.com/in/karanverma\nProfessional Summary\nRecent Computer Science graduate with strong academic foundation in algorithms, JavaScript, and React web development. Eager to contribute to production software development.\nEducation\nBTech in Computer Science and Engineering, 2024 (First Class)\nTechnical Skills\nJavaScript, React, HTML5, CSS3, SQL, Git, Basic Node.js\nWork Experience\nWeb Development Intern at CodeStart Labs (Jan 2024 - Jun 2024)\nAssisted senior engineers in refactoring React component layouts for company landing page.\nWrote clean semantic HTML and responsive CSS stylesheets for mobile viewports.\nTested simple REST endpoints and documented API parameters in Postman.\nProjects\nOnline Book Store (Capstone Project): Developed interactive catalog website using React and CSS with basic SQLite backend.\nTask Manager Web App: Built to-do list manager using vanilla JavaScript and localStorage.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": "linkedin.com/in/karanverma",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "Recent Computer Science graduate with strong academic foundation in algorithms, JavaScript, and React web development. Eager to contribute to production software development.",
+  "totalExperienceMonths": 5,
+  "experienceYears": 0.4,
+  "sections": {
+    "header": "Karan Verma\nAssociate Software Engineer (Recent Graduate) | [EMAIL REDACTED] | +91 98998 87766 | linkedin.com/in/karanverma",
+    "summary": "Recent Computer Science graduate with strong academic foundation in algorithms, JavaScript, and React web development. Eager to contribute to production software development.",
+    "education": "BTech in Computer Science and Engineering, 2024 (First Class)",
+    "skills": "JavaScript, React, HTML5, CSS3, SQL, Git, Basic Node.js",
+    "experience": "Web Development Intern at CodeStart Labs (Jan 2024 - Jun 2024)\nAssisted senior engineers in refactoring React component layouts for company landing page.\nWrote clean semantic HTML and responsive CSS stylesheets for mobile viewports.\nTested simple REST endpoints and documented API parameters in Postman.",
+    "projects": "Online Book Store (Capstone Project): Developed interactive catalog website using React and CSS with basic SQLite backend.\nTask Manager Web App: Built to-do list manager using vanilla JavaScript and localStorage."
+  },
+  "metadata": {
+    "fileName": "05_karan_verma_junior_btech.docx",
+    "candidateName": "Karan Verma",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 5,
+    "experienceYears": 0.4,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1013,
+      "wordCount": 136,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "education",
+      "skills",
+      "experience",
+      "projects"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email address",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 61.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.35,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "built",
+      "tested"
+    ],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 3,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 61.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "resume_id": "resume_003",
+  "resumeId": "resume_003",
+  "fileName": "3.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+    "HTML",
+    "CSS",
+    "Spring Boot",
+    "Hibernate",
+    "Unit Testing",
+    "jQuery",
+    "Bootstrap",
+    "REST APIs",
+    "Angular",
+    "React",
+    "Redux",
+    "Vue.js",
+    "Node.js",
+    "MySQL",
+    "MongoDB",
+    "Firebase",
+    "Git",
+    "Jira",
+    "Agile",
+    "OOP",
+    "Microservices",
+    "Excel",
+    "Figma"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": "Finance",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Developer Naya Technologies, migVisor, Herzliya, Israel",
+      "organization": "Cloud database migration assessment",
+      "start": "2020",
+      "end": "present",
+      "durationMonths": 82,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Developing responsive frontend website on Angular, Material Design.",
+        "Troubleshooting and debugging application.",
+        "Tools summary: TypeScript, Angular, HTML, CSS, Material Design, REST, Firebase."
+      ]
+    },
+    {
+      "title": "\u2022 Inetex Ltd., Rehovot, Israel",
+      "organization": "P2P car sharing",
+      "start": "2018",
+      "end": "2020",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Developing responsive frontend websites on Angular and React.",
+        "Developing backend website application. RESTful web service based on Spring Boot.",
+        "Creation, integration, and management of NoSQL databases on Firebase.",
+        "Troubleshooting and debugging application.",
+        "Tools summary: TypeScript, Angular, JavaScript, React, HTML, CSS, Material Design, Bootstrap, REST, Google map API, Firebase, Spring, Spring Boot, Spring Security, Swagger, Dependency Injection."
+      ]
+    },
+    {
+      "title": "Web Developer Regions Group, Moscow, Russia",
+      "organization": "Development and commercial real estate management",
+      "start": "2015",
+      "end": "2017",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Production, maintenance, updating and optimization of frontend websites based on usability.",
+        "Creating cascading style sheets that are consistent across all browsers and platforms.",
+        "Identifying and troubleshooting various website issues and coding problems."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "SQL",
+    "HTML",
+    "CSS",
+    "VBA"
+  ],
+  "raw_text": "\u2022 5 years of total experience in development web frontend (70%) and development Java backend (30%).\nPersonal information\nLinkedIn:\nSKILLS SUMMARY\nProgramming languages: Java, JavaScript, TypeScript, SQL, HTML, CSS, VBA.\nTechnologies & Frameworks: Spring, Spring Boot, Spring Security, Lombok, Swagger, Hibernate, JUnit, Java Persistence API, Multithreading, Maven, jQuery, Bootstrap, REST, Kafka, Heroku, Angular, Material Design, React (Redux, Context API, Formik, Axios, Lodash, Hooks), Vue.js, Node.js.\nEnvironments & IDE: IntelliJ IDEA, WebStorm, Eclipse, VS Code, Xcode.\nDatabases: SQL (MySQL, ), NoSQL (MongoDB, Firebase).\nVersion control & Project Management: Git (BitBucket, GitHub), Jira, Agile, Scrum.\nSoftware Architecture: OOP, JSON, Design Patterns, Microservices, Dependency Injection.\nOperating Systems: Mac OS, Windows.\nAdditional skills: Adobe Creative Suite: Photoshop, Illustrator, XD, Dreamweaver, Acrobat Professional; MS Office: Access, Excel, Word; Figma, Mailchimp.\nSpoken languages: English, Hebrew, Russian.\nEXPERIENCE\nWeb Developer Naya Technologies, migVisor, Herzliya, Israel \u2014 2020-present\nCloud database migration assessment\nDeveloping responsive frontend website on Angular, Material Design.\nTroubleshooting and debugging application.\nTools summary: TypeScript, Angular, HTML, CSS, Material Design, REST, Firebase.\n\u2022 Inetex Ltd., Rehovot, Israel \u2014 2018-2020\nP2P car sharing\nDeveloping responsive frontend websites on Angular and React.\nDeveloping backend website application. RESTful web service based on Spring Boot.\nCreation, integration, and management of NoSQL databases on Firebase.\nTroubleshooting and debugging application.\nTools summary: TypeScript, Angular, JavaScript, React, HTML, CSS, Material Design, Bootstrap, REST, Google map API, Firebase, Spring, Spring Boot, Spring Security, Swagger, Dependency Injection.\nWeb Developer Regions Group, Moscow, Russia \u2014 2015-2017\nDevelopment and commercial real estate management\nProduction, maintenance, updating and optimization of frontend websites based on usability.\nCreating cascading style sheets that are consistent across all browsers and platforms.\nIdentifying and troubleshooting various website issues and coding problems.\nEDUCATION\nMaster of mathematics and computer science in Finance,\nPlekhanov Russian University of Economics, 2004, Moscow, Russia\nHTML, 2006, Moscow, Russia\nWeb-Development, 2015, Moscow, Russia\nFull Stack Java Development, 2018, Rehovot, Israel\n| Email: | City of Residence: Ashdod |",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 141,
+  "experienceYears": 11.8,
+  "sections": {
+    "header": "\u2022 5 years of total experience in development web frontend (70%) and development Java backend (30%).",
+    "other": "LinkedIn:\nSKILLS SUMMARY\nProgramming languages: Java, JavaScript, TypeScript, SQL, HTML, CSS, VBA.\nTechnologies & Frameworks: Spring, Spring Boot, Spring Security, Lombok, Swagger, Hibernate, JUnit, Java Persistence API, Multithreading, Maven, jQuery, Bootstrap, REST, Kafka, Heroku, Angular, Material Design, React (Redux, Context API, Formik, Axios, Lodash, Hooks), Vue.js, Node.js.\nEnvironments & IDE: IntelliJ IDEA, WebStorm, Eclipse, VS Code, Xcode.\nDatabases: SQL (MySQL, ), NoSQL (MongoDB, Firebase).\nVersion control & Project Management: Git (BitBucket, GitHub), Jira, Agile, Scrum.\nSoftware Architecture: OOP, JSON, Design Patterns, Microservices, Dependency Injection.\nOperating Systems: Mac OS, Windows.\nAdditional skills: Adobe Creative Suite: Photoshop, Illustrator, XD, Dreamweaver, Acrobat Professional; MS Office: Access, Excel, Word; Figma, Mailchimp.\nSpoken languages: English, Hebrew, Russian.",
+    "experience": "Web Developer Naya Technologies, migVisor, Herzliya, Israel \u2014 2020-present\nCloud database migration assessment\nDeveloping responsive frontend website on Angular, Material Design.\nTroubleshooting and debugging application.\nTools summary: TypeScript, Angular, HTML, CSS, Material Design, REST, Firebase.\n\u2022 Inetex Ltd., Rehovot, Israel \u2014 2018-2020\nP2P car sharing\nDeveloping responsive frontend websites on Angular and React.\nDeveloping backend website application. RESTful web service based on Spring Boot.\nCreation, integration, and management of NoSQL databases on Firebase.\nTroubleshooting and debugging application.\nTools summary: TypeScript, Angular, JavaScript, React, HTML, CSS, Material Design, Bootstrap, REST, Google map API, Firebase, Spring, Spring Boot, Spring Security, Swagger, Dependency Injection.\nWeb Developer Regions Group, Moscow, Russia \u2014 2015-2017\nDevelopment and commercial real estate management\nProduction, maintenance, updating and optimization of frontend websites based on usability.\nCreating cascading style sheets that are consistent across all browsers and platforms.\nIdentifying and troubleshooting various website issues and coding problems.",
+    "education": "Master of mathematics and computer science in Finance,\nPlekhanov Russian University of Economics, 2004, Moscow, Russia\nHTML, 2006, Moscow, Russia\nWeb-Development, 2015, Moscow, Russia\nFull Stack Java Development, 2018, Rehovot, Israel\n| Email: | City of Residence: Ashdod |"
+  },
+  "metadata": {
+    "fileName": "3.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 141,
+    "experienceYears": 11.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2502,
+      "wordCount": 318,
+      "imageCount": 0,
+      "tableCount": 1,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "other",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 60.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.55,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 11,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 60.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

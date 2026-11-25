@@ -1,0 +1,88 @@
+{
+  "resume_id": "resume_037",
+  "resumeId": "resume_037",
+  "fileName": "37.docx",
+  "candidateName": "Front End Developer",
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Git",
+    "Figma"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Hebrew(fluent)",
+    "English(advanced)",
+    "Russian(native)"
+  ],
+  "raw_text": "Front End Developer\n(+972)\nExperienced Front End Developer (2+ years of total expirience) who is\nNetanya, Israel\ncomfortable working with JavaScript, HTML/CSS,React.\nSpoken languages: Hebrew(fluent), English(advanced), Russian(native) . LinkedIn\nGithub\nWORK EXPERIENCE\nSKILLS\nFreelancer\n- JavaScript (es6)\nFront End Developer\n- CSS\nIsrael/Chelyabinsk\n- Experienced as a Freelancer in a couple of projects. - HTML\n- React\n- Took a part in development of \" \" and\n.\n- Development of responsive web application for education using React\non the FrontEnd side.\nBSX\nEDUCATION\nFront End Developer\nCertificate in Front End\nIsrael\n- Development of websites, landing pages. Cooperated with art directors, Development\nproject managers and designers. Performing bug fixes and code reviews. Front End Developer\n- Studied industry trends of websites to create high quality designs. SV College\n- Performing bug fixes and code reviews. Oct 2019 - Jun 2020\n- Develop and support web applications built with up-to-date tools like Israel,Tel-Aviv\nReact,Figma.\nSV College\nMatriculation\nFront End Developer\nCertificate(Computer-\nIsrael,Tel-Aviv\nOct 2019 - Jun 2020 aided design and\n- Main Project: Web application as online education platform. manufacturing).\n- Built Web-sites and Landing Pages based on JS and React. Shevah Mofet High School\n- Designing and implementing HTML email templates and newsletters. 2009 - 2015\n- Meetings and knowledge exchange. Israel,Tel-Aviv",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Front End Developer\n(+972)\nExperienced Front End Developer (2+ years of total expirience) who is\nNetanya, Israel\ncomfortable working with JavaScript, HTML/CSS,React.\nSpoken languages: Hebrew(fluent), English(advanced), Russian(native) . LinkedIn\nGithub",
+    "skills": "Freelancer\n- JavaScript (es6)\nFront End Developer\n- CSS\nIsrael/Chelyabinsk\n- Experienced as a Freelancer in a couple of projects. - HTML\n- React\n- Took a part in development of \" \" and\n.\n- Development of responsive web application for education using React\non the FrontEnd side.\nBSX",
+    "education": "Front End Developer\nCertificate in Front End\nIsrael\n- Development of websites, landing pages. Cooperated with art directors, Development\nproject managers and designers. Performing bug fixes and code reviews. Front End Developer\n- Studied industry trends of websites to create high quality designs. SV College\n- Performing bug fixes and code reviews. Oct 2019 - Jun 2020\n- Develop and support web applications built with up-to-date tools like Israel,Tel-Aviv\nReact,Figma.\nSV College\nMatriculation\nFront End Developer\nCertificate(Computer-\nIsrael,Tel-Aviv\nOct 2019 - Jun 2020 aided design and\n- Main Project: Web application as online education platform. manufacturing).\n- Built Web-sites and Landing Pages based on JS and React. Shevah Mofet High School\n- Designing and implementing HTML email templates and newsletters. 2009 - 2015\n- Meetings and knowledge exchange. Israel,Tel-Aviv"
+  },
+  "metadata": {
+    "fileName": "37.docx",
+    "candidateName": "Front End Developer",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1451,
+      "wordCount": 213,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 59.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "built"
+    ],
+    "quantifiedBulletsCount": 4,
+    "totalBulletsCount": 23,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 59.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

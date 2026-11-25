@@ -1,0 +1,31 @@
+resume_id,jd_id,reason_selected,difficulty,role,new_resume
+resume_10005171,jd_jd_008_network_engineer,Borderline fit score (70.9) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10062724,jd_jd_008_network_engineer,Borderline fit score (70.6) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10076271,jd_jd_008_network_engineer,Borderline fit score (71.1) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10186968,jd_jd_008_network_engineer,Borderline fit score (63.9) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10251432,jd_jd_008_network_engineer,Borderline fit score (70.8) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10329506,jd_jd_008_network_engineer,Borderline fit score (64.5) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10329506,jd_jd_011_cybersecurity_analyst,Borderline fit score (52.8) with moderate semantic similarity (0.0),HARD,Cybersecurity & SOC Security Analyst,True
+resume_10344379,jd_jd_008_network_engineer,Borderline fit score (69.2) with moderate semantic similarity (0.007),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10466208,jd_jd_008_network_engineer,Borderline fit score (52.7) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10480456,jd_jd_008_network_engineer,Borderline fit score (70.1) with moderate semantic similarity (0.0),HARD,Network Infrastructure & Telecommunications Engineer,True
+resume_10076271,jd_jd_001_fullstack_jr,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,Junior Full Stack Developer,True
+resume_10076271,jd_jd_002_backend_fastapi,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,Senior Backend Software Engineer,True
+resume_10076271,jd_jd_003_data_scientist,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,Data Scientist & Machine Learning Engineer,True
+resume_10076271,jd_jd_004_devops_cloud,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,DevOps & Cloud Platform Engineer,True
+resume_10076271,jd_jd_005_frontend_specialist,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,Senior Frontend React Engineer,True
+resume_10076271,jd_jd_006_java_backend,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,Java Microservices Backend Developer,True
+resume_10076271,jd_jd_007_dotnet_engineer,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,Senior .NET Software Engineer,True
+resume_10076271,jd_jd_009_qa_automation_sdet,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,QA Automation Engineer & SDET,True
+resume_10076271,jd_jd_010_mobile_developer,Senior non-tech background (CHIEF EXECUTIVE OFFICER) with high experience relevance (1.0) but low tech skill match (0.0),AMBIGUOUS,Mobile Application Engineer,True
+resume_11773767,jd_jd_003_data_scientist,Semantic overlap (0.261) exceeds exact keyword overlap (0.1),MEDIUM,Data Scientist & Machine Learning Engineer,True
+resume_13837784,jd_jd_005_frontend_specialist,Domain divergence baseline validation pair,EASY,Senior Frontend React Engineer,True
+resume_13837784,jd_jd_006_java_backend,Domain divergence baseline validation pair,EASY,Java Microservices Backend Developer,True
+resume_13837784,jd_jd_007_dotnet_engineer,Domain divergence baseline validation pair,EASY,Senior .NET Software Engineer,True
+resume_13837784,jd_jd_008_network_engineer,Domain divergence baseline validation pair,EASY,Network Infrastructure & Telecommunications Engineer,True
+resume_13837784,jd_jd_009_qa_automation_sdet,Domain divergence baseline validation pair,EASY,QA Automation Engineer & SDET,True
+resume_13837784,jd_jd_010_mobile_developer,Domain divergence baseline validation pair,EASY,Mobile Application Engineer,True
+resume_13837784,jd_jd_011_cybersecurity_analyst,Domain divergence baseline validation pair,EASY,Cybersecurity & SOC Security Analyst,True
+resume_13837784,jd_jd_012_ui_ux_product_designer,Domain divergence baseline validation pair,EASY,UI/UX Product Designer,True
+resume_3547447,jd_jd_001_fullstack_jr,Domain divergence baseline validation pair,EASY,Junior Full Stack Developer,True
+resume_3547447,jd_jd_002_backend_fastapi,Domain divergence baseline validation pair,EASY,Senior Backend Software Engineer,True

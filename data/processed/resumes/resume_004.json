@@ -1,0 +1,155 @@
+{
+  "resume_id": "resume_004",
+  "resumeId": "resume_004",
+  "fileName": "4.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Java",
+    "Teamwork",
+    "Go",
+    "JavaScript",
+    "TypeScript",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Hibernate",
+    "Angular",
+    "Unit Testing",
+    "REST APIs",
+    "Postman",
+    "Git",
+    "CI/CD",
+    "Docker",
+    "Jira",
+    "Agile",
+    "Spring Boot"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": ": Amdocs (Raanana) \u2013 Java Back-End Developer",
+      "organization": "Working as a Java Back-End Developer inside a cross-functional scrum team, I participated in development and maintenance of a web application for customer management and commerce. Following the Agile methodology, I designed some new features of the app, refactored existing code, and often was a go-to person for some of my teammates.",
+      "start": "2019",
+      "end": "2020",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Technologies: Java 8, Spring Boot, Hibernate, REST, Broadleaf, Apache Camel",
+        "Databases: MySQL, PostgreSQL, Couchbase",
+        "Tools: IntelliJ IDEA, JBoss Fuse, Postman, Jenkins, Docker, TFS"
+      ]
+    },
+    {
+      "title": ": Most Technologies (Petah Tikva) \u2013 Java Developer",
+      "organization": "As a part of a small team, I participated in development and maintaining of a desktop client-service application for insurance companies and pension funds. The work included deep understanding and refactoring of the existing code, designing some new essential features, solving critical problems in the app\u2019s infrastructure itself, version control and deployment. Besides, I have written several manuals for my fellow developers in order to help them understand some parts of the system better.",
+      "start": "2018",
+      "end": "2019",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Technologies: Java 6, IBM WebSphere, Web-Services (WSDL), Printboss utilities, Mainframe, UDB"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Hebrew",
+    "English",
+    "Russian"
+  ],
+  "raw_text": "\u2022 JAVA BACKEND DEVELOPER WITH 3 YEARS OF HANDS-ON EXPERIENCE\nA fast self-learner and an excellent team player with passion for the quality of the code and the product\nLooking for the next place to apply my skills and experience, i.e. for a full time back-end developer position\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nLanguages: Hebrew, English, Russian\nEXPERIENCE SUMMARY\nProgramming languages: JAVA, Go, JavaScript, TypeScript\nDatabases: MySQL, PostgreSQL, MongoDB, Couchbase\nFrameworks and technologies: Spring, ORM Hibernate, JDBC, Apache Kafka, Apache Camel, Broadleaf, Angular 4, Maven, JUnit, REST, WSDL\nEnvironments \u2013 IDE/tools: Eclipse, IntelliJ IDEA, WebStorm, VS Code, Postman, Git, SVN, Perforce, Jenkins, Docker, IBM WebSphere, JBoss Fuse, TFS, JIRA\nEXPERIENCE\n2019 \u2013 2020: Amdocs (Raanana) \u2013 Java Back-End Developer\nWorking as a Java Back-End Developer inside a cross-functional scrum team, I participated in development and maintenance of a web application for customer management and commerce. Following the Agile methodology, I designed some new features of the app, refactored existing code, and often was a go-to person for some of my teammates.\nTechnologies: Java 8, Spring Boot, Hibernate, REST, Broadleaf, Apache Camel\nDatabases: MySQL, PostgreSQL, Couchbase\nTools: IntelliJ IDEA, JBoss Fuse, Postman, Jenkins, Docker, TFS\n2018 \u2013 2019: Most Technologies (Petah Tikva) \u2013 Java Developer\nAs a part of a small team, I participated in development and maintaining of a desktop client-service application for insurance companies and pension funds. The work included deep understanding and refactoring of the existing code, designing some new essential features, solving critical problems in the app\u2019s infrastructure itself, version control and deployment. Besides, I have written several manuals for my fellow developers in order to help them understand some parts of the system better.\nTechnologies: Java 6, IBM WebSphere, Web-Services (WSDL), Printboss utilities, Mainframe, UDB\nEDUCATION\n2017 \u2013 2018: Tel-Ran Educational Center (Rehovot) \u2013 Java Full-Stack\nDuring my studies, I have participated in several commercial and educational projects:\nA web service for browsing restaurants and purchasing meals vouchers. Java 8, ORM Hibernate, Spring MVC, Spring Boot, MySQL, MongoDB, Angular 4.\nA service for collecting and processing data from various rooms sensors. Generating randomized mocked data, maintaining back-end server (Java MVC, REST API), MySQL database (ORM Hibernate, Spring Boot), reducing and analyzing data (Apache Kafka), informing end user about alerts via emails.\nA web service for browsing articles. Back-end server development (Java MVC, REST API), maintaining database with articles and user data (ORM Hibernate, Spring Boot).\nExperimental development of a light-weight map reduce Big Data system. Back-end development using Go language, parallel mapping and reducing data.\nRecommendations are available upon request",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 35,
+  "experienceYears": 2.9,
+  "sections": {
+    "header": "\u2022 JAVA BACKEND DEVELOPER WITH 3 YEARS OF HANDS-ON EXPERIENCE\nA fast self-learner and an excellent team player with passion for the quality of the code and the product\nLooking for the next place to apply my skills and experience, i.e. for a full time back-end developer position\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]",
+    "other": "Hebrew, English, Russian\nEXPERIENCE SUMMARY\nProgramming languages: JAVA, Go, JavaScript, TypeScript\nDatabases: MySQL, PostgreSQL, MongoDB, Couchbase\nFrameworks and technologies: Spring, ORM Hibernate, JDBC, Apache Kafka, Apache Camel, Broadleaf, Angular 4, Maven, JUnit, REST, WSDL\nEnvironments \u2013 IDE/tools: Eclipse, IntelliJ IDEA, WebStorm, VS Code, Postman, Git, SVN, Perforce, Jenkins, Docker, IBM WebSphere, JBoss Fuse, TFS, JIRA",
+    "experience": "2019 \u2013 2020: Amdocs (Raanana) \u2013 Java Back-End Developer\nWorking as a Java Back-End Developer inside a cross-functional scrum team, I participated in development and maintenance of a web application for customer management and commerce. Following the Agile methodology, I designed some new features of the app, refactored existing code, and often was a go-to person for some of my teammates.\nTechnologies: Java 8, Spring Boot, Hibernate, REST, Broadleaf, Apache Camel\nDatabases: MySQL, PostgreSQL, Couchbase\nTools: IntelliJ IDEA, JBoss Fuse, Postman, Jenkins, Docker, TFS\n2018 \u2013 2019: Most Technologies (Petah Tikva) \u2013 Java Developer\nAs a part of a small team, I participated in development and maintaining of a desktop client-service application for insurance companies and pension funds. The work included deep understanding and refactoring of the existing code, designing some new essential features, solving critical problems in the app\u2019s infrastructure itself, version control and deployment. Besides, I have written several manuals for my fellow developers in order to help them understand some parts of the system better.\nTechnologies: Java 6, IBM WebSphere, Web-Services (WSDL), Printboss utilities, Mainframe, UDB",
+    "education": "2017 \u2013 2018: Tel-Ran Educational Center (Rehovot) \u2013 Java Full-Stack\nDuring my studies, I have participated in several commercial and educational projects:\nA web service for browsing restaurants and purchasing meals vouchers. Java 8, ORM Hibernate, Spring MVC, Spring Boot, MySQL, MongoDB, Angular 4.\nA service for collecting and processing data from various rooms sensors. Generating randomized mocked data, maintaining back-end server (Java MVC, REST API), MySQL database (ORM Hibernate, Spring Boot), reducing and analyzing data (Apache Kafka), informing end user about alerts via emails.\nA web service for browsing articles. Back-end server development (Java MVC, REST API), maintaining database with articles and user data (ORM Hibernate, Spring Boot).\nExperimental development of a light-weight map reduce Big Data system. Back-end development using Go language, parallel mapping and reducing data.\nRecommendations are available upon request"
+  },
+  "metadata": {
+    "fileName": "4.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 35,
+    "experienceYears": 2.9,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2972,
+      "wordCount": 426,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "other",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Date of birth",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Date of birth",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 69.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 2,
+    "totalBulletsCount": 4,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 69.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

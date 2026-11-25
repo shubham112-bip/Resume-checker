@@ -1,0 +1,196 @@
+{
+  "resume_id": "resume_007",
+  "resumeId": "resume_007",
+  "fileName": "7.docx",
+  "candidateName": "\u2022 FRONTEND DEVELOPER",
+  "skills": [
+    "React",
+    "Redux",
+    "JavaScript",
+    "Python",
+    "Java",
+    "C#",
+    ".NET",
+    "HTML",
+    "CSS",
+    "SASS",
+    "Bootstrap",
+    "jQuery",
+    "Node.js",
+    "Git",
+    "Firebase",
+    "Figma",
+    "Jira",
+    "REST APIs",
+    "Postman",
+    "MySQL",
+    "MongoDB",
+    "SQL Server",
+    "SQL",
+    "Linux",
+    "Authentication",
+    "Data Structures",
+    "Agile",
+    "Communication"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": "Informatics",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's"
+    }
+  ],
+  "experience": [
+    {
+      "title": ": Frontend Developer, (Rehovot, Israel)",
+      "organization": "Main project: platform for finding employees for companies.",
+      "start": "2021",
+      "end": "present",
+      "durationMonths": 70,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Participation in the project development. The following modules were in my area of responsibility: Creating platform visually according to template file. Creating users with the definition of access roles. Code refactoring. Creation forms: to send data to database, authorization forms. Sorting algorithms depending on the option selected by the user. Rendering UI using React router dom. Integrated new technologies and replaced the outdated. Represented team interests in front of company\u2019s supervisors.",
+        "Participated in projects in all stages of the product life cycle. Extensively utilized Github for version control in an agile development environment.",
+        "Used: HTML, CSS, JavaScript, React, React Router DOM, React Hook Form, Redux."
+      ]
+    },
+    {
+      "title": ": MES Architect, UI Developer, (St.Petersburg, Russia)",
+      "organization": "Main project: MES system for ALROSA mines.",
+      "start": "2019",
+      "end": "2021",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Designed UI for MES Systems, designed data-flow diagrams and all logic for MES System, Support for C# applications. Wonderware System Platform project testing, maintenance and deployment. Arrangement of reservation, stage-by-stage updating of the system at the facility. Communication with technical support, installation of fixes. Participated in the development of the BI service on Vanilla JavaScript.",
+        "Used: C#, .NET, JavaScript, Wonderware Quick Script, Adobe Illustrator."
+      ]
+    },
+    {
+      "title": ": Control System Programmer, (St.Petersburg, Russia)",
+      "organization": "Main project: School of Engineering and Technology. Development of a management system. Development of control interfaces for smart equipment, Designed UI interface for Desktop App, Designed UI interface for Mobile (Tablet), Writing utilities in C# for integrating various equipment with control systems.",
+      "start": "2015",
+      "end": "2019",
+      "durationMonths": 59,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Used: JavaScript, C#, Python, Adobe Illustrator, Extron Global Configurator, iRidium Mobile.",
+        "EDUCATION AND COURSES"
+      ]
+    },
+    {
+      "title": ": Bachelor in Informatics - Polytechnic University (SPbPU),",
+      "organization": "Faculty of Technical Cybernetics, St.Petersburg, Russia",
+      "start": "2010",
+      "end": "2014",
+      "durationMonths": 59,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "2019: Online courses \u00abT-SQL for beginners\u00bb from Udemy",
+        "2020: Online courses \u00abWeb Development for Developers\u00bb from Scrimba",
+        "Recommendations are available upon request"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C#"
+  ],
+  "raw_text": "\u2022 FRONTEND DEVELOPER\n2 years of experience in frontend development (React / Redux)\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nEXPERIENCE SUMMARY\nProgramming language: JavaScript, Python, Java, C#, .NET.\nWeb: React, Redux, Redux Toolkit, Styled-components, React Hook Form, HTML5, CSS3, SCSS, Bootstrap, jQuery, Google Map API.\nTechnologies: Node JS, JSX, JSON, XML, NPM, YARN, AJAX, UML.\nEnvironments \u2013 IDE/tools: Microsoft Visual Studio Code, WebStorm, IntelliJ IDEA, Eclipse,\niRidium Mobile, Extron Global Configurator, Crestron SW-SIMPL, GitHub, Heroku, Firebase, Adobe Photoshop, Adobe Illustrator, Figma, Jira, Slack.\nWeb-services: REST API.\nQA tools: Postman, React Profiler, Redux DevTools.\nDataBases: MySQL, MongoDB, T-SQL. System: Windows, Linux\nEXPERIENCE\n2021 - present: Frontend Developer, (Rehovot, Israel)\nMain project: platform for finding employees for companies.\nParticipation in the project development. The following modules were in my area of responsibility: Creating platform visually according to template file. Creating users with the definition of access roles. Code refactoring. Creation forms: to send data to database, authorization forms. Sorting algorithms depending on the option selected by the user. Rendering UI using React router dom. Integrated new technologies and replaced the outdated. Represented team interests in front of company\u2019s supervisors.\nParticipated in projects in all stages of the product life cycle. Extensively utilized Github for version control in an agile development environment.\nUsed: HTML, CSS, JavaScript, React, React Router DOM, React Hook Form, Redux.\n2019- 2021: MES Architect, UI Developer, (St.Petersburg, Russia)\nMain project: MES system for ALROSA mines.\nDesigned UI for MES Systems, designed data-flow diagrams and all logic for MES System, Support for C# applications. Wonderware System Platform project testing, maintenance and deployment. Arrangement of reservation, stage-by-stage updating of the system at the facility. Communication with technical support, installation of fixes. Participated in the development of the BI service on Vanilla JavaScript.\nUsed: C#, .NET, JavaScript, Wonderware Quick Script, Adobe Illustrator.\n2015- 2019: Control System Programmer, (St.Petersburg, Russia)\nMain project: School of Engineering and Technology. Development of a management system. Development of control interfaces for smart equipment, Designed UI interface for Desktop App, Designed UI interface for Mobile (Tablet), Writing utilities in C# for integrating various equipment with control systems.\nUsed: JavaScript, C#, Python, Adobe Illustrator, Extron Global Configurator, iRidium Mobile.\nEDUCATION AND COURSES\n2010- 2014: Bachelor in Informatics - Polytechnic University (SPbPU),\nFaculty of Technical Cybernetics, St.Petersburg, Russia\n2019: Online courses \u00abT-SQL for beginners\u00bb from Udemy\n2020: Online courses \u00abWeb Development for Developers\u00bb from Scrimba\nRecommendations are available upon request",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 201,
+  "experienceYears": 16.8,
+  "sections": {
+    "header": "\u2022 FRONTEND DEVELOPER\n2 years of experience in frontend development (React / Redux)\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nEXPERIENCE SUMMARY\nProgramming language: JavaScript, Python, Java, C#, .NET.\nWeb: React, Redux, Redux Toolkit, Styled-components, React Hook Form, HTML5, CSS3, SCSS, Bootstrap, jQuery, Google Map API.",
+    "skills": "Node JS, JSX, JSON, XML, NPM, YARN, AJAX, UML.\nEnvironments \u2013 IDE/tools: Microsoft Visual Studio Code, WebStorm, IntelliJ IDEA, Eclipse,\niRidium Mobile, Extron Global Configurator, Crestron SW-SIMPL, GitHub, Heroku, Firebase, Adobe Photoshop, Adobe Illustrator, Figma, Jira, Slack.\nWeb-services: REST API.\nQA tools: Postman, React Profiler, Redux DevTools.\nDataBases: MySQL, MongoDB, T-SQL. System: Windows, Linux",
+    "experience": "2021 - present: Frontend Developer, (Rehovot, Israel)\nMain project: platform for finding employees for companies.\nParticipation in the project development. The following modules were in my area of responsibility: Creating platform visually according to template file. Creating users with the definition of access roles. Code refactoring. Creation forms: to send data to database, authorization forms. Sorting algorithms depending on the option selected by the user. Rendering UI using React router dom. Integrated new technologies and replaced the outdated. Represented team interests in front of company\u2019s supervisors.\nParticipated in projects in all stages of the product life cycle. Extensively utilized Github for version control in an agile development environment.\nUsed: HTML, CSS, JavaScript, React, React Router DOM, React Hook Form, Redux.\n2019- 2021: MES Architect, UI Developer, (St.Petersburg, Russia)\nMain project: MES system for ALROSA mines.\nDesigned UI for MES Systems, designed data-flow diagrams and all logic for MES System, Support for C# applications. Wonderware System Platform project testing, maintenance and deployment. Arrangement of reservation, stage-by-stage updating of the system at the facility. Communication with technical support, installation of fixes. Participated in the development of the BI service on Vanilla JavaScript.\nUsed: C#, .NET, JavaScript, Wonderware Quick Script, Adobe Illustrator.\n2015- 2019: Control System Programmer, (St.Petersburg, Russia)\nMain project: School of Engineering and Technology. Development of a management system. Development of control interfaces for smart equipment, Designed UI interface for Desktop App, Designed UI interface for Mobile (Tablet), Writing utilities in C# for integrating various equipment with control systems.\nUsed: JavaScript, C#, Python, Adobe Illustrator, Extron Global Configurator, iRidium Mobile.\nEDUCATION AND COURSES\n2010- 2014: Bachelor in Informatics - Polytechnic University (SPbPU),\nFaculty of Technical Cybernetics, St.Petersburg, Russia\n2019: Online courses \u00abT-SQL for beginners\u00bb from Udemy\n2020: Online courses \u00abWeb Development for Developers\u00bb from Scrimba\nRecommendations are available upon request"
+  },
+  "metadata": {
+    "fileName": "7.docx",
+    "candidateName": "\u2022 FRONTEND DEVELOPER",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 201,
+    "experienceYears": 16.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 3019,
+      "wordCount": 403,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "experience"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 68.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.5,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "designed",
+      "integrated"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 10,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 68.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

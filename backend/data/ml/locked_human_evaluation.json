@@ -1,0 +1,2168 @@
+{
+  "evaluation_type": "LOCKED_HUMAN_VALIDATION",
+  "timestamp": "2026-11-24T15:57:09.536453+00:00",
+  "total_pairs": 64,
+  "total_resumes": 45,
+  "total_jds": 12,
+  "reviewer_count": 1,
+  "reviewer_id": "human_reviewer_01",
+  "human_distribution_4class": {
+    "STRONG_MATCH": 16,
+    "MATCH": 16,
+    "REVIEW": 16,
+    "WEAK_MATCH": 16
+  },
+  "human_distribution_3class": {
+    "shortlist": 32,
+    "review": 16,
+    "weak_match": 16
+  },
+  "ml_vs_human": {
+    "accuracy": 0.4531,
+    "macro_precision": 0.5292,
+    "macro_recall": 0.4896,
+    "macro_f1": 0.4293,
+    "weighted_f1": 0.4442,
+    "shortlist_precision": 0.8462,
+    "shortlist_recall": 0.3438,
+    "false_shortlist_rate": 0.1538,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        2
+      ],
+      [
+        12,
+        4,
+        0
+      ],
+      [
+        15,
+        6,
+        11
+      ]
+    ],
+    "labels": [
+      "weak_match",
+      "review",
+      "shortlist"
+    ],
+    "per_class": {
+      "weak_match": {
+        "precision": 0.3415,
+        "recall": 0.875,
+        "f1": 0.4912,
+        "support": 16
+      },
+      "review": {
+        "precision": 0.4,
+        "recall": 0.25,
+        "f1": 0.3077,
+        "support": 16
+      },
+      "shortlist": {
+        "precision": 0.8462,
+        "recall": 0.3438,
+        "f1": 0.4889,
+        "support": 32
+      }
+    }
+  },
+  "rule_vs_human": {
+    "accuracy": 0.4531,
+    "macro_precision": 0.5292,
+    "macro_recall": 0.4896,
+    "macro_f1": 0.4293,
+    "weighted_f1": 0.4442,
+    "shortlist_precision": 0.8462,
+    "shortlist_recall": 0.3438,
+    "false_shortlist_rate": 0.1538,
+    "confusion_matrix": [
+      [
+        14,
+        0,
+        2
+      ],
+      [
+        12,
+        4,
+        0
+      ],
+      [
+        15,
+        6,
+        11
+      ]
+    ],
+    "labels": [
+      "weak_match",
+      "review",
+      "shortlist"
+    ],
+    "per_class": {
+      "weak_match": {
+        "precision": 0.3415,
+        "recall": 0.875,
+        "f1": 0.4912,
+        "support": 16
+      },
+      "review": {
+        "precision": 0.4,
+        "recall": 0.25,
+        "f1": 0.3077,
+        "support": 16
+      },
+      "shortlist": {
+        "precision": 0.8462,
+        "recall": 0.3438,
+        "f1": 0.4889,
+        "support": 32
+      }
+    }
+  },
+  "ml_vs_rule_agreement": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "weighted_f1": 1.0,
+    "shortlist_precision": 1.0,
+    "shortlist_recall": 1.0,
+    "false_shortlist_rate": 0.0,
+    "confusion_matrix": [
+      [
+        41,
+        0,
+        0
+      ],
+      [
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        13
+      ]
+    ],
+    "labels": [
+      "weak_match",
+      "review",
+      "shortlist"
+    ],
+    "per_class": {
+      "weak_match": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 41
+      },
+      "review": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 10
+      },
+      "shortlist": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 13
+      }
+    }
+  },
+  "pair_details": [
+    {
+      "resume_id": "resume_019",
+      "jd_id": "jd_006_java_backend",
+      "candidate_name": "Full Stack Java Developer",
+      "job_title": "Jd 006 Java Backend",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.295,
+        "shortlist": 0.705,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 72.1,
+      "resume_quality_score": 62.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Full stack Java developer with extensive Spring Boot, Hibernate, microservices, and SQL experience. Perfect enterprise backend match.",
+      "evidence": "Java, Spring Boot, Hibernate, Microservices, REST APIs, SQL, TypeScript",
+      "features": {
+        "requiredSkillMatch": 0.84,
+        "preferredSkillMatch": 0.53,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.208,
+        "atsScore": 0.666,
+        "resumeQuality": 0.627
+      }
+    },
+    {
+      "resume_id": "sample_07_vikram_malhotra_java_backend",
+      "jd_id": "jd_006_java_backend",
+      "candidate_name": "Vikram Malhotra",
+      "job_title": "Jd 006 Java Backend",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.011,
+        "shortlist": 0.989,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 79.6,
+      "resume_quality_score": 74.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Direct Java enterprise backend developer matching all required microservices, Spring Boot, and database requirements.",
+      "evidence": "Java, Spring Boot, Microservices, Hibernate, MySQL, REST APIs, Git",
+      "features": {
+        "requiredSkillMatch": 0.92,
+        "preferredSkillMatch": 0.84,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.8,
+        "projectMatch": 0.833,
+        "semanticSimilarity": 0.256,
+        "atsScore": 0.815,
+        "resumeQuality": 0.74
+      }
+    },
+    {
+      "resume_id": "sample_06_ananya_iyer_devops_cloud",
+      "jd_id": "jd_004_devops_cloud",
+      "candidate_name": "Ananya Iyer",
+      "job_title": "Jd 004 Devops Cloud",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "STRONG_SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.003,
+        "shortlist": 0.997,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 85.1,
+      "resume_quality_score": 80.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Exceptional cloud platform alignment across Kubernetes, Terraform, AWS, and CI/CD pipelines.",
+      "evidence": "AWS, Kubernetes, Terraform, Docker, CI/CD, Prometheus, Grafana, Linux",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.76,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.8,
+        "projectMatch": 0.833,
+        "semanticSimilarity": 0.439,
+        "atsScore": 0.815,
+        "resumeQuality": 0.8
+      }
+    },
+    {
+      "resume_id": "sample_04_sneha_rao_data_scientist",
+      "jd_id": "jd_003_data_scientist",
+      "candidate_name": "Sneha Rao",
+      "job_title": "Jd 003 Data Scientist",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.106,
+        "shortlist": 0.894,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 77.7,
+      "resume_quality_score": 77.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Strong ML and data science background with PyTorch, scikit-learn, Pandas, and statistical modeling.",
+      "evidence": "Machine Learning, PyTorch, Pandas, scikit-learn, SQL, NLP, Data Analysis",
+      "features": {
+        "requiredSkillMatch": 0.92,
+        "preferredSkillMatch": 0.8,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.9,
+        "projectMatch": 0.333,
+        "semanticSimilarity": 0.378,
+        "atsScore": 0.815,
+        "resumeQuality": 0.777
+      }
+    },
+    {
+      "resume_id": "resume_020",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "Full-Stack Developer",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.051,
+        "shortlist": 0.0,
+        "weak_match": 0.949
+      },
+      "overall_fit_score": 48.3,
+      "resume_quality_score": 64.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Full stack candidate proficient in React on frontend and Node.js with PostgreSQL on backend.",
+      "evidence": "Node.js, JavaScript, React, Redux, PostgreSQL, REST APIs, PHP",
+      "features": {
+        "requiredSkillMatch": 0.46,
+        "preferredSkillMatch": 0.36,
+        "experienceMatch": 0.7,
+        "educationMatch": 0.7,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.208,
+        "atsScore": 0.515,
+        "resumeQuality": 0.648
+      }
+    },
+    {
+      "resume_id": "resume_025",
+      "jd_id": "jd_007_dotnet_engineer",
+      "candidate_name": "Auth0, PowerBI, SSRS, Git;",
+      "job_title": "Jd 007 Dotnet Engineer",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.003,
+        "shortlist": 0.0,
+        "weak_match": 0.997
+      },
+      "overall_fit_score": 41.3,
+      "resume_quality_score": 65.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Direct match for .NET software engineering stack with strong C#, SQL Server, and TypeScript.",
+      "evidence": "C#, .NET, ASP.NET, SQL Server, Angular, TypeScript, Entity Framework",
+      "features": {
+        "requiredSkillMatch": 0.53,
+        "preferredSkillMatch": 0.429,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.7,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.236,
+        "atsScore": 0.563,
+        "resumeQuality": 0.655
+      }
+    },
+    {
+      "resume_id": "sample_08_priya_nair_frontend_specialist",
+      "jd_id": "jd_005_frontend_specialist",
+      "candidate_name": "Priya Nair",
+      "job_title": "Jd 005 Frontend Specialist",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "STRONG_SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.002,
+        "shortlist": 0.998,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 86.6,
+      "resume_quality_score": 80.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Senior React and Next.js specialist matching modern frontend tooling, Tailwind, and component architecture.",
+      "evidence": "React, Next.js, JavaScript, TypeScript, Tailwind CSS, Redux, Jest",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.8,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.833,
+        "semanticSimilarity": 0.404,
+        "atsScore": 0.815,
+        "resumeQuality": 0.8
+      }
+    },
+    {
+      "resume_id": "resume_037",
+      "jd_id": "jd_005_frontend_specialist",
+      "candidate_name": "Front End Developer",
+      "job_title": "Jd 005 Frontend Specialist",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 32.6,
+      "resume_quality_score": 59.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Core React frontend developer with Figma design handoff, modern CSS, and component implementation.",
+      "evidence": "JavaScript, HTML, CSS, React, Redux, Git, Figma",
+      "features": {
+        "requiredSkillMatch": 0.425,
+        "preferredSkillMatch": 0.062,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.294,
+        "atsScore": 0.439,
+        "resumeQuality": 0.595
+      }
+    },
+    {
+      "resume_id": "sample_09_rohan_mehta_mobile_developer",
+      "jd_id": "jd_010_mobile_developer",
+      "candidate_name": "Rohan Mehta",
+      "job_title": "Jd 010 Mobile Developer",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.076,
+        "shortlist": 0.924,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 76.8,
+      "resume_quality_score": 74.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Cross-platform mobile engineer with production Flutter, native Android, and mobile API integration.",
+      "evidence": "Flutter, React Native, Android, Kotlin, JavaScript, Firebase, REST APIs",
+      "features": {
+        "requiredSkillMatch": 0.775,
+        "preferredSkillMatch": 0.212,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.667,
+        "semanticSimilarity": 0.36,
+        "atsScore": 0.776,
+        "resumeQuality": 0.74
+      }
+    },
+    {
+      "resume_id": "resume_008",
+      "jd_id": "jd_010_mobile_developer",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 010 Mobile Developer",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.574,
+        "shortlist": 0.002,
+        "weak_match": 0.424
+      },
+      "overall_fit_score": 55.3,
+      "resume_quality_score": 60.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Strong native Android and Flutter mobile development skillset with Kotlin and Java.",
+      "evidence": "Android, Kotlin, Java, Flutter, C++, REST APIs",
+      "features": {
+        "requiredSkillMatch": 0.342,
+        "preferredSkillMatch": 0.25,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.182,
+        "atsScore": 0.537,
+        "resumeQuality": 0.607
+      }
+    },
+    {
+      "resume_id": "sample_10_deepa_joshi_qa_automation",
+      "jd_id": "jd_009_qa_automation_sdet",
+      "candidate_name": "Deepa Joshi",
+      "job_title": "Jd 009 Qa Automation Sdet",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.006,
+        "shortlist": 0.994,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 83.8,
+      "resume_quality_score": 74.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Direct SDET profile with Selenium and PyTest automation frameworks, CI/CD, and API testing.",
+      "evidence": "Selenium, PyTest, CI/CD, Python, Postman, REST APIs, Git, Unit Testing",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.4,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.667,
+        "semanticSimilarity": 0.386,
+        "atsScore": 0.755,
+        "resumeQuality": 0.74
+      }
+    },
+    {
+      "resume_id": "resume_058",
+      "jd_id": "jd_009_qa_automation_sdet",
+      "candidate_name": "QA Automation Engineer",
+      "job_title": "Jd 009 Qa Automation Sdet",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.039,
+        "shortlist": 0.0,
+        "weak_match": 0.961
+      },
+      "overall_fit_score": 46.1,
+      "resume_quality_score": 58.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Dedicated QA automation engineer specializing in Selenium test frameworks and automated test suites.",
+      "evidence": "C#, Selenium, Azure, SQL, SQL Server, Test Automation, Unit Testing",
+      "features": {
+        "requiredSkillMatch": 0.575,
+        "preferredSkillMatch": 0.188,
+        "experienceMatch": 0.2,
+        "educationMatch": 1.0,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.384,
+        "atsScore": 0.425,
+        "resumeQuality": 0.588
+      }
+    },
+    {
+      "resume_id": "resume_040",
+      "jd_id": "jd_006_java_backend",
+      "candidate_name": "FULL STACK JAVA DEVELOPER",
+      "job_title": "Jd 006 Java Backend",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.166,
+        "shortlist": 0.834,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 72.5,
+      "resume_quality_score": 59.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Full stack Java developer with core Spring Boot, Hibernate, and microservices enterprise backend experience.",
+      "evidence": "Java, Spring Boot, Hibernate, SQL, Microservices, REST APIs, TypeScript",
+      "features": {
+        "requiredSkillMatch": 0.92,
+        "preferredSkillMatch": 0.48,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.08,
+        "atsScore": 0.666,
+        "resumeQuality": 0.595
+      }
+    },
+    {
+      "resume_id": "resume_055",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "Contact",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.925,
+        "shortlist": 0.069,
+        "weak_match": 0.007
+      },
+      "overall_fit_score": 64.5,
+      "resume_quality_score": 67.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Modern full stack developer with React, Node.js, TypeScript, WebSockets, and API architecture.",
+      "evidence": "Go, JavaScript, TypeScript, React, Node.js, WebSockets, GraphQL",
+      "features": {
+        "requiredSkillMatch": 0.64,
+        "preferredSkillMatch": 0.45,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.7,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.303,
+        "atsScore": 0.632,
+        "resumeQuality": 0.675
+      }
+    },
+    {
+      "resume_id": "resume_065",
+      "jd_id": "jd_008_network_engineer",
+      "candidate_name": "NETWORK ENGINEER",
+      "job_title": "Jd 008 Network Engineer",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.016,
+        "shortlist": 0.0,
+        "weak_match": 0.984
+      },
+      "overall_fit_score": 47.9,
+      "resume_quality_score": 59.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Dedicated network infrastructure background with routing protocols, Linux, and telecom hardware.",
+      "evidence": "Network Engineer, Cisco, TCP/IP, Routing, Switching, Linux, Python",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.6,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.044,
+        "atsScore": 0.615,
+        "resumeQuality": 0.595
+      }
+    },
+    {
+      "resume_id": "sample_01_rahul_sharma_fullstack",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "Rahul Sharma",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "STRONG_MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.028,
+        "shortlist": 0.972,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 78.9,
+      "resume_quality_score": 82.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Ideal junior full stack match meeting all mandatory technologies (React, Node, Express, SQL).",
+      "evidence": "React, Node.js, JavaScript, TypeScript, Express, PostgreSQL, REST APIs",
+      "features": {
+        "requiredSkillMatch": 0.84,
+        "preferredSkillMatch": 0.45,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.8,
+        "projectMatch": 0.833,
+        "semanticSimilarity": 0.374,
+        "atsScore": 0.773,
+        "resumeQuality": 0.822
+      }
+    },
+    {
+      "resume_id": "resume_028",
+      "jd_id": "jd_005_frontend_specialist",
+      "candidate_name": "LinkedIn: Residence: Netanya, Israel",
+      "job_title": "Jd 005 Frontend Specialist",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.809,
+        "shortlist": 0.188,
+        "weak_match": 0.002
+      },
+      "overall_fit_score": 66.8,
+      "resume_quality_score": 58.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Solid frontend match with React, TypeScript, and Redux. Can take on frontend tasks immediately.",
+      "evidence": "TypeScript, React, Redux, JavaScript, Node.js, MongoDB",
+      "features": {
+        "requiredSkillMatch": 0.708,
+        "preferredSkillMatch": 0.4,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.9,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.259,
+        "atsScore": 0.575,
+        "resumeQuality": 0.587
+      }
+    },
+    {
+      "resume_id": "resume_015",
+      "jd_id": "jd_005_frontend_specialist",
+      "candidate_name": "Experience Summary",
+      "job_title": "Jd 005 Frontend Specialist",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.171,
+        "shortlist": 0.001,
+        "weak_match": 0.828
+      },
+      "overall_fit_score": 50.0,
+      "resume_quality_score": 74.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Extensive frontend experience in Angular and JavaScript; easily capable of delivering UI components.",
+      "evidence": "Angular, REST APIs, jQuery, HTML, CSS, Bootstrap, JavaScript",
+      "features": {
+        "requiredSkillMatch": 0.708,
+        "preferredSkillMatch": 0.25,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.9,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.296,
+        "atsScore": 0.572,
+        "resumeQuality": 0.742
+      }
+    },
+    {
+      "resume_id": "resume_045",
+      "jd_id": "jd_002_backend_fastapi",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 002 Backend Fastapi",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.938,
+        "shortlist": 0.011,
+        "weak_match": 0.05
+      },
+      "overall_fit_score": 60.2,
+      "resume_quality_score": 58.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Python backend engineer with Django and REST frameworks. Python backend concepts carry over smoothly.",
+      "evidence": "Python, JavaScript, Django, Django REST Framework, React, PostgreSQL",
+      "features": {
+        "requiredSkillMatch": 0.55,
+        "preferredSkillMatch": 0.417,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.2,
+        "projectMatch": 0.583,
+        "semanticSimilarity": 0.478,
+        "atsScore": 0.576,
+        "resumeQuality": 0.587
+      }
+    },
+    {
+      "resume_id": "resume_043",
+      "jd_id": "jd_002_backend_fastapi",
+      "candidate_name": "Backend Developer",
+      "job_title": "Jd 002 Backend Fastapi",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 37.5,
+      "resume_quality_score": 62.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Backend developer with Go, Python, and PostgreSQL. Demonstrates strong backend and database skills.",
+      "evidence": "Git, Go, Java, Python, C++, Microservices, PostgreSQL",
+      "features": {
+        "requiredSkillMatch": 0.53,
+        "preferredSkillMatch": 0.3,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.377,
+        "atsScore": 0.475,
+        "resumeQuality": 0.628
+      }
+    },
+    {
+      "resume_id": "resume_051",
+      "jd_id": "jd_006_java_backend",
+      "candidate_name": "Java Developer, Backend",
+      "job_title": "Jd 006 Java Backend",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 28.0,
+      "resume_quality_score": 56.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Java backend developer with Spring Boot and SQL. Good candidate for Java services team.",
+      "evidence": "Java, Spring Boot, Teamwork, C#, C++, SQL, Git",
+      "features": {
+        "requiredSkillMatch": 0.36,
+        "preferredSkillMatch": 0.12,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.15,
+        "atsScore": 0.407,
+        "resumeQuality": 0.56
+      }
+    },
+    {
+      "resume_id": "resume_052",
+      "jd_id": "jd_007_dotnet_engineer",
+      "candidate_name": "Portfolio:",
+      "job_title": "Jd 007 Dotnet Engineer",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.803,
+        "shortlist": 0.194,
+        "weak_match": 0.003
+      },
+      "overall_fit_score": 67.5,
+      "resume_quality_score": 67.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": ".NET and SQL Server background with Docker experience on Linux.",
+      "evidence": ".NET, Linux, SQL Server, SQL, Docker, Agile",
+      "features": {
+        "requiredSkillMatch": 0.92,
+        "preferredSkillMatch": 0.386,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.2,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.322,
+        "atsScore": 0.567,
+        "resumeQuality": 0.678
+      }
+    },
+    {
+      "resume_id": "resume_035",
+      "jd_id": "jd_010_mobile_developer",
+      "candidate_name": "LinkedIn: /",
+      "job_title": "Jd 010 Mobile Developer",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 30.4,
+      "resume_quality_score": 70.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Mobile app developer with both Android (Java/Kotlin) and iOS (Swift) capabilities.",
+      "evidence": "Java, Kotlin, Swift, C#, Android, OOP",
+      "features": {
+        "requiredSkillMatch": 0.35,
+        "preferredSkillMatch": 0.5,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.209,
+        "atsScore": 0.525,
+        "resumeQuality": 0.705
+      }
+    },
+    {
+      "resume_id": "resume_039",
+      "jd_id": "jd_009_qa_automation_sdet",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 009 Qa Automation Sdet",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.033,
+        "shortlist": 0.0,
+        "weak_match": 0.967
+      },
+      "overall_fit_score": 46.0,
+      "resume_quality_score": 67.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Python automation engineer with Selenium and unit testing experience.",
+      "evidence": "Python, Bash, Java, C++, Flask, Django, Selenium, Unit Testing",
+      "features": {
+        "requiredSkillMatch": 0.725,
+        "preferredSkillMatch": 0.338,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.517,
+        "atsScore": 0.495,
+        "resumeQuality": 0.67
+      }
+    },
+    {
+      "resume_id": "resume_060",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "CONTACTS MOTOVILOV PAVEL",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.212,
+        "shortlist": 0.0,
+        "weak_match": 0.788
+      },
+      "overall_fit_score": 50.6,
+      "resume_quality_score": 61.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Full stack skills with React on frontend, PHP backend, and Docker containerization.",
+      "evidence": "PHP, React, JavaScript, TypeScript, Redux, Git, Docker",
+      "features": {
+        "requiredSkillMatch": 0.41,
+        "preferredSkillMatch": 0.17,
+        "experienceMatch": 0.7,
+        "educationMatch": 1.0,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.267,
+        "atsScore": 0.522,
+        "resumeQuality": 0.612
+      }
+    },
+    {
+      "resume_id": "resume_064",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "| | Tel Aviv",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.446,
+        "shortlist": 0.001,
+        "weak_match": 0.553
+      },
+      "overall_fit_score": 53.6,
+      "resume_quality_score": 62.3,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Web developer with JavaScript, React, Node.js, and MongoDB experience.",
+      "evidence": "JavaScript, PHP, MongoDB, Vue.js, React, Node.js, HTML",
+      "features": {
+        "requiredSkillMatch": 0.58,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.7,
+        "educationMatch": 0.8,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.299,
+        "atsScore": 0.459,
+        "resumeQuality": 0.623
+      }
+    },
+    {
+      "resume_id": "resume_048",
+      "jd_id": "jd_003_data_scientist",
+      "candidate_name": "ANALYTICS LEAD",
+      "job_title": "Jd 003 Data Scientist",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.276,
+        "shortlist": 0.0,
+        "weak_match": 0.724
+      },
+      "overall_fit_score": 53.0,
+      "resume_quality_score": 65.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Analytics lead with Python, advanced SQL, Tableau, and data visualization.",
+      "evidence": "Python, SQL, Tableau, Power BI, Analytics, Teamwork",
+      "features": {
+        "requiredSkillMatch": 0.29,
+        "preferredSkillMatch": 0.083,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.9,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.208,
+        "atsScore": 0.487,
+        "resumeQuality": 0.658
+      }
+    },
+    {
+      "resume_id": "resume_057",
+      "jd_id": "jd_004_devops_cloud",
+      "candidate_name": "Beer Sheva, Israel",
+      "job_title": "Jd 004 Devops Cloud",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.001,
+        "shortlist": 0.0,
+        "weak_match": 0.999
+      },
+      "overall_fit_score": 41.7,
+      "resume_quality_score": 74.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "DevOps background with Linux, CI/CD pipelines, Docker containers, and Git.",
+      "evidence": "Linux, CI/CD, C, C++, Git, Docker, Python",
+      "features": {
+        "requiredSkillMatch": 0.6,
+        "preferredSkillMatch": 0.2,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.7,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.104,
+        "atsScore": 0.542,
+        "resumeQuality": 0.742
+      }
+    },
+    {
+      "resume_id": "sample_02_vinit_surve_semantic_backend",
+      "jd_id": "jd_002_backend_fastapi",
+      "candidate_name": "Vinit Surve",
+      "job_title": "Jd 002 Backend Fastapi",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.937,
+        "shortlist": 0.051,
+        "weak_match": 0.012
+      },
+      "overall_fit_score": 63.3,
+      "resume_quality_score": 75.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Backend developer with Express and PostgreSQL; strong architectural concepts applicable to FastAPI.",
+      "evidence": "JavaScript, Express, React, PostgreSQL, Git, Linux, REST APIs",
+      "features": {
+        "requiredSkillMatch": 0.45,
+        "preferredSkillMatch": 0.208,
+        "experienceMatch": 0.944,
+        "educationMatch": 1.0,
+        "projectMatch": 0.583,
+        "semanticSimilarity": 0.343,
+        "atsScore": 0.612,
+        "resumeQuality": 0.755
+      }
+    },
+    {
+      "resume_id": "sample_05_karan_verma_junior_btech",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "Karan Verma",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.108,
+        "shortlist": 0.892,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 70.2,
+      "resume_quality_score": 61.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Junior CS graduate with academic projects in React, JavaScript, and SQL.",
+      "evidence": "Data Structures, JavaScript, React, HTML, CSS, SQL, Git",
+      "features": {
+        "requiredSkillMatch": 0.84,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.762,
+        "educationMatch": 0.8,
+        "projectMatch": 0.833,
+        "semanticSimilarity": 0.234,
+        "atsScore": 0.695,
+        "resumeQuality": 0.612
+      }
+    },
+    {
+      "resume_id": "resume_002",
+      "jd_id": "jd_006_java_backend",
+      "candidate_name": "\u2022 FULL-STACK DEVELOPER",
+      "job_title": "Jd 006 Java Backend",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.274,
+        "shortlist": 0.726,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 74.2,
+      "resume_quality_score": 71.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Java developer with Spring Boot and Microservices experience in containerized Docker environments.",
+      "evidence": "Java, JavaScript, Microservices, Spring Boot, Docker, REST APIs",
+      "features": {
+        "requiredSkillMatch": 0.85,
+        "preferredSkillMatch": 0.69,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.318,
+        "atsScore": 0.63,
+        "resumeQuality": 0.715
+      }
+    },
+    {
+      "resume_id": "resume_061",
+      "jd_id": "jd_005_frontend_specialist",
+      "candidate_name": "Location: TelAviv",
+      "job_title": "Jd 005 Frontend Specialist",
+      "human_label_4class": "MATCH",
+      "human_label_3class": "shortlist",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.001,
+        "shortlist": 0.0,
+        "weak_match": 0.999
+      },
+      "overall_fit_score": 39.2,
+      "resume_quality_score": 58.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "React frontend developer with Redux and TypeScript state management.",
+      "evidence": "Unit Testing, Agile, Teamwork, React, Redux, TypeScript, JavaScript",
+      "features": {
+        "requiredSkillMatch": 0.442,
+        "preferredSkillMatch": 0.3,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.9,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.191,
+        "atsScore": 0.52,
+        "resumeQuality": 0.588
+      }
+    },
+    {
+      "resume_id": "resume_013",
+      "jd_id": "jd_005_frontend_specialist",
+      "candidate_name": "\u2022 Front-end Developer",
+      "job_title": "Jd 005 Frontend Specialist",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 36.1,
+      "resume_quality_score": 57.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Solid HTML/CSS/JavaScript foundations with SASS and Python, but lacks dedicated React/Next.js depth.",
+      "evidence": "Git, Python, JavaScript, HTML, CSS, SASS, PHP",
+      "features": {
+        "requiredSkillMatch": 0.542,
+        "preferredSkillMatch": 0.312,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.242,
+        "atsScore": 0.537,
+        "resumeQuality": 0.577
+      }
+    },
+    {
+      "resume_id": "resume_044",
+      "jd_id": "jd_002_backend_fastapi",
+      "candidate_name": "Back-end Developer",
+      "job_title": "Jd 002 Backend Fastapi",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 24.1,
+      "resume_quality_score": 65.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Backend skills with Python Flask and Laravel; knows Python web concepts but lacks FastAPI and Celery.",
+      "evidence": "Git, PHP, Python, C++, Laravel, Flask, MySQL",
+      "features": {
+        "requiredSkillMatch": 0.24,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.052,
+        "atsScore": 0.477,
+        "resumeQuality": 0.652
+      }
+    },
+    {
+      "resume_id": "resume_009",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.933,
+        "shortlist": 0.053,
+        "weak_match": 0.014
+      },
+      "overall_fit_score": 63.5,
+      "resume_quality_score": 61.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Generalist candidate with Java, C#, and JavaScript; knows web basics but lacks modern React/Node project depth.",
+      "evidence": "JavaScript, Java, C#, C++, C, HTML, CSS",
+      "features": {
+        "requiredSkillMatch": 0.65,
+        "preferredSkillMatch": 0.37,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.7,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.28,
+        "atsScore": 0.566,
+        "resumeQuality": 0.615
+      }
+    },
+    {
+      "resume_id": "resume_011",
+      "jd_id": "jd_007_dotnet_engineer",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 007 Dotnet Engineer",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 37.3,
+      "resume_quality_score": 63.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Familiar with C# and C++, but lacks explicit ASP.NET Core, Entity Framework, or SQL Server evidence.",
+      "evidence": "C, C++, C#, Agile, Jira, Git, Java",
+      "features": {
+        "requiredSkillMatch": 0.34,
+        "preferredSkillMatch": 0.107,
+        "experienceMatch": 0.2,
+        "educationMatch": 1.0,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.277,
+        "atsScore": 0.377,
+        "resumeQuality": 0.638
+      }
+    },
+    {
+      "resume_id": "resume_030",
+      "jd_id": "jd_005_frontend_specialist",
+      "candidate_name": "FRONT END DEVELOPER",
+      "job_title": "Jd 005 Frontend Specialist",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 28.9,
+      "resume_quality_score": 58.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "CSS and layout specialist with HTML and SASS; needs technical interview to check JavaScript and React proficiency.",
+      "evidence": "CSS, Java, Leadership, HTML, SASS, Bootstrap, JavaScript",
+      "features": {
+        "requiredSkillMatch": 0.367,
+        "preferredSkillMatch": 0.3,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.105,
+        "atsScore": 0.54,
+        "resumeQuality": 0.585
+      }
+    },
+    {
+      "resume_id": "resume_031",
+      "jd_id": "jd_006_java_backend",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 006 Java Backend",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.001,
+        "shortlist": 0.0,
+        "weak_match": 0.999
+      },
+      "overall_fit_score": 39.3,
+      "resume_quality_score": 66.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Knows Java and OOP, but majority of recent project experience is focused on React UI.",
+      "evidence": "Java, React, JavaScript, TypeScript, HTML, CSS, OOP",
+      "features": {
+        "requiredSkillMatch": 0.58,
+        "preferredSkillMatch": 0.6,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.317,
+        "atsScore": 0.579,
+        "resumeQuality": 0.668
+      }
+    },
+    {
+      "resume_id": "resume_046",
+      "jd_id": "jd_007_dotnet_engineer",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 007 Dotnet Engineer",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 22.7,
+      "resume_quality_score": 67.1,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Strong OOP and enterprise backend concepts in Java/Spring Boot; skills are transferable to C#/.NET environment.",
+      "evidence": "Leadership, Problem Solving, Java, JavaScript, C, Spring Boot, Hibernate",
+      "features": {
+        "requiredSkillMatch": 0.17,
+        "preferredSkillMatch": 0.086,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.073,
+        "atsScore": 0.507,
+        "resumeQuality": 0.671
+      }
+    },
+    {
+      "resume_id": "resume_023",
+      "jd_id": "jd_011_cybersecurity_analyst",
+      "candidate_name": "Israel, Rishon LeTsiyon",
+      "job_title": "Jd 011 Cybersecurity Analyst",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.136,
+        "shortlist": 0.003,
+        "weak_match": 0.86
+      },
+      "overall_fit_score": 51.0,
+      "resume_quality_score": 66.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Linux systems engineer with C, C++, and Python; solid low-level foundations transferable to SOC analyst / threat investigation.",
+      "evidence": "Linux, C, C++, Java, Go, Python, JavaScript",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.6,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.174,
+        "atsScore": 0.71,
+        "resumeQuality": 0.66
+      }
+    },
+    {
+      "resume_id": "resume_037",
+      "jd_id": "jd_012_ui_ux_product_designer",
+      "candidate_name": "Front End Developer",
+      "job_title": "Jd 012 Ui Ux Product Designer",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 37.5,
+      "resume_quality_score": 59.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Frontend developer proficient with Figma design tools; worth review if team needs a design technologist.",
+      "evidence": "JavaScript, HTML, CSS, React, Redux, Git, Figma",
+      "features": {
+        "requiredSkillMatch": 0.6,
+        "preferredSkillMatch": 0.4,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.184,
+        "atsScore": 0.568,
+        "resumeQuality": 0.595
+      }
+    },
+    {
+      "resume_id": "resume_042",
+      "jd_id": "jd_004_devops_cloud",
+      "candidate_name": "t.me/zaltsman",
+      "job_title": "Jd 004 Devops Cloud",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 35.4,
+      "resume_quality_score": 57.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Strong Docker container and Linux systems background in Go and C++; lacks Terraform and AWS cloud platform depth.",
+      "evidence": "C++, Data Structures, C, Go, Java, Docker, Git",
+      "features": {
+        "requiredSkillMatch": 0.49,
+        "preferredSkillMatch": 0.1,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.293,
+        "atsScore": 0.548,
+        "resumeQuality": 0.57
+      }
+    },
+    {
+      "resume_id": "resume_059",
+      "jd_id": "jd_002_backend_fastapi",
+      "candidate_name": "C++ Developer, Python Developer",
+      "job_title": "Jd 002 Backend Fastapi",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 17.3,
+      "resume_quality_score": 50.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Python and C++ developer; knows Python syntax and SQLite, but lacks enterprise REST API frameworks.",
+      "evidence": "C++, Python, HTML, CSS, Git, SQLite",
+      "features": {
+        "requiredSkillMatch": 0.12,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.003,
+        "atsScore": 0.318,
+        "resumeQuality": 0.502
+      }
+    },
+    {
+      "resume_id": "resume_018",
+      "jd_id": "jd_010_mobile_developer",
+      "candidate_name": "- WhatsApp",
+      "job_title": "Jd 010 Mobile Developer",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 29.8,
+      "resume_quality_score": 66.3,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "iOS mobile developer proficient in Swift and Firebase; lacks Android and cross-platform Flutter experience.",
+      "evidence": "Git, Problem Solving, Unit Testing, Swift, Firebase, REST APIs",
+      "features": {
+        "requiredSkillMatch": 0.283,
+        "preferredSkillMatch": 0.275,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.382,
+        "atsScore": 0.427,
+        "resumeQuality": 0.663
+      }
+    },
+    {
+      "resume_id": "sample_03_amit_patel_keyword_stuffing",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "Amit Patel",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.914,
+        "shortlist": 0.008,
+        "weak_match": 0.078
+      },
+      "overall_fit_score": 58.6,
+      "resume_quality_score": 61.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Mentions React and Node repeatedly in keyword lists, but sparse project descriptions. Human interview required to probe true ability.",
+      "evidence": "React, Node.js, JavaScript, AWS, SQL, Docker",
+      "features": {
+        "requiredSkillMatch": 0.53,
+        "preferredSkillMatch": 0.24,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.8,
+        "projectMatch": 0.167,
+        "semanticSimilarity": 0.187,
+        "atsScore": 0.707,
+        "resumeQuality": 0.612
+      }
+    },
+    {
+      "resume_id": "sample_01_rahul_sharma_fullstack",
+      "jd_id": "jd_002_backend_fastapi",
+      "candidate_name": "Rahul Sharma",
+      "job_title": "Jd 002 Backend Fastapi",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.836,
+        "shortlist": 0.153,
+        "weak_match": 0.011
+      },
+      "overall_fit_score": 64.1,
+      "resume_quality_score": 82.2,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Strong Node.js/Express and PostgreSQL backend architecture; transferable to Python/FastAPI backend role with onboarding.",
+      "evidence": "Node.js, Express, PostgreSQL, REST APIs, TypeScript",
+      "features": {
+        "requiredSkillMatch": 0.44,
+        "preferredSkillMatch": 0.708,
+        "experienceMatch": 0.95,
+        "educationMatch": 0.8,
+        "projectMatch": 0.833,
+        "semanticSimilarity": 0.279,
+        "atsScore": 0.734,
+        "resumeQuality": 0.822
+      }
+    },
+    {
+      "resume_id": "sample_07_vikram_malhotra_java_backend",
+      "jd_id": "jd_007_dotnet_engineer",
+      "candidate_name": "Vikram Malhotra",
+      "job_title": "Jd 007 Dotnet Engineer",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.262,
+        "shortlist": 0.0,
+        "weak_match": 0.738
+      },
+      "overall_fit_score": 52.7,
+      "resume_quality_score": 74.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Enterprise Java microservices architect; transferable OOP and distributed systems skills to enterprise C#/.NET.",
+      "evidence": "Java, Spring Boot, Microservices, Hibernate, SQL, REST APIs",
+      "features": {
+        "requiredSkillMatch": 0.32,
+        "preferredSkillMatch": 0.229,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.8,
+        "projectMatch": 0.333,
+        "semanticSimilarity": 0.13,
+        "atsScore": 0.618,
+        "resumeQuality": 0.74
+      }
+    },
+    {
+      "resume_id": "sample_10_deepa_joshi_qa_automation",
+      "jd_id": "jd_002_backend_fastapi",
+      "candidate_name": "Deepa Joshi",
+      "job_title": "Jd 002 Backend Fastapi",
+      "human_label_4class": "REVIEW",
+      "human_label_3class": "review",
+      "rule_recommendation": "REVIEW",
+      "rule_label_3class": "review",
+      "ml_prediction": "review",
+      "ml_probabilities": {
+        "review": 0.772,
+        "shortlist": 0.226,
+        "weak_match": 0.002
+      },
+      "overall_fit_score": 66.8,
+      "resume_quality_score": 74.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Strong Python and Postman REST API testing skills; could transition into backend engineering with mentorship.",
+      "evidence": "Python, Postman, REST APIs, Git, SQL, CI/CD",
+      "features": {
+        "requiredSkillMatch": 0.57,
+        "preferredSkillMatch": 0.5,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.8,
+        "projectMatch": 0.667,
+        "semanticSimilarity": 0.302,
+        "atsScore": 0.682,
+        "resumeQuality": 0.74
+      }
+    },
+    {
+      "resume_id": "sample_11_rohit_kulkarni_sales_operations",
+      "jd_id": "jd_001_fullstack_jr",
+      "candidate_name": "Rohit Kulkarni",
+      "job_title": "Jd 001 Fullstack Jr",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 38.7,
+      "resume_quality_score": 66.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Non-technical sales and operations profile. Zero programming, web development, or database experience.",
+      "evidence": "Excel, Communication, Leadership, Client Management",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.7,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.0,
+        "atsScore": 0.44,
+        "resumeQuality": 0.667
+      }
+    },
+    {
+      "resume_id": "sample_11_rohit_kulkarni_sales_operations",
+      "jd_id": "jd_003_data_scientist",
+      "candidate_name": "Rohit Kulkarni",
+      "job_title": "Jd 003 Data Scientist",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 38.7,
+      "resume_quality_score": 66.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Non-technical background; lacks Python, mathematics, statistics, and machine learning required for data science.",
+      "evidence": "Sales, Client Outreach, Microsoft Excel",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.7,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.0,
+        "atsScore": 0.44,
+        "resumeQuality": 0.667
+      }
+    },
+    {
+      "resume_id": "sample_11_rohit_kulkarni_sales_operations",
+      "jd_id": "jd_011_cybersecurity_analyst",
+      "candidate_name": "Rohit Kulkarni",
+      "job_title": "Jd 011 Cybersecurity Analyst",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 39.8,
+      "resume_quality_score": 66.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Sales operations profile; zero cybersecurity, SOC incident response, SIEM, or Wireshark skills.",
+      "evidence": "Operations, Budgeting, Client Relations",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.956,
+        "educationMatch": 0.9,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.0,
+        "atsScore": 0.44,
+        "resumeQuality": 0.667
+      }
+    },
+    {
+      "resume_id": "sample_04_sneha_rao_data_scientist",
+      "jd_id": "jd_012_ui_ux_product_designer",
+      "candidate_name": "Sneha Rao",
+      "job_title": "Jd 012 Ui Ux Product Designer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.001,
+        "shortlist": 0.0,
+        "weak_match": 0.999
+      },
+      "overall_fit_score": 41.9,
+      "resume_quality_score": 77.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Data science and ML researcher. No background in UI/UX, user research, wireframing, or Figma.",
+      "evidence": "Machine Learning, PyTorch, Statistics, Pandas",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.9,
+        "projectMatch": 0.333,
+        "semanticSimilarity": 0.033,
+        "atsScore": 0.515,
+        "resumeQuality": 0.777
+      }
+    },
+    {
+      "resume_id": "sample_04_sneha_rao_data_scientist",
+      "jd_id": "jd_008_network_engineer",
+      "candidate_name": "Sneha Rao",
+      "job_title": "Jd 008 Network Engineer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.125,
+        "shortlist": 0.875,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 75.3,
+      "resume_quality_score": 77.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Data Scientist; no Cisco routing, BGP, network hardware, or telecommunications background.",
+      "evidence": "PyTorch, scikit-learn, Data Analysis, Python",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.5,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.9,
+        "projectMatch": 0.333,
+        "semanticSimilarity": 0.162,
+        "atsScore": 0.665,
+        "resumeQuality": 0.777
+      }
+    },
+    {
+      "resume_id": "sample_06_ananya_iyer_devops_cloud",
+      "jd_id": "jd_012_ui_ux_product_designer",
+      "candidate_name": "Ananya Iyer",
+      "job_title": "Jd 012 Ui Ux Product Designer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.002,
+        "shortlist": 0.0,
+        "weak_match": 0.998
+      },
+      "overall_fit_score": 42.7,
+      "resume_quality_score": 80.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Cloud infrastructure engineer; lacks UI/UX design, visual hierarchy, user journey, and prototyping tools.",
+      "evidence": "Kubernetes, Terraform, AWS, Docker",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.333,
+        "semanticSimilarity": 0.016,
+        "atsScore": 0.515,
+        "resumeQuality": 0.8
+      }
+    },
+    {
+      "resume_id": "sample_08_priya_nair_frontend_specialist",
+      "jd_id": "jd_008_network_engineer",
+      "candidate_name": "Priya Nair",
+      "job_title": "Jd 008 Network Engineer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "SHORTLIST",
+      "rule_label_3class": "shortlist",
+      "ml_prediction": "shortlist",
+      "ml_probabilities": {
+        "review": 0.218,
+        "shortlist": 0.782,
+        "weak_match": 0.0
+      },
+      "overall_fit_score": 72.8,
+      "resume_quality_score": 80.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "React web frontend specialist; lacks IP routing, switching, firewalls, and network engineering protocols.",
+      "evidence": "React, Tailwind CSS, TypeScript, Next.js",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.333,
+        "semanticSimilarity": 0.017,
+        "atsScore": 0.515,
+        "resumeQuality": 0.8
+      }
+    },
+    {
+      "resume_id": "sample_08_priya_nair_frontend_specialist",
+      "jd_id": "jd_006_java_backend",
+      "candidate_name": "Priya Nair",
+      "job_title": "Jd 006 Java Backend",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.011,
+        "shortlist": 0.0,
+        "weak_match": 0.989
+      },
+      "overall_fit_score": 46.0,
+      "resume_quality_score": 80.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Frontend React specialist; zero Java, Spring Boot, or enterprise microservices backend experience.",
+      "evidence": "React, Redux, JavaScript, CSS",
+      "features": {
+        "requiredSkillMatch": 0.12,
+        "preferredSkillMatch": 0.2,
+        "experienceMatch": 1.0,
+        "educationMatch": 0.8,
+        "projectMatch": 0.333,
+        "semanticSimilarity": 0.084,
+        "atsScore": 0.575,
+        "resumeQuality": 0.8
+      }
+    },
+    {
+      "resume_id": "resume_065",
+      "jd_id": "jd_012_ui_ux_product_designer",
+      "candidate_name": "NETWORK ENGINEER",
+      "job_title": "Jd 012 Ui Ux Product Designer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 14.1,
+      "resume_quality_score": 59.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Network hardware engineer; lacks user experience research, Figma, design systems, and wireframing.",
+      "evidence": "Network Engineer, Cisco, Linux, Python",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.0,
+        "atsScore": 0.315,
+        "resumeQuality": 0.595
+      }
+    },
+    {
+      "resume_id": "resume_065",
+      "jd_id": "jd_003_data_scientist",
+      "candidate_name": "NETWORK ENGINEER",
+      "job_title": "Jd 003 Data Scientist",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 18.6,
+      "resume_quality_score": 59.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Network engineer; lacks machine learning, PyTorch, statistics, and data science model training.",
+      "evidence": "Cisco, TCP/IP, Linux, Python",
+      "features": {
+        "requiredSkillMatch": 0.12,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.031,
+        "atsScore": 0.348,
+        "resumeQuality": 0.595
+      }
+    },
+    {
+      "resume_id": "resume_058",
+      "jd_id": "jd_012_ui_ux_product_designer",
+      "candidate_name": "QA Automation Engineer",
+      "job_title": "Jd 012 Ui Ux Product Designer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 22.6,
+      "resume_quality_score": 58.8,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "QA test automation engineer; no user interface design, Figma, or product research background.",
+      "evidence": "Selenium, C#, Azure, SQL Server",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.2,
+        "educationMatch": 1.0,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.017,
+        "atsScore": 0.335,
+        "resumeQuality": 0.588
+      }
+    },
+    {
+      "resume_id": "resume_008",
+      "jd_id": "jd_004_devops_cloud",
+      "candidate_name": "Candidate",
+      "job_title": "Jd 004 Devops Cloud",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.005,
+        "shortlist": 0.0,
+        "weak_match": 0.995
+      },
+      "overall_fit_score": 44.4,
+      "resume_quality_score": 60.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Mobile app developer; lacks cloud infrastructure, Kubernetes, Terraform, and AWS platform engineering.",
+      "evidence": "Android, Kotlin, Java, Flutter",
+      "features": {
+        "requiredSkillMatch": 0.05,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.117,
+        "atsScore": 0.41,
+        "resumeQuality": 0.607
+      }
+    },
+    {
+      "resume_id": "resume_035",
+      "jd_id": "jd_008_network_engineer",
+      "candidate_name": "LinkedIn: /",
+      "job_title": "Jd 008 Network Engineer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.002,
+        "shortlist": 0.0,
+        "weak_match": 0.998
+      },
+      "overall_fit_score": 45.6,
+      "resume_quality_score": 70.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Mobile developer; lacks enterprise network routing, Cisco hardware, VLANs, and firewall configuration.",
+      "evidence": "Android, Kotlin, Swift, C#",
+      "features": {
+        "requiredSkillMatch": 1.0,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.2,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.0,
+        "atsScore": 0.41,
+        "resumeQuality": 0.705
+      }
+    },
+    {
+      "resume_id": "resume_019",
+      "jd_id": "jd_003_data_scientist",
+      "candidate_name": "Full Stack Java Developer",
+      "job_title": "Jd 003 Data Scientist",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.011,
+        "shortlist": 0.0,
+        "weak_match": 0.989
+      },
+      "overall_fit_score": 46.3,
+      "resume_quality_score": 62.7,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "Enterprise Java developer; lacks data science, machine learning algorithms, and scientific Python tools.",
+      "evidence": "Java, Spring Boot, Hibernate, SQL",
+      "features": {
+        "requiredSkillMatch": 0.12,
+        "preferredSkillMatch": 0.0,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.4,
+        "semanticSimilarity": 0.095,
+        "atsScore": 0.423,
+        "resumeQuality": 0.627
+      }
+    },
+    {
+      "resume_id": "resume_025",
+      "jd_id": "jd_010_mobile_developer",
+      "candidate_name": "Auth0, PowerBI, SSRS, Git;",
+      "job_title": "Jd 010 Mobile Developer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.0,
+        "shortlist": 0.0,
+        "weak_match": 1.0
+      },
+      "overall_fit_score": 32.1,
+      "resume_quality_score": 65.5,
+      "reviewer_id": "human_reviewer_01",
+      "notes": ".NET and web software engineer; lacks native mobile development (Android/iOS) and Flutter/Dart.",
+      "evidence": "C#, .NET, Angular, SQL Server",
+      "features": {
+        "requiredSkillMatch": 0.242,
+        "preferredSkillMatch": 0.15,
+        "experienceMatch": 0.2,
+        "educationMatch": 0.9,
+        "projectMatch": 0.2,
+        "semanticSimilarity": 0.154,
+        "atsScore": 0.427,
+        "resumeQuality": 0.655
+      }
+    },
+    {
+      "resume_id": "sample_10_deepa_joshi_qa_automation",
+      "jd_id": "jd_012_ui_ux_product_designer",
+      "candidate_name": "Deepa Joshi",
+      "job_title": "Jd 012 Ui Ux Product Designer",
+      "human_label_4class": "WEAK_MATCH",
+      "human_label_3class": "weak_match",
+      "rule_recommendation": "WEAK_MATCH",
+      "rule_label_3class": "weak_match",
+      "ml_prediction": "weak_match",
+      "ml_probabilities": {
+        "review": 0.052,
+        "shortlist": 0.0,
+        "weak_match": 0.947
+      },
+      "overall_fit_score": 49.1,
+      "resume_quality_score": 74.0,
+      "reviewer_id": "human_reviewer_01",
+      "notes": "QA test automation engineer; lacks product design, Figma, wireframing, and user research methodologies.",
+      "evidence": "Selenium, PyTest, CI/CD, Python",
+      "features": {
+        "requiredSkillMatch": 0.0,
+        "preferredSkillMatch": 0.333,
+        "experienceMatch": 1.0,
+        "educationMatch": 1.0,
+        "projectMatch": 0.667,
+        "semanticSimilarity": 0.191,
+        "atsScore": 0.582,
+        "resumeQuality": 0.74
+      }
+    }
+  ],
+  "leakage_controls": {
+    "human_labels_in_training": false,
+    "training_label_source": "RULE_BASED",
+    "evaluation_locked": true,
+    "validation_pairs_count": 64
+  }
+}

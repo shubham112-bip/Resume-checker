@@ -1,0 +1,150 @@
+{
+  "resume_id": "resume_017",
+  "resumeId": "resume_017",
+  "fileName": "17.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "JavaScript",
+    "Teamwork",
+    "React",
+    "Redux",
+    "Vue.js",
+    "jQuery",
+    "SASS",
+    "Django",
+    "PostgreSQL",
+    "Docker",
+    "SQL",
+    "Unit Testing",
+    "HTML",
+    "CSS",
+    "Git",
+    "MySQL",
+    "Python"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "2020 Present Frontend developer at Noviopus, Rishon Lezion, Israel",
+      "organization": "I manage and responsible for the development of two front-end applications of an",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "intelligent recruitment system.",
+        "Extended functionality of the existing application, refactored existing code base and",
+        "prepared the application release.",
+        "Develope the application from scratch based on React, designed the architecture of the",
+        "application, implemented the core modules of the application.",
+        "Stack: React, Redux, Material-UI, Cypress.",
+        "2018 - Designed, developed, and deployed frontend applications from scratch and implemented",
+        "new features of existing projects. Used stack: React, Redux, Vue.js, Backbone.js,",
+        "Marionette.js, jQuery, Sass.",
+        "Developed the API endpoints for the distributed sales management system.",
+        "Used stack: Django Framework, PostgreSQL, Docker, Vagrant.",
+        "Optimized system performance by monitoring and rewriting SQL queries (PostgreSQL).",
+        "Collaborated with technical support and assistance team in resolving customer technical",
+        "issues."
+      ]
+    },
+    {
+      "title": "Full Stack developer at kvartirka.com, Chelyabinsk, Russia",
+      "organization": "Migrated an Backbone.js codebase into React.",
+      "start": "2017",
+      "end": "2018",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Developed the API endpoints (Django framework)",
+        "ode coverage with unit tests (pytest)",
+        "2015 - Build custom e-commerce shops, commercial and corporate websites based on existing",
+        "solutions and development from scratch. (Django, HTML, CSS, Bitbucket).",
+        "Design, implementation and operating of database (MySQL)"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English",
+    "Hebrew",
+    "Russian"
+  ],
+  "raw_text": "| | LinkedIn-profile | Israel, Rishon Lezion\nFrontend developer with extensive experience designing, developing, implementing, and\nmaintaining software used in sales, rental apartments, e-commerce, and human resources.\nGood knowledge and understanding of current frontend development technologies. Successful\nexperience using different JS frameworks. Experience in server-side development, database\nmanagement systems administration.\nI love my profession because it's not just a job, it's my hobby. It makes me passionate, driven\nand an effective team player.\nEXPERIENCE\n2020 Present Frontend developer at Noviopus, Rishon Lezion, Israel\nI manage and responsible for the development of two front-end applications of an\nintelligent recruitment system.\nExtended functionality of the existing application, refactored existing code base and\nprepared the application release.\nDevelope the application from scratch based on React, designed the architecture of the\napplication, implemented the core modules of the application.\nStack: React, Redux, Material-UI, Cypress.\n2018 - Designed, developed, and deployed frontend applications from scratch and implemented\nnew features of existing projects. Used stack: React, Redux, Vue.js, Backbone.js,\nMarionette.js, jQuery, Sass.\nDeveloped the API endpoints for the distributed sales management system.\nUsed stack: Django Framework, PostgreSQL, Docker, Vagrant.\nOptimized system performance by monitoring and rewriting SQL queries (PostgreSQL).\nCollaborated with technical support and assistance team in resolving customer technical\nissues.\n2017 - 2018 Full Stack developer at kvartirka.com, Chelyabinsk, Russia\nMigrated an Backbone.js codebase into React.\nDeveloped the API endpoints (Django framework)\node coverage with unit tests (pytest)\n2015 - Build custom e-commerce shops, commercial and corporate websites based on existing\nsolutions and development from scratch. (Django, HTML, CSS, Bitbucket).\nDesign, implementation and operating of database (MySQL)\nEDUCATION\n1999 - 2004 South Ural State University (SUSU), Chelyabinsk, Russia\nEngineer's Degree - Urban Construction and Management.\n2016 - GeekBrains - MAIL.RU group - course HTML/CSS, JavaScript, Python, Django.\nLanguages: English, Hebrew, Russian.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 23,
+  "experienceYears": 1.9,
+  "sections": {
+    "header": "| | LinkedIn-profile | Israel, Rishon Lezion\nFrontend developer with extensive experience designing, developing, implementing, and\nmaintaining software used in sales, rental apartments, e-commerce, and human resources.\nGood knowledge and understanding of current frontend development technologies. Successful\nexperience using different JS frameworks. Experience in server-side development, database\nmanagement systems administration.\nI love my profession because it's not just a job, it's my hobby. It makes me passionate, driven\nand an effective team player.",
+    "experience": "2020 Present Frontend developer at Noviopus, Rishon Lezion, Israel\nI manage and responsible for the development of two front-end applications of an\nintelligent recruitment system.\nExtended functionality of the existing application, refactored existing code base and\nprepared the application release.\nDevelope the application from scratch based on React, designed the architecture of the\napplication, implemented the core modules of the application.\nStack: React, Redux, Material-UI, Cypress.\n2018 - Designed, developed, and deployed frontend applications from scratch and implemented\nnew features of existing projects. Used stack: React, Redux, Vue.js, Backbone.js,\nMarionette.js, jQuery, Sass.\nDeveloped the API endpoints for the distributed sales management system.\nUsed stack: Django Framework, PostgreSQL, Docker, Vagrant.\nOptimized system performance by monitoring and rewriting SQL queries (PostgreSQL).\nCollaborated with technical support and assistance team in resolving customer technical\nissues.\n2017 - 2018 Full Stack developer at kvartirka.com, Chelyabinsk, Russia\nMigrated an Backbone.js codebase into React.\nDeveloped the API endpoints (Django framework)\node coverage with unit tests (pytest)\n2015 - Build custom e-commerce shops, commercial and corporate websites based on existing\nsolutions and development from scratch. (Django, HTML, CSS, Bitbucket).\nDesign, implementation and operating of database (MySQL)",
+    "education": "1999 - 2004 South Ural State University (SUSU), Chelyabinsk, Russia\nEngineer's Degree - Urban Construction and Management.\n2016 - GeekBrains - MAIL.RU group - course HTML/CSS, JavaScript, Python, Django.",
+    "other": "English, Hebrew, Russian."
+  },
+  "metadata": {
+    "fileName": "17.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 23,
+    "experienceYears": 1.9,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2247,
+      "wordCount": 296,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 72.0,
+    "qualityGrade": "Good",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "collaborated",
+      "deployed",
+      "designed",
+      "developed",
+      "implemented",
+      "optimized",
+      "refactored"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 19,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (collaborated, deployed, designed, developed, implemented)."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 72.0/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

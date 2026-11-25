@@ -1,0 +1,1025 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport"><meta content="web_dashboard" name="shell-type"><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"><link href="https://fonts.googleapis.com" rel="preconnect"><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{"colors":{"slate-navy":"#0f172a","slate-panel":"#1e293b","surface-tint":"#334155","on-surface":"#0f172a","surface-variant":"#f1f5f9","tertiary":"#e11d48","on-background":"#0f172a","on-tertiary":"#ffffff","on-tertiary-fixed-variant":"#9f1239","error":"#e11d48","on-secondary-container":"#0369a1","secondary-fixed-dim":"#bae6fd","background":"#f8fafc","on-error-container":"#9f1239","primary":"#0f172a","surface-dim":"#e2e8f0","on-tertiary-fixed":"#881337","on-primary-fixed":"#0f172a","inverse-primary":"#cbd5e1","outline":"#64748b","secondary":"#0284c7","tertiary-fixed":"#ffe4e6","on-primary":"#ffffff","outline-variant":"#e2e8f0","on-primary-container":"#ffffff","secondary-container":"#e0f2fe","primary-container":"#0f172a","surface-container-lowest":"#ffffff","surface-container":"#f1f5f9","on-error":"#ffffff","primary-fixed":"#e2e8f0","secondary-fixed":"#e0f2fe","surface-container-low":"#f8fafc","on-surface-variant":"#475569","on-primary-fixed-variant":"#1e293b","surface-bright":"#ffffff","on-secondary-fixed":"#0c4a6e","tertiary-fixed-dim":"#fecdd3","error-container":"#ffe4e6","on-tertiary-container":"#9f1239","tertiary-container":"#e11d48","inverse-on-surface":"#f8fafc","primary-fixed-dim":"#cbd5e1","surface-container-high":"#e2e8f0","inverse-surface":"#0f172a","on-secondary":"#ffffff","on-secondary-fixed-variant":"#0369a1","surface-container-highest":"#cbd5e1","surface":"#f8fafc"},"borderRadius":{"DEFAULT":"0.25rem","lg":"0.375rem","xl":"0.5rem","full":"9999px"},"spacing":{"space-xs":"0.25rem","space-lg":"1rem","space-xl":"1.5rem","margin":"1rem","space-sm":"0.5rem","space-md":"0.75rem","gutter":"1rem","gutter-desktop":"1.5rem","margin-desktop":"2rem"},"fontFamily":{"body-sm":["Inter"],"body-lg":["Inter"],"headline-lg-mobile":["Plus Jakarta Sans"],"headline-lg":["Plus Jakarta Sans"],"headline-sm":["Plus Jakarta Sans"],"headline-xl-mobile":["Plus Jakarta Sans"],"headline-md":["Plus Jakarta Sans"],"label-sm":["Inter"],"data-mono-sm":["JetBrains Mono"],"body-md":["Inter"],"headline-xl":["Plus Jakarta Sans"],"data-mono":["JetBrains Mono"],"label-md":["Inter"]},"fontSize":{"body-sm":["0.75rem",{"lineHeight":"1rem","fontWeight":"400"}],"body-lg":["1rem",{"lineHeight":"1.5rem","fontWeight":"400"}],"headline-lg-mobile":["1.25rem",{"lineHeight":"1.75rem","letterSpacing":"-0.015em","fontWeight":"600"}],"headline-lg":["1.5rem",{"lineHeight":"2rem","letterSpacing":"-0.02em","fontWeight":"600"}],"headline-sm":["1rem",{"lineHeight":"1.5rem","letterSpacing":"-0.01em","fontWeight":"600"}],"headline-xl-mobile":["1.5rem",{"lineHeight":"2rem","letterSpacing":"-0.02em","fontWeight":"700"}],"headline-md":["1.25rem",{"lineHeight":"1.75rem","letterSpacing":"-0.015em","fontWeight":"600"}],"label-sm":["0.75rem",{"lineHeight":"1rem","letterSpacing":"0.01em","fontWeight":"500"}],"data-mono-sm":["0.6875rem",{"lineHeight":"0.875rem","letterSpacing":"0.02em","fontWeight":"500"}],"body-md":["0.875rem",{"lineHeight":"1.25rem","fontWeight":"400"}],"headline-xl":["2rem",{"lineHeight":"2.5rem","letterSpacing":"-0.025em","fontWeight":"700"}],"data-mono":["0.75rem",{"lineHeight":"1rem","letterSpacing":"0em","fontWeight":"500"}],"label-md":["0.875rem",{"lineHeight":"1.25rem","letterSpacing":"-0.005em","fontWeight":"500"}]}}}};</script></head><body class="bg-slate-50 font-body-md text-slate-900 antialiased"><aside class="fixed left-0 top-0 h-screen w-72 bg-white border-r border-slate-200 z-50 flex flex-col justify-between overflow-y-auto"><div class="flex flex-col"><div class="h-16 px-space-xl flex items-center justify-between border-b border-slate-200"><div class="flex items-center gap-space-sm"><img alt="TalentLens AI Logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/ALJJyrCnYOrHHw3zMXV7X36xVy5zaBFHK_8YE0fD91vzvkPjzGk73r2rThLfFtNPxg6Ps27kdVrYhXeXBPTMtCke8jNKjcBjBZM_v4_JB_vtixRYzL75DAvY8EOelnJGyeIp7B-lNLVLWo5uh02Q0n5orRIe37F87WSKPxH-qS_gYDgPP3yo2RR8LgnFpYvk6KOqP3FD5BA2-ItcuDc8TRvwVBh7yb09xZDK8yL0VeA2rfn2"><div class="flex flex-col"><span class="font-headline-sm text-headline-sm text-slate-900 tracking-tight leading-none font-semibold">TalentLens</span><span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-semibold uppercase tracking-wider">Enterprise OS</span></div></div><span class="px-2 py-0.5 rounded-md bg-slate-100 text-slate-700 font-data-mono-sm text-data-mono-sm font-semibold border border-slate-200">v2.4</span></div><div class="px-space-md py-space-md"><div class="px-space-md py-space-xs"><span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-400 tracking-wider font-semibold">Screening Workspace</span></div><nav class="flex flex-col gap-1 mt-space-xs" data-active-classes="bg-slate-100 text-slate-900 font-semibold border-l-2 border-slate-900"><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="dashboard" href="#"><span class="material-symbols-outlined text-slate-400">dashboard</span>Dashboard</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="jobs-requisitions" href="#"><span class="material-symbols-outlined text-slate-400">work</span>Jobs &amp; Requisitions</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="create-screening" href="#"><span class="material-symbols-outlined text-slate-400">add_circle</span>Create Screening</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="resume-upload" href="#"><span class="material-symbols-outlined text-slate-400">cloud_upload</span>Resume Upload</a><a aria-current="page" class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg transition-colors bg-slate-100 text-slate-900 font-semibold border-l-2 border-slate-900 shadow-sm" data-path="screening-results" href="#"><span class="material-symbols-outlined text-slate-900">group</span>Screening Results</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="candidate-evaluation" href="#"><span class="material-symbols-outlined text-slate-400">find_in_page</span>Candidate Evaluation</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="candidate-comparison" href="#"><span class="material-symbols-outlined text-slate-400">view_column</span>Candidate Comparison</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="analytics-funnel" href="#"><span class="material-symbols-outlined text-slate-400">bar_chart</span>Analytics &amp; Funnel</a></nav><div class="my-space-md border-t border-slate-200"></div><div class="px-space-md py-space-xs"><span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-400 tracking-wider font-semibold">Governance &amp; Core</span></div><nav class="flex flex-col gap-1 mt-space-xs" data-active-classes="bg-slate-100 text-slate-900 font-semibold border-l-2 border-slate-900"><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="settings" href="#"><span class="material-symbols-outlined text-slate-400">settings</span>Settings</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="explainability-docs" href="#"><span class="material-symbols-outlined text-slate-400">menu_book</span>Explainability &amp; Docs</a><a class="flex items-center gap-space-md px-space-md py-2.5 rounded-lg text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors font-label-md text-label-md" data-path="audit-compliance" href="#"><span class="material-symbols-outlined text-slate-400">verified_user</span>Audit &amp; Compliance</a></nav></div></div><div class="p-space-md border-t border-slate-200 bg-slate-50"><div class="p-space-md rounded-lg bg-white border border-slate-200 shadow-sm"><div class="flex items-center justify-between mb-space-xs"><span class="font-data-mono text-data-mono font-medium text-slate-900 flex items-center gap-1.5"><span class="h-2 w-2 rounded-full bg-emerald-600 inline-block"></span>Rule v2.4 + ML v2</span><span class="font-data-mono-sm text-data-mono-sm text-emerald-700 font-semibold">ACTIVE</span></div><p class="font-body-sm text-body-sm text-slate-500 leading-relaxed">Demographic attributes masked for fair evaluation</p></div></div></aside><div class="pl-72"><header class="fixed top-0 left-72 right-0 h-16 bg-white/95 backdrop-blur-md border-b border-slate-200 z-40 px-space-xl flex items-center justify-between gap-space-lg"><div class="flex items-center gap-space-lg flex-1 max-w-3xl"><div class="relative flex-1"><span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-lg pointer-events-none">search</span><input class="w-full h-9 pl-9 pr-4 rounded-lg bg-slate-50 border border-slate-200 font-body-md text-body-md text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-slate-800 focus:ring-1 focus:ring-slate-800 transition-all" placeholder="Search candidates, jobs, skills, or requisitions (Cmd+K)..." type="search"></div><div class="hidden xl:flex items-center gap-space-xs bg-slate-100 px-3 py-1.5 rounded-lg border border-slate-200"><span class="font-label-sm text-label-sm text-slate-500 font-medium">Role:</span><span class="font-label-sm text-label-sm text-slate-900 font-semibold max-w-[200px] truncate">Senior Full Stack Developer</span><span class="h-1.5 w-1.5 rounded-full bg-sky-600 inline-block ml-0.5"></span><span class="material-symbols-outlined text-slate-400 text-sm">expand_more</span></div></div><div class="flex items-center gap-space-md shrink-0"><div class="hidden md:flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-slate-100 text-slate-700 border border-slate-200"><span class="h-2 w-2 rounded-full bg-emerald-600 inline-block"></span><span class="font-data-mono-sm text-data-mono-sm font-medium">AI Advisory Mode (Recruiter Decision Final)</span></div><div class="h-5 w-px bg-slate-200"></div><button class="relative p-2 rounded-lg text-slate-500 hover:bg-slate-100 hover:text-slate-900 transition-colors"><span class="material-symbols-outlined">notifications</span><span class="absolute top-1.5 right-1.5 flex h-4 w-4 items-center justify-center rounded-full bg-slate-800 text-white font-data-mono-sm text-[10px] font-semibold">3</span></button><button class="p-2 rounded-lg text-slate-500 hover:bg-slate-100 hover:text-slate-900 transition-colors"><span class="material-symbols-outlined">help</span></button><div class="h-5 w-px bg-slate-200"></div><div class="flex items-center gap-space-sm pl-space-xs"><img alt="Profile" class="w-8 h-8 rounded-full object-cover border border-slate-200" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAL9Fp9suPCAA1D_4TkFob23PeoGOp0hvdt9-B4G4LSJ3PZxQkO2NIafr36uuP86Hk4aF4dblIZJF6UA18JEfuddYPtEuDDjr-wKMBMvqJw_MkbpVHwvDuFo2r6l2zewfyf52c5S8tAF0BBIezuuJFO2z8oQyERyx5gD3s0KwHcPkhSrRfU6UC5gFn-0-fAvwMCG82F1Ox7DolSl0vPnp1DJwnjenw8LxCLEeOQ-bPa"><div class="hidden lg:flex flex-col text-left"><span class="font-label-md text-label-md font-semibold text-slate-900 leading-tight">Elena Vance</span><span class="font-body-sm text-body-sm text-slate-500 leading-tight">Lead Tech Recruiter</span></div><span class="material-symbols-outlined text-slate-400 text-sm">keyboard_arrow_down</span></div></div></header><main class="w-full pt-16 bg-slate-50 min-h-screen"><div class="flex flex-col w-full">
+<!-- Interactive Toast Notification Container -->
+<div class="fixed bottom-6 right-6 z-50 transform translate-y-20 opacity-0 transition-all duration-300 pointer-events-none" id="toast-banner">
+<div class="bg-slate-900 text-white px-space-lg py-space-md rounded-xl shadow-2xl flex items-center gap-space-md border border-slate-800">
+<span class="material-symbols-outlined text-emerald-400" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+<span class="font-body-md text-body-md font-medium" id="toast-text">Candidate status updated</span>
+</div>
+</div>
+<!-- Requisition Context Header -->
+<header class="p-space-xl lg:px-margin-desktop bg-white border-b border-slate-200 shadow-sm">
+<div class="flex flex-col lg:flex-row lg:items-center justify-between gap-space-lg">
+<div class="flex flex-col gap-1.5">
+<div class="flex items-center gap-2">
+<span class="px-2.5 py-0.5 rounded bg-slate-100 text-slate-800 font-data-mono-sm text-data-mono-sm font-semibold tracking-wider border border-slate-200">REQ-2026-081</span>
+<span class="h-1.5 w-1.5 rounded-full bg-slate-300"></span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-600 font-medium flex items-center gap-1"><span class="material-symbols-outlined text-sm text-slate-500">memory</span> Rule v2 + ML v2 (Hybrid Engine)</span>
+<span class="h-1.5 w-1.5 rounded-full bg-slate-300"></span>
+<span class="font-data-mono-sm text-data-mono-sm text-emerald-700 font-medium bg-emerald-50 px-2 py-0.5 rounded border border-emerald-200">Demographics Masked [Active]</span>
+</div>
+<h1 class="font-headline-xl text-headline-xl text-slate-900 font-bold tracking-tight">Senior Full Stack Developer</h1>
+<p class="font-body-md text-body-md text-slate-600">
+          48 candidates processed through verified semantic embeddings &amp; parsed competency benchmarks.
+        </p>
+</div>
+<!-- Action Buttons with Multi-select Count -->
+<div class="flex flex-wrap items-center gap-space-sm shrink-0">
+<button class="flex items-center gap-2 px-space-md py-2 bg-white hover:bg-slate-50 text-slate-700 font-label-md text-label-md rounded-lg border border-slate-200 transition-colors shadow-sm" id="btn-export-csv">
+<span class="material-symbols-outlined text-slate-400">file_download</span>
+          Export Ranked CSV
+        </button>
+<button class="flex items-center gap-2 px-space-md py-2 bg-white hover:bg-slate-50 text-slate-700 font-label-md text-label-md rounded-lg border border-slate-200 transition-colors shadow-sm" id="btn-batch-action">
+<span class="material-symbols-outlined text-slate-400">mark_email_read</span>
+          Batch Action
+          <span class="px-1.5 py-0.5 rounded bg-slate-100 text-slate-700 font-data-mono-sm text-data-mono-sm font-semibold border border-slate-200" id="selected-badge">2</span>
+</button>
+<button class="flex items-center gap-2 px-space-lg py-2 bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md rounded-lg transition-colors shadow-sm" id="btn-compare">
+<span class="material-symbols-outlined text-sm">view_column</span>
+          Compare Selected (<span id="compare-count">2</span>)
+        </button>
+</div>
+</div>
+<!-- Aggregate Screening Metrics Bar -->
+<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-space-md mt-space-xl">
+<!-- Strong Match -->
+<div class="p-space-md rounded-xl bg-emerald-50/70 border border-emerald-200/80 flex flex-col justify-between">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-emerald-800 font-semibold tracking-wider">Strong Match</span>
+<span class="h-2 w-2 rounded-full bg-emerald-600"></span>
+</div>
+<div class="mt-2 flex items-baseline gap-2">
+<span class="font-headline-lg text-headline-lg font-bold text-slate-900">8</span>
+<span class="font-data-mono-sm text-data-mono-sm text-emerald-700 font-medium">16.6%</span>
+</div>
+</div>
+<!-- Match -->
+<div class="p-space-md rounded-xl bg-sky-50/70 border border-sky-200/80 flex flex-col justify-between">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-sky-800 font-semibold tracking-wider">Match</span>
+<span class="h-2 w-2 rounded-full bg-sky-600"></span>
+</div>
+<div class="mt-2 flex items-baseline gap-2">
+<span class="font-headline-lg text-headline-lg font-bold text-slate-900">21</span>
+<span class="font-data-mono-sm text-data-mono-sm text-sky-700 font-medium">43.7%</span>
+</div>
+</div>
+<!-- Review Required -->
+<div class="p-space-md rounded-xl bg-amber-50/70 border border-amber-200/80 flex flex-col justify-between">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-amber-800 font-semibold tracking-wider">Review Req.</span>
+<span class="material-symbols-outlined text-amber-600 text-sm" style="font-variation-settings: 'FILL' 1;">warning</span>
+</div>
+<div class="mt-2 flex items-baseline gap-2">
+<span class="font-headline-lg text-headline-lg font-bold text-slate-900">12</span>
+<span class="font-data-mono-sm text-data-mono-sm text-amber-700 font-medium">25.0%</span>
+</div>
+</div>
+<!-- Weak Match -->
+<div class="p-space-md rounded-xl bg-rose-50/70 border border-rose-200/80 flex flex-col justify-between">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-rose-800 font-semibold tracking-wider">Weak Match</span>
+<span class="h-2 w-2 rounded-full bg-rose-600"></span>
+</div>
+<div class="mt-2 flex items-baseline gap-2">
+<span class="font-headline-lg text-headline-lg font-bold text-slate-900">7</span>
+<span class="font-data-mono-sm text-data-mono-sm text-rose-700 font-medium">14.7%</span>
+</div>
+</div>
+<!-- Median Fit Score Gauge -->
+<div class="p-space-md rounded-xl bg-slate-100 border border-slate-200 flex flex-col justify-between">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-500 font-semibold tracking-wider">Cohort Median Fit</span>
+<div class="mt-1 flex items-center justify-between">
+<span class="font-headline-lg text-headline-lg font-bold text-slate-900">74.2</span>
+<svg class="w-10 h-10 -rotate-90" viewBox="0 0 36 36">
+<path class="text-slate-200" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-width="3.5"></path>
+<path class="text-slate-800" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-dasharray="74, 100" stroke-linecap="round" stroke-width="3.5"></path>
+</svg>
+</div>
+</div>
+<!-- Human Audit Status -->
+<div class="p-space-md rounded-xl bg-slate-100 border border-slate-200 flex flex-col justify-between"><span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-500 font-semibold tracking-wider">Human-in-the-Loop</span><div class="mt-1 flex items-baseline justify-between"><div class="flex flex-col"><span class="font-headline-lg text-headline-lg font-bold text-slate-900">Advisory</span><span class="font-data-mono-sm text-data-mono-sm text-slate-600 font-medium">Recruiter Final</span></div></div></div>
+</div>
+</header>
+<!-- Filter Bar & Search Workspace -->
+<section class="p-space-xl lg:px-margin-desktop bg-slate-50 flex flex-col gap-space-md">
+<!-- Row 1: Search & Filter Tabs -->
+<div class="flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-space-md">
+<!-- Search -->
+<div class="relative flex-1 max-w-2xl">
+<span class="material-symbols-outlined absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none">search</span>
+<input class="w-full h-11 pl-11 pr-4 rounded-xl bg-white text-slate-900 font-body-md text-body-md border border-slate-200 shadow-sm focus:outline-none focus:ring-2 focus:ring-slate-900 transition-all" id="search-input" placeholder="Search candidates by name, skills (e.g. React, Python), experience or company..." type="text">
+</div>
+<!-- Quick Filter Pills -->
+<div class="flex items-center gap-1.5 overflow-x-auto pb-1 lg:pb-0 scrollbar-none" id="filter-pills">
+<button class="px-3.5 py-1.5 rounded-lg bg-slate-900 text-white font-label-md text-label-md font-semibold transition-all shadow-sm" data-filter="all">
+          All (48)
+        </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-white border border-slate-200 text-slate-600 hover:text-slate-900 hover:bg-slate-50 font-label-md text-label-md flex items-center gap-1.5 transition-all shadow-sm" data-filter="strong">
+<span class="h-2 w-2 rounded-full bg-emerald-600"></span>
+          Strong Match (8)
+        </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-white border border-slate-200 text-slate-600 hover:text-slate-900 hover:bg-slate-50 font-label-md text-label-md flex items-center gap-1.5 transition-all shadow-sm" data-filter="match">
+<span class="h-2 w-2 rounded-full bg-sky-600"></span>
+          Match (21)
+        </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-white border border-slate-200 text-slate-600 hover:text-slate-900 hover:bg-slate-50 font-label-md text-label-md flex items-center gap-1.5 transition-all shadow-sm" data-filter="review">
+<span class="material-symbols-outlined text-amber-600 text-sm" style="font-variation-settings: 'FILL' 1;">warning</span>
+          Review (12)
+        </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-white border border-slate-200 text-slate-600 hover:text-slate-900 hover:bg-slate-50 font-label-md text-label-md flex items-center gap-1.5 transition-all shadow-sm" data-filter="weak">
+<span class="h-2 w-2 rounded-full bg-rose-600"></span>
+          Weak Match (7)
+        </button>
+</div>
+</div>
+<!-- Row 2: Advanced Criteria Sliders & Provenance Selectors -->
+<div class="p-space-md rounded-xl bg-white border border-slate-200 shadow-sm flex flex-wrap items-center justify-between gap-space-md">
+<div class="flex flex-wrap items-center gap-space-md"><div class="flex items-center gap-2 bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg cursor-pointer hover:bg-slate-100 transition-colors"><span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Decision:</span><span class="font-data-mono text-data-mono text-slate-900 font-semibold">All</span><span class="material-symbols-outlined text-slate-400 text-xs">expand_more</span></div><div class="flex items-center gap-2 bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg cursor-pointer hover:bg-slate-100 transition-colors"><span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Fit Score:</span><span class="font-data-mono text-data-mono text-slate-900 font-semibold">Any</span><span class="material-symbols-outlined text-slate-400 text-xs">tune</span></div><div class="flex items-center gap-2 bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg cursor-pointer hover:bg-slate-100 transition-colors"><span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Experience:</span><span class="font-data-mono text-data-mono text-slate-900 font-semibold">Any</span><span class="material-symbols-outlined text-slate-400 text-xs">tune</span></div><div class="flex items-center gap-2 bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg cursor-pointer hover:bg-slate-100 transition-colors"><span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Skills:</span><span class="font-data-mono text-data-mono text-slate-900 font-semibold">Filter</span><span class="material-symbols-outlined text-slate-400 text-xs">add</span></div><div class="flex items-center gap-2 bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg cursor-pointer hover:bg-slate-100 transition-colors" title="ATS format &amp; structural readability score"><span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Resume Quality:</span><span class="font-data-mono text-data-mono text-slate-900 font-semibold">Any</span><span class="material-symbols-outlined text-slate-400 text-xs">tune</span></div><div class="flex items-center gap-2 bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg cursor-pointer hover:bg-slate-100 transition-colors"><span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">ML Second Opinion:</span><span class="font-data-mono text-data-mono text-slate-900 font-semibold">All</span><span class="material-symbols-outlined text-slate-400 text-xs">expand_more</span></div></div>
+<!-- Sorting Controller -->
+<div class="flex items-center gap-2">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Sort by:</span>
+<select class="bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg font-label-md text-label-md font-semibold text-slate-800 focus:outline-none cursor-pointer" id="sort-select">
+<option value="fit-desc">Fit Score (High to Low)</option>
+<option value="fit-asc">Fit Score (Low to High)</option>
+<option value="skills-desc">Skills Match (Highest)</option>
+<option value="ml-desc">ML Shortlist Probability</option>
+<option value="resume-quality">Resume Quality Score</option>
+</select>
+</div>
+</div>
+</section>
+<!-- Core Candidate Matrix & Analytical Dossiers -->
+<main class="px-space-xl lg:px-margin-desktop pb-space-xl flex flex-col gap-space-lg">
+<!-- Notice Banner: Algorithmic Separation -->
+<div class="p-space-md rounded-xl bg-white border border-slate-200 shadow-sm flex items-center justify-between gap-space-md">
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-slate-700">info</span>
+<p class="font-body-sm text-body-sm text-slate-600">
+<strong class="text-slate-900 font-semibold">Principle of Separation:</strong> <span class="text-slate-900 font-semibold">Candidate-JD Fit</span> measures factual alignment with requisition criteria. <span class="text-slate-600 font-semibold">Resume Quality</span> measures mechanical ATS parsing fidelity and syntax clean-slate. These are not aggregated into a blended vanity metric.
+        </p>
+</div>
+<button class="shrink-0 font-label-sm text-label-sm text-slate-900 font-semibold hover:underline flex items-center gap-1">
+        Methodology Spec
+        <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+<!-- Candidate Matrix Table Container -->
+<div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+<div class="overflow-x-auto">
+<table class="w-full text-left border-collapse">
+<thead>
+<tr class="bg-slate-50 text-slate-500 font-data-mono-sm text-data-mono-sm uppercase tracking-wider border-b border-slate-200"><th class="py-3.5 pl-5 pr-3 w-12 text-center"><input class="rounded border-slate-300 text-slate-900 focus:ring-slate-800 cursor-pointer w-4 h-4" id="select-all-candidates" type="checkbox"></th><th class="py-3.5 px-4 font-semibold">Candidate</th><th class="py-3.5 px-4 font-semibold text-center">Fit Score</th><th class="py-3.5 px-4 font-semibold">Primary Decision</th><th class="py-3.5 px-4 font-semibold">Skill Match</th><th class="py-3.5 px-4 font-semibold">Experience</th><th class="py-3.5 px-4 font-semibold">Semantic Match</th><th class="py-3.5 px-4 font-semibold">Resume Quality</th><th class="py-3.5 px-4 font-semibold">ML Second Opinion</th><th class="py-3.5 px-4 font-semibold">Review Flag</th><th class="py-3.5 pr-5 pl-3 text-right font-semibold">Action</th></tr>
+</thead>
+<tbody class="divide-y divide-slate-200" id="candidates-table-body">
+<!-- ROW 1: Rahul Sharma (Strong Match) -->
+<tr class="hover:bg-slate-50/80 transition-colors group cursor-pointer" data-candidate="rahul" data-category="strong">
+<td class="py-4 pl-5 pr-3 text-center">
+<input checked="" class="candidate-checkbox rounded border-slate-300 text-slate-900 focus:ring-slate-800 cursor-pointer w-4 h-4" type="checkbox">
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-3">
+<div class="relative shrink-0">
+<img class="w-10 h-10 rounded-full object-cover shadow-sm border border-slate-200" data-alt="Professional studio portrait of Rahul Sharma, an Indian male tech lead wearing a navy casual blazer against a clean neutral studio background, crisp modern corporate headshot" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDlRYtew2Jb8GBT6Zr-FIIBP58CQ6sgPL3PVnfH3yaKwW_3FMZ7n2hbTqeqPreg_z0M4wNgC2hvALh9OeCx76MATVAK0-Dnzqvw5YcU5pYuvdf1PVcB_4iM7Z7xLxzAdZrpfLO9o7oe-FDrP82nxM7K4ZZD_OFmpBbRZ3aNgUv-f62MlPitNjvdKiXNIeLyBdqXr0woXGICtAzpV0jxoP3W1nBi9lurGmK-1Fz3JN-k">
+<span class="absolute bottom-0 right-0 w-2.5 h-2.5 rounded-full bg-emerald-600 ring-2 ring-white"></span>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold truncate flex items-center gap-1.5">
+                      Rahul Sharma
+                      <span class="material-symbols-outlined text-slate-700 text-sm" title="Human Recruiter Audited">verified</span>
+</span>
+<span class="font-body-sm text-body-sm text-slate-500 truncate">Senior Full Stack Engineer • Ex-Fintech</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4 text-center">
+<div class="inline-flex items-center justify-center relative">
+<div class="w-12 h-12 rounded-xl bg-emerald-50 border border-emerald-200 flex flex-col items-center justify-center">
+<span class="font-headline-md text-headline-md text-emerald-800 font-bold leading-none">84</span>
+<span class="font-data-mono-sm text-[9px] text-emerald-600 font-semibold">/100</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-100/80 border border-emerald-200 text-emerald-800 font-data-mono-sm text-data-mono-sm font-semibold tracking-wide">
+<span class="material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+                  STRONG MATCH
+                </span>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col gap-1.5 max-w-xs">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-900 font-semibold">92% Core Fit</span>
+<span class="font-data-mono-sm text-data-mono-sm text-emerald-700 font-semibold">4/4 Req.</span>
+</div>
+<div class="flex flex-wrap gap-1">
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">React</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">TypeScript</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">Node</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">Next.js</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold">3.2 yrs</span>
+<span class="font-data-mono-sm text-data-mono-sm text-emerald-700 font-semibold">Strong Relevant Depth</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-1.5">
+<div class="w-12 h-1.5 rounded-full bg-slate-200 overflow-hidden">
+<div class="bg-slate-900 h-full w-[88%]"></div>
+</div>
+<span class="font-data-mono text-data-mono text-slate-900 font-medium">88%</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-2" title="ATS Formatting &amp; Structural Quality">
+<span class="px-2 py-1 rounded bg-slate-100 border border-slate-200 text-slate-700 font-data-mono text-data-mono font-medium">
+                    86 <span class="text-[10px] text-slate-400">/100</span>
+</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 uppercase">[STRUCT: OK]</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<div class="flex items-center gap-1">
+<span class="font-data-mono text-data-mono text-slate-900 font-bold">91%</span>
+<span class="px-1 py-0.2 rounded bg-slate-100 border border-slate-200 text-slate-600 font-data-mono-sm text-[10px] font-semibold">ML v2</span>
+</div>
+<span class="font-body-sm text-[11px] text-slate-500">High shortlist yield</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-emerald-50 border border-emerald-200 text-emerald-800 font-data-mono-sm text-data-mono-sm font-medium">
+<span class="material-symbols-outlined text-xs">thumb_up</span>
+                  Top Tech Match
+                </span>
+</td>
+<td class="py-4 pr-5 pl-3 text-right">
+<div class="flex items-center justify-end gap-1.5">
+<button class="quick-status-btn p-1.5 rounded-lg hover:bg-slate-100 text-slate-400 hover:text-slate-800 transition-colors" title="Quick Shortlist">
+<span class="material-symbols-outlined text-base">star</span>
+</button>
+<button class="open-eval-btn flex items-center gap-1 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md font-semibold transition-all">
+                    Dossier
+                    <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- ROW 2: Priya Patel (Match) -->
+<tr class="hover:bg-slate-50/80 transition-colors group cursor-pointer" data-candidate="priya" data-category="match">
+<td class="py-4 pl-5 pr-3 text-center">
+<input checked="" class="candidate-checkbox rounded border-slate-300 text-slate-900 focus:ring-slate-800 cursor-pointer w-4 h-4" type="checkbox">
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-3">
+<div class="relative shrink-0">
+<img class="w-10 h-10 rounded-full object-cover shadow-sm border border-slate-200" data-alt="Professional warm corporate portrait of Priya Patel, a South Asian woman engineer with a thoughtful engaging smile, glasses, in a modern tech office setting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBmYNcphC8FDHshYwiusnIYfzrV8KZPyn5vevMgV7AFoABXE9bSPKy3Vi7G4pnBzXtl2cHbmXjxwMHwES4ggWZphpvuDfao1_ws-u8ayzX5yhczRIchmtXmY5FpB3SUAy_9nvC8kPfQSMf3iWUP8ayq8fkwKdCXKTOT62zURgU9K7Nwgq4_SwhkYEZpi2P5ubHVuIxAK2Fz5dq8Hs-uTHwjMdhrJMJ43Y8BB5UuSY7d">
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold truncate">Priya Patel</span>
+<span class="font-body-sm text-body-sm text-slate-500 truncate">Frontend / Full Stack • SaaS Platforms</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4 text-center">
+<div class="inline-flex items-center justify-center relative">
+<div class="w-12 h-12 rounded-xl bg-sky-50 border border-sky-200 flex flex-col items-center justify-center">
+<span class="font-headline-md text-headline-md text-sky-800 font-bold leading-none">76</span>
+<span class="font-data-mono-sm text-[9px] text-sky-600 font-semibold">/100</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-sky-100/80 border border-sky-200 text-sky-800 font-data-mono-sm text-data-mono-sm font-semibold tracking-wide">
+<span class="material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1;">task_alt</span>
+                  MATCH
+                </span>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col gap-1.5 max-w-xs">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-900 font-semibold">81% Core Fit</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">3/4 Req.</span>
+</div>
+<div class="flex flex-wrap gap-1">
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">React</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">Next.js</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">REST API</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold">2.5 yrs</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-600 font-medium">Good Alignment</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-1.5">
+<div class="w-12 h-1.5 rounded-full bg-slate-200 overflow-hidden">
+<div class="bg-slate-900 h-full w-[79%]"></div>
+</div>
+<span class="font-data-mono text-data-mono text-slate-900 font-medium">79%</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-2">
+<span class="px-2 py-1 rounded bg-slate-100 border border-slate-200 text-slate-700 font-data-mono text-data-mono font-medium">
+                    82 <span class="text-[10px] text-slate-400">/100</span>
+</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 uppercase">[PARSE: OK]</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<div class="flex items-center gap-1">
+<span class="font-data-mono text-data-mono text-slate-900 font-bold">84%</span>
+<span class="px-1 py-0.2 rounded bg-slate-100 border border-slate-200 text-slate-600 font-data-mono-sm text-[10px] font-semibold">ML v2</span>
+</div>
+<span class="font-body-sm text-[11px] text-slate-500">Consistent profile</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-slate-100 border border-slate-200 text-slate-800 font-data-mono-sm text-data-mono-sm font-medium">
+<span class="material-symbols-outlined text-xs">code</span>
+                  Strong Frontend
+                </span>
+</td>
+<td class="py-4 pr-5 pl-3 text-right">
+<div class="flex items-center justify-end gap-1.5">
+<button class="quick-status-btn p-1.5 rounded-lg hover:bg-slate-100 text-slate-400 hover:text-slate-800 transition-colors" title="Quick Shortlist">
+<span class="material-symbols-outlined text-base">star</span>
+</button>
+<button class="open-eval-btn flex items-center gap-1 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md font-semibold transition-all">
+                    Dossier
+                    <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- ROW 3: Amit Shah (REVIEW - BORDERLINE ML SECOND OPINION) -->
+<tr class="hover:bg-slate-50/80 transition-colors group bg-amber-50/30 cursor-pointer" data-candidate="amit" data-category="review">
+<td class="py-4 pl-5 pr-3 text-center">
+<input class="candidate-checkbox rounded border-slate-300 text-slate-900 focus:ring-slate-800 cursor-pointer w-4 h-4" type="checkbox">
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-3">
+<div class="relative shrink-0">
+<img class="w-10 h-10 rounded-full object-cover shadow-sm border border-slate-200" data-alt="Professional executive photo of Amit Shah, a sharp software developer with glasses and dark shirt in front of an architectural minimal gray wall" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCikgqnOiqfNVDmH-YdXz4k5gIIkwh3qQ69zBF9tcWB5_D3MEBaBPPlhp2Xf8AxF_n3oZcA3cOa-NhT0R1kbrJ8lRflWpiepSUGUEjwpn_Yx_wyW9z65RvuyUQ8VJqjSxRqSUBWjR3dw0XhqZhs51CyKhpCM6xRFg05SEorNI6YE4FgxBcaCUg68A_vD4Jx1Bla51p4BMrJUT1x2IYnbX68iysbplre0QsEeKHpIdZN">
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold truncate">Amit Shah</span>
+<span class="font-body-sm text-body-sm text-slate-500 truncate">Software Engineer • Backend Focus</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4 text-center">
+<div class="inline-flex items-center justify-center relative">
+<div class="w-12 h-12 rounded-xl bg-amber-50 border border-amber-200 flex flex-col items-center justify-center">
+<span class="font-headline-md text-headline-md text-amber-800 font-bold leading-none">61</span>
+<span class="font-data-mono-sm text-[9px] text-amber-600 font-semibold">/100</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100/80 border border-amber-200 text-amber-800 font-data-mono-sm text-data-mono-sm font-semibold tracking-wide">
+<span class="material-symbols-outlined text-sm text-amber-600" style="font-variation-settings: 'FILL' 1;">warning</span>
+                  REVIEW
+                </span>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col gap-1.5 max-w-xs">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-900 font-semibold">74% Core Fit</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Partial Stack</span>
+</div>
+<div class="flex flex-wrap gap-1">
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">Node</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">Express</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">PostgreSQL</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold">1.8 yrs</span>
+<span class="font-data-mono-sm text-data-mono-sm text-amber-700 font-medium">Borderline Tenure (&lt;2y)</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-1.5">
+<div class="w-12 h-1.5 rounded-full bg-slate-200 overflow-hidden">
+<div class="bg-slate-600 h-full w-[69%]"></div>
+</div>
+<span class="font-data-mono text-data-mono text-slate-900 font-medium">69%</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-2">
+<span class="px-2 py-1 rounded bg-slate-100 border border-slate-200 text-slate-700 font-data-mono text-data-mono font-medium">
+                    78 <span class="text-[10px] text-slate-400">/100</span>
+</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 uppercase">[LENGTH: 1P]</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<div class="flex items-center gap-1">
+<span class="font-data-mono text-data-mono text-slate-900 font-bold">73%</span>
+<span class="px-1 py-0.2 rounded bg-slate-100 border border-slate-200 text-slate-600 font-data-mono-sm text-[10px] font-semibold">ML v2</span>
+</div>
+<span class="font-body-sm text-[11px] text-slate-600 font-medium">Higher Latent Potential</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col gap-1">
+<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-amber-100/90 text-amber-900 border border-amber-200 font-data-mono-sm text-[10px] font-bold">
+<span class="material-symbols-outlined text-[12px] text-amber-700">psychology</span>
+                    BORDERLINE_ML_SECOND_OPINION
+                  </span>
+<span class="font-data-mono-sm text-[10px] text-slate-500">Rule-score 61 vs ML 73%</span>
+</div>
+</td>
+<td class="py-4 pr-5 pl-3 text-right">
+<div class="flex items-center justify-end gap-1.5">
+<button class="quick-status-btn p-1.5 rounded-lg hover:bg-slate-100 text-slate-400 hover:text-amber-700 transition-colors" title="Mark for Manual Recruiter Interview">
+<span class="material-symbols-outlined text-base">rule</span>
+</button>
+<button class="open-eval-btn flex items-center gap-1 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md font-semibold transition-all">
+                    Dossier
+                    <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- ROW 4: Neha Joshi (WEAK MATCH - High Resume Quality, Low Job Fit) -->
+<tr class="hover:bg-slate-50/80 transition-colors group cursor-pointer" data-candidate="neha" data-category="weak">
+<td class="py-4 pl-5 pr-3 text-center">
+<input class="candidate-checkbox rounded border-slate-300 text-slate-900 focus:ring-slate-800 cursor-pointer w-4 h-4" type="checkbox">
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-3">
+<div class="relative shrink-0">
+<img class="w-10 h-10 rounded-full object-cover shadow-sm grayscale opacity-80 border border-slate-200" data-alt="Professional candid portrait of Neha Joshi, a female developer wearing minimalist modern clothes in a bright co-working space" src="https://lh3.googleusercontent.com/aida-public/AB6AXuASF5X9twkGa5yZ4M1vIN7DXhdbN0jRdvBqC6aT0w5gBTS1rTJldLN5NhF8Vjj0yBusg80sZBzgKGQdCd3QasYb8Lsa9zDQjG6xmIdHcCqB1sWYFXtanqyT0qZgM56EOBIc0fsPvIW_ZXNJXtBQoecc5QwmfDZSypGWLLhrsp4FWvh7_pRSruYfiwAhqkhm2NQR3NRRZAp4LrTuuVCdFu2seWJ6SaJsITCwICtYFNdL">
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold truncate">Neha Joshi</span>
+<span class="font-body-sm text-body-sm text-slate-500 truncate">Full Stack Developer • Legacy Web</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4 text-center">
+<div class="inline-flex items-center justify-center relative">
+<div class="w-12 h-12 rounded-xl bg-rose-50 border border-rose-200 flex flex-col items-center justify-center">
+<span class="font-headline-md text-headline-md text-rose-800 font-bold leading-none">38</span>
+<span class="font-data-mono-sm text-[9px] text-rose-600 font-semibold">/100</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-100/80 border border-rose-200 text-rose-800 font-data-mono-sm text-data-mono-sm font-semibold tracking-wide">
+<span class="material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1;">cancel</span>
+                  WEAK MATCH
+                </span>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col gap-1.5 max-w-xs">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm text-rose-700 font-semibold">32% Core Fit</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-400 font-medium">Stack Mismatch</span>
+</div>
+<div class="flex flex-wrap gap-1">
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-400">PHP</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-400">jQuery</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-400">MySQL</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold">0.7 yrs</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Junior Relevance</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-1.5">
+<div class="w-12 h-1.5 rounded-full bg-slate-200 overflow-hidden">
+<div class="bg-rose-500 h-full w-[41%]"></div>
+</div>
+<span class="font-data-mono text-data-mono text-rose-700 font-medium">41%</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<!-- Highlighted Contrast: High Resume Quality, Low Fit -->
+<div class="flex items-center gap-2" title="Pristine ATS Structure, but unrelated technical fit">
+<span class="px-2 py-1 rounded bg-emerald-50 border border-emerald-200 text-emerald-800 font-data-mono text-data-mono font-bold">
+                    91 <span class="text-[10px] text-emerald-600">/100</span>
+</span>
+<span class="font-data-mono-sm text-data-mono-sm text-emerald-700 font-semibold uppercase">[PRISTINE]</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<div class="flex items-center gap-1">
+<span class="font-data-mono text-data-mono text-slate-900 font-bold">18%</span>
+<span class="px-1 py-0.2 rounded bg-slate-100 border border-slate-200 text-slate-500 font-data-mono-sm text-[10px] font-semibold">ML v2</span>
+</div>
+<span class="font-body-sm text-[11px] text-rose-700 font-medium">Low requisition fit</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-slate-100 border border-slate-200 text-slate-600 font-data-mono-sm text-data-mono-sm">
+<span class="material-symbols-outlined text-xs text-slate-400">difference</span>
+                    High Resume Q / Poor JD
+                  </span>
+</div>
+</td>
+<td class="py-4 pr-5 pl-3 text-right">
+<div class="flex items-center justify-end gap-1.5">
+<button class="quick-status-btn p-1.5 rounded-lg hover:bg-slate-100 text-slate-400 hover:text-rose-700 transition-colors" title="Mark Reject Advisory">
+<span class="material-symbols-outlined text-base">block</span>
+</button>
+<button class="open-eval-btn flex items-center gap-1 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md font-semibold transition-all">
+                    Dossier
+                    <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- ROW 5: Vikram Reddy (Match) -->
+<tr class="hover:bg-slate-50/80 transition-colors group cursor-pointer" data-candidate="vikram" data-category="match">
+<td class="py-4 pl-5 pr-3 text-center">
+<input class="candidate-checkbox rounded border-slate-300 text-slate-900 focus:ring-slate-800 cursor-pointer w-4 h-4" type="checkbox">
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-3">
+<div class="relative shrink-0">
+<img class="w-10 h-10 rounded-full object-cover shadow-sm border border-slate-200" data-alt="Professional studio portrait of Vikram Reddy, an Indian male tech lead wearing a charcoal sweater, smart and composed demeanor" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCvRhbeBAaks1nH4OGD3y1FxOUa0WuxivUEo3kHg4KelKmiVjkyY-zWZChj0S6T3965nj1xuKTA3t0LLRweClpfdfUcHCjZqH00RrILuNwynVglgRz3GALDc_GMeU163gmnsyPV8zDpUKnfF8p7py8GDlRn0XbgwNa1pXvaupeGLjf9mPdVONcljLHcZCOHPJ6VM8hcQa1TqiZ5powF8kSoXTEq35N2HIRr0CT1QLOT">
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold truncate">Vikram Reddy</span>
+<span class="font-body-sm text-body-sm text-slate-500 truncate">Full Stack Engineer • Cloud Systems</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4 text-center">
+<div class="inline-flex items-center justify-center relative">
+<div class="w-12 h-12 rounded-xl bg-sky-50 border border-sky-200 flex flex-col items-center justify-center">
+<span class="font-headline-md text-headline-md text-sky-800 font-bold leading-none">79</span>
+<span class="font-data-mono-sm text-[9px] text-sky-600 font-semibold">/100</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-sky-100/80 border border-sky-200 text-sky-800 font-data-mono-sm text-data-mono-sm font-semibold tracking-wide">
+<span class="material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1;">task_alt</span>
+                  MATCH
+                </span>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col gap-1.5 max-w-xs">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-900 font-semibold">85% Core Fit</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">3/4 Req.</span>
+</div>
+<div class="flex flex-wrap gap-1">
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">React</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">Python</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">FastAPI</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold">4.0 yrs</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-700 font-semibold">High Seniority</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-1.5">
+<div class="w-12 h-1.5 rounded-full bg-slate-200 overflow-hidden">
+<div class="bg-slate-900 h-full w-[82%]"></div>
+</div>
+<span class="font-data-mono text-data-mono text-slate-900 font-medium">82%</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-2">
+<span class="px-2 py-1 rounded bg-slate-100 border border-slate-200 text-slate-700 font-data-mono text-data-mono font-medium">
+                    74 <span class="text-[10px] text-slate-400">/100</span>
+</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 uppercase">[PARSE: OK]</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<div class="flex items-center gap-1">
+<span class="font-data-mono text-data-mono text-slate-900 font-bold">80%</span>
+<span class="px-1 py-0.2 rounded bg-slate-100 border border-slate-200 text-slate-600 font-data-mono-sm text-[10px] font-semibold">ML v2</span>
+</div>
+<span class="font-body-sm text-[11px] text-slate-500">Strong backend bias</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-slate-100 border border-slate-200 text-slate-800 font-data-mono-sm text-data-mono-sm font-medium">
+<span class="material-symbols-outlined text-xs">dns</span>
+                  Strong Backend
+                </span>
+</td>
+<td class="py-4 pr-5 pl-3 text-right">
+<div class="flex items-center justify-end gap-1.5">
+<button class="quick-status-btn p-1.5 rounded-lg hover:bg-slate-100 text-slate-400 hover:text-slate-800 transition-colors" title="Quick Shortlist">
+<span class="material-symbols-outlined text-base">star</span>
+</button>
+<button class="open-eval-btn flex items-center gap-1 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md font-semibold transition-all">
+                    Dossier
+                    <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- ROW 6: Sunita Rao (REVIEW) -->
+<tr class="hover:bg-slate-50/80 transition-colors group cursor-pointer" data-candidate="sunita" data-category="review">
+<td class="py-4 pl-5 pr-3 text-center">
+<input class="candidate-checkbox rounded border-slate-300 text-slate-900 focus:ring-slate-800 cursor-pointer w-4 h-4" type="checkbox">
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-3">
+<div class="relative shrink-0">
+<img class="w-10 h-10 rounded-full object-cover shadow-sm border border-slate-200" data-alt="Professional corporate headshot of Sunita Rao, an Indian female software engineer with hair tied back, friendly expression, modern indoor lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCWvqi72ZKba4ZKsntj_5oteGVZXU0E0tuQICzx6RDFwKWoSCUL77vdQd5a4Uk9aoHCpajcDq4DoEz71NgD_oYjZfYUEUoT-PZWga4zkls6bVly_j_IMoAzk5r2TIQ1oul4tHH_KVQ1s9oJetxj9jJKvzdJwOrPWuaPDGY5tpuXd4vadV7fEHO_Wc1EGBLOIgfLnNh1GcMrNonpi-KpuMXXcwLaKMFcSAYU8_Gn8nZy">
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold truncate">Sunita Rao</span>
+<span class="font-body-sm text-body-sm text-slate-500 truncate">Backend / Web Engineer</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4 text-center">
+<div class="inline-flex items-center justify-center relative">
+<div class="w-12 h-12 rounded-xl bg-amber-50 border border-amber-200 flex flex-col items-center justify-center">
+<span class="font-headline-md text-headline-md text-amber-800 font-bold leading-none">63</span>
+<span class="font-data-mono-sm text-[9px] text-amber-600 font-semibold">/100</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100/80 border border-amber-200 text-amber-800 font-data-mono-sm text-data-mono-sm font-semibold tracking-wide">
+<span class="material-symbols-outlined text-sm text-amber-600" style="font-variation-settings: 'FILL' 1;">warning</span>
+                  REVIEW
+                </span>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col gap-1.5 max-w-xs">
+<div class="flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-900 font-semibold">70% Core Fit</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-400 font-medium">Needs Verification</span>
+</div>
+<div class="flex flex-wrap gap-1">
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">Node.js</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">SQL</span>
+<span class="px-2 py-0.5 rounded bg-slate-100 border border-slate-200 font-data-mono-sm text-data-mono-sm text-slate-700">REST</span>
+</div>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold">2.1 yrs</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-600 font-medium">Adequate</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-1.5">
+<div class="w-12 h-1.5 rounded-full bg-slate-200 overflow-hidden">
+<div class="bg-slate-600 h-full w-[68%]"></div>
+</div>
+<span class="font-data-mono text-data-mono text-slate-900 font-medium">68%</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex items-center gap-2">
+<span class="px-2 py-1 rounded bg-slate-100 border border-slate-200 text-slate-700 font-data-mono text-data-mono font-medium">
+                    80 <span class="text-[10px] text-slate-400">/100</span>
+</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 uppercase">[PARSE: OK]</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<div class="flex flex-col">
+<div class="flex items-center gap-1">
+<span class="font-data-mono text-data-mono text-slate-900 font-bold">68%</span>
+<span class="px-1 py-0.2 rounded bg-slate-100 border border-slate-200 text-slate-500 font-data-mono-sm text-[10px] font-semibold">ML v2</span>
+</div>
+<span class="font-body-sm text-[11px] text-slate-500">Mixed telemetry</span>
+</div>
+</td>
+<td class="py-4 px-4">
+<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-50 border border-amber-200 text-amber-800 font-data-mono-sm text-data-mono-sm font-medium">
+<span class="material-symbols-outlined text-xs">pending_actions</span>
+                  Review Required
+                </span>
+</td>
+<td class="py-4 pr-5 pl-3 text-right">
+<div class="flex items-center justify-end gap-1.5">
+<button class="quick-status-btn p-1.5 rounded-lg hover:bg-slate-100 text-slate-400 hover:text-slate-800 transition-colors" title="Quick Shortlist">
+<span class="material-symbols-outlined text-base">star</span>
+</button>
+<button class="open-eval-btn flex items-center gap-1 px-3 py-1.5 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md font-semibold transition-all">
+                    Dossier
+                    <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- Dossier Drawer / Flyout Trigger Modal Preview -->
+<div class="fixed inset-0 z-50 flex items-center justify-end bg-slate-950/50 backdrop-blur-sm hidden" id="dossier-modal">
+<div class="w-full max-w-2xl h-full bg-white shadow-2xl flex flex-col justify-between overflow-y-auto animate-in slide-in-from-right duration-200 border-l border-slate-200">
+<!-- Dossier Header -->
+<div class="p-space-xl bg-slate-50 border-b border-slate-200 flex items-center justify-between">
+<div class="flex items-center gap-3">
+<div class="p-2.5 rounded-xl bg-slate-900 text-white">
+<span class="material-symbols-outlined text-xl">analytics</span>
+</div>
+<div class="flex flex-col">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 uppercase font-bold tracking-wider">Candidate AI Dossier &amp; Audit</span>
+<span class="font-headline-md text-headline-md text-slate-900 font-bold" id="dossier-candidate-name">Rahul Sharma</span>
+</div>
+</div>
+<button class="p-2 rounded-lg hover:bg-slate-200 text-slate-500" id="close-dossier">
+<span class="material-symbols-outlined">close</span>
+</button>
+</div>
+<!-- Dossier Body Content -->
+<div class="p-space-xl flex flex-col gap-space-lg flex-1">
+<!-- Algorithmic Provenance Banner -->
+<div class="p-space-md rounded-xl bg-slate-50 border border-slate-200 flex items-start gap-3">
+<span class="material-symbols-outlined text-emerald-600 shrink-0 mt-0.5">verified_user</span>
+<div class="flex flex-col">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-700 font-bold">AI Advisory Attribution</span>
+<p class="font-body-sm text-body-sm text-slate-600">
+                  Match confidence computed across 14 extracted vectors: React 18, TypeScript strict mode, Redux architecture, Node clustering. All demographic traits masked prior to vectorization.
+                </p>
+</div>
+</div>
+<!-- Scoring Metric Breakdown Grid -->
+<div class="grid grid-cols-2 gap-space-md">
+<div class="p-space-md rounded-xl bg-slate-50 border border-slate-200 flex flex-col gap-1">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-400">Candidate-JD Fit Score</span>
+<div class="flex items-baseline gap-2">
+<span class="font-headline-xl text-headline-xl font-bold text-slate-900" id="dossier-fit-score">84</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500">/ 100</span>
+</div>
+<span class="font-data-mono-sm text-data-mono-sm text-emerald-700 font-semibold">Ranked #1 of 48 candidates</span>
+</div>
+<div class="p-space-md rounded-xl bg-slate-50 border border-slate-200 flex flex-col gap-1">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-400">Resume ATS Quality</span>
+<div class="flex items-baseline gap-2">
+<span class="font-headline-xl text-headline-xl font-bold text-slate-900" id="dossier-ats-score">86</span>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500">/ 100</span>
+</div>
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">Syntax parsing: 99.4% valid</span>
+</div>
+</div>
+<!-- Key Competency Evidence Extraction -->
+<div class="flex flex-col gap-2">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-400 font-semibold tracking-wider">Semantic Grounding &amp; Citations</span>
+<div class="p-space-md rounded-xl bg-slate-50 border border-slate-200 flex flex-col gap-2.5">
+<div class="flex items-start gap-2">
+<span class="material-symbols-outlined text-emerald-600 text-sm shrink-0 mt-0.5">check</span>
+<p class="font-body-sm text-body-sm text-slate-800">
+<strong class="font-semibold text-slate-900">Full-stack React &amp; Next.js:</strong> Led transition of customer dashboard from legacy SPA to Next.js 14 SSR, cutting TTFB by 42%.
+                  </p>
+</div>
+<div class="flex items-start gap-2">
+<span class="material-symbols-outlined text-emerald-600 text-sm shrink-0 mt-0.5">check</span>
+<p class="font-body-sm text-body-sm text-slate-800">
+<strong class="font-semibold text-slate-900">Node.js High Concurrency:</strong> Architected webhook microservice handling 12,000 req/sec via Redis pub/sub.
+                  </p>
+</div>
+<div class="flex items-start gap-2">
+<span class="material-symbols-outlined text-slate-400 text-sm shrink-0 mt-0.5">info</span>
+<p class="font-body-sm text-body-sm text-slate-600">
+<strong class="font-semibold text-slate-800">GraphQL Architecture:</strong> Documented as auxiliary experience (1.1 yrs), does not detract from core criteria.
+                  </p>
+</div>
+</div>
+</div>
+<!-- Human Override Decision Panel -->
+<div class="p-space-lg rounded-xl bg-slate-50 border border-slate-200 flex flex-col gap-space-md">
+<span class="font-headline-sm text-headline-sm text-slate-900 font-semibold">Human Recruiter Determination</span>
+<div class="flex items-center gap-space-sm">
+<button class="flex-1 py-2 rounded-lg bg-emerald-700 hover:bg-emerald-800 text-white font-label-md text-label-md font-semibold flex items-center justify-center gap-1.5 shadow-sm">
+<span class="material-symbols-outlined text-sm">check</span>
+                  Approve Shortlist
+                </button>
+<button class="flex-1 py-2 rounded-lg bg-white border border-slate-200 hover:bg-slate-100 text-slate-800 font-label-md text-label-md font-semibold flex items-center justify-center gap-1.5 shadow-sm">
+<span class="material-symbols-outlined text-sm text-slate-500">schedule</span>
+                  Schedule Phone Screen
+                </button>
+<button class="py-2 px-3 rounded-lg bg-rose-50 border border-rose-200 text-rose-800 hover:bg-rose-100 font-label-md text-label-md font-semibold flex items-center justify-center">
+                  Reject
+                </button>
+</div>
+</div>
+</div>
+<!-- Dossier Footer -->
+<div class="p-space-lg bg-slate-50 border-t border-slate-200 flex items-center justify-between">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-400">Dossier ID: #DOS-2026-081-01</span>
+<button class="px-space-lg py-2 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-label-md text-label-md font-semibold" id="close-dossier-btn">
+              Done Reviewing
+            </button>
+</div>
+</div>
+</div>
+</div>
+<!-- Pagination & Human-in-the-Loop Governance Footer -->
+<footer class="mt-space-md p-space-lg rounded-xl bg-white border border-slate-200 shadow-sm flex flex-col lg:flex-row items-center justify-between gap-space-md">
+<!-- Human in the loop guarantee -->
+<div class="flex items-center gap-3">
+<div class="w-8 h-8 rounded-lg bg-slate-100 border border-slate-200 flex items-center justify-center text-slate-700">
+<span class="material-symbols-outlined text-lg">shield</span>
+</div>
+<div class="flex flex-col">
+<span class="font-data-mono-sm text-data-mono-sm uppercase text-slate-700 font-semibold tracking-wider">Governed Human-in-the-Loop AI</span>
+<p class="font-body-sm text-body-sm text-slate-500">
+            TalentLens AI recommendations are advisory. All hiring determinations, interview dispatches, and rejections are governed by human recruiters.
+          </p>
+</div>
+</div>
+<!-- Pagination Controls -->
+<div class="flex items-center gap-space-md">
+<span class="font-data-mono-sm text-data-mono-sm text-slate-500 font-medium">
+          Showing <strong class="text-slate-900">1 - 6</strong> of <strong class="text-slate-900">48</strong> candidates
+        </span>
+<div class="flex items-center gap-1">
+<button class="p-1.5 rounded-lg bg-slate-100 border border-slate-200 text-slate-400 hover:text-slate-900 disabled:opacity-40" disabled="">
+<span class="material-symbols-outlined text-sm">chevron_left</span>
+</button>
+<button class="px-3 py-1 rounded-lg bg-slate-900 text-white font-data-mono text-data-mono font-semibold">1</button>
+<button class="px-3 py-1 rounded-lg hover:bg-slate-100 text-slate-700 font-data-mono text-data-mono">2</button>
+<button class="px-3 py-1 rounded-lg hover:bg-slate-100 text-slate-700 font-data-mono text-data-mono">3</button>
+<span class="px-1 text-slate-400 font-data-mono-sm text-data-mono-sm">...</span>
+<button class="px-3 py-1 rounded-lg hover:bg-slate-100 text-slate-700 font-data-mono text-data-mono">8</button>
+<button class="p-1.5 rounded-lg bg-slate-100 border border-slate-200 hover:bg-slate-200 text-slate-700">
+<span class="material-symbols-outlined text-sm">chevron_right</span>
+</button>
+</div>
+</div>
+</footer>
+</main>
+<!-- Interactive Logic for Search, Category Filtering, Flyout Dossier & Checkbox Sync -->
+<script>
+    (function initDashboard() {
+      const filterPills = document.querySelectorAll('#filter-pills button');
+      const tableRows = document.querySelectorAll('#candidates-table-body tr');
+      const searchInput = document.getElementById('search-input');
+      const selectAll = document.getElementById('select-all-candidates');
+      const rowCheckboxes = document.querySelectorAll('.candidate-checkbox');
+      const selectedBadge = document.getElementById('selected-badge');
+      const compareCount = document.getElementById('compare-count');
+      const toast = document.getElementById('toast-banner');
+      const toastText = document.getElementById('toast-text');
+      const dossierModal = document.getElementById('dossier-modal');
+      const closeDossier = document.getElementById('close-dossier');
+      const closeDossierBtn = document.getElementById('close-dossier-btn');
+      const dossierName = document.getElementById('dossier-candidate-name');
+      const dossierFit = document.getElementById('dossier-fit-score');
+      const dossierAts = document.getElementById('dossier-ats-score');
+
+      function showToast(message) {
+        toastText.textContent = message;
+        toast.classList.remove('translate-y-20', 'opacity-0');
+        setTimeout(() => {
+          toast.classList.add('translate-y-20', 'opacity-0');
+        }, 3000);
+      }
+
+      function updateSelectedCount() {
+        const count = document.querySelectorAll('.candidate-checkbox:checked').length;
+        if (selectedBadge) selectedBadge.textContent = count;
+        if (compareCount) compareCount.textContent = count;
+      }
+
+      // Checkbox interactions
+      if (selectAll) {
+        selectAll.addEventListener('change', (e) => {
+          rowCheckboxes.forEach(cb => {
+            cb.checked = e.target.checked;
+          });
+          updateSelectedCount();
+        });
+      }
+
+      rowCheckboxes.forEach(cb => {
+        cb.addEventListener('change', () => {
+          updateSelectedCount();
+        });
+      });
+
+      // Quick category filtering pills
+      filterPills.forEach(pill => {
+        pill.addEventListener('click', () => {
+          filterPills.forEach(p => {
+            p.classList.remove('bg-slate-900', 'text-white');
+            p.classList.add('bg-white', 'text-slate-600', 'border', 'border-slate-200');
+          });
+          pill.classList.remove('bg-white', 'text-slate-600', 'border', 'border-slate-200');
+          pill.classList.add('bg-slate-900', 'text-white');
+
+          const category = pill.getAttribute('data-filter');
+          tableRows.forEach(row => {
+            if (category === 'all' || row.getAttribute('data-category') === category) {
+              row.style.display = '';
+            } else {
+              row.style.display = 'none';
+            }
+          });
+        });
+      });
+
+      // Search field filtering
+      if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+          const val = e.target.value.toLowerCase();
+          tableRows.forEach(row => {
+            const text = row.innerText.toLowerCase();
+            if (text.includes(val)) {
+              row.style.display = '';
+            } else {
+              row.style.display = 'none';
+            }
+          });
+        });
+      }
+
+      // Open Dossier Drawer
+      const openEvalBtns = document.querySelectorAll('.open-eval-btn');
+      openEvalBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const row = e.target.closest('tr');
+          const nameEl = row.querySelector('.font-headline-sm');
+          const fitEl = row.querySelector('.font-headline-md');
+          if (nameEl && dossierName) dossierName.textContent = nameEl.textContent.trim();
+          if (fitEl && dossierFit) dossierFit.textContent = fitEl.textContent.trim();
+          dossierModal.classList.remove('hidden');
+        });
+      });
+
+      // Close Dossier
+      [closeDossier, closeDossierBtn].forEach(el => {
+        if (el) {
+          el.addEventListener('click', () => {
+            dossierModal.classList.add('hidden');
+          });
+        }
+      });
+
+      // Quick action triggers
+      const quickStatusBtns = document.querySelectorAll('.quick-status-btn');
+      quickStatusBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          showToast('Candidate flagged for fast-track review');
+        });
+      });
+
+      const btnExport = document.getElementById('btn-export-csv');
+      if (btnExport) {
+        btnExport.addEventListener('click', () => {
+          showToast('Generating ranked CSV export with complete explainability metadata...');
+        });
+      }
+
+      const btnBatch = document.getElementById('btn-batch-action');
+      if (btnBatch) {
+        btnBatch.addEventListener('click', () => {
+          showToast('Batch actions dialog triggered for ' + document.querySelectorAll('.candidate-checkbox:checked').length + ' candidates');
+        });
+      }
+
+      const btnCompare = document.getElementById('btn-compare');
+      if (btnCompare) {
+        btnCompare.addEventListener('click', () => {
+          showToast('Navigating to Candidate Comparison View...');
+        });
+      }
+
+      // Sort change notification
+      const sortSelect = document.getElementById('sort-select');
+      if (sortSelect) {
+        sortSelect.addEventListener('change', (e) => {
+          showToast('Candidate cohort re-ranked by ' + e.target.options[e.target.selectedIndex].text);
+        });
+      }
+    })();
+  </script>
+</div></main></div>
+
+</body></html>

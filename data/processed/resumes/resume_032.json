@@ -1,0 +1,91 @@
+{
+  "resume_id": "resume_032",
+  "resumeId": "resume_032",
+  "fileName": "32.docx",
+  "candidateName": ",",
+  "skills": [
+    "C",
+    "Python",
+    "SQL",
+    "Excel",
+    "Tableau",
+    "Git",
+    "Data Analysis",
+    "Data Visualization",
+    "Machine Learning",
+    "Statistics",
+    "Problem Solving"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": ",\n\nC O N T A C T M E A T\n\nT O O L S & T E C H\n\nPython SQL\nMicrosoft Excel Tableau Apache Spark GitHub\nGoogle Data Studio Google Analytics Adobe Photoshop DBeaver\nT E C H N I C A L C O M P E T E N C I E S\n\nData Preprocessing and EDA Statistical Data Analysis including testing Statistical Hypothesis Quantitative Research Methods Data Visualization and reports Web Mining\nBusiness Analytics (KPI analytics, cohort analytics, A/B testing, product funnels)\nMachine learning (Forecasts and Predictions)\nE D U C A T I O N & C O U R S E S\nThe Ural Federal University Computer science| 2013 - 2014 Practicum by Yandex: Data Analysis, 2020\nHackerRank: SQL Certificate, 2021 Stepik: Basic Statistics, 2021 Coursera: Apache Spark (TM) SQL for Data Analysts, 2021\nMaxim Gorky Institute of Literature and Creative Writing| 2012 - 2017\nM.A. in Literary Translation GPA: 3.8 / 4\nL A N G U A G E S\nLISA POLOTCKAIA\nD A T A A N A L Y S T\nP R O F I L E\nDetail- and process-oriented Data Analyst with Python and SQL proficiency. Have startup experience, a history of project presenting, strong research & analytical skills. Hold M.A. in Translation, finished 1 year of Computer Science study and 9- month Data Analyst Yandex100 Program\n\nW O R K E X P E R I E N C E\nOutsourcing data analyst\nPinsteps | Nov 2020 - present\nConducted projects on cohort analysis, conversion evaluation Assessed user activity and retention rates\nCreated user engagement reports that helped to establish app development direction\nInterviewer\nIsrael Way | Sept 2018 - Feb 2020\nConducted surveys of MASA participants and highlighted\nissues to be modified due to participants experience\nCreated reports, presentations using Google Workspace tools\nVideo algorithm specialist\nMinute.ly | Nov 2019 - Jan 2020\nTrained AI Algorithm for selecting highlights of video materials representing content of customer\u2019s websites\nProgram coordinator\nIsrael StartUp Tour | Sept 2018 - Feb 2020\nDeveloped and organized tours on Israeli startups for foreign entrepreneurs that were focused on startup networking and led to successful business corporations\n\nP R O J E C T E X A M P L E S (clickable)\nKPI analy tics and marketing expansions optimization\nExamined user behavior, conducted cohort analyze establishing cohorts' KPI and thus indicated the most profitable advertising sources, which helped to develop further advertisement strategy\nA/B testing\nVerified A/B test conduction correctness and used its results to define more user engaging website version. Used user conversion funnels & statistical hypotheses tests to confirm the conclusions\nChurn forecasting (machine learning)\nPreprocessed and explored the data, indicated inner patterns and correlation and used LogisticRegression, RandomForest and K- Means to successfully identify clients prone to churn\nIdentify ing inefficient mobile operators\nCreated a method to evaluate operators effectiveness. Successfully implemented it, identified ineffective operators and proved conclusions with statistical tests",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": ",\n\nC O N T A C T M E A T\n\nT O O L S & T E C H\n\nPython SQL\nMicrosoft Excel Tableau Apache Spark GitHub\nGoogle Data Studio Google Analytics Adobe Photoshop DBeaver\nT E C H N I C A L C O M P E T E N C I E S\n\nData Preprocessing and EDA Statistical Data Analysis including testing Statistical Hypothesis Quantitative Research Methods Data Visualization and reports Web Mining\nBusiness Analytics (KPI analytics, cohort analytics, A/B testing, product funnels)\nMachine learning (Forecasts and Predictions)\nE D U C A T I O N & C O U R S E S\nThe Ural Federal University Computer science| 2013 - 2014 Practicum by Yandex: Data Analysis, 2020\nHackerRank: SQL Certificate, 2021 Stepik: Basic Statistics, 2021 Coursera: Apache Spark (TM) SQL for Data Analysts, 2021\nMaxim Gorky Institute of Literature and Creative Writing| 2012 - 2017\nM.A. in Literary Translation GPA: 3.8 / 4\nL A N G U A G E S\nLISA POLOTCKAIA\nD A T A A N A L Y S T\nP R O F I L E\nDetail- and process-oriented Data Analyst with Python and SQL proficiency. Have startup experience, a history of project presenting, strong research & analytical skills. Hold M.A. in Translation, finished 1 year of Computer Science study and 9- month Data Analyst Yandex100 Program\n\nW O R K E X P E R I E N C E\nOutsourcing data analyst\nPinsteps | Nov 2020 - present\nConducted projects on cohort analysis, conversion evaluation Assessed user activity and retention rates\nCreated user engagement reports that helped to establish app development direction\nInterviewer\nIsrael Way | Sept 2018 - Feb 2020\nConducted surveys of MASA participants and highlighted\nissues to be modified due to participants experience\nCreated reports, presentations using Google Workspace tools\nVideo algorithm specialist\nMinute.ly | Nov 2019 - Jan 2020\nTrained AI Algorithm for selecting highlights of video materials representing content of customer\u2019s websites\nProgram coordinator\nIsrael StartUp Tour | Sept 2018 - Feb 2020\nDeveloped and organized tours on Israeli startups for foreign entrepreneurs that were focused on startup networking and led to successful business corporations\n\nP R O J E C T E X A M P L E S (clickable)\nKPI analy tics and marketing expansions optimization\nExamined user behavior, conducted cohort analyze establishing cohorts' KPI and thus indicated the most profitable advertising sources, which helped to develop further advertisement strategy\nA/B testing\nVerified A/B test conduction correctness and used its results to define more user engaging website version. Used user conversion funnels & statistical hypotheses tests to confirm the conclusions\nChurn forecasting (machine learning)\nPreprocessed and explored the data, indicated inner patterns and correlation and used LogisticRegression, RandomForest and K- Means to successfully identify clients prone to churn\nIdentify ing inefficient mobile operators\nCreated a method to evaluate operators effectiveness. Successfully implemented it, identified ineffective operators and proved conclusions with statistical tests"
+  },
+  "metadata": {
+    "fileName": "32.docx",
+    "candidateName": ",",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 3006,
+      "wordCount": 496,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 67.0,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.2,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "created",
+      "developed",
+      "implemented",
+      "led",
+      "organized",
+      "trained"
+    ],
+    "quantifiedBulletsCount": 9,
+    "totalBulletsCount": 39,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (created, developed, implemented, led, organized)."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 67.0/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

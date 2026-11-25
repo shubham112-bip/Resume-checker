@@ -1,0 +1,196 @@
+{
+  "resume_id": "resume_055",
+  "resumeId": "resume_055",
+  "fileName": "55.docx",
+  "candidateName": "Contact",
+  "skills": [
+    "Go",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "WebSockets",
+    "GraphQL",
+    "Angular",
+    "Vue.js",
+    "HTML",
+    "CSS",
+    "SASS",
+    "Redux",
+    "Bootstrap",
+    "Express",
+    "MongoDB",
+    "Unit Testing",
+    "REST APIs",
+    "Docker",
+    "Nginx",
+    "PostgreSQL",
+    "Git",
+    "Agile"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": "2015 - 2019",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's degree, technical systems (2015 - 2019)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "OZON.ru",
+      "organization": "Full-stack Developer",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    },
+    {
+      "title": "(8 months)",
+      "organization": "Creating the Cart / Checkout part of Ozon.ru Marketplace",
+      "start": "October 2021",
+      "end": "Present",
+      "durationMonths": 61,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Frontend:",
+        "Vue, TypeScript, WebPack, SCSS",
+        "Backend - Golang, Postgres, MemCached",
+        "Beeline Russia",
+        "Frontend Engineer (Angular, Vue)"
+      ]
+    },
+    {
+      "title": "(1 year 1 month)",
+      "organization": "Developing of React SPA application",
+      "start": "October 2020",
+      "end": "October 2021",
+      "durationMonths": 12,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "TypeScript, MobX, Styled",
+        "WebPack, GraphQL",
+        "Before june:",
+        "Development of main client app, an Angular SPA, and back office on Vue 2",
+        "\"\"",
+        "Frontend Engineer"
+      ]
+    },
+    {
+      "title": "(1 year)",
+      "organization": "Adding new features and legacy code support to government web service -",
+      "start": "November 2019",
+      "end": "October 2020",
+      "durationMonths": 11,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "National Accreditation System",
+        "Adding functionality to micro SPA on React",
+        "JavaScript, TypeScript",
+        "Angular 2+, React, RxJs",
+        "HTML5/SCSS",
+        "Git, GitLab, TeamCity, Docker",
+        "24",
+        "Frontend Engineer"
+      ]
+    },
+    {
+      "title": "(3 months)",
+      "organization": ",",
+      "start": "August 2019",
+      "end": "October 2019",
+      "durationMonths": 2,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Development of SPA Angular 7 web-application for business client managers",
+        "JavaScript, TypeScript, Angular 7, RxJs",
+        "SCSS, Bootstrap 4",
+        "Page 2 of 3",
+        "Git, tfs, agile"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "is Golang",
+    "also"
+  ],
+  "raw_text": "Contact\n(Home)\nFull Stack Developer (Golang / JS / TS)\nTel Aviv\nwww.\nSummary\nTop Skills\nHello, my name is David, and I am a Frontend / Full-Stack Developer\nReact\nJavaScript I have 3 years of Frontend Experience and the last 6 months working\nGo (Programming Language)\nas a Full Stack Developer, the backend language is Golang, also\nhave a small experience with Node.js\nLanguages\nEnglish (Professional Working) Languages: JavaScript, TypeScript, Golang\nRussian (Native or Bilingual)\nWebpack\nWebSockets, GraphQL\nFrontend:\nFrameworks: React, Angular, Vue\nHTML5, CSS3, SCSS, LESS\nWebpack\nRxJs, NgRx, Redux, Thunk, Saga,\nCSS-modules, Styled Components\nBootstrap\nAnimations (CSSTransition, CSS Animate)\nBackend\nNode.js:\nFrameworks: Express, Koa, Nest\nMongoose, Sequelize\nGolang: Logrus, Validator, Echo, Unit Tests\nREST API, gRPC\nMongoDB\nDocker/Docker-Compose/Nginx\nPage 1 of 3\nExperience\nOZON.ru\nFull-stack Developer\nOctober 2021 - Present (8 months)\nCreating the Cart / Checkout part of Ozon.ru Marketplace\nFrontend:\nVue, TypeScript, WebPack, SCSS\nBackend - Golang, Postgres, MemCached\nBeeline Russia\nFrontend Engineer (Angular, Vue)\nOctober 2020 - October 2021 (1 year 1 month)\nDeveloping of React SPA application\nTypeScript, MobX, Styled\nWebPack, GraphQL\nBefore june:\nDevelopment of main client app, an Angular SPA, and back office on Vue 2\n\"\"\nFrontend Engineer\nNovember 2019 - October 2020 (1 year)\nAdding new features and legacy code support to government web service -\nNational Accreditation System\nAdding functionality to micro SPA on React\nJavaScript, TypeScript\nAngular 2+, React, RxJs\nHTML5/SCSS\nGit, GitLab, TeamCity, Docker\n24\nFrontend Engineer\nAugust 2019 - October 2019 (3 months)\n,\nDevelopment of SPA Angular 7 web-application for business client managers\nJavaScript, TypeScript, Angular 7, RxJs\nSCSS, Bootstrap 4\nPage 2 of 3\nGit, tfs, agile\nEducation\nMoscow State Institute of Radio Engineering, Electronics and\nAutomation (Technical University)\nBachelor's degree, technical systems (2015 - 2019)\nPage 3 of 3",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "Top Skills\nHello, my name is David, and I am a Frontend / Full-Stack Developer\nReact\nJavaScript I have 3 years of Frontend Experience and the last 6 months working\nGo (Programming Language)\nas a Full Stack Developer, the backend language is Golang, also\nhave a small experience with Node.js",
+  "totalExperienceMonths": 86,
+  "experienceYears": 7.2,
+  "sections": {
+    "header": "Contact\n(Home)\nFull Stack Developer (Golang / JS / TS)\nTel Aviv\nwww.",
+    "summary": "Top Skills\nHello, my name is David, and I am a Frontend / Full-Stack Developer\nReact\nJavaScript I have 3 years of Frontend Experience and the last 6 months working\nGo (Programming Language)\nas a Full Stack Developer, the backend language is Golang, also\nhave a small experience with Node.js",
+    "other": "English (Professional Working) Languages: JavaScript, TypeScript, Golang\nRussian (Native or Bilingual)\nWebpack\nWebSockets, GraphQL\nFrontend:\nFrameworks: React, Angular, Vue\nHTML5, CSS3, SCSS, LESS\nWebpack\nRxJs, NgRx, Redux, Thunk, Saga,\nCSS-modules, Styled Components\nBootstrap\nAnimations (CSSTransition, CSS Animate)\nBackend\nNode.js:\nFrameworks: Express, Koa, Nest\nMongoose, Sequelize\nGolang: Logrus, Validator, Echo, Unit Tests\nREST API, gRPC\nMongoDB\nDocker/Docker-Compose/Nginx\nPage 1 of 3",
+    "experience": "OZON.ru\nFull-stack Developer\nOctober 2021 - Present (8 months)\nCreating the Cart / Checkout part of Ozon.ru Marketplace\nFrontend:\nVue, TypeScript, WebPack, SCSS\nBackend - Golang, Postgres, MemCached\nBeeline Russia\nFrontend Engineer (Angular, Vue)\nOctober 2020 - October 2021 (1 year 1 month)\nDeveloping of React SPA application\nTypeScript, MobX, Styled\nWebPack, GraphQL\nBefore june:\nDevelopment of main client app, an Angular SPA, and back office on Vue 2\n\"\"\nFrontend Engineer\nNovember 2019 - October 2020 (1 year)\nAdding new features and legacy code support to government web service -\nNational Accreditation System\nAdding functionality to micro SPA on React\nJavaScript, TypeScript\nAngular 2+, React, RxJs\nHTML5/SCSS\nGit, GitLab, TeamCity, Docker\n24\nFrontend Engineer\nAugust 2019 - October 2019 (3 months)\n,\nDevelopment of SPA Angular 7 web-application for business client managers\nJavaScript, TypeScript, Angular 7, RxJs\nSCSS, Bootstrap 4\nPage 2 of 3\nGit, tfs, agile",
+    "education": "Moscow State Institute of Radio Engineering, Electronics and\nAutomation (Technical University)\nBachelor's degree, technical systems (2015 - 2019)\nPage 3 of 3"
+  },
+  "metadata": {
+    "fileName": "55.docx",
+    "candidateName": "Contact",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 86,
+    "experienceYears": 7.2,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2018,
+      "wordCount": 297,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "other",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 67.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.59,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 7,
+    "totalBulletsCount": 24,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 67.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

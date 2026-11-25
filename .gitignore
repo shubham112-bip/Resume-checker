@@ -1,0 +1,36 @@
+# Secrets & Configs
+.env
+.env.*
+!.env.example
+.agents/
+*.pem
+*.key
+
+# Database & runtime
+*.db
+*.sqlite*
+backend/data/runtime/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Node / Next.js
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+*.tsbuildinfo
+
+# OS / editors
+.DS_Store
+*/.DS_Store
+.idea/
+.vscode/

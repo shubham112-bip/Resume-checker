@@ -1,0 +1,87 @@
+{
+  "resume_id": "resume_054",
+  "resumeId": "resume_054",
+  "fileName": "54.docx",
+  "candidateName": "Pavel Barannikov",
+  "skills": [
+    "PHP",
+    "MySQL",
+    "jQuery",
+    "CSS",
+    "PostgreSQL",
+    "Git",
+    "HTML",
+    "Docker"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English"
+  ],
+  "raw_text": "Pavel Barannikov\nWeb Developer\nProfile Details\nWork experience for almost 10 years. My direct specialty is web developer. Netanya, Israel,\nHowever, if necessary, I can easily learn any programming language. I\nwork on php / mysql, confidently familiar with the jquery and css. I have\nDate / Place of birth\nexperience with such CMS as: 1C-Bitrix, Joomla, WordPress, Drupal\n16/03/1992\nRussia\nEducation\nNationality\nSecond degree, Ulyanovsk State Technical University, Ulyanovsk\nSeptember 2009 June ,\nUlyanovsk\nCss\nSeptember 2010 August 2012\nWas engaged in the development / maintenance of the \"Educational MySql\nProcess\" system. PHP development. Work with databases, MySQL,\njQuery\nPostgreSQL\nAJAX\nWeb-developer at Digital Dream LLC, Ulyanovsk\nAugust 2012 August 2013\nGit\nWebsite development on the 1C-Bitrix platform. During his work in the\ncompany, 17 projects were successfully completed, sites of medium Git Flow\ncomplexity and higher.\nSeo\nWeb-developer at Individual entrepreneur, Ulyanovsk\nHTML5\nAugust 2012 July 2014\nDuring freelance, at least two dozens of sites were developed from corporate Docker\nweb applications to highly loaded online stores.\nEffective Team Leader\nWeb-developer at IntimeFinance, Ulyanovsk\nApril 2014 October 2015 Ability to Work in a Team\nWeb application development for the internal needs of the company,\ncorporate site development. System administration. Languages\nEnglish\nWeb-developer, Teamleader at iBrush , Moscow\nOctober 2015 December 2018 Russian\nWebsite development, management of a development team (3\nprogrammers, 2 layout designers), design, maintenance. Interview new\nstaff.\nWeb-developer, Teamlead at Eapteka Ltd, Moscow\nJanuary 2019 Present\nWork on a highly loaded project - daily the number of visitors is several\nhundred thousand.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Pavel Barannikov\nWeb Developer\nProfile Details\nWork experience for almost 10 years. My direct specialty is web developer. Netanya, Israel,\nHowever, if necessary, I can easily learn any programming language. I\nwork on php / mysql, confidently familiar with the jquery and css. I have\nDate / Place of birth\nexperience with such CMS as: 1C-Bitrix, Joomla, WordPress, Drupal\n16/03/1992\nRussia",
+    "education": "Nationality\nSecond degree, Ulyanovsk State Technical University, Ulyanovsk\nSeptember 2009 June ,\nUlyanovsk\nCss\nSeptember 2010 August 2012\nWas engaged in the development / maintenance of the \"Educational MySql\nProcess\" system. PHP development. Work with databases, MySQL,\njQuery\nPostgreSQL\nAJAX\nWeb-developer at Digital Dream LLC, Ulyanovsk\nAugust 2012 August 2013\nGit\nWebsite development on the 1C-Bitrix platform. During his work in the\ncompany, 17 projects were successfully completed, sites of medium Git Flow\ncomplexity and higher.\nSeo\nWeb-developer at Individual entrepreneur, Ulyanovsk\nHTML5\nAugust 2012 July 2014\nDuring freelance, at least two dozens of sites were developed from corporate Docker\nweb applications to highly loaded online stores.\nEffective Team Leader\nWeb-developer at IntimeFinance, Ulyanovsk\nApril 2014 October 2015 Ability to Work in a Team\nWeb application development for the internal needs of the company,\ncorporate site development. System administration. Languages\nEnglish\nWeb-developer, Teamleader at iBrush , Moscow\nOctober 2015 December 2018 Russian\nWebsite development, management of a development team (3\nprogrammers, 2 layout designers), design, maintenance. Interview new\nstaff.\nWeb-developer, Teamlead at Eapteka Ltd, Moscow\nJanuary 2019 Present\nWork on a highly loaded project - daily the number of visitors is several\nhundred thousand."
+  },
+  "metadata": {
+    "fileName": "54.docx",
+    "candidateName": "Pavel Barannikov",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1774,
+      "wordCount": 256,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 64.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "developed"
+    ],
+    "quantifiedBulletsCount": 12,
+    "totalBulletsCount": 31,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 64.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

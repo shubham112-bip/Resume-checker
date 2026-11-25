@@ -1,0 +1,143 @@
+{
+  "resume_id": "resume_024",
+  "resumeId": "resume_024",
+  "fileName": "24.docx",
+  "candidateName": "Ashdod, Israel",
+  "skills": [
+    "Agile",
+    "C",
+    "Firebase",
+    "PHP",
+    "Laravel",
+    "Java",
+    "PostgreSQL",
+    "JavaScript",
+    "Bootstrap",
+    "Data Analysis",
+    "jQuery",
+    "C#",
+    ".NET",
+    "Swift",
+    "C++",
+    "CSS",
+    "HTML",
+    "SQL",
+    "MySQL",
+    "MongoDB"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "SuperUp, Ashdod, Israel",
+      "organization": "iOS developer",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "February 2017 Present",
+        "Development of applications for iOS 10,11,12 in S wift according to G itFlow and J ira",
+        "Scrum. C I experience. Using of C ocoaTouch, Foundation, Alamofire, XIBs,",
+        "Storyboards, CoreData, Realm etc. Publishing to App Store.",
+        "Integration with back-end R EST API, Firebase and other Google services.",
+        "Full stack developer",
+        "March 2016 February 2017",
+        "Development of high loaded Back-end software on PHP (Symphony, Laravel) and",
+        "Java (Spring) with PostgreSQL database.",
+        "Front-end development on A ngular JS, Backbone JS, Bootstrap.",
+        "Data analytics in BigQuery by G oogle Data Studio. System monitoring by Zabbix, ELK.",
+        "Mobile Web on F ramework 7, JQuery Mobile. Mobile bots for WhatsApp, Telegram,",
+        "Facebook.",
+        "Infosoft, Barnaul, Russia",
+        "B ack-end developer",
+        "June 2014 September 2015",
+        "Back-end development on C# (.NET) with M ySQL database.",
+        "System administration and monitoring."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Hebrew",
+    "English",
+    "Russian"
+  ],
+  "raw_text": "iOS developer\nAshdod, Israel\n\nEXPERIENCE\nSuperUp, Ashdod, Israel\niOS developer\nFebruary 2017 Present\nDevelopment of applications for iOS 10,11,12 in S wift according to G itFlow and J ira\nScrum. C I experience. Using of C ocoaTouch, Foundation, Alamofire, XIBs,\nStoryboards, CoreData, Realm etc. Publishing to App Store.\nIntegration with back-end R EST API, Firebase and other Google services.\nFull stack developer\nMarch 2016 February 2017\nDevelopment of high loaded Back-end software on PHP (Symphony, Laravel) and\nJava (Spring) with PostgreSQL database.\nFront-end development on A ngular JS, Backbone JS, Bootstrap.\nData analytics in BigQuery by G oogle Data Studio. System monitoring by Zabbix, ELK.\nMobile Web on F ramework 7, JQuery Mobile. Mobile bots for WhatsApp, Telegram,\nFacebook.\nInfosoft, Barnaul, Russia\nB ack-end developer\nJune 2014 September 2015\nBack-end development on C# (.NET) with M ySQL database.\nSystem administration and monitoring.\nSKILLS\nSwift, Java, PHP, C, C++, C#, Lua, JS,CSS, HTML, SQL, Xcode, Intellij Idea, Eclipse, Visual\nStudio, Realm, PostgreSQL, BigQuery, MySQL, MongoDB.\nEDUCATION\nApp Brewery school, London, UK course\nNovember 2016 February 2017 / IOS and Swift - The complete IOS App development.\nTel Ran College, Rehovot, Israel c ourse\nSeptember 2015 March 2016 / Web and mobile applications development.\nAltai Technical State University, B arnaul, Russia Bachelor degree\nSeptember 2010 May 2015 / S oftware engineering.\nLANGUAGES Hebrew, English, Russian.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "iOS developer\nAshdod, Israel",
+    "experience": "SuperUp, Ashdod, Israel\niOS developer\nFebruary 2017 Present\nDevelopment of applications for iOS 10,11,12 in S wift according to G itFlow and J ira\nScrum. C I experience. Using of C ocoaTouch, Foundation, Alamofire, XIBs,\nStoryboards, CoreData, Realm etc. Publishing to App Store.\nIntegration with back-end R EST API, Firebase and other Google services.\nFull stack developer\nMarch 2016 February 2017\nDevelopment of high loaded Back-end software on PHP (Symphony, Laravel) and\nJava (Spring) with PostgreSQL database.\nFront-end development on A ngular JS, Backbone JS, Bootstrap.\nData analytics in BigQuery by G oogle Data Studio. System monitoring by Zabbix, ELK.\nMobile Web on F ramework 7, JQuery Mobile. Mobile bots for WhatsApp, Telegram,\nFacebook.\nInfosoft, Barnaul, Russia\nB ack-end developer\nJune 2014 September 2015\nBack-end development on C# (.NET) with M ySQL database.\nSystem administration and monitoring.",
+    "skills": "Swift, Java, PHP, C, C++, C#, Lua, JS,CSS, HTML, SQL, Xcode, Intellij Idea, Eclipse, Visual\nStudio, Realm, PostgreSQL, BigQuery, MySQL, MongoDB.",
+    "education": "App Brewery school, London, UK course\nNovember 2016 February 2017 / IOS and Swift - The complete IOS App development.\nTel Ran College, Rehovot, Israel c ourse\nSeptember 2015 March 2016 / Web and mobile applications development.\nAltai Technical State University, B arnaul, Russia Bachelor degree\nSeptember 2010 May 2015 / S oftware engineering.\nLANGUAGES Hebrew, English, Russian."
+  },
+  "metadata": {
+    "fileName": "24.docx",
+    "candidateName": "Ashdod, Israel",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1498,
+      "wordCount": 223,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "skills",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 62.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 5,
+    "totalBulletsCount": 18,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 62.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

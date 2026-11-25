@@ -1,0 +1,108 @@
+{
+  "resumeId": "resume_003_03_amit_patel_keyword_stuffing",
+  "fileName": "03_amit_patel_keyword_stuffing.pdf",
+  "candidateName": "Amit Patel",
+  "contact": {
+    "email": "amit.patel@example.com",
+    "phone": null,
+    "linkedin": "linkedin.com/in/amitpatel",
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "React React React Node.js Node.js Node.js AWS AWS AWS SQL SQL SQL developer seeking full stack roles in high growth\ncompanies.",
+  "skills": [
+    "React",
+    "Node.js",
+    "JavaScript",
+    "AWS",
+    "SQL",
+    "Docker",
+    "Excel",
+    "Python",
+    "Tkinter"
+  ],
+  "education": [
+    {
+      "degree": "BCA",
+      "degreeLevel": 2,
+      "field": "Computer Applications",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "BCA in Computer Applications, State College, 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sales Operations Associate at Retail Superstores ( - )",
+      "organization": "",
+      "start": "Jan 2022",
+      "end": "Present",
+      "durationMonths": 58,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Maintained weekly store inventory spreadsheets and pivot tables in Microsoft Excel.",
+        "Entered customer purchase records into retail management software system.",
+        "Coordinated monthly promotional display materials with store visual merchandising staff."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Basic Calculator",
+      "description": "Programmed a desktop calculator using Python Tkinter library.",
+      "technologies": [
+        "Python",
+        "Tkinter"
+      ]
+    }
+  ],
+  "certifications": [],
+  "achievements": [],
+  "totalExperienceMonths": 58,
+  "experienceYears": 4.8,
+  "sections": {
+    "header": "Amit Patel\nAspiring Software Developer | amit.patel@example.com | +91 98112 23344 | linkedin.com/in/amitpatel",
+    "summary": "React React React Node.js Node.js Node.js AWS AWS AWS SQL SQL SQL developer seeking full stack roles in high growth\ncompanies.",
+    "education": "BCA in Computer Applications, State College, 2021",
+    "skills": "React, React, React, Node.js, Node.js, Node.js, JavaScript, JavaScript, SQL, SQL, SQL, AWS, AWS, AWS, Docker, Docker",
+    "experience": "Sales Operations Associate at Retail Superstores (Jan 2022 - Present)\n\u2022 Maintained weekly store inventory spreadsheets and pivot tables in Microsoft Excel.\n\u2022 Entered customer purchase records into retail management software system.\n\u2022 Coordinated monthly promotional display materials with store visual merchandising staff.",
+    "projects": "Basic Calculator: Programmed a desktop calculator using Python Tkinter library."
+  },
+  "diagnostics": {
+    "fileType": "pdf",
+    "parserUsed": "PyMuPDF (layout text)",
+    "pageCount": 1,
+    "charCount": 884,
+    "wordCount": 118,
+    "imageCount": 0,
+    "tableCount": 0,
+    "isScanned": false,
+    "warnings": []
+  },
+  "sensitiveAttributesRemoved": [],
+  "qualityFeatures": {
+    "overallQualityScore": 65.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.76,
+    "atsReadabilityScore": 0.85,
+    "structureScore": 0.35,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.35,
+    "clarityScore": 1.0,
+    "actionVerbsFound": [
+      "coordinated",
+      "programmed"
+    ],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 4,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 65.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and high ATS readability."
+  }
+}

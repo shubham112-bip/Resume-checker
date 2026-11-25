@@ -1,0 +1,122 @@
+{
+  "resume_id": "resume_046",
+  "resumeId": "resume_046",
+  "fileName": "46.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Leadership",
+    "Problem Solving",
+    "Java",
+    "JavaScript",
+    "C",
+    "Spring Boot",
+    "Hibernate",
+    "MySQL",
+    "MongoDB",
+    "HTML",
+    "CSS",
+    "Angular",
+    "SQL",
+    "Unit Testing"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "2018 - Tel-Ran Educational Center",
+      "organization": "Role: Java Developer student.",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Design and development of a different Java/J2EE/JS applications using most popular frameworks and desingn",
+        "patterns. Server side and Frontend development.",
+        "2018 Flexitech AVIA Israel",
+        "Role: Production manager.",
+        "Company profile: Development and manufacturing of heating elements and PCBs using Thick Film technology, for a wide",
+        "range of applications.",
+        "2009 2016 Subaru Russia -> IVECO Russia",
+        "Role: Car dealership director.",
+        "Achievements: Significantly increasing sales of new and used equipment, increasing number of returning customers, winning",
+        "large government tenders for the supply of automotive equipment."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Java",
+    "JavaScript",
+    "C(basic knowledge)"
+  ],
+  "raw_text": "| | | 9 march 1984 | Kiryat Bialik\nSkills\nOutstanding leadership skills and well-developed organizational ability. Analytical thinking, learning fast, can make the right\ndecisions in no time. Ability to find and use information effectively.\nCarrier Objective\nTo gain expirience in hi-tech related role, as Java Developer, System Software Developer, and in a few years to reach a\nSeniority level.\nQualifications\nProgramming languages: Java, JavaScript, C(basic knowledge)\nIDE's: Intellij IDEA, Eclipse\nFrameworks: Spring Framework (Spring Security, Spring Data, Spring Web), Hibernate, Maven\nAPIs: JPA, Stream API\nDatabases: MySQL, MongoDB\nFrontEnd: HTML/CSS basics, JavaScript + Angular on the way.\nProjects\n- online shop (Java, JPA, Spring Security, Swagger, Spring data, Stream API, MySQL) - backend\n- 2048 Game(Java, LWJGL) backend +little UI\n- SimpleForum application(Java, Spring Security, Spring Data, Hibernate)\nEmployment History\n2018 - Tel-Ran Educational Center\nRole: Java Developer student.\nDesign and development of a different Java/J2EE/JS applications using most popular frameworks and desingn\npatterns. Server side and Frontend development.\n2018 Flexitech AVIA Israel\nRole: Production manager.\nCompany profile: Development and manufacturing of heating elements and PCBs using Thick Film technology, for a wide\nrange of applications.\n2009 2016 Subaru Russia -> IVECO Russia\nRole: Car dealership director.\nAchievements: Significantly increasing sales of new and used equipment, increasing number of returning customers, winning\nlarge government tenders for the supply of automotive equipment.\nEducation:\n2018 - 2019\nTel-Ran Educational center - software engineering.\n- Java/HTML/CSS/Spring Framework/SQL/noSQL\n- Object Oriented Design, Design Patterns, Test Driven Design\n\nVoronezh State University (Russia)\nMA in Radiophysics and electronics\nLanguages:\nEnglish (intermediate), Hebrew (intermediate), Russian(native)\n5ID yEe:a rWs eexbpSetoriremn,c eIn ,t eslelniji oIdr esao,f tEwcalirpes dee .v Aelnogpuelra, rc, +H+T ,M JaLv5a, ,C JSaSva, S Ocrriapctl,e N, ModyeS.JQSL , ,P HySthQoLn D, cB ,, HG2O, FP o, sDtgarteeS sQtrLu,c tMuroensg ,o DDeBsi,g Rne pdaistt einrndso w, Ws, eLbipnaucxk P, HGPul JpU, JNeInTk iSnps,r iGngit lHabib CerIn, aAtem Mazaovne An WKaSf,k Ma MS iAcrzousreer,v Piclievso, ,s Tenwioilri of,u Pllastyapcakl ,d Setvreiploep, eAr ma plolitt uodf eexperience, jmeter, junit",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "| | | 9 march 1984 | Kiryat Bialik",
+    "skills": "Outstanding leadership skills and well-developed organizational ability. Analytical thinking, learning fast, can make the right\ndecisions in no time. Ability to find and use information effectively.\nCarrier Objective\nTo gain expirience in hi-tech related role, as Java Developer, System Software Developer, and in a few years to reach a\nSeniority level.",
+    "education": "2018 - 2019\nTel-Ran Educational center - software engineering.\n- Java/HTML/CSS/Spring Framework/SQL/noSQL\n- Object Oriented Design, Design Patterns, Test Driven Design\n\nVoronezh State University (Russia)\nMA in Radiophysics and electronics",
+    "projects": "- online shop (Java, JPA, Spring Security, Swagger, Spring data, Stream API, MySQL) - backend\n- 2048 Game(Java, LWJGL) backend +little UI\n- SimpleForum application(Java, Spring Security, Spring Data, Hibernate)",
+    "experience": "2018 - Tel-Ran Educational Center\nRole: Java Developer student.\nDesign and development of a different Java/J2EE/JS applications using most popular frameworks and desingn\npatterns. Server side and Frontend development.\n2018 Flexitech AVIA Israel\nRole: Production manager.\nCompany profile: Development and manufacturing of heating elements and PCBs using Thick Film technology, for a wide\nrange of applications.\n2009 2016 Subaru Russia -> IVECO Russia\nRole: Car dealership director.\nAchievements: Significantly increasing sales of new and used equipment, increasing number of returning customers, winning\nlarge government tenders for the supply of automotive equipment.",
+    "other": "English (intermediate), Hebrew (intermediate), Russian(native)\n5ID yEe:a rWs eexbpSetoriremn,c eIn ,t eslelniji oIdr esao,f tEwcalirpes dee .v Aelnogpuelra, rc, +H+T ,M JaLv5a, ,C JSaSva, S Ocrriapctl,e N, ModyeS.JQSL , ,P HySthQoLn D, cB ,, HG2O, FP o, sDtgarteeS sQtrLu,c tMuroensg ,o DDeBsi,g Rne pdaistt einrndso w, Ws, eLbipnaucxk P, HGPul JpU, JNeInTk iSnps,r iGngit lHabib CerIn, aAtem Mazaovne An WKaSf,k Ma MS iAcrzousreer,v Piclievso, ,s Tenwioilri of,u Pllastyapcakl ,d Setvreiploep, eAr ma plolitt uodf eexperience, jmeter, junit"
+  },
+  "metadata": {
+    "fileName": "46.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2408,
+      "wordCount": 332,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "education",
+      "projects",
+      "experience",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 67.1,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.68,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.7,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 2,
+    "totalBulletsCount": 10,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 67.1/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

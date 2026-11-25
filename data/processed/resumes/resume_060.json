@@ -1,0 +1,125 @@
+{
+  "resume_id": "resume_060",
+  "resumeId": "resume_060",
+  "fileName": "60.docx",
+  "candidateName": "CONTACTS MOTOVILOV PAVEL",
+  "skills": [
+    "PHP",
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "Redux",
+    "Git",
+    "Docker",
+    "Node.js",
+    "HTML",
+    "CSS"
+  ],
+  "education": [
+    {
+      "degree": "MSc",
+      "degreeLevel": 3,
+      "field": "Computer Science",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Experienced MSc in Computer Science"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sipl-Biz",
+      "organization": "Present.",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Frontend Web Developer",
+        "/profile.php?",
+        "id= Development of the client side and adding",
+        "functionality",
+        "Creation of functionality, setting up servers",
+        "6 Technical support, optimization",
+        "Writing technical specifications for designers and",
+        "back-end developers",
+        "Development of client-server applications"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Optimization",
+    "bug fixing",
+    "refactoring"
+  ],
+  "raw_text": "CONTACTS MOTOVILOV PAVEL\n\nFRONTEND WEB DEVELOPER.\ncom Rehovot Age: 27 years old\nWORK EXPERIENCE\n\nSipl-Biz\nPresent.\nFrontend Web Developer\n/profile.php?\nid= Development of the client side and adding\nfunctionality\n\nCreation of functionality, setting up servers\n6 Technical support, optimization\nWriting technical specifications for designers and\nback-end developers\nDevelopment of client-server applications\nLANGUAGES\nOptimization, bug fixing, refactoring\nDevelopment of frontend projects from scratch\nEnglish\nB1 - Intermediate Elpisor LTD\n\nFrontend Web developer\nHebrew\nA2 - Elementary Development of client-server applications\nOptimization, bug fixing, refactoring\nDevelopment of frontend projects from scratch\nCreation of user interfaces\nSKILLS\nWriting technical specifications for designers\nRefactoring someone else's code\nReact Responsive, cross-browser layout\nProfessional\nJavascript\nEDUCATION\nProfessional\ntypescript 2021 Ural Institute: Expert\nExperienced MSc in Computer Science\nredux\nProfessional COURSES\nGit,GitHub\n2020 Special program for adaptation of software developer\nExperienced\naccording to Israel IT technologies\nWebpack,Docker\nBasic\nECMAScript (es6) ABOUT ME\nProfessional\nI have always been interested in web development. I want to work on\nAdaptive layout,Cross-\nvarious projects. I have some experience with node.js. I want to\nbrowser layout\ncontinue to grow in this attachment\nProfessional\nHTML5,CSS3\nProfessional",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "CONTACTS MOTOVILOV PAVEL\n\nFRONTEND WEB DEVELOPER.\ncom Rehovot Age: 27 years old",
+    "experience": "Sipl-Biz\nPresent.\nFrontend Web Developer\n/profile.php?\nid= Development of the client side and adding\nfunctionality\n\nCreation of functionality, setting up servers\n6 Technical support, optimization\nWriting technical specifications for designers and\nback-end developers\nDevelopment of client-server applications",
+    "other": "Optimization, bug fixing, refactoring\nDevelopment of frontend projects from scratch\nEnglish\nB1 - Intermediate Elpisor LTD\n\nFrontend Web developer\nHebrew\nA2 - Elementary Development of client-server applications\nOptimization, bug fixing, refactoring\nDevelopment of frontend projects from scratch\nCreation of user interfaces",
+    "skills": "Writing technical specifications for designers\nRefactoring someone else's code\nReact Responsive, cross-browser layout\nProfessional\nJavascript",
+    "education": "Professional\ntypescript 2021 Ural Institute: Expert\nExperienced MSc in Computer Science\nredux\nProfessional COURSES\nGit,GitHub\n2020 Special program for adaptation of software developer\nExperienced\naccording to Israel IT technologies\nWebpack,Docker\nBasic\nECMAScript (es6) ABOUT ME\nProfessional\nI have always been interested in web development. I want to work on\nAdaptive layout,Cross-\nvarious projects. I have some experience with node.js. I want to\nbrowser layout\ncontinue to grow in this attachment\nProfessional\nHTML5,CSS3\nProfessional"
+  },
+  "metadata": {
+    "fileName": "60.docx",
+    "candidateName": "CONTACTS MOTOVILOV PAVEL",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1433,
+      "wordCount": 183,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "other",
+      "skills",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 61.2,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.7,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 1,
+    "totalBulletsCount": 9,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 61.2/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

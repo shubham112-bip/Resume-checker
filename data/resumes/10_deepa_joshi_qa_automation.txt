@@ -1,0 +1,23 @@
+Deepa Joshi
+Email: deepa.joshi@example.com | Phone: +91 97112 33445
+LinkedIn: linkedin.com/in/deepajoshi-qa
+
+Professional Summary:
+QA Automation Engineer with 3 years of experience in automated test framework development, API validation, and continuous testing in CI/CD pipelines.
+
+Education:
+BTech in Information Technology, 2021
+
+Technical Skills:
+Selenium, PyTest, Unit Testing, Python, Postman, REST APIs, Git, CI/CD, SQL, Test Automation
+
+Experience:
+Quality Assurance Engineer at Enterprise Soft (Jul 2021 - Present)
+• Developed automated end-to-end regression test suite in Python and Selenium, reducing manual testing effort by 70%.
+• Authored comprehensive API integration tests in Postman and PyTest validating 120+ microservice endpoints.
+• Integrated test execution into Jenkins and GitHub Actions CI/CD pipelines for automated pull request gating.
+• Performed SQL backend database validations ensuring transaction data consistency.
+
+Projects:
+Automated Web Test Framework:
+Built modular Page Object Model framework in Python and Selenium with automated HTML test reporting.

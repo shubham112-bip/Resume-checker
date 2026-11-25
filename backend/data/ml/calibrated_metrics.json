@@ -1,0 +1,320 @@
+{
+  "timestamp": "2026-11-24T15:58:04.252656+00:00",
+  "methodology": "Model calibration conducted strictly on the development dataset using class_weight='balanced' and 5-fold CalibratedClassifierCV (Platt Scaling). Evaluated on both the development test partition and the held-out Human Validation set without human validation data leaking into training.",
+  "development_test_metrics": {
+    "baseline_unweighted": {
+      "accuracy": 0.9896,
+      "macro_precision": 0.9957,
+      "macro_recall": 0.9753,
+      "macro_f1": 0.985,
+      "weighted_f1": 0.9894,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 1.0,
+      "false_shortlist_rate": 0.0,
+      "confusion_matrix": [
+        [
+          154,
+          0,
+          0
+        ],
+        [
+          2,
+          25,
+          0
+        ],
+        [
+          0,
+          0,
+          11
+        ]
+      ],
+      "labels": [
+        "weak_match",
+        "review",
+        "shortlist"
+      ],
+      "per_class": {
+        "weak_match": {
+          "precision": 0.9872,
+          "recall": 1.0,
+          "f1": 0.9935,
+          "support": 154
+        },
+        "review": {
+          "precision": 1.0,
+          "recall": 0.9259,
+          "f1": 0.9615,
+          "support": 27
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 11
+        }
+      }
+    },
+    "class_weighted": {
+      "accuracy": 0.9531,
+      "macro_precision": 0.9167,
+      "macro_recall": 0.9805,
+      "macro_f1": 0.9423,
+      "weighted_f1": 0.9558,
+      "shortlist_precision": 1.0,
+      "shortlist_recall": 1.0,
+      "false_shortlist_rate": 0.0,
+      "confusion_matrix": [
+        [
+          145,
+          9,
+          0
+        ],
+        [
+          0,
+          27,
+          0
+        ],
+        [
+          0,
+          0,
+          11
+        ]
+      ],
+      "labels": [
+        "weak_match",
+        "review",
+        "shortlist"
+      ],
+      "per_class": {
+        "weak_match": {
+          "precision": 1.0,
+          "recall": 0.9416,
+          "f1": 0.9699,
+          "support": 154
+        },
+        "review": {
+          "precision": 0.75,
+          "recall": 1.0,
+          "f1": 0.8571,
+          "support": 27
+        },
+        "shortlist": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 11
+        }
+      }
+    },
+    "calibrated_model": {
+      "accuracy": 0.9115,
+      "macro_precision": 0.85,
+      "macro_recall": 0.7901,
+      "macro_f1": 0.7559,
+      "weighted_f1": 0.8963,
+      "shortlist_precision": 0.6111,
+      "shortlist_recall": 1.0,
+      "false_shortlist_rate": 0.3889,
+      "confusion_matrix": [
+        [
+          154,
+          0,
+          0
+        ],
+        [
+          10,
+          10,
+          7
+        ],
+        [
+          0,
+          0,
+          11
+        ]
+      ],
+      "labels": [
+        "weak_match",
+        "review",
+        "shortlist"
+      ],
+      "per_class": {
+        "weak_match": {
+          "precision": 0.939,
+          "recall": 1.0,
+          "f1": 0.9686,
+          "support": 154
+        },
+        "review": {
+          "precision": 1.0,
+          "recall": 0.3704,
+          "f1": 0.5405,
+          "support": 27
+        },
+        "shortlist": {
+          "precision": 0.6111,
+          "recall": 1.0,
+          "f1": 0.7586,
+          "support": 11
+        }
+      }
+    }
+  },
+  "human_validation_metrics": {
+    "baseline_unweighted_on_human": {
+      "accuracy": 0.4531,
+      "macro_precision": 0.5292,
+      "macro_recall": 0.4896,
+      "macro_f1": 0.4293,
+      "weighted_f1": 0.4442,
+      "shortlist_precision": 0.8462,
+      "shortlist_recall": 0.3438,
+      "false_shortlist_rate": 0.1538,
+      "confusion_matrix": [
+        [
+          14,
+          0,
+          2
+        ],
+        [
+          12,
+          4,
+          0
+        ],
+        [
+          15,
+          6,
+          11
+        ]
+      ],
+      "labels": [
+        "weak_match",
+        "review",
+        "shortlist"
+      ],
+      "per_class": {
+        "weak_match": {
+          "precision": 0.3415,
+          "recall": 0.875,
+          "f1": 0.4912,
+          "support": 16
+        },
+        "review": {
+          "precision": 0.4,
+          "recall": 0.25,
+          "f1": 0.3077,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 0.8462,
+          "recall": 0.3438,
+          "f1": 0.4889,
+          "support": 32
+        }
+      }
+    },
+    "class_weighted_on_human": {
+      "accuracy": 0.4688,
+      "macro_precision": 0.5331,
+      "macro_recall": 0.5104,
+      "macro_f1": 0.4507,
+      "weighted_f1": 0.4603,
+      "shortlist_precision": 0.8462,
+      "shortlist_recall": 0.3438,
+      "false_shortlist_rate": 0.1538,
+      "confusion_matrix": [
+        [
+          14,
+          0,
+          2
+        ],
+        [
+          11,
+          5,
+          0
+        ],
+        [
+          13,
+          8,
+          11
+        ]
+      ],
+      "labels": [
+        "weak_match",
+        "review",
+        "shortlist"
+      ],
+      "per_class": {
+        "weak_match": {
+          "precision": 0.3684,
+          "recall": 0.875,
+          "f1": 0.5185,
+          "support": 16
+        },
+        "review": {
+          "precision": 0.3846,
+          "recall": 0.3125,
+          "f1": 0.3448,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 0.8462,
+          "recall": 0.3438,
+          "f1": 0.4889,
+          "support": 32
+        }
+      }
+    },
+    "calibrated_model_on_human": {
+      "accuracy": 0.4688,
+      "macro_precision": 0.7026,
+      "macro_recall": 0.4688,
+      "macro_f1": 0.3908,
+      "weighted_f1": 0.4402,
+      "shortlist_precision": 0.7895,
+      "shortlist_recall": 0.4688,
+      "false_shortlist_rate": 0.2105,
+      "confusion_matrix": [
+        [
+          14,
+          0,
+          2
+        ],
+        [
+          13,
+          1,
+          2
+        ],
+        [
+          17,
+          0,
+          15
+        ]
+      ],
+      "labels": [
+        "weak_match",
+        "review",
+        "shortlist"
+      ],
+      "per_class": {
+        "weak_match": {
+          "precision": 0.3182,
+          "recall": 0.875,
+          "f1": 0.4667,
+          "support": 16
+        },
+        "review": {
+          "precision": 1.0,
+          "recall": 0.0625,
+          "f1": 0.1176,
+          "support": 16
+        },
+        "shortlist": {
+          "precision": 0.7895,
+          "recall": 0.4688,
+          "f1": 0.5882,
+          "support": 32
+        }
+      }
+    }
+  }
+}

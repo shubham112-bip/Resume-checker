@@ -1,0 +1,200 @@
+{
+  "resume_id": "resume_028",
+  "resumeId": "resume_028",
+  "fileName": "28.docx",
+  "candidateName": "LinkedIn: Residence: Netanya, Israel",
+  "skills": [
+    "TypeScript",
+    "React",
+    "Redux",
+    "JavaScript",
+    "Node.js",
+    "MongoDB",
+    "Java",
+    "PHP",
+    "C++",
+    "HTML",
+    "CSS",
+    "REST APIs",
+    "jQuery",
+    "Bootstrap",
+    "Git",
+    "Firebase",
+    "Postman",
+    "Express",
+    "Spring Boot",
+    "Hibernate",
+    "SQL",
+    "MySQL",
+    "Linux",
+    "Authentication",
+    "Statistics",
+    "Laravel"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "degreeLevel": 2,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "Bachelor's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "time: Full Stack Developer at Optisor LTD (Rehovot, Israel)",
+      "organization": "Latest project: Corporate web application for a creative event agency.",
+      "start": "2021",
+      "end": "current",
+      "durationMonths": 70,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "My tasks: Thinking over and developing the web application interface, integrating the approved design",
+        "layout, creating and filling the site pages, creating components, galleries, adding a registration and",
+        "authorization system for potential customers, administrators, setting up a content management system,",
+        "creating and optimizing the database.",
+        "Used: TypeScript, React, Redux, MUI, Axios, JavaScript, NodeJS, Express, Nodemon, Google MAP API"
+      ]
+    },
+    {
+      "title": ": Front End Developer at VClouds (Moscow, Russia)",
+      "organization": "Latest project: Development and maintenance of the corporate website of the company VClouds.",
+      "start": "2019",
+      "end": "2021",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "My tasks: Layout and organization of the functionality of the web application components based on the",
+        "approved interface and design layout. Implementation of the order management system, registration of new",
+        "customers, content administration.",
+        "Used: JavaScript, React, Redux, Bootstrap, HTML, CSS, Firebase"
+      ]
+    },
+    {
+      "title": ": Front End Developer at Insight (Moscow, Russia)",
+      "organization": "Project: Web application for automating the work of the training center.",
+      "start": "2014",
+      "end": "2019",
+      "durationMonths": 71,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "My tasks: Creating components for displaying current training courses with the ability to apply various filters",
+        "and sorting options, creating an authorization system for various user groups, organizing routing based on",
+        "the type of current authorized user, setting up statistics components with a visual display of data for the",
+        "internal needs of the company.",
+        "Used: HTML, CSS, JavaScript, PHP, Laravel, Bootstrap, MySQL",
+        "Project: Online store for a supermarket chain.",
+        "My tasks: Creating an order management system through an online service, creating a registration and",
+        "authorization system, developing an order administration system, writing site pages and filling content,",
+        "creating a database and a site management system.",
+        "Used: HTML, CSS, JavaScript, PHP, MySQL",
+        "MY EDUCATION:"
+      ]
+    },
+    {
+      "title": ": MSU, Faculty of Computational Mathematics and Cybernetics, Department of System",
+      "organization": "Programming, Bachelor degree",
+      "start": "2005",
+      "end": "2009",
+      "durationMonths": 59,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    },
+    {
+      "title": ": Tel-Ran Educational Center, Israel. Special program for adaptation of software developer",
+      "organization": "according to Israel IT technologies",
+      "start": "2020",
+      "end": "2021",
+      "durationMonths": 23,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Recommendations are available upon request"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Hebrew",
+    "English",
+    "Russian"
+  ],
+  "raw_text": "FULL STACK DEVELOPER WITH 7+ YEARS OF EXPERIENCE\n70% FRONT END: TypeScript / React / Redux\n30% BACK END: JavaScript / NodeJS / MongoDB\n[REDACTED - not used for evaluation]\nLinkedIn: Residence: Netanya, Israel\nBirthday: Languages: Hebrew, English, Russian\nPROFESSIONAL SKILLS:\nProgramming languages: JavaScript, TypeScript, JAVA, PHP, C++\nWeb: HTML5, CSS3, Flex, Grid, CSS Modules, Node JS, REST API, JQuery, Bootstrap, Material Design, React,\nReact Icon, React Day Picker, React Carousel, React Router, Redux, Redux Thunk, Redux DevTools, Styled\ncomponent, Context API, Axios, Fetch, Lodash, Nodemon, Google Map API, Google Geocoding API\nIDE/Tools: Eclipse, IntelliJ IDEA, WebStorm, VS Code, GitHub, Heroku, Firebase, Postman, MongoDB Atlas\nTechnologies: Express, Spring, Spring Boot, Multithreading, Maven, Lombok, Swagger, Hibernate\nDatabases: NoSQL (MongoDB, Firebase), SQL (MySQL) OS: Mac OS, Windows, Linux\nAdditional skills: Graphic & 3D design (Photoshop, Illustrator, CorelDraw, 3Ds Max)\nPROFESSIONAL EXPERIENCE:\n2021 - current time: Full Stack Developer at Optisor LTD (Rehovot, Israel)\nLatest project: Corporate web application for a creative event agency.\nMy tasks: Thinking over and developing the web application interface, integrating the approved design\nlayout, creating and filling the site pages, creating components, galleries, adding a registration and\nauthorization system for potential customers, administrators, setting up a content management system,\ncreating and optimizing the database.\nUsed: TypeScript, React, Redux, MUI, Axios, JavaScript, NodeJS, Express, Nodemon, Google MAP API\n2019 - 2021: Front End Developer at VClouds (Moscow, Russia)\nLatest project: Development and maintenance of the corporate website of the company VClouds.\nMy tasks: Layout and organization of the functionality of the web application components based on the\napproved interface and design layout. Implementation of the order management system, registration of new\ncustomers, content administration.\nUsed: JavaScript, React, Redux, Bootstrap, HTML, CSS, Firebase\n2014 - 2019: Front End Developer at Insight (Moscow, Russia)\nProject: Web application for automating the work of the training center.\nMy tasks: Creating components for displaying current training courses with the ability to apply various filters\nand sorting options, creating an authorization system for various user groups, organizing routing based on\nthe type of current authorized user, setting up statistics components with a visual display of data for the\ninternal needs of the company.\nUsed: HTML, CSS, JavaScript, PHP, Laravel, Bootstrap, MySQL\nProject: Online store for a supermarket chain.\nMy tasks: Creating an order management system through an online service, creating a registration and\nauthorization system, developing an order administration system, writing site pages and filling content,\ncreating a database and a site management system.\nUsed: HTML, CSS, JavaScript, PHP, MySQL\nMY EDUCATION:\n2005 - 2009: MSU, Faculty of Computational Mathematics and Cybernetics, Department of System\nProgramming, Bachelor degree\n2020 - 2021: Tel-Ran Educational Center, Israel. Special program for adaptation of software developer\naccording to Israel IT technologies\nRecommendations are available upon request",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 213,
+  "experienceYears": 17.8,
+  "sections": {
+    "header": "FULL STACK DEVELOPER WITH 7+ YEARS OF EXPERIENCE\n70% FRONT END: TypeScript / React / Redux\n30% BACK END: JavaScript / NodeJS / MongoDB\n[REDACTED - not used for evaluation]\nLinkedIn: Residence: Netanya, Israel\nBirthday: Languages: Hebrew, English, Russian\nPROFESSIONAL SKILLS:\nProgramming languages: JavaScript, TypeScript, JAVA, PHP, C++\nWeb: HTML5, CSS3, Flex, Grid, CSS Modules, Node JS, REST API, JQuery, Bootstrap, Material Design, React,\nReact Icon, React Day Picker, React Carousel, React Router, Redux, Redux Thunk, Redux DevTools, Styled\ncomponent, Context API, Axios, Fetch, Lodash, Nodemon, Google Map API, Google Geocoding API\nIDE/Tools: Eclipse, IntelliJ IDEA, WebStorm, VS Code, GitHub, Heroku, Firebase, Postman, MongoDB Atlas\nTechnologies: Express, Spring, Spring Boot, Multithreading, Maven, Lombok, Swagger, Hibernate\nDatabases: NoSQL (MongoDB, Firebase), SQL (MySQL) OS: Mac OS, Windows, Linux\nAdditional skills: Graphic & 3D design (Photoshop, Illustrator, CorelDraw, 3Ds Max)",
+    "experience": "2021 - current time: Full Stack Developer at Optisor LTD (Rehovot, Israel)\nLatest project: Corporate web application for a creative event agency.\nMy tasks: Thinking over and developing the web application interface, integrating the approved design\nlayout, creating and filling the site pages, creating components, galleries, adding a registration and\nauthorization system for potential customers, administrators, setting up a content management system,\ncreating and optimizing the database.\nUsed: TypeScript, React, Redux, MUI, Axios, JavaScript, NodeJS, Express, Nodemon, Google MAP API\n2019 - 2021: Front End Developer at VClouds (Moscow, Russia)\nLatest project: Development and maintenance of the corporate website of the company VClouds.\nMy tasks: Layout and organization of the functionality of the web application components based on the\napproved interface and design layout. Implementation of the order management system, registration of new\ncustomers, content administration.\nUsed: JavaScript, React, Redux, Bootstrap, HTML, CSS, Firebase\n2014 - 2019: Front End Developer at Insight (Moscow, Russia)\nProject: Web application for automating the work of the training center.\nMy tasks: Creating components for displaying current training courses with the ability to apply various filters\nand sorting options, creating an authorization system for various user groups, organizing routing based on\nthe type of current authorized user, setting up statistics components with a visual display of data for the\ninternal needs of the company.\nUsed: HTML, CSS, JavaScript, PHP, Laravel, Bootstrap, MySQL\nProject: Online store for a supermarket chain.\nMy tasks: Creating an order management system through an online service, creating a registration and\nauthorization system, developing an order administration system, writing site pages and filling content,\ncreating a database and a site management system.\nUsed: HTML, CSS, JavaScript, PHP, MySQL\nMY EDUCATION:\n2005 - 2009: MSU, Faculty of Computational Mathematics and Cybernetics, Department of System\nProgramming, Bachelor degree\n2020 - 2021: Tel-Ran Educational Center, Israel. Special program for adaptation of software developer\naccording to Israel IT technologies\nRecommendations are available upon request"
+  },
+  "metadata": {
+    "fileName": "28.docx",
+    "candidateName": "LinkedIn: Residence: Netanya, Israel",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 213,
+    "experienceYears": 17.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 3257,
+      "wordCount": 453,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 58.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.55,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.35,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 21,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 58.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

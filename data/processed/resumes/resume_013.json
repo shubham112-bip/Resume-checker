@@ -1,0 +1,119 @@
+{
+  "resume_id": "resume_013",
+  "resumeId": "resume_013",
+  "fileName": "13.docx",
+  "candidateName": "\u2022 Front-end Developer",
+  "skills": [
+    "Git",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "SASS",
+    "PHP",
+    "Django",
+    "Flask",
+    "jQuery",
+    "Express",
+    "Redux",
+    "React",
+    "Bootstrap",
+    "Node.js",
+    "MySQL",
+    "SQLite",
+    "PostgreSQL",
+    "Linux",
+    "Agile",
+    "Jira"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "Front-End Developer - 2019",
+      "organization": "Trucknet - Rishon LeZion, Israel",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Developing responsive web applications using Javascript, React and Redux",
+        "Responsible for implementation of new mainframe development project",
+        "Writing new components using Material-UI and Redux Form",
+        "Analyzed UI/UX design for responsive layout for improved usability",
+        "Worked with team of developers to resolve front-end and CSS issues"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Python 2"
+  ],
+  "raw_text": "\u2022 Front-end Developer\n\nMobile phone: **********\n\nLinkedln: ********************************************************\nGithub: **************************\n\nProfessional skills:\n\u2022 Languages: Python 2.7 and 3.6, Javascript(ES4, ES5, ES6), HTML5, DHTML, XHTML, CSS3, SCSS, LESS, Php Fundamentals\n\u2022 Frameworks: Django, Flask, JQuery, Foundation, Express.js\n\u2022 Libraries: Redux, React, Redux Form, Redux Saga, Bootstrap, Material-UI, BeautifulSoup, Underscore, SQAlchemy, Lodash\n\u2022 Server Technologies: Node.js Fundamentals, Apache Fundamentals, MAMP, WAMP\n\u2022 DB: MySQL, SQLite, PostgreSQL\n\u2022 OS: Mac, Linux, Windows\n\u2022 Other: Git, virtualenv, npm, Gulp, ESLint, Babel, CyPress, Zeplin, Kanban, Asana, Jira, Flux, UI/UX\nWork experience:\nFront-End Developer - 2019\nTrucknet - Rishon LeZion, Israel\n\u2022 Developing responsive web applications using Javascript, React and Redux\n\u2022 Responsible for implementation of new mainframe development project\n\u2022 Writing new components using Material-UI and Redux Form\n\u2022 Analyzed UI/UX design for responsive layout for improved usability\n\u2022 Worked with team of developers to resolve front-end and CSS issues\nEducation:\n\u2022 NAU(National Aviation University). Computer science, 2012-2014\n\u2022 WSEI(High School of Economics and Innovations). Programming 2014-2018\n\u2022 IITC/InterBit, MASA TLALIM 2018-2019\nRecommendations:\nTrucknet - Eilat, Israel\nAlexander Gusev**********\nLanguages knowledge:\n\u2022 Native Russian, native Ukrainian,\n\u2022 Upper Intermediate English B2, Intermediate Polish B1\nVolunteering:\n\u2022 Volunteering in organization \u201cMaidan\u2019s Hospital\u201d. Helping people, who took part in Maidan Revolution and soldiers in ATO Zone\n\u2022 Helping old people in christian nursing home\n\u2022 Volunteering on festival of Ukrainian culture in Poland\n\u2022 Volunteering on Congress of Eastern European Initiatives\n\u2022 Volunteering on festival of Japanese culture \u201cNejiro\u201d",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "\u2022 Front-end Developer\n\nMobile phone: **********\n\nLinkedln: ********************************************************\nGithub: **************************\n\nProfessional skills:\n\u2022 Languages: Python 2.7 and 3.6, Javascript(ES4, ES5, ES6), HTML5, DHTML, XHTML, CSS3, SCSS, LESS, Php Fundamentals\n\u2022 Frameworks: Django, Flask, JQuery, Foundation, Express.js\n\u2022 Libraries: Redux, React, Redux Form, Redux Saga, Bootstrap, Material-UI, BeautifulSoup, Underscore, SQAlchemy, Lodash\n\u2022 Server Technologies: Node.js Fundamentals, Apache Fundamentals, MAMP, WAMP\n\u2022 DB: MySQL, SQLite, PostgreSQL\n\u2022 OS: Mac, Linux, Windows\n\u2022 Other: Git, virtualenv, npm, Gulp, ESLint, Babel, CyPress, Zeplin, Kanban, Asana, Jira, Flux, UI/UX",
+    "experience": "Front-End Developer - 2019\nTrucknet - Rishon LeZion, Israel\n\u2022 Developing responsive web applications using Javascript, React and Redux\n\u2022 Responsible for implementation of new mainframe development project\n\u2022 Writing new components using Material-UI and Redux Form\n\u2022 Analyzed UI/UX design for responsive layout for improved usability\n\u2022 Worked with team of developers to resolve front-end and CSS issues",
+    "education": "\u2022 NAU(National Aviation University). Computer science, 2012-2014\n\u2022 WSEI(High School of Economics and Innovations). Programming 2014-2018\n\u2022 IITC/InterBit, MASA TLALIM 2018-2019\nRecommendations:\nTrucknet - Eilat, Israel\nAlexander Gusev**********\nLanguages knowledge:\n\u2022 Native Russian, native Ukrainian,\n\u2022 Upper Intermediate English B2, Intermediate Polish B1\nVolunteering:\n\u2022 Volunteering in organization \u201cMaidan\u2019s Hospital\u201d. Helping people, who took part in Maidan Revolution and soldiers in ATO Zone\n\u2022 Helping old people in christian nursing home\n\u2022 Volunteering on festival of Ukrainian culture in Poland\n\u2022 Volunteering on Congress of Eastern European Initiatives\n\u2022 Volunteering on festival of Japanese culture \u201cNejiro\u201d"
+  },
+  "metadata": {
+    "fileName": "13.docx",
+    "candidateName": "\u2022 Front-end Developer",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1853,
+      "wordCount": 242,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 57.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.35,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "analyzed",
+      "improved"
+    ],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 5,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 57.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

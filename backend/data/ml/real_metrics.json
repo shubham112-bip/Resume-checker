@@ -1,0 +1,150 @@
+{
+  "available": true,
+  "selectedModel": "Logistic Regression",
+  "selectionCriterion": "Highest test macro F1-score with balanced shortlist recall on real pairs",
+  "dataset": {
+    "source": "Real Candidate Resume Dataset (76 candidates x 12 JDs = 912 Resume-JD pairs)",
+    "records": 912,
+    "trainRecords": 732,
+    "testRecords": 180,
+    "features": [
+      "required_skill_match",
+      "experience_match",
+      "semantic_similarity",
+      "education_match",
+      "project_match",
+      "ats_score",
+      "resume_quality"
+    ],
+    "target": "classification_label (shortlist, review, weak_match)",
+    "labels": [
+      "weak_match",
+      "review",
+      "shortlist"
+    ],
+    "classDistribution": {
+      "weak_match": 757,
+      "review": 129,
+      "shortlist": 26
+    },
+    "preprocessing": "StandardScaler applied to Logistic Regression and KNN",
+    "split": "Grouped Stratified Split by resume_id (Train: 732 pairs across 61 resumes, Test: 180 pairs across 15 resumes \u2014 zero candidate leakage)",
+    "randomSeed": 42
+  },
+  "models": [
+    {
+      "name": "Logistic Regression",
+      "accuracy": 0.9667,
+      "precision": 0.95,
+      "recall": 0.8855,
+      "f1": 0.914,
+      "shortlistRecall": 0.8,
+      "cvF1Mean": 0.8885,
+      "cvF1Std": 0.0303,
+      "confusionMatrix": [
+        [
+          150,
+          2,
+          0
+        ],
+        [
+          3,
+          20,
+          0
+        ],
+        [
+          0,
+          1,
+          4
+        ]
+      ],
+      "featureImportance": {
+        "required_skill_match": 2.257,
+        "experience_match": 1.869,
+        "semantic_similarity": 0.722,
+        "education_match": 0.936,
+        "project_match": 0.336,
+        "ats_score": 0.55,
+        "resume_quality": 0.216
+      },
+      "importanceMethod": "Mean Absolute Coefficient magnitude"
+    },
+    {
+      "name": "Random Forest",
+      "accuracy": 0.9167,
+      "precision": 0.8687,
+      "recall": 0.789,
+      "f1": 0.8078,
+      "shortlistRecall": 0.6,
+      "cvF1Mean": 0.8248,
+      "cvF1Std": 0.0655,
+      "confusionMatrix": [
+        [
+          143,
+          9,
+          0
+        ],
+        [
+          4,
+          19,
+          0
+        ],
+        [
+          0,
+          2,
+          3
+        ]
+      ],
+      "featureImportance": {
+        "required_skill_match": 0.362,
+        "experience_match": 0.126,
+        "semantic_similarity": 0.186,
+        "education_match": 0.033,
+        "project_match": 0.093,
+        "ats_score": 0.169,
+        "resume_quality": 0.031
+      },
+      "importanceMethod": "MDI (Gini Impurity reduction)"
+    },
+    {
+      "name": "KNN",
+      "accuracy": 0.9444,
+      "precision": 0.9112,
+      "recall": 0.7999,
+      "f1": 0.8385,
+      "shortlistRecall": 0.6,
+      "cvF1Mean": 0.8326,
+      "cvF1Std": 0.0926,
+      "confusionMatrix": [
+        [
+          148,
+          4,
+          0
+        ],
+        [
+          4,
+          19,
+          0
+        ],
+        [
+          0,
+          2,
+          3
+        ]
+      ],
+      "featureImportance": {
+        "required_skill_match": 0.1,
+        "experience_match": 0.016,
+        "semantic_similarity": 0.037,
+        "education_match": 0.031,
+        "project_match": -0.001,
+        "ats_score": 0.014,
+        "resume_quality": -0.012
+      },
+      "importanceMethod": "Permutation Feature Importance"
+    }
+  ],
+  "disclaimer": "Dataset Notice: Evaluated on 912 Resume-JD pairs generated from 76 candidates (65 uploaded real resumes in DOCX format + 11 reference candidates) across 12 diverse Job Descriptions using rule-assisted labels without fabricated human evaluations. Stratified grouped splitting on resume_id guarantees zero candidate data leakage across train and test sets. For statistical sample-size power, compare against the 800-candidate synthetic benchmark.",
+  "trainedAt": "2026-11-25T04:35:46.607871+00:00",
+  "calibrationComparison": null
+}

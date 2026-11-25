@@ -1,0 +1,153 @@
+{
+  "resume_id": "resume_002",
+  "resumeId": "resume_002",
+  "fileName": "2.docx",
+  "candidateName": "\u2022 FULL-STACK DEVELOPER",
+  "skills": [
+    "Java",
+    "JavaScript",
+    "Microservices",
+    "Spring Boot",
+    "Docker",
+    "REST APIs",
+    "HTML",
+    "CSS",
+    "Git",
+    "Jira",
+    "Postman",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Linux",
+    "Authentication",
+    "Unit Testing",
+    "React"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": "Computer reference legal systems",
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    }
+  ],
+  "experience": [
+    {
+      "title": ": JAVA BACK-END developer, Elpisor LTD (Israel, Rehovot) www.elpisor.com",
+      "organization": "The development of a project for an international group of internet-shops to prevent attempts of illegal access by brute-force passwords from blocked IPs. (14 microservices). The application includes the following functionality: receives from clients webservices logs about failure attempts to login; analyzing sequences login attempts from one IP; saving bad IPs to DB; blocking login from bad IPs; email notification about new bad IPs.",
+      "start": "July 2020",
+      "end": "now",
+      "durationMonths": 76,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "The development of a microservices project for a municipality which is intended for an analyzing illegal parking and a sending notification. (15 microservices). The application includes the following functionality: receives messages about cars stops from mobile and stationary cameras; analyzing sequences of messages to check parking or stop; collecting an information from different sources, analyzing information to check parking is legal or illegal; saving illegal parking to DB; notification about illegal parking. Google Maps API (revers geocoding).",
+        "The development of a complete logs and bugs analyzing and reporting solution for development purposes (17 microservices). The application includes the following functionality: receiving, analyzing and saving logs to DB, saving bugs to DB, email notification about bugs, search/filter logs using multiple selectors.",
+        "Tools summary for all projects: See Technologies & Frameworks and an in addition: user authentication. To synchronous request and send a data to DB is used appropriate drivers (in pom.xml). To send notifications is used Spring Boot Starter Mail. To handle HTTP exceptions is used ExceptionHandler class. The functionality is implemented through back-offices with REST API. To manage properties is used Configuration service (Spring config-server) with properties repository on GitHub. A random generator of a data is used for a testing. Gateway. Google Maps API (geocoding). Lombok. Javax validation. Eclipse."
+      ]
+    },
+    {
+      "title": ": FULLSTACK Developer, Cetera Labs (Russia, Moscow) www.ceteralabs.com",
+      "organization": "The development of a business website for a cosmetics brand. The development of a website for a digital media (Hi-Teck news). The creation of a corporate portal of a dental-clinic equipment supplier. Websites include a range pages, multiple forms, an authorization, an admin panel, an interaction with databases, sending notifications to users and an administrator. Layout of pages for websites. The creating unit-tests, bug-fixing, creating REST API.",
+      "start": "2017",
+      "end": "2020",
+      "durationMonths": 47,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Tools summary. Front: WordPress, custom CMS, HTML5, CSS3, JavaScript, React. Back: Spring Boot, JUnit5 and Mockito, REST API. Postman and Swagger to interact with the API, REST, HTTP. Javax validation. GitHub."
+      ]
+    },
+    {
+      "title": ": Data scientist, Company \"ConsultantPlus\", Russia, Moscow www.consultant.ru",
+      "organization": "Data analyzing, development of computer reference legal systems \"ConsultantPlus\". Placement of legal documents in databases using an internal database management system. Formation of tables of contents, placement of hyperlinks.",
+      "start": "2015",
+      "end": "2017",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Tools summary: internal database management system. HTML."
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English",
+    "Hebrew",
+    "Russian"
+  ],
+  "raw_text": "\u2022 FULL-STACK DEVELOPER\n4 years\u2019 experience (80 % in JAVA Back-End and 20 % in JavaScript Front-End)\n\nLanguages: English, Hebrew, Russian\nLinkedIn : ****************************************\nLooking for Full-Stack / Back-End Java developer position\n\nEXPERIENCE SUMMARY\nProgramming languages: JAVA, JavaScript\nTechnologies: microservices, Maven, Spring Boot / Security / Mail / Data / JPA / Config / Netflix Eureka / Validation, Docker, Kafka, JSON, JUnit5 + Hamcrest / Mockito, Google Maps API (geocoding), Swagger, Lombok\nWeb: REST API, HTML5, CSS3.\nEnvironments \u2013 IDE/tools: GitHub, Jira, Postman, Eclipse, IntelliJ IDEA, WebStorm, Visual Studio Code.\nDatabases: PostgreSQL, MySQL, MongoDB Redis, HSQLDB.\nOS: Windows, Mac OS, Linux\n\nEXPERIENCE\nJuly 2020 \u2013 now: JAVA BACK-END developer, Elpisor LTD (Israel, Rehovot) www.elpisor.com\nThe development of a project for an international group of internet-shops to prevent attempts of illegal access by brute-force passwords from blocked IPs. (14 microservices). The application includes the following functionality: receives from clients webservices logs about failure attempts to login; analyzing sequences login attempts from one IP; saving bad IPs to DB; blocking login from bad IPs; email notification about new bad IPs.\nThe development of a microservices project for a municipality which is intended for an analyzing illegal parking and a sending notification. (15 microservices). The application includes the following functionality: receives messages about cars stops from mobile and stationary cameras; analyzing sequences of messages to check parking or stop; collecting an information from different sources, analyzing information to check parking is legal or illegal; saving illegal parking to DB; notification about illegal parking. Google Maps API (revers geocoding).\nThe development of a complete logs and bugs analyzing and reporting solution for development purposes (17 microservices). The application includes the following functionality: receiving, analyzing and saving logs to DB, saving bugs to DB, email notification about bugs, search/filter logs using multiple selectors.\nTools summary for all projects: See Technologies & Frameworks and an in addition: user authentication. To synchronous request and send a data to DB is used appropriate drivers (in pom.xml). To send notifications is used Spring Boot Starter Mail. To handle HTTP exceptions is used ExceptionHandler class. The functionality is implemented through back-offices with REST API. To manage properties is used Configuration service (Spring config-server) with properties repository on GitHub. A random generator of a data is used for a testing. Gateway. Google Maps API (geocoding). Lombok. Javax validation. Eclipse.\n2017 \u2013 2020: FULLSTACK Developer, Cetera Labs (Russia, Moscow) www.ceteralabs.com\nThe development of a business website for a cosmetics brand. The development of a website for a digital media (Hi-Teck news). The creation of a corporate portal of a dental-clinic equipment supplier. Websites include a range pages, multiple forms, an authorization, an admin panel, an interaction with databases, sending notifications to users and an administrator. Layout of pages for websites. The creating unit-tests, bug-fixing, creating REST API.\nTools summary. Front: WordPress, custom CMS, HTML5, CSS3, JavaScript, React. Back: Spring Boot, JUnit5 and Mockito, REST API. Postman and Swagger to interact with the API, REST, HTTP. Javax validation. GitHub.\n2015 \u2013 2017: Data scientist, Company \"ConsultantPlus\", Russia, Moscow www.consultant.ru\nData analyzing, development of computer reference legal systems \"ConsultantPlus\". Placement of legal documents in databases using an internal database management system. Formation of tables of contents, placement of hyperlinks.\nTools summary: internal database management system. HTML.\n\nEDUCATION\n2000-2005 \u2013 Master\u2019s degree in Computer reference legal systems, in Omsk Government Academy, Russia.\nCourses and special programs:\n2017-2018 \u2013 Courses \u00abJava Developer\u00bb from Geekbrains.\n2020 \u2013 Special program for adaptation of software developers according to Israel IT technologies.\nRecommendations are available upon request.\n\u260e | \u2709: | \ud83c\udf81: | \u2302: Rishon LeZion",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 142,
+  "experienceYears": 11.8,
+  "sections": {
+    "header": "\u2022 FULL-STACK DEVELOPER\n4 years\u2019 experience (80 % in JAVA Back-End and 20 % in JavaScript Front-End)",
+    "other": "English, Hebrew, Russian\nLinkedIn : ****************************************\nLooking for Full-Stack / Back-End Java developer position\n\nEXPERIENCE SUMMARY\nProgramming languages: JAVA, JavaScript\nTechnologies: microservices, Maven, Spring Boot / Security / Mail / Data / JPA / Config / Netflix Eureka / Validation, Docker, Kafka, JSON, JUnit5 + Hamcrest / Mockito, Google Maps API (geocoding), Swagger, Lombok\nWeb: REST API, HTML5, CSS3.\nEnvironments \u2013 IDE/tools: GitHub, Jira, Postman, Eclipse, IntelliJ IDEA, WebStorm, Visual Studio Code.\nDatabases: PostgreSQL, MySQL, MongoDB Redis, HSQLDB.\nOS: Windows, Mac OS, Linux",
+    "experience": "July 2020 \u2013 now: JAVA BACK-END developer, Elpisor LTD (Israel, Rehovot) www.elpisor.com\nThe development of a project for an international group of internet-shops to prevent attempts of illegal access by brute-force passwords from blocked IPs. (14 microservices). The application includes the following functionality: receives from clients webservices logs about failure attempts to login; analyzing sequences login attempts from one IP; saving bad IPs to DB; blocking login from bad IPs; email notification about new bad IPs.\nThe development of a microservices project for a municipality which is intended for an analyzing illegal parking and a sending notification. (15 microservices). The application includes the following functionality: receives messages about cars stops from mobile and stationary cameras; analyzing sequences of messages to check parking or stop; collecting an information from different sources, analyzing information to check parking is legal or illegal; saving illegal parking to DB; notification about illegal parking. Google Maps API (revers geocoding).\nThe development of a complete logs and bugs analyzing and reporting solution for development purposes (17 microservices). The application includes the following functionality: receiving, analyzing and saving logs to DB, saving bugs to DB, email notification about bugs, search/filter logs using multiple selectors.\nTools summary for all projects: See Technologies & Frameworks and an in addition: user authentication. To synchronous request and send a data to DB is used appropriate drivers (in pom.xml). To send notifications is used Spring Boot Starter Mail. To handle HTTP exceptions is used ExceptionHandler class. The functionality is implemented through back-offices with REST API. To manage properties is used Configuration service (Spring config-server) with properties repository on GitHub. A random generator of a data is used for a testing. Gateway. Google Maps API (geocoding). Lombok. Javax validation. Eclipse.\n2017 \u2013 2020: FULLSTACK Developer, Cetera Labs (Russia, Moscow) www.ceteralabs.com\nThe development of a business website for a cosmetics brand. The development of a website for a digital media (Hi-Teck news). The creation of a corporate portal of a dental-clinic equipment supplier. Websites include a range pages, multiple forms, an authorization, an admin panel, an interaction with databases, sending notifications to users and an administrator. Layout of pages for websites. The creating unit-tests, bug-fixing, creating REST API.\nTools summary. Front: WordPress, custom CMS, HTML5, CSS3, JavaScript, React. Back: Spring Boot, JUnit5 and Mockito, REST API. Postman and Swagger to interact with the API, REST, HTTP. Javax validation. GitHub.\n2015 \u2013 2017: Data scientist, Company \"ConsultantPlus\", Russia, Moscow www.consultant.ru\nData analyzing, development of computer reference legal systems \"ConsultantPlus\". Placement of legal documents in databases using an internal database management system. Formation of tables of contents, placement of hyperlinks.\nTools summary: internal database management system. HTML.",
+    "education": "2000-2005 \u2013 Master\u2019s degree in Computer reference legal systems, in Omsk Government Academy, Russia.\nCourses and special programs:\n2017-2018 \u2013 Courses \u00abJava Developer\u00bb from Geekbrains.\n2020 \u2013 Special program for adaptation of software developers according to Israel IT technologies.\nRecommendations are available upon request.\n\u260e | \u2709: | \ud83c\udf81: | \u2302: Rishon LeZion"
+  },
+  "metadata": {
+    "fileName": "2.docx",
+    "candidateName": "\u2022 FULL-STACK DEVELOPER",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 142,
+    "experienceYears": 11.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 4237,
+      "wordCount": 596,
+      "imageCount": 0,
+      "tableCount": 1,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "other",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 71.5,
+    "qualityGrade": "Good",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.55,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "implemented"
+    ],
+    "quantifiedBulletsCount": 2,
+    "totalBulletsCount": 5,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 71.5/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

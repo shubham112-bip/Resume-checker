@@ -1,0 +1,145 @@
+{
+  "resume_id": "resume_047",
+  "resumeId": "resume_047",
+  "fileName": "47.docx",
+  "candidateName": "(050)",
+  "skills": [
+    "Java",
+    "Teamwork",
+    "C#",
+    "Spring Boot",
+    "SQL",
+    "Git",
+    "REST APIs",
+    "Microservices",
+    ".NET",
+    "OOP",
+    "Docker",
+    "AWS"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "Business Owner Butchery, Ekaterinburg, Russia",
+      "organization": "",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    },
+    {
+      "title": "Created from scratch a highly profitable business for cutting and selling meat and",
+      "organization": "semi-finished meat products;",
+      "start": "Oct 2018",
+      "end": "Mar 2022",
+      "durationMonths": 41,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Managed a team of 20 people.",
+        "C# Software Developer Professional Registry Center, Ekaterinburg, Russia"
+      ]
+    },
+    {
+      "title": "Implemented a software development project from scratch that radically reorganized",
+      "organization": "the work of the entire organization;",
+      "start": "Jan 2016",
+      "end": "Oct 2018",
+      "durationMonths": 33,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Full story about my development experience is highlighted in a separate section and",
+        "located on the second sheet.",
+        "Stock Market Specialist Professional Registry Center, Ekaterinburg, Russia"
+      ]
+    },
+    {
+      "title": "Work with clients, paperwork, advice, and legal support of transactions with securities.",
+      "organization": "",
+      "start": "Apr 2005",
+      "end": "Jan 2016",
+      "durationMonths": 129,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Java"
+  ],
+  "raw_text": "(050)\n\nHaifa, Israel\nJunior Java backend developer\nIm self-taught, so everything I know, I learned on my own. An ardent optimization fan. Wherever I work, everything that Ido\ndaily and routinely has always been automated by me personally. I like to analyze processes and turn them into code.Slightly\nburdened by perfectionism, but detail-oriented, organized, and meticulous employee. Enthusiastic team player ready to\ncontribute to company success.\nProgramming languages\nJava;\nC#.\nSkills\nSpring Framework, Spring Boot;\nDatabases: Microsoft SQL, PostgresSQL;\nVersion control: Git;\nApplication Programmer Interface (API): REST and SOAP web services;\nKnowledge about managing the cloud environment;\nMicroservices;\nLogging.\nWork history\nBusiness Owner Butchery, Ekaterinburg, Russia\nOct 2018 - Mar 2022 Created from scratch a highly profitable business for cutting and selling meat and\nsemi-finished meat products;\nManaged a team of 20 people.\nC# Software Developer Professional Registry Center, Ekaterinburg, Russia\nJan 2016 - Oct 2018 Implemented a software development project from scratch that radically reorganized\nthe work of the entire organization;\nFull story about my development experience is highlighted in a separate section and\nlocated on the second sheet.\nStock Market Specialist Professional Registry Center, Ekaterinburg, Russia\nApr 2005 - Jan 2016 Work with clients, paperwork, advice, and legal support of transactions with securities.\nEducation\nEngineer Ural State University of Economics\nSep 2003 - Aug 2009 Food production process engineer\nSpecialist National Association of Stock Market Participants\nAug 2008 - Sep 2008 Stock market specialist for maintaining the register of securities.\nLanguages\nEnglish - full understanding, slow speaking;\nRussian - native.\nThe essence of my story\nThe essence of work in one of my positions was to check the documents for the correctness of their completion.\nHowever, the documents were all filled out manually, by simply entering data into an MS Word file. Document flow\nincluded more than 30 different forms. For each client, it was required to fill in from 5 to 30 documents. The\ndocuments contained repetitive data, such as last name, first name, ID data, and so on. Filling out and checking150+\ndocuments a day is a laborious job, which was done by 5 employees. Any error in the document was the reason for\nrefusing to provide the service to the client.\nPossible solution\nThere was a need for software with strong data typing, multi-factor data validation at theinputstage,andaccounting\nfor all data in the database for subsequent reuse.\nWhat did I do?\nIstarteddevelopmentfromscratch,intheabsenceofanyknowledgeandexperienceinprogramming.Icametoworka\ncouple of hours before the start and stayed for several hours after work, as well as within the working dayinmyfree\ntime from the main tasks - all for the sake of development about 1.5 years passed from the time the development\nbegan to the program was put into operation.\nAs a result, I made an application that significantly reorganized the work of the entire enterprise.\nSo, about the application:\nIt is a Windows desktop .NET application, using WPF and C# with the Model-View-ViewModel pattern;\nOrganized data layer using entity framework with code-first approach;\nAll data entered by the operator is strictly verified and standardized: from a simple calculation of the validity of a\npassport to the useofvariousdatabasesofthirdpartiesforfillingandstructuringaddresses,TINs,bankinformation\nand the like (thanks to the dadata.ru service);\nThe entire history of customer requests is collected in a single MicrosoftSQLdatabase,whereallactionsrelatedto\nthe client are stored;\nWell-designed, user-friendly application interface, with the ability to enter data without using the mouse;\nAll fields of documents, the filling of which can later be reused, are converted into a reference book;\nOrganized a mechanism for interaction with office telephony:startingacallwithoneclickandopeningaclientcard\nwith an incoming call;\nWhat is the result?\nThe organization, in fact, received a self-written customer relationship management system.\nThe number of errors in the preparation of documents decreased by 30 times.\nThe time to receive new customers was reduced by 8 times.\nThe entire history of client requests is now collected in a single database and the speed of generating documents\nfrom clients in the event of a repeated request becomes instantaneous.\nThe staff of the organization in all branches of the country, which were engagedinreceivingclientsandprocessing\ndocuments, decreased by 4 times (Oops )\nThe application is still in use (4 years) and, surprisingly, it works stably and does not require any maintenance.\nLink to the project on GitHub:\nHowever, in 2018, friends suggested that I open my own meat trading business, and my potential as a developer\nremained unfulfilled. But the war unleashed by Putin changed everything. Now I am in Israel, a country of high\ntechnologies, and I want to get into software development because I have a passion for this work. I will try to do\neverything necessary to ensure that my dreamthistimedoes not remainjust a dream.\nAt the moment I am actively looking forajoborinternship,IenjoylearningJava,springframework,git,docker,setting\nup a server on AWS EC-worldapplications,oneofwhich\nperforms basic CRUD operations in the database with accessing the corresponding API methods, and the second is a\nTelegram bot that communicates with Telegram via webhooks.\nPerhaps you have a more exciting task to hone my skills? Im open to any offers!",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 203,
+  "experienceYears": 16.9,
+  "sections": {
+    "header": "(050)\n\nHaifa, Israel\nJunior Java backend developer\nIm self-taught, so everything I know, I learned on my own. An ardent optimization fan. Wherever I work, everything that Ido\ndaily and routinely has always been automated by me personally. I like to analyze processes and turn them into code.Slightly\nburdened by perfectionism, but detail-oriented, organized, and meticulous employee. Enthusiastic team player ready to\ncontribute to company success.\nProgramming languages\nJava;\nC#.",
+    "skills": "Spring Framework, Spring Boot;\nDatabases: Microsoft SQL, PostgresSQL;\nVersion control: Git;\nApplication Programmer Interface (API): REST and SOAP web services;\nKnowledge about managing the cloud environment;\nMicroservices;\nLogging.",
+    "experience": "Business Owner Butchery, Ekaterinburg, Russia\nOct 2018 - Mar 2022 Created from scratch a highly profitable business for cutting and selling meat and\nsemi-finished meat products;\nManaged a team of 20 people.\nC# Software Developer Professional Registry Center, Ekaterinburg, Russia\nJan 2016 - Oct 2018 Implemented a software development project from scratch that radically reorganized\nthe work of the entire organization;\nFull story about my development experience is highlighted in a separate section and\nlocated on the second sheet.\nStock Market Specialist Professional Registry Center, Ekaterinburg, Russia\nApr 2005 - Jan 2016 Work with clients, paperwork, advice, and legal support of transactions with securities.",
+    "education": "Engineer Ural State University of Economics\nSep 2003 - Aug 2009 Food production process engineer\nSpecialist National Association of Stock Market Participants\nAug 2008 - Sep 2008 Stock market specialist for maintaining the register of securities.",
+    "other": "English - full understanding, slow speaking;\nRussian - native.\nThe essence of my story\nThe essence of work in one of my positions was to check the documents for the correctness of their completion.\nHowever, the documents were all filled out manually, by simply entering data into an MS Word file. Document flow\nincluded more than 30 different forms. For each client, it was required to fill in from 5 to 30 documents. The\ndocuments contained repetitive data, such as last name, first name, ID data, and so on. Filling out and checking150+\ndocuments a day is a laborious job, which was done by 5 employees. Any error in the document was the reason for\nrefusing to provide the service to the client.\nPossible solution\nThere was a need for software with strong data typing, multi-factor data validation at theinputstage,andaccounting\nfor all data in the database for subsequent reuse.\nWhat did I do?\nIstarteddevelopmentfromscratch,intheabsenceofanyknowledgeandexperienceinprogramming.Icametoworka\ncouple of hours before the start and stayed for several hours after work, as well as within the working dayinmyfree\ntime from the main tasks - all for the sake of development about 1.5 years passed from the time the development\nbegan to the program was put into operation.\nAs a result, I made an application that significantly reorganized the work of the entire enterprise.\nSo, about the application:\nIt is a Windows desktop .NET application, using WPF and C# with the Model-View-ViewModel pattern;\nOrganized data layer using entity framework with code-first approach;\nAll data entered by the operator is strictly verified and standardized: from a simple calculation of the validity of a\npassport to the useofvariousdatabasesofthirdpartiesforfillingandstructuringaddresses,TINs,bankinformation\nand the like (thanks to the dadata.ru service);\nThe entire history of customer requests is collected in a single MicrosoftSQLdatabase,whereallactionsrelatedto\nthe client are stored;\nWell-designed, user-friendly application interface, with the ability to enter data without using the mouse;\nAll fields of documents, the filling of which can later be reused, are converted into a reference book;\nOrganized a mechanism for interaction with office telephony:startingacallwithoneclickandopeningaclientcard\nwith an incoming call;\nWhat is the result?\nThe organization, in fact, received a self-written customer relationship management system.\nThe number of errors in the preparation of documents decreased by 30 times.\nThe time to receive new customers was reduced by 8 times.\nThe entire history of client requests is now collected in a single database and the speed of generating documents\nfrom clients in the event of a repeated request becomes instantaneous.\nThe staff of the organization in all branches of the country, which were engagedinreceivingclientsandprocessing\ndocuments, decreased by 4 times (Oops )\nThe application is still in use (4 years) and, surprisingly, it works stably and does not require any maintenance.\nLink to the project on GitHub:\nHowever, in 2018, friends suggested that I open my own meat trading business, and my potential as a developer\nremained unfulfilled. But the war unleashed by Putin changed everything. Now I am in Israel, a country of high\ntechnologies, and I want to get into software development because I have a passion for this work. I will try to do\neverything necessary to ensure that my dreamthistimedoes not remainjust a dream.\nAt the moment I am actively looking forajoborinternship,IenjoylearningJava,springframework,git,docker,setting\nup a server on AWS EC-worldapplications,oneofwhich\nperforms basic CRUD operations in the database with accessing the corresponding API methods, and the second is a\nTelegram bot that communicates with Telegram via webhooks.\nPerhaps you have a more exciting task to hone my skills? Im open to any offers!"
+  },
+  "metadata": {
+    "fileName": "47.docx",
+    "candidateName": "(050)",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 203,
+    "experienceYears": 16.9,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 5586,
+      "wordCount": 824,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "experience",
+      "education",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 73.5,
+    "qualityGrade": "Good",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 1.0,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "managed"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 5,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 73.5/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

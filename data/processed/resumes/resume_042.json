@@ -1,0 +1,103 @@
+{
+  "resume_id": "resume_042",
+  "resumeId": "resume_042",
+  "fileName": "42.docx",
+  "candidateName": "t.me/zaltsman",
+  "skills": [
+    "C++",
+    "Data Structures",
+    "C",
+    "Go",
+    "Java",
+    "Docker",
+    "Git",
+    "Kubernetes",
+    "Linux",
+    "Teamwork",
+    "Unit Testing"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "Vim, Qt Creator",
+      "organization": "Make NT Progress:",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Docker Junior C++ developer",
+        "> Transfer of old data structures to asynchronous"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [],
+  "raw_text": "Junior C++ developer\nCitizen of Israel\nwill immigrate in March 2022 and initially reside in Katsrin\n\nt.me/zaltsman\ngithub.com/gbfz\nHard skills Implemented projects\nProgramming languages Design and implementation of data structures in\nC++ 98 && 17\n\n++ Command line shell for MacOS X in C\nHaskell, Scala 3D renderer in C with shading and camera\nGo, Java movement\nUtilities Multithread programs in C/C++\nWeb-server implemented with Docker &&\nGit\nKubernetes\nLinux/Unix\n\nlldb, valgrind\nWork experience\n\nVim, Qt Creator\nMake NT Progress:\nDocker Junior C++ developer\n> Transfer of old data structures to asynchronous\nSoft skills\ntable model\nTeamwork > Implementation of dialog windows in Qt && Boost\nSelf-education\n> Unit-testing\nAdaptability, creativity\n> Development of technical documentation,\nSociability\ntranslation of existing texts from Russian to English\nAutonomy\nLocation Hunters: -\nLanguages\nLocation manager\n\nEnglish > Search for spaces to film advertisements\n\nRussian\nfor Google, Yandex et al.; on-site assistance\n\nFrench\nGerman Sakharov Center:\nExhibition space assistant\nEducation\n> Preparation of exhibitions, lectures, discussions\ncole 42 Paris (Moscow campus) > Management of video, audio and illumination\n2020 - ongoing\nNRU HSE, School of history",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": "github.com/gbfz",
+    "portfolio": "t.me/zaltsman"
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Junior C++ developer\nCitizen of Israel\nwill immigrate in March 2022 and initially reside in Katsrin\n\nt.me/zaltsman\ngithub.com/gbfz\nHard skills Implemented projects\nProgramming languages Design and implementation of data structures in\nC++ 98 && 17\n\n++ Command line shell for MacOS X in C\nHaskell, Scala 3D renderer in C with shading and camera\nGo, Java movement\nUtilities Multithread programs in C/C++\nWeb-server implemented with Docker &&\nGit\nKubernetes\nLinux/Unix\n\nlldb, valgrind",
+    "experience": "Vim, Qt Creator\nMake NT Progress:\nDocker Junior C++ developer\n> Transfer of old data structures to asynchronous",
+    "other": "Location manager\n\nEnglish > Search for spaces to film advertisements\n\nRussian\nfor Google, Yandex et al.; on-site assistance\n\nFrench\nGerman Sakharov Center:\nExhibition space assistant",
+    "education": "> Preparation of exhibitions, lectures, discussions\ncole 42 Paris (Moscow campus) > Management of video, audio and illumination\n2020 - ongoing\nNRU HSE, School of history"
+  },
+  "metadata": {
+    "fileName": "42.docx",
+    "candidateName": "t.me/zaltsman",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1257,
+      "wordCount": 182,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "other",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 57.0,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.35,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 2,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 57.0/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

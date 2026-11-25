@@ -1,0 +1,133 @@
+{
+  "resume_id": "resume_035",
+  "resumeId": "resume_035",
+  "fileName": "35.docx",
+  "candidateName": "LinkedIn: /",
+  "skills": [
+    "Java",
+    "Kotlin",
+    "Swift",
+    "C#",
+    "Android",
+    "OOP",
+    "REST APIs",
+    "Git"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "2019 october - now: Mobile Developer (part time) in project KeepIn Ltd., Herzliya",
+      "organization": "KeepIn: implement localization, work with contacts synchronization, refactor code.",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Stack: Java, Swift, REST API, MVC",
+        "2017 july - 2019 october: Mobile Developer in Key-Group, Moscow",
+        "Gettransfer: developed app for Android with 1+ million downloads and 4+ rate, was lead of project",
+        "(task management, code review, time estimation, app reliability, build delivery).",
+        "Stack: Kotlin, Clean Architecture, MVVM, Google API, Rest API, Socket IO, Kotlin Coroutines, CI",
+        "Areal: developed from scratch to release iOS AR app with 3D map of Saint-Petersburg. Was featured",
+        "by App Store.",
+        "Stack: C#, Unity Engine, ARKit 1.5, MapBox SDK",
+        "SuperSale: in both, Android and iOS, improved code base, integrated SDK for monetization,",
+        "redesigned UI according to Material.",
+        "Stack: Java, Swift, MVP/MVC, Google API, REST API, Dagger",
+        "2016 september - 2017 june: Student in Tel-Ran, Java and Android developer, Rehovot",
+        "MarketPlace: developed Android app for services at home, designed service architecture",
+        "Stack: Java, MVC, RxJava, Google API, REST API"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Java",
+    "Kotlin",
+    "Swift",
+    "C#"
+  ],
+  "raw_text": "Mobile Developer with 3 years experience\n[REDACTED - not used for evaluation]\nLinkedIn: /\nRelevant Experience Summary:\nProgramming languages: Java, Kotlin, Swift, C#\n\nPlatforms and tools: Android, iOS, Unity\n\nPatterns and frameworks: MVVM, MVP, Dagger, Architecture components\n\nPrinciples and Technologies: OOP, SOLID, REST, Web Sockets, Git flow\n\nExperience:\n2019 october - now: Mobile Developer (part time) in project KeepIn Ltd., Herzliya\nKeepIn: implement localization, work with contacts synchronization, refactor code.\nStack: Java, Swift, REST API, MVC\n\n2017 july - 2019 october: Mobile Developer in Key-Group, Moscow\nGettransfer: developed app for Android with 1+ million downloads and 4+ rate, was lead of project\n(task management, code review, time estimation, app reliability, build delivery).\nStack: Kotlin, Clean Architecture, MVVM, Google API, Rest API, Socket IO, Kotlin Coroutines, CI\n\nAreal: developed from scratch to release iOS AR app with 3D map of Saint-Petersburg. Was featured\nby App Store.\nStack: C#, Unity Engine, ARKit 1.5, MapBox SDK\n\nSuperSale: in both, Android and iOS, improved code base, integrated SDK for monetization,\nredesigned UI according to Material.\nStack: Java, Swift, MVP/MVC, Google API, REST API, Dagger\n\n2016 september - 2017 june: Student in Tel-Ran, Java and Android developer, Rehovot\nMarketPlace: developed Android app for services at home, designed service architecture\nStack: Java, MVC, RxJava, Google API, REST API\n\nEducation:\n: Moscow University of geo data, Information System engineer.\nLanguages:\nEnglish(fluent), Hebrew(beginner), Russian(native)\nLinks:\nKeepIn (iOS, Android), Gettransfer (Android), Areal(iOS), SuperSale (Android, iOS),\n\nRewizor (freelance - Android)\n\nRecommendations are available upon request.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Mobile Developer with 3 years experience\n[REDACTED - not used for evaluation]\nLinkedIn: /\nRelevant Experience Summary:\nProgramming languages: Java, Kotlin, Swift, C#\n\nPlatforms and tools: Android, iOS, Unity\n\nPatterns and frameworks: MVVM, MVP, Dagger, Architecture components\n\nPrinciples and Technologies: OOP, SOLID, REST, Web Sockets, Git flow",
+    "experience": "2019 october - now: Mobile Developer (part time) in project KeepIn Ltd., Herzliya\nKeepIn: implement localization, work with contacts synchronization, refactor code.\nStack: Java, Swift, REST API, MVC\n\n2017 july - 2019 october: Mobile Developer in Key-Group, Moscow\nGettransfer: developed app for Android with 1+ million downloads and 4+ rate, was lead of project\n(task management, code review, time estimation, app reliability, build delivery).\nStack: Kotlin, Clean Architecture, MVVM, Google API, Rest API, Socket IO, Kotlin Coroutines, CI\n\nAreal: developed from scratch to release iOS AR app with 3D map of Saint-Petersburg. Was featured\nby App Store.\nStack: C#, Unity Engine, ARKit 1.5, MapBox SDK\n\nSuperSale: in both, Android and iOS, improved code base, integrated SDK for monetization,\nredesigned UI according to Material.\nStack: Java, Swift, MVP/MVC, Google API, REST API, Dagger\n\n2016 september - 2017 june: Student in Tel-Ran, Java and Android developer, Rehovot\nMarketPlace: developed Android app for services at home, designed service architecture\nStack: Java, MVC, RxJava, Google API, REST API",
+    "education": ": Moscow University of geo data, Information System engineer.",
+    "other": "English(fluent), Hebrew(beginner), Russian(native)\nLinks:\nKeepIn (iOS, Android), Gettransfer (Android), Areal(iOS), SuperSale (Android, iOS),\n\nRewizor (freelance - Android)\n\nRecommendations are available upon request."
+  },
+  "metadata": {
+    "fileName": "35.docx",
+    "candidateName": "LinkedIn: /",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1775,
+      "wordCount": 245,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "experience",
+      "education",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 70.5,
+    "qualityGrade": "Good",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.7,
+    "quantificationScore": 0.85,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "designed",
+      "developed",
+      "improved",
+      "integrated"
+    ],
+    "quantifiedBulletsCount": 4,
+    "totalBulletsCount": 14,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 70.5/100 (Good). Independent of candidate-job fit, the resume demonstrates good professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

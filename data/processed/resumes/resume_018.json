@@ -1,0 +1,91 @@
+{
+  "resume_id": "resume_018",
+  "resumeId": "resume_018",
+  "fileName": "18.docx",
+  "candidateName": "- WhatsApp",
+  "skills": [
+    "Git",
+    "Problem Solving",
+    "Unit Testing",
+    "Swift",
+    "Firebase",
+    "REST APIs"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Swift"
+  ],
+  "raw_text": "- WhatsApp\n- Israel\nGitHub:\nExecutive Summary\nSimultaneously managing multiple projects with minimum direction and maintaining\naccuracy under pressure\nContributed to product development & product roadmap planning\nDefined architecture of new IOS Apps and developed them broadly from engineering and\ncoding features to polishing user interfaces\nKnowledge of UI design principles, patterns and practices\nSelf-starter with a strong work ethic and a passion for problem-solving\nEnglish Upper Intermediate, Russian Fluent, Belarusian - Advanced\nProfessional Experience: Independent Developer, 2021 till now\nPerformed technical designs and implementations of IOS Apps with user-friendly and\nintuitive interface\nImproved product quality through code reviews, writing effective unit tests and collaborating\nwith QA on implementing automation testing\nCreated my own application called \"Mobile Wallet\" to track finances. Therefore, Ive\noperated with Core Data, obtained data from the server and upload it to the TableView\nExperienced in Cocoapods, Alamofire and SwiftGen, three screens are created using\nstoryboard, two screens are written in code\nGathering functional requirements, developing technical specifications and project test &\nplanning\nIOS-Developer intern at Softteco, Minsk, .2021\nCompleted commercial projects\nManaged team working skills by participating in groups to create Apps\nLearnt to read any code in existing code-base and change it\nCollaborated in multi-functional tasks and worked under pressure\nIOS-Developer at 365scores, Tel-Aviv, .2022\nWorking withRestful APIs, Core Data and GCD\nMaking WatchOS App with SwiftUI\nTesting and debugging mobile application\nWork to expand/improve on an ongoing basis by adding new functionality and resolving\nexisting issues\nEducation:\nProgramming School Teach me skills, Minsk IOS Developer, -\nVeterinary university, Minsk veterinary paramedic, -\nTechnical Skills:\nProgramming Language: Swift\nAPI/frameworks: Alamofire, SwiftyJSON, SwiftUI\nDatabases: CoreData, REALM, Firebase\nArchitectures: MVP, MVVM, MVC\nTechnologies: Autolayout, REST API, SOLID, GIT",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "- WhatsApp\n- Israel\nGitHub:\nExecutive Summary\nSimultaneously managing multiple projects with minimum direction and maintaining\naccuracy under pressure\nContributed to product development & product roadmap planning\nDefined architecture of new IOS Apps and developed them broadly from engineering and\ncoding features to polishing user interfaces\nKnowledge of UI design principles, patterns and practices\nSelf-starter with a strong work ethic and a passion for problem-solving\nEnglish Upper Intermediate, Russian Fluent, Belarusian - Advanced\nProfessional Experience: Independent Developer, 2021 till now\nPerformed technical designs and implementations of IOS Apps with user-friendly and\nintuitive interface\nImproved product quality through code reviews, writing effective unit tests and collaborating\nwith QA on implementing automation testing\nCreated my own application called \"Mobile Wallet\" to track finances. Therefore, Ive\noperated with Core Data, obtained data from the server and upload it to the TableView\nExperienced in Cocoapods, Alamofire and SwiftGen, three screens are created using\nstoryboard, two screens are written in code\nGathering functional requirements, developing technical specifications and project test &\nplanning\nIOS-Developer intern at Softteco, Minsk, .2021\nCompleted commercial projects\nManaged team working skills by participating in groups to create Apps\nLearnt to read any code in existing code-base and change it\nCollaborated in multi-functional tasks and worked under pressure\nIOS-Developer at 365scores, Tel-Aviv, .2022\nWorking withRestful APIs, Core Data and GCD\nMaking WatchOS App with SwiftUI\nTesting and debugging mobile application\nWork to expand/improve on an ongoing basis by adding new functionality and resolving\nexisting issues",
+    "education": "Programming School Teach me skills, Minsk IOS Developer, -\nVeterinary university, Minsk veterinary paramedic, -",
+    "skills": "Autolayout, REST API, SOLID, GIT"
+  },
+  "metadata": {
+    "fileName": "18.docx",
+    "candidateName": "- WhatsApp",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2099,
+      "wordCount": 282,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "education",
+      "skills"
+    ]
+  },
+  "sensitiveAttributesRemoved": [],
+  "sensitive_attributes_removed": [],
+  "qualityFeatures": {
+    "overallQualityScore": 66.3,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.85,
+    "actionVerbScore": 0.85,
+    "quantificationScore": 0.55,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "collaborated",
+      "created",
+      "developed",
+      "improved",
+      "managed"
+    ],
+    "quantifiedBulletsCount": 3,
+    "totalBulletsCount": 34,
+    "strengths": [
+      "Strong action verbs utilized across accomplishments (collaborated, created, developed, improved, managed)."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 66.3/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

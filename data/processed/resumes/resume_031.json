@@ -1,0 +1,125 @@
+{
+  "resume_id": "resume_031",
+  "resumeId": "resume_031",
+  "fileName": "31.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Java",
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "OOP",
+    "Spring Boot",
+    "MongoDB",
+    "Hibernate",
+    "Docker",
+    "Unit Testing",
+    "Redux",
+    "Git",
+    "Postman",
+    "MySQL",
+    "PostgreSQL",
+    "SQL",
+    "Linux",
+    "Microservices",
+    "Data Analysis",
+    "Excel",
+    "Power BI"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English",
+    "Hebrew",
+    "Russian"
+  ],
+  "raw_text": "Full-Stack Developer with 3+ years of experience looking for a full time position\n80% - backend Java development, 20% - frontend React development\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nLinkedin: Nikita Doroshenko Languages: English, Hebrew, Russian.\nTECHNICAL SKILLS\nProgramming languages: Java, JavaScript, TypeScript. Web: HTML 5, CSS 3, Bootstrap 5.\nTechnologies: OOP, AOP, Java Collection, Java Stream API, Rest, Maven, Project Lombok, Spring MVC,\nSpring Framework(Spring Boot, Spring Web, Data MongoDB, Spring Cloud Stream, Spring Security, Spring\nStarter Mail, Spring Validation), Awaitility, Mockito, MongoEmbedded, Hibernate, Apache Tomcat, Kafka,\nMultithreading, Docker, Heroku, JPA, ORM, MongoDB Atlas, Junit, React, Redux.\nEnvironments-IDE/Tools: Eclipse, Intellij IDEA, Visual Studio Code, GitHub, Postman, DBeaver.\nDatabases: MySQL, PostgreSQL, No SQL(MongoDB), H2 OS: Windows, Linux.\nPROFESSIONAL HISTORY\n2021 now Full-Stack Developer, Inetex (Rehovot , Israel)\nMain project: Developing a service network for CV with microservices architecture.\nResponsibilities:\nParticipating in development of several services: employer service, cv service, security\nservice, schedule;\nImplementation of new functionality, work with MongoDB (geo search, aggregation\nquery);\nIntegrating developed services into application (notification service);\nImplementation of frontend functionality (register, change password, update\nemployee data, routes);\nWriting and running Junit tests, refactoring code and fixing bugs;\nTechnologies: Java, JavaScript, TypeScript, Java Stream API, Spring boot, Spring Web, Spring\nData MongoDb, Spring Security, React, Redux, MongoDB, Junit, Rest.\n2019 2021 Java Backend Developer, Miratorg (Belgorod, Russia)\nMain project: Production reporting automation\nResponsibilities:\nInstalling and maintaining database;\nPopulating a database with new information or transfer existing data into it;\nCreation and implementation of methods for working with data for the planning department;\nTechnologies: Java, Java Stream API, Spring web, Spring Data MongoDB, Junit, MongoDb, Docker.\n2014 2019 Data Analyst, Miratorg (Belgorod, Russia)\nResponsibilities:\nDeveloping and implementing reports;\nCollecting and adding data from various sources;\nDatabase support. (Adding, deleting data);\nTechnologies: Microsoft Excel, Visual Basic for Applications, Power BI, SQL, CSB, NAV, SAP.\nEDUCATION\n2008 2013 Applied Information Science in Economics\nThe Federal State Budget Educational Institution of Higher Education Baikal State University\n2021 Special program for software developers' adaptation in accordance with Israel IT\ntechnologies by Ministry of Absorption and Jewish Agency of Israel.\nTel Ran Educational Center",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Full-Stack Developer with 3+ years of experience looking for a full time position\n80% - backend Java development, 20% - frontend React development\n[REDACTED - not used for evaluation]\n[REDACTED - not used for evaluation]\nLinkedin: Nikita Doroshenko Languages: English, Hebrew, Russian.",
+    "skills": "Programming languages: Java, JavaScript, TypeScript. Web: HTML 5, CSS 3, Bootstrap 5.\nTechnologies: OOP, AOP, Java Collection, Java Stream API, Rest, Maven, Project Lombok, Spring MVC,\nSpring Framework(Spring Boot, Spring Web, Data MongoDB, Spring Cloud Stream, Spring Security, Spring\nStarter Mail, Spring Validation), Awaitility, Mockito, MongoEmbedded, Hibernate, Apache Tomcat, Kafka,\nMultithreading, Docker, Heroku, JPA, ORM, MongoDB Atlas, Junit, React, Redux.\nEnvironments-IDE/Tools: Eclipse, Intellij IDEA, Visual Studio Code, GitHub, Postman, DBeaver.\nDatabases: MySQL, PostgreSQL, No SQL(MongoDB), H2 OS: Windows, Linux.\nPROFESSIONAL HISTORY\n2021 now Full-Stack Developer, Inetex (Rehovot , Israel)\nMain project: Developing a service network for CV with microservices architecture.\nResponsibilities:\nParticipating in development of several services: employer service, cv service, security\nservice, schedule;\nImplementation of new functionality, work with MongoDB (geo search, aggregation\nquery);\nIntegrating developed services into application (notification service);\nImplementation of frontend functionality (register, change password, update\nemployee data, routes);\nWriting and running Junit tests, refactoring code and fixing bugs;\nTechnologies: Java, JavaScript, TypeScript, Java Stream API, Spring boot, Spring Web, Spring\nData MongoDb, Spring Security, React, Redux, MongoDB, Junit, Rest.\n2019 2021 Java Backend Developer, Miratorg (Belgorod, Russia)\nMain project: Production reporting automation\nResponsibilities:\nInstalling and maintaining database;\nPopulating a database with new information or transfer existing data into it;\nCreation and implementation of methods for working with data for the planning department;\nTechnologies: Java, Java Stream API, Spring web, Spring Data MongoDB, Junit, MongoDb, Docker.\n2014 2019 Data Analyst, Miratorg (Belgorod, Russia)\nResponsibilities:\nDeveloping and implementing reports;\nCollecting and adding data from various sources;\nDatabase support. (Adding, deleting data);\nTechnologies: Microsoft Excel, Visual Basic for Applications, Power BI, SQL, CSB, NAV, SAP.",
+    "education": "2008 2013 Applied Information Science in Economics\nThe Federal State Budget Educational Institution of Higher Education Baikal State University\n2021 Special program for software developers' adaptation in accordance with Israel IT\ntechnologies by Ministry of Absorption and Jewish Agency of Israel.\nTel Ran Educational Center"
+  },
+  "metadata": {
+    "fileName": "31.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2736,
+      "wordCount": 352,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    },
+    {
+      "attribute": "Phone contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 66.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.6,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [
+      "developed"
+    ],
+    "quantifiedBulletsCount": 11,
+    "totalBulletsCount": 38,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 66.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

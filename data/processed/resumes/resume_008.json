@@ -1,0 +1,156 @@
+{
+  "resume_id": "resume_008",
+  "resumeId": "resume_008",
+  "fileName": "8.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Android",
+    "Kotlin",
+    "Java",
+    "C++",
+    "Flutter",
+    "REST APIs",
+    "HTML",
+    "CSS",
+    "Git",
+    "Agile",
+    "Jira",
+    "SQLite"
+  ],
+  "education": [
+    {
+      "degree": "Master's",
+      "degreeLevel": 3,
+      "field": null,
+      "isRelevantField": true,
+      "institution": null,
+      "year": null,
+      "raw": "Master's"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Inetex LTD (Israel, Rehovot)",
+      "organization": "Android Developer",
+      "start": "2019",
+      "end": "present",
+      "durationMonths": 94,
+      "isCurrent": true,
+      "isInternship": false,
+      "bullets": [
+        "Project: Android application for multiplatform car rental portal ilCarro. It allows people all over Israel share their private cars to others for a limited period or time with an affordable price for clients. Mobile client offers full functionality of the portal, making the searching and booking processes easier and available from anywhere.",
+        "Area of responsibility \u2013 developing application from scratch, fixing problems, adding and testing new features, code deployment.",
+        "Technologies: RxJava2, LiveData, MVVM pattern, Clean Architecture, Dagger2, Retrofit2, OkHttp, Google Maps, Cloudinary API, Picasso, Gson."
+      ]
+    },
+    {
+      "title": "NTC Astrosoft MIR (Saint Petersburg, Russia)",
+      "organization": "Android Developer",
+      "start": "2017",
+      "end": "2019",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "Project: Mobile platform for AUDI E-Tron. It is based on Android OS and provides all needed information about car state to the driver and gives him control of several systems. (remote control, car alarm system etc.)",
+        "Area of responsibility \u2013 refactoring existing code base, participating in embedded controlling system development, implementing and testing new functionalities, requirements checking, code deployment.",
+        "Technologies: Android NDK, RxJaxa2, Dagger2, Retrofit2, JSON, MVP pattern, CMake, DOORS, MKS.",
+        "Project: Mobile system for malfunction detection module of gas turbine engine of military ship.",
+        "System is based on Android OS and allows operators to observe and control all parameters of working gas turbine engine anywhere in the ship accelerating malfunction detection process.",
+        "Area of responsibility \u2013 participating in developing and refactoring code base, fixing problems, code deployment.",
+        "Technologies: Android NDK, C++, RxJaxa2, Dagger2, Retrofit2, JSON, MVP pattern, MVVM pattern, QNX, NPS, QT, CMake, DOORS, MKS"
+      ]
+    },
+    {
+      "title": "EDUCATION  \u2013  | Saint Petersburg Electrotechnical University, Master\u2019s degree of Computer Engineering Technology",
+      "organization": "Recommendations are available upon request.",
+      "start": "2017",
+      "end": "2019",
+      "durationMonths": 35,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": []
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "English",
+    "Hebrew",
+    "Russian Residence: Tel Aviv",
+    "Israel"
+  ],
+  "raw_text": "\u2022 Android developer with 3 years experience\n[REDACTED - not used for evaluation]\nLanguages: English, Hebrew, Russian Residence: Tel Aviv, Israel\n\nSKILLS\n\nProgramming languages: Kotlin, Java, C++, Dart\nTechnologies: Android SDK, Android NDK, Android Architecture Components, Embedded programming, Kotlin Coroutines, RxJava2, Dagger2, Koin, Retrofit2, OkHttp, Google Maps API, Picasso, Material Design, REST API, Joda-Time, Gson, Flutter, JSON, HTML5, CSS3, XML, QT, DOORS, MKS.\nIDE: Android Studio, , IntelliJ IDEA, Eclipse, WebStorm\nUsed principles: Clean architecture, MVVM Pattern, MVP Pattern\nVersion control system: Git, Mercurial\nAgile: JIRA\nDatabases: SQLite\n\nPROFESSIONAL EXPERIENCE\n\n2019 \u2013 present | Inetex LTD (Israel, Rehovot) |\nAndroid Developer\nProject: Android application for multiplatform car rental portal ilCarro. It allows people all over Israel share their private cars to others for a limited period or time with an affordable price for clients. Mobile client offers full functionality of the portal, making the searching and booking processes easier and available from anywhere.\nArea of responsibility \u2013 developing application from scratch, fixing problems, adding and testing new features, code deployment.\nTechnologies: RxJava2, LiveData, MVVM pattern, Clean Architecture, Dagger2, Retrofit2, OkHttp, Google Maps, Cloudinary API, Picasso, Gson.\n\n2017 \u2013 2019 | NTC Astrosoft MIR (Saint Petersburg, Russia) |\nAndroid Developer\nProject: Mobile platform for AUDI E-Tron. It is based on Android OS and provides all needed information about car state to the driver and gives him control of several systems. (remote control, car alarm system etc.)\nArea of responsibility \u2013 refactoring existing code base, participating in embedded controlling system development, implementing and testing new functionalities, requirements checking, code deployment.\nTechnologies: Android NDK, RxJaxa2, Dagger2, Retrofit2, JSON, MVP pattern, CMake, DOORS, MKS.\nProject: Mobile system for malfunction detection module of gas turbine engine of military ship.\nSystem is based on Android OS and allows operators to observe and control all parameters of working gas turbine engine anywhere in the ship accelerating malfunction detection process.\nArea of responsibility \u2013 participating in developing and refactoring code base, fixing problems, code deployment.\nTechnologies: Android NDK, C++, RxJaxa2, Dagger2, Retrofit2, JSON, MVP pattern, MVVM pattern, QNX, NPS, QT, CMake, DOORS, MKS\n\nEDUCATION 2017 \u2013 2019 | Saint Petersburg Electrotechnical University, Master\u2019s degree of Computer Engineering Technology\n\nRecommendations are available upon request.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 118,
+  "experienceYears": 9.8,
+  "sections": {
+    "header": "\u2022 Android developer with 3 years experience\n[REDACTED - not used for evaluation]\nLanguages: English, Hebrew, Russian Residence: Tel Aviv, Israel",
+    "skills": "Programming languages: Kotlin, Java, C++, Dart\nTechnologies: Android SDK, Android NDK, Android Architecture Components, Embedded programming, Kotlin Coroutines, RxJava2, Dagger2, Koin, Retrofit2, OkHttp, Google Maps API, Picasso, Material Design, REST API, Joda-Time, Gson, Flutter, JSON, HTML5, CSS3, XML, QT, DOORS, MKS.\nIDE: Android Studio, , IntelliJ IDEA, Eclipse, WebStorm\nUsed principles: Clean architecture, MVVM Pattern, MVP Pattern\nVersion control system: Git, Mercurial\nAgile: JIRA\nDatabases: SQLite",
+    "experience": "2019 \u2013 present | Inetex LTD (Israel, Rehovot) |\nAndroid Developer\nProject: Android application for multiplatform car rental portal ilCarro. It allows people all over Israel share their private cars to others for a limited period or time with an affordable price for clients. Mobile client offers full functionality of the portal, making the searching and booking processes easier and available from anywhere.\nArea of responsibility \u2013 developing application from scratch, fixing problems, adding and testing new features, code deployment.\nTechnologies: RxJava2, LiveData, MVVM pattern, Clean Architecture, Dagger2, Retrofit2, OkHttp, Google Maps, Cloudinary API, Picasso, Gson.\n\n2017 \u2013 2019 | NTC Astrosoft MIR (Saint Petersburg, Russia) |\nAndroid Developer\nProject: Mobile platform for AUDI E-Tron. It is based on Android OS and provides all needed information about car state to the driver and gives him control of several systems. (remote control, car alarm system etc.)\nArea of responsibility \u2013 refactoring existing code base, participating in embedded controlling system development, implementing and testing new functionalities, requirements checking, code deployment.\nTechnologies: Android NDK, RxJaxa2, Dagger2, Retrofit2, JSON, MVP pattern, CMake, DOORS, MKS.\nProject: Mobile system for malfunction detection module of gas turbine engine of military ship.\nSystem is based on Android OS and allows operators to observe and control all parameters of working gas turbine engine anywhere in the ship accelerating malfunction detection process.\nArea of responsibility \u2013 participating in developing and refactoring code base, fixing problems, code deployment.\nTechnologies: Android NDK, C++, RxJaxa2, Dagger2, Retrofit2, JSON, MVP pattern, MVVM pattern, QNX, NPS, QT, CMake, DOORS, MKS\n\nEDUCATION 2017 \u2013 2019 | Saint Petersburg Electrotechnical University, Master\u2019s degree of Computer Engineering Technology\n\nRecommendations are available upon request."
+  },
+  "metadata": {
+    "fileName": "8.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 118,
+    "experienceYears": 9.8,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 2643,
+      "wordCount": 362,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "skills",
+      "experience"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 60.7,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.51,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 1.0,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.35,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 10,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 60.7/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}

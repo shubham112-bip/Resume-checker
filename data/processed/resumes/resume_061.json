@@ -1,0 +1,129 @@
+{
+  "resume_id": "resume_061",
+  "resumeId": "resume_061",
+  "fileName": "61.docx",
+  "candidateName": "Location: TelAviv",
+  "skills": [
+    "Unit Testing",
+    "Agile",
+    "Teamwork",
+    "React",
+    "Redux",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "SASS",
+    "Bootstrap",
+    "Jira",
+    "Azure",
+    "Git",
+    "MongoDB",
+    "Docker",
+    "Postman",
+    "Figma",
+    "HTML",
+    "CSS",
+    "Express"
+  ],
+  "education": [
+    {
+      "degree": "Diploma",
+      "degreeLevel": 1,
+      "field": null,
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "2015 - 2016 Student (no diploma), The Moscow School of Social and Economic Sciences and"
+    },
+    {
+      "degree": "MSc",
+      "degreeLevel": 3,
+      "field": "Public History",
+      "isRelevantField": false,
+      "institution": null,
+      "year": null,
+      "raw": "University of Manchester (UK) MSc joint degree program in Public History (Russia)."
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Russian (Native)",
+    "English (Upper-Intermediate)"
+  ],
+  "raw_text": "Software engineer (Frontend developer) Updated: 20/06/2022\n[REDACTED - not used for evaluation]\nLocation: TelAviv\n\nWeb Dev Positions\n2022 - EPAM Systems. D2 (Middle) Software Engineer. DuPage Medical Clinic of the Future\nproject. Marionnaud France Digital Factory project.\nTasks performed: Features and UX implementation, Unit testing, Code review, Issues\nidentifying and Bug fixing, SCRUM, Writing code specification, Collaboration with\nother teams.\nTech scope and tools: React, Redux, TypeScript, JavaScript, NodeJs, SCSS,\nBootstrap, Jest, Enzyme, Jira, Azure, Gitlab, MongoDB, Docker, Postman\n2021 2022 UniqTrip. Junior web developer. Five projects in Tourism, Booking and Construction\nfields.\nTasks performed: Features and UX implementation, Responsive UI layout, API\nDevelopment, Structure design, Issues identifying and Bug fixing, Unit testing.\nTech scope: React (Router, Redux), JavaScript, TypeScript, Figma, Trello,\nGitlab, Postman, Material UI, HTML/CSS, NodeJs.\nEducation\n2015 - 2016 Student (no diploma), The Moscow School of Social and Economic Sciences and\nUniversity of Manchester (UK) MSc joint degree program in Public History (Russia).\n2000 - 2005 Specialist (M.Sc. analogue) in Economics and Management. Ryazan State Radio-\nEngineering University (Russia).\n1996 - 2000 B.A (classical music), Ryazan State Musical College (Russia).\nWeb Dev Internships and Courses\n2021 EPAM System. Frontend 40 weeks internship.\n2021 UniqTrip. Frontend 6 weeks internship.\nCodecademy, Thinkster, Pluralsight, Udemy, LinkedinLearn and other courses.\nWeb Dev Skills and Tools\nJavaScript, TypeScript, NodeJS, React, Redux, HTML, (S)CSS, MaterialUI, Bootstrap, Jest,\nEnzyme, React testing library, Figma, Scrum, Jira, Git, Azure, Postman, Docker, MongoDB,\nExpress etc.\nLanguages\nRussian (Native), English (Upper-Intermediate)",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Software engineer (Frontend developer) Updated: 20/06/2022\n[REDACTED - not used for evaluation]\nLocation: TelAviv\n\nWeb Dev Positions\n2022 - EPAM Systems. D2 (Middle) Software Engineer. DuPage Medical Clinic of the Future\nproject. Marionnaud France Digital Factory project.\nTasks performed: Features and UX implementation, Unit testing, Code review, Issues\nidentifying and Bug fixing, SCRUM, Writing code specification, Collaboration with\nother teams.\nTech scope and tools: React, Redux, TypeScript, JavaScript, NodeJs, SCSS,\nBootstrap, Jest, Enzyme, Jira, Azure, Gitlab, MongoDB, Docker, Postman\n2021 2022 UniqTrip. Junior web developer. Five projects in Tourism, Booking and Construction\nfields.\nTasks performed: Features and UX implementation, Responsive UI layout, API\nDevelopment, Structure design, Issues identifying and Bug fixing, Unit testing.\nTech scope: React (Router, Redux), JavaScript, TypeScript, Figma, Trello,\nGitlab, Postman, Material UI, HTML/CSS, NodeJs.",
+    "education": "2015 - 2016 Student (no diploma), The Moscow School of Social and Economic Sciences and\nUniversity of Manchester (UK) MSc joint degree program in Public History (Russia).\n2000 - 2005 Specialist (M.Sc. analogue) in Economics and Management. Ryazan State Radio-\nEngineering University (Russia).\n1996 - 2000 B.A (classical music), Ryazan State Musical College (Russia).\nWeb Dev Internships and Courses\n2021 EPAM System. Frontend 40 weeks internship.\n2021 UniqTrip. Frontend 6 weeks internship.\nCodecademy, Thinkster, Pluralsight, Udemy, LinkedinLearn and other courses.\nWeb Dev Skills and Tools\nJavaScript, TypeScript, NodeJS, React, Redux, HTML, (S)CSS, MaterialUI, Bootstrap, Jest,\nEnzyme, React testing library, Figma, Scrum, Jira, Git, Azure, Postman, Docker, MongoDB,\nExpress etc.",
+    "other": "Russian (Native), English (Upper-Intermediate)"
+  },
+  "metadata": {
+    "fileName": "61.docx",
+    "candidateName": "Location: TelAviv",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1806,
+      "wordCount": 239,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "education",
+      "other"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Nationality",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Nationality",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 58.8,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.34,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.3,
+    "quantificationScore": 0.85,
+    "clarityScore": 0.85,
+    "formattingConsistencyScore": 0.85,
+    "actionVerbsFound": [],
+    "quantifiedBulletsCount": 9,
+    "totalBulletsCount": 27,
+    "strengths": [
+      "Accomplishments effectively quantify impact with measurable metrics and KPIs."
+    ],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized)."
+    ],
+    "verdict": "Resume Quality Score: 58.8/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, strong achievement quantification, and moderate ATS readability."
+  }
+}

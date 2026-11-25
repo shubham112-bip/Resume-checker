@@ -1,0 +1,126 @@
+{
+  "resume_id": "resume_022",
+  "resumeId": "resume_022",
+  "fileName": "22.docx",
+  "candidateName": "Candidate",
+  "skills": [
+    "Oracle Database",
+    "SQL",
+    "C#",
+    "Python"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "title": "Pro IT Resource Oracle developer Perm, Russia",
+      "organization": "Development and support of OLAP financial data monitoring systems.",
+      "start": null,
+      "end": null,
+      "durationMonths": 0,
+      "isCurrent": false,
+      "isInternship": false,
+      "bullets": [
+        "The business logic of the systems was implemented as PL/SQL packages. Main tasks",
+        "which were implemented:",
+        "Data loading from external systems in form of incremental daily updates in XML;",
+        "Maintenance of various directories and indicators, data input according to them;",
+        "Development of OLAP reports based on input data.",
+        "KIBERone Tutor Perm, Russia",
+        "ER-Telecom Oracle developer Perm, Russia",
+        "Support of the Equipment Manager system (network equipment accounting",
+        "system);",
+        "Finalization of the electronic document management system in Equipment",
+        "Manager: transferring documents to 1C and billing system;",
+        "JSC PROGNOZ Junior tester Perm, Russia",
+        "The Perm State Regional Universal Library",
+        "named after A.M.Gorky Perm, Russia",
+        "Computer lab administrator"
+      ]
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "languages": [
+    "Russian: native",
+    "English: B1"
+  ],
+  "raw_text": "Birth year: 1990 | City: Kiriat Yam, Israel | LinkedIn\n[REDACTED - not used for evaluation]\n\nSummary:\nI have 6+ years of experience in server-side development. I have been developing DWH with\nETL processes, data input forms and OLAP reports. I have been implementing business\nlogic in PL/SQL. Now I am learning Hebrew on MASA in Kiriat Yam.\nProfessional skills: SQL (Oracle), PL/SQL, C#, Python\n\nLanguages: Russian: native; English: B1.\n\nExperience:\nPro IT Resource Oracle developer Perm, Russia\n\nDevelopment and support of OLAP financial data monitoring systems.\nThe business logic of the systems was implemented as PL/SQL packages. Main tasks\nwhich were implemented:\nData loading from external systems in form of incremental daily updates in XML;\nMaintenance of various directories and indicators, data input according to them;\nDevelopment of OLAP reports based on input data.\nKIBERone Tutor Perm, Russia\n\nER-Telecom Oracle developer Perm, Russia\n\nSupport of the Equipment Manager system (network equipment accounting\nsystem);\nFinalization of the electronic document management system in Equipment\nManager: transferring documents to 1C and billing system;\nJSC PROGNOZ Junior tester Perm, Russia\n\nThe Perm State Regional Universal Library\nnamed after A.M.Gorky Perm, Russia\n\nComputer lab administrator\nEducation:\nPerm National Research Polytechnic University\n2011 2017 Electrical Engineering Faculty, speciality: automated control and\ninformation processing systems (extramural, incomplete)\nPerm State National Research University\n2007 2010 Faculty of Mechanics and Mathematics, speciality: mechanics, applied\nmathematics (incomplete)\nHobbies and other activity: I like running, fencing and hiking. I have experience as a\n\nvolunteer.",
+  "contact": {
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "github": null,
+    "portfolio": null
+  },
+  "summary": "I have 6+ years of experience in server-side development. I have been developing DWH with\nETL processes, data input forms and OLAP reports. I have been implementing business\nlogic in PL/SQL. Now I am learning Hebrew on MASA in Kiriat Yam.\nProfessional skills: SQL (Oracle), PL/SQL, C#, Python",
+  "totalExperienceMonths": 0,
+  "experienceYears": 0.0,
+  "sections": {
+    "header": "Birth year: 1990 | City: Kiriat Yam, Israel | LinkedIn\n[REDACTED - not used for evaluation]",
+    "summary": "I have 6+ years of experience in server-side development. I have been developing DWH with\nETL processes, data input forms and OLAP reports. I have been implementing business\nlogic in PL/SQL. Now I am learning Hebrew on MASA in Kiriat Yam.\nProfessional skills: SQL (Oracle), PL/SQL, C#, Python",
+    "other": "Russian: native; English: B1.",
+    "experience": "Pro IT Resource Oracle developer Perm, Russia\n\nDevelopment and support of OLAP financial data monitoring systems.\nThe business logic of the systems was implemented as PL/SQL packages. Main tasks\nwhich were implemented:\nData loading from external systems in form of incremental daily updates in XML;\nMaintenance of various directories and indicators, data input according to them;\nDevelopment of OLAP reports based on input data.\nKIBERone Tutor Perm, Russia\n\nER-Telecom Oracle developer Perm, Russia\n\nSupport of the Equipment Manager system (network equipment accounting\nsystem);\nFinalization of the electronic document management system in Equipment\nManager: transferring documents to 1C and billing system;\nJSC PROGNOZ Junior tester Perm, Russia\n\nThe Perm State Regional Universal Library\nnamed after A.M.Gorky Perm, Russia\n\nComputer lab administrator",
+    "education": "Perm National Research Polytechnic University\n2011 2017 Electrical Engineering Faculty, speciality: automated control and\ninformation processing systems (extramural, incomplete)\nPerm State National Research University\n2007 2010 Faculty of Mechanics and Mathematics, speciality: mechanics, applied\nmathematics (incomplete)\nHobbies and other activity: I like running, fencing and hiking. I have experience as a\n\nvolunteer."
+  },
+  "metadata": {
+    "fileName": "22.docx",
+    "candidateName": "Candidate",
+    "fileType": "DOCX",
+    "totalExperienceMonths": 0,
+    "experienceYears": 0.0,
+    "diagnostics": {
+      "fileType": "docx",
+      "parserUsed": "python-docx",
+      "pageCount": 1,
+      "charCount": 1726,
+      "wordCount": 243,
+      "imageCount": 0,
+      "tableCount": 0,
+      "isScanned": false,
+      "warnings": []
+    },
+    "sectionsAvailable": [
+      "header",
+      "summary",
+      "other",
+      "experience",
+      "education"
+    ]
+  },
+  "sensitiveAttributesRemoved": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "sensitive_attributes_removed": [
+    {
+      "attribute": "Email contact",
+      "action": "redacted"
+    }
+  ],
+  "qualityFeatures": {
+    "overallQualityScore": 61.5,
+    "qualityGrade": "Needs Improvement",
+    "completenessScore": 0.59,
+    "atsReadabilityScore": 0.65,
+    "structureScore": 0.6,
+    "actionVerbScore": 0.5,
+    "quantificationScore": 0.35,
+    "clarityScore": 1.0,
+    "formattingConsistencyScore": 1.0,
+    "actionVerbsFound": [
+      "implemented"
+    ],
+    "quantifiedBulletsCount": 0,
+    "totalBulletsCount": 15,
+    "strengths": [],
+    "improvementAreas": [
+      "Missing core sections (consider adding explicit Experience or Projects sections).",
+      "Incorporate more active engineering verbs (e.g. engineered, deployed, architected, optimized).",
+      "Add measurable outcomes to project bullets (e.g., latency reduction %, users scaled, efficiency gains)."
+    ],
+    "verdict": "Resume Quality Score: 61.5/100 (Needs Improvement). Independent of candidate-job fit, the resume demonstrates needs improvement professional structure, limited achievement quantification, and moderate ATS readability."
+  }
+}
