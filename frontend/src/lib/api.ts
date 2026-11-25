@@ -6,7 +6,6 @@ import {
   CandidateDetail,
   CandidateEvaluation,
   CandidateSummary,
-  ChatResponse,
   ComparisonResponse,
   DemoJob,
   DemoLoadResponse,
@@ -159,13 +158,6 @@ export const api = {
   getComparison: () => request<ComparisonResponse>("/api/comparison/ats-vs-ai"),
 
   getHumanValidation: () => request<HumanValidationResponse>("/api/evaluation/human-validation"),
-
-  recruiterChat: (question: string, runId?: string) =>
-    request<ChatResponse>("/api/assistant/chat", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ question, runId }),
-    }),
 
   getEpisodes: () => request<EpisodeResponse[]>("/api/memory/episodes"),
 

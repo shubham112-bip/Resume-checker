@@ -5,7 +5,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
   LayoutDashboard,
-  Bot,
   History,
   ShieldCheck,
   BarChart3,
@@ -67,10 +66,6 @@ export function Sidebar() {
             <Link href="/history" className={navItemClass("/history")}>
               <History className="w-4 h-4 text-slate-500" />
               <span>Candidate Directory</span>
-            </Link>
-            <Link href="/assistant" className={navItemClass("/assistant")}>
-              <Bot className="w-4 h-4 text-slate-500" />
-              <span>Hiring Assistant</span>
             </Link>
           </nav>
 

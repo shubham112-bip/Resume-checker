@@ -8,7 +8,6 @@ import { HealthResponse } from "@/lib/types";
 import {
   Brain,
   BarChart3,
-  MessageSquareCode,
   Network,
   Users,
   CheckCircle2,
@@ -35,7 +34,6 @@ export function Navbar() {
     { href: "/", label: "Dashboard", icon: Brain },
     { href: "/dataset", label: "Dataset & Quality", icon: Database },
     { href: "/evaluation", label: "Model Evaluation", icon: BarChart3 },
-    { href: "/assistant", label: "Recruiter Assistant", icon: MessageSquareCode },
     { href: "/architecture", label: "Architecture", icon: Network },
     { href: "/history", label: "History & Memory", icon: Users },
   ];
