@@ -1,4 +1,4 @@
-"""ReAct tool definitions used by agents, recruiter assistant, and the MCP server."""
+"""ReAct tool definitions used by agents and the MCP server."""
 
 from __future__ import annotations
 

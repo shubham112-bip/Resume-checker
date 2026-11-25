@@ -70,32 +70,12 @@ def test_viva_demo_scenario_5_candidates():
     assert ev_e["overallScore"] < ev_a["overallScore"]
 
 
-def test_recruiter_assistant_grounded_queries():
-    # Load demo and run evaluation first to populate run store
-    client.post("/api/demo/load")
-    runs = client.get("/api/runs").json()
-    assert len(runs) > 0
-    run_id = runs[0]["runId"]
-
-    # Query 1: Why was top candidate shortlisted?
-    q1 = {"question": "Why was Rahul Sharma shortlisted?", "runId": run_id}
-    res1 = client.post("/api/assistant/chat", json=q1)
-    assert res1.status_code == 200
-    ans1 = res1.json()
-    assert "Rahul Sharma" in ans1["answer"]
-    assert len(ans1["toolCalls"]) > 0
-
-    # Query 2: Compare candidate A and candidate B
-    q2 = {"question": "Compare Rahul Sharma and Vinit Surve", "runId": run_id}
-    res2 = client.post("/api/assistant/chat", json=q2)
-    assert res2.status_code == 200
-    ans2 = res2.json()
-    assert "Rahul Sharma" in ans2["answer"]
-    assert "Vinit Surve" in ans2["answer"]
-
-
 def test_pdf_report_download():
     runs = client.get("/api/runs").json()
+    if not runs:
+        client.post("/api/demo/load")
+        runs = client.get("/api/runs").json()
+    assert len(runs) > 0
     run_id = runs[0]["runId"]
     run_detail = client.get(f"/api/runs/{run_id}").json()
     first_eval_id = run_detail["ranking"][0]["evaluationId"]

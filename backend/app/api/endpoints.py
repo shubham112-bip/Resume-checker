@@ -30,8 +30,6 @@ from app.db.database import (
 from app.schemas.api import (
     CandidateDetail,
     CandidateSummary,
-    ChatRequest,
-    ChatResponse,
     ComparisonResponse,
     DatasetJdBrief,
     DatasetPairSummary,
@@ -60,7 +58,6 @@ from app.schemas.api import (
 from app.schemas.evaluation import CandidateEvaluation, Recommendation, RecruiterDecisionRequest
 from app.schemas.job import JobProfile
 from app.schemas.quality import ResumeQualityEvaluation
-from app.services.assistant.recruiter_chat import answer_recruiter_query
 from app.services.demo_data import DEMO_JD_TEXT, SAMPLE_JDS, create_demo_resumes, run_comparison_benchmark
 from app.services.embeddings.embedder import get_embedder
 from app.services.ml.predictor import get_cached_metrics
@@ -493,7 +490,7 @@ def download_evaluation_report(
 
 
 # --------------------------------------------------------------------------
-# 6. ML Metrics, Comparison & Recruiter Assistant
+# 6. ML Metrics & Comparison
 # --------------------------------------------------------------------------
 @router.get("/models/metrics", response_model=ModelMetricsResponse)
 def get_ml_metrics(
@@ -843,12 +840,6 @@ async def evaluate_single_resume_quality(file: UploadFile = File(...)) -> Resume
     except Exception as e:
         logger.exception("Error evaluating resume quality for %s", fname)
         raise HTTPException(status_code=500, detail=f"Quality evaluation error: {e}")
-
-
-
-@router.post("/assistant/chat", response_model=ChatResponse)
-def recruiter_chat(req: ChatRequest) -> ChatResponse:
-    return answer_recruiter_query(question=req.question, run_id=req.run_id)
 
 
 @router.get("/memory/episodes", response_model=list[EpisodeResponse])

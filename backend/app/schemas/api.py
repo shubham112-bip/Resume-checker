@@ -162,24 +162,6 @@ class ComparisonResponse(CamelModel):
     embedding_backend: str
 
 
-class ChatRequest(CamelModel):
-    question: str = Field(min_length=3, max_length=1000)
-    run_id: str | None = None
-
-
-class ToolCallRecord(CamelModel):
-    tool: str
-    arguments: dict[str, Any]
-    result_summary: str
-
-
-class ChatResponse(CamelModel):
-    answer: str
-    generated_by: str  # gemini | rule-based
-    tool_calls: list[ToolCallRecord] = Field(default_factory=list)
-    sources: list[str] = Field(default_factory=list)
-
-
 class HealthResponse(CamelModel):
     status: str
     gemini_enabled: bool

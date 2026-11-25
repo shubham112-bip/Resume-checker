@@ -420,19 +420,6 @@ export interface ComparisonResponse {
   embeddingBackend: string;
 }
 
-export interface ToolCallRecord {
-  tool: string;
-  arguments: Record<string, unknown>;
-  resultSummary: string;
-}
-
-export interface ChatResponse {
-  answer: string;
-  generatedBy: string;
-  toolCalls: ToolCallRecord[];
-  sources: string[];
-}
-
 export interface HealthResponse {
   status: string;
   geminiEnabled: boolean;
