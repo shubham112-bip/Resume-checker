@@ -172,7 +172,7 @@ class Explanation(CamelModel):
     strengths: list[str] = Field(default_factory=list)
     weaknesses: list[str] = Field(default_factory=list)
     rationale: str = ""
-    generated_by: str = "template"  # "gemini" | "template"
+    generated_by: str = "deterministic"
     model: str | None = None
     fallback_reason: str | None = None
 

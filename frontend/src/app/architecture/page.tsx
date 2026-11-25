@@ -145,7 +145,7 @@ export default function ArchitecturePage() {
             <p className="text-slate-600 leading-relaxed">
               <strong>Tokens:</strong> Resumes tokenized into subwords via HuggingFace WordPiece/BERT tokenizers.<br />
               <strong>Embeddings:</strong> Text passages encoded into 384-dimensional dense vectors using <code>BAAI/bge-small-en-v1.5</code>.<br />
-              <strong>Context Window:</strong> Gemini 2.5 Flash processes structured ground-truth metrics within its context window without hallucination.
+              <strong>Vector Similarity:</strong> Dense embeddings enable exact semantic cosine similarity matching against candidate experience passages.
             </p>
           </div>
 
@@ -184,7 +184,7 @@ export default function ArchitecturePage() {
             <span className="font-bold text-slate-900 text-sm">7. AI Ethics, Bias Mitigation & Explainability</span>
             <p className="text-slate-600 leading-relaxed">
               <strong>Data Sanitization:</strong> Sensitive demographic attributes (gender, age, marital status, caste, religion, photo) are detected and stripped before analysis.<br />
-              <strong>Explainability:</strong> Numerical scores are calculated mathematically from measurable features rather than opaque LLM guesswork.<br />
+              <strong>Explainability:</strong> Numerical scores are calculated mathematically from measurable features via calibrated statistical scoring and deterministic rule evaluations.<br />
               <strong>Human-in-the-Loop:</strong> Borderline scores, ML divergences, and keyword stuffing are automatically flagged for recruiter review.
             </p>
           </div>

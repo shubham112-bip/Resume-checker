@@ -164,8 +164,7 @@ class ComparisonResponse(CamelModel):
 
 class HealthResponse(CamelModel):
     status: str
-    gemini_enabled: bool
-    gemini_model: str | None
+    engine: str = "Deterministic Grounded Engine"
     embedding_backend: str
     embedding_model: str
     ml_model_available: bool

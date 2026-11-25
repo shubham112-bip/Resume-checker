@@ -9,7 +9,7 @@ with an appropriate HTTP status (400 validation, 404 not found, 413 too large, 4
 
 | Method | Path | Body | Response | Purpose |
 |---|---|---|---|---|
-| GET | `/api/health` | – | `HealthResponse` | Gemini/embedding/ML availability |
+| GET | `/api/health` | – | `HealthResponse` | Hybrid Engine/embedding/ML availability |
 | GET | `/api/config` | – | weights, thresholds, credits, semantic thresholds | Transparent scoring configuration |
 | POST | `/api/jobs` | `JobCreateRequest {text, title?}` | `JobProfile` | Analyse a pasted job description |
 | POST | `/api/jobs/upload` | multipart `file` (PDF/DOCX/TXT) | `JobProfile` | Analyse an uploaded JD file |
@@ -54,7 +54,7 @@ with an appropriate HTTP status (400 validation, 404 not found, 413 too large, 4
   "recommendation": "STRONG_SHORTLIST", "recommendationLabel": "Strong Match",
   "needsHumanReview": false, "reviewFlags": [],
   "strengths": ["…"], "weaknesses": ["…"],
-  "explanation": {"summary": "…", "generatedBy": "gemini|template"},
+  "explanation": {"summary": "…", "generatedBy": "deterministic"},
   "trace": [{"step": 1, "agent": "Resume Parsing Agent", "task": "…", "tool": "parse_resume",
              "toolInput": "…", "observation": "…", "status": "success", "durationMs": 12.3}]
 }

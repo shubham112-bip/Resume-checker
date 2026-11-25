@@ -1,6 +1,6 @@
 # Academic Project Report
 
-## AI-Based Resume Screening and Candidate Evaluation System using Machine Learning, Generative AI, and Agentic AI
+## AI-Based Resume Screening and Candidate Evaluation System using Machine Learning, Semantic Embeddings, and Agentic Orchestration
 
 ---
 
@@ -8,9 +8,9 @@
 
 Traditional Applicant Tracking Systems (ATS) rely primarily on rigid keyword presence and boolean text matching. Consequently, they suffer from two critical failure modes: high false negatives (rejecting qualified candidates who describe their technical experience with synonyms or alternate frameworks) and high false positives (shortlisting unqualified resumes employing keyword stuffing tactics).
 
-This project presents an explainable, multi-agent candidate evaluation system that integrates traditional ATS parsing, local sentence transformer embeddings (`BAAI/bge-small-en-v1.5`), dense vector retrieval via FAISS, supervised machine learning classification (comparing Logistic Regression, Random Forest, and K-Nearest Neighbors), Generative AI (Google Gemini 2.5 Flash), and multi-agent state graphs using LangGraph.
+This project presents an explainable, multi-agent candidate evaluation system that integrates traditional ATS parsing, local sentence transformer embeddings (`BAAI/bge-small-en-v1.5`), dense vector retrieval via FAISS, supervised machine learning classification (comparing Logistic Regression, Random Forest, and K-Nearest Neighbors), and multi-agent state graphs using LangGraph.
 
-Rather than delegating numerical scoring to an unconstrained Large Language Model, our system computes an 8-dimensional normalized feature vector across technical skill coverage, experience duration, semantic vector similarity, project relevance, ATS compatibility, education match, and resume formatting quality. A transparent weighted mathematical framework assigns the final candidate fit score, while Generative AI produces grounded, evidence-backed explanations. Empirical evaluations demonstrate that semantic retrieval successfully detects non-literal technical equivalence (e.g. Express framework serving as Node.js backend evidence) while keyword-stuffing detection and reflection loops safeguard evaluation integrity.
+Rather than delegating numerical scoring to an unconstrained Large Language Model, our system computes an 8-dimensional normalized feature vector across technical skill coverage, experience duration, semantic vector similarity, project relevance, ATS compatibility, education match, and resume formatting quality. A transparent weighted mathematical framework assigns the final candidate fit score, while deterministic explainability engines produce grounded, evidence-backed explanations. Empirical evaluations demonstrate that semantic retrieval successfully detects non-literal technical equivalence (e.g. Express framework serving as Node.js backend evidence) while keyword-stuffing detection and reflection loops safeguard evaluation integrity.
 
 ---
 
@@ -27,7 +27,7 @@ Rather than delegating numerical scoring to an unconstrained Large Language Mode
    - 5.4 Feature Engineering & Transparent Scoring Framework
    - 5.5 Machine Learning Classification Layer
    - 5.6 LangGraph State Machine & Agentic Reflection
-   - 5.7 Generative AI & Recruiter Decision Support
+   - 5.7 Explainable Evaluation & Recruiter Decision Support
    - 5.8 Model Context Protocol (MCP) Tool Integration
 6. **Experimental Results & Comparative Evaluation**
    - 6.1 Machine Learning Benchmark (LR vs RF vs KNN)

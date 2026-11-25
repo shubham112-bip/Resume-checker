@@ -79,8 +79,8 @@ The audit confirmed that the screening system operates over the following unifie
    - Audits borderline margins, divergences, and stuffing flags
                             │
                             ▼
-9. explanation (app.services.llm.gemini_service)
-   - Grounded evidence explanation (Gemini SDK or Deterministic Template)
+9. explanation (app.services.explanation.explainer)
+   - Grounded evidence explanation (Deterministic Grounded Explainer)
                             │
                             ▼
 10. SQLite DB & Episodic Memory (app.db.database)
@@ -219,7 +219,7 @@ The independence of standalone Resume Quality (0–100 document construction) an
 | **Missing JD** | No JD file, no text | HTTP 400 Bad Request | HTTP 400: "Either 'job_description' text or 'job_file' must be provided." | **PASS** |
 | **Unsupported File** | `.exe` file upload | HTTP 400 Bad Request | HTTP 400: "Unsupported resume extension '.exe'. Allowed: .pdf, .docx, .txt" | **PASS** |
 | **Unparseable PDF** | Blank 0-character PDF | Graceful handling | Handled via Error Recovery -> `status: "PARSING_FAILED"` | **PASS** |
-| **Gemini Offline** | No API Key configured | Grounded fallback | Grounded deterministic template explanation without error | **PASS** |
+| **Deterministic Explainer** | Standard execution | Deterministic explanation | Grounded evidence explanation without external LLM dependency | **PASS** |
 
 ---
 

@@ -13,7 +13,6 @@ import {
   CheckCircle2,
   AlertCircle,
   Cpu,
-  Sparkles,
   Database,
 } from "lucide-react";
 
@@ -91,15 +90,11 @@ export function Navbar() {
                 </div>
 
                 <div
-                  className={`flex items-center space-x-1.5 px-2.5 py-1 rounded-full border text-[11px] font-medium ${
-                    health.geminiEnabled
-                      ? "bg-emerald-50 text-emerald-700 border-emerald-200"
-                      : "bg-amber-50 text-amber-700 border-amber-200"
-                  }`}
-                  title={health.geminiEnabled ? `Gemini Active (${health.geminiModel})` : "Grounded Fallback Engine Active"}
+                  className="flex items-center space-x-1.5 px-2.5 py-1 rounded-full border border-slate-200 bg-slate-50 text-slate-700 text-[11px] font-medium"
+                  title="Deterministic Hybrid Rule & Calibrated ML Engine"
                 >
-                  <Sparkles className="w-3.5 h-3.5" />
-                  <span>{health.geminiEnabled ? "Gemini Live" : "Grounded Engine"}</span>
+                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                  <span>{health.engine || "Hybrid Decision Engine"}</span>
                 </div>
 
                 <div className="flex items-center space-x-1 px-2 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200">

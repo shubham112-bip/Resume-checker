@@ -22,7 +22,7 @@ from app.schemas.job import SkillTier
 from app.services.ats.ats_engine import detect_keyword_stuffing, evaluate_ats
 from app.services.evaluation.hybrid_engine import resolve_hybrid_decision
 from app.services.features.feature_engine import compute_features
-from app.services.llm.gemini_service import generate_candidate_explanation
+from app.services.explanation.explainer import generate_candidate_explanation
 from app.services.ml.predictor import predict_candidate_fit
 from app.services.parsing.resume_parser import parse_resume
 from app.services.semantic.matcher import match_requirements

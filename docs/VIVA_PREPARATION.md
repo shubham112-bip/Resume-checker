@@ -14,7 +14,7 @@ Prepare for your MCA / College Viva using these concise, scientifically grounded
 ### Question 2: "How do you know whether a resume is good or bad?"
 
 > **Answer:**
-> "Our system does not declare a resume universally good or bad. First, we calculate resume quality using objective criteria such as completeness, ATS readability, structure, quantified achievements, action verbs, grammar, and consistency. Then we compare the resume with a specific job description using required skill match, experience relevance, semantic similarity, project relevance, education match, ATS compatibility, and resume quality. The ML model learns from these features to predict candidate suitability for that specific role. Gemini is used for structured interpretation and grounded explanations, not for arbitrarily assigning the final score."
+> "Our system does not declare a resume universally good or bad. First, we calculate resume quality using objective criteria such as completeness, ATS readability, structure, quantified achievements, action verbs, grammar, and consistency. Then we compare the resume with a specific job description using required skill match, experience relevance, semantic similarity, project relevance, education match, ATS compatibility, and resume quality. The ML model learns from these features to predict candidate suitability for that specific role. A deterministic explainability engine provides structured and evidence-grounded explanations, rather than relying on an external generative model to assign or explain scores."
 
 ---
 
@@ -27,15 +27,15 @@ Prepare for your MCA / College Viva using these concise, scientifically grounded
 
 ---
 
-### Question 4: "Why use an LLM, and why shouldn't the LLM directly give the final score?"
+### Question 4: "Why shouldn't an LLM or Generative AI directly give the candidate score?"
 
 > **Answer:**
-> "Having an LLM directly generate scores like 'Candidate is 87/100' is academically weak, uninterpretable, and non-deterministic—the same resume could get 87 on one call and 78 on another.
+> "Having a generative LLM generate scores like 'Candidate is 87/100' is academically weak, uninterpretable, stochastic, and prone to hallucination—the same resume could get 87 on one call and 78 on another, violating hiring fairness and compliance.
 > 
-> In our architecture:
-> - **Mathematical Formula & ML:** Responsible for feature calculation, scoring, and classification.
-> - **LLM (Gemini 2.5 Flash):** Responsible for qualitative structured interpretation, human-readable explanations, and recruiter decision support.
-> - All LLM responses are strictly grounded in retrieved evidence to prevent hallucinations."
+> For this reason, our system intentionally does not use an external Generative AI or LLM. In our architecture:
+> - **Mathematical Formula & Calibrated ML:** Responsible for transparent feature calculation, scoring, probability calibration, and classification.
+> - **Deterministic Evidence Explainer:** Generates structured, evidence-backed rationales grounded strictly in verified skills, experience, and semantic similarity.
+> - **Hybrid Decision Engine:** Combines deterministic rule policies with calibrated ML second opinions and human-in-the-loop recruiter review."
 
 ---
 

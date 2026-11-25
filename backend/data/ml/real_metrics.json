@@ -145,6 +145,6 @@
     }
   ],
   "disclaimer": "Dataset Notice: Evaluated on 912 Resume-JD pairs generated from 76 candidates (65 uploaded real resumes in DOCX format + 11 reference candidates) across 12 diverse Job Descriptions using rule-assisted labels without fabricated human evaluations. Stratified grouped splitting on resume_id guarantees zero candidate data leakage across train and test sets. For statistical sample-size power, compare against the 800-candidate synthetic benchmark.",
-  "trainedAt": "2026-11-25T04:35:46.607871+00:00",
+  "trainedAt": "2026-11-25T06:36:44.632076+00:00",
   "calibrationComparison": null
 }

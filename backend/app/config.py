@@ -104,11 +104,6 @@ class Settings(BaseSettings):
         env_file=str(BACKEND_DIR / ".env"), env_file_encoding="utf-8", extra="ignore"
     )
 
-    gemini_api_key: str | None = Field(default=None, alias="GEMINI_API_KEY")
-    gemini_model: str = Field(default="gemini-2.5-flash", alias="GEMINI_MODEL")
-    gemini_timeout_seconds: int = Field(default=30, alias="GEMINI_TIMEOUT_SECONDS")
-    use_llm_jd_extraction: bool = Field(default=True, alias="USE_LLM_JD_EXTRACTION")
-
     embedding_model: str = Field(default="BAAI/bge-small-en-v1.5", alias="EMBEDDING_MODEL")
     embedding_backend: str = Field(default="sentence-transformers", alias="EMBEDDING_BACKEND")
 
@@ -131,10 +126,6 @@ class Settings(BaseSettings):
     stuffing: StuffingConfig = StuffingConfig()
 
     allowed_extensions: tuple[str, ...] = (".pdf", ".docx", ".txt")
-
-    @property
-    def gemini_enabled(self) -> bool:
-        return bool(self.gemini_api_key and self.gemini_api_key.strip())
 
     @property
     def max_upload_bytes(self) -> int:

@@ -422,8 +422,7 @@ export interface ComparisonResponse {
 
 export interface HealthResponse {
   status: string;
-  geminiEnabled: boolean;
-  geminiModel: string | null;
+  engine: string;
   embeddingBackend: string;
   embeddingModel: string;
   mlModelAvailable: boolean;

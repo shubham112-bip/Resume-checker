@@ -47,7 +47,7 @@ def create_app() -> FastAPI:
         description=(
             "Production-quality academic candidate evaluation system combining traditional ATS, "
             "sentence embeddings (BAAI/bge-small-en-v1.5), FAISS vector search, machine learning "
-            "(LR/RF/KNN), Gemini GenAI, and LangGraph multi-agent orchestration."
+            "(LR/RF/KNN), and LangGraph multi-agent orchestration."
         ),
         version="1.0.0",
         lifespan=lifespan,

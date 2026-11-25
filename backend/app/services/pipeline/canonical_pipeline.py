@@ -262,7 +262,7 @@ def evaluate_unseen_resume_and_jd(
     if canonical.stuffing_result.suspected:
         weaknesses.append("⚠ Keyword stuffing suspected: repetitive mentions without backing evidence.")
 
-    from app.services.llm.gemini_service import generate_candidate_explanation
+    from app.services.explanation.explainer import generate_candidate_explanation
     explanation = generate_candidate_explanation(
         profile=profile,
         job=job_prof,

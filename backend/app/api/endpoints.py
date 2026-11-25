@@ -83,8 +83,7 @@ def get_health() -> HealthResponse:
     embedder = get_embedder()
     return HealthResponse(
         status="healthy",
-        gemini_enabled=cfg.gemini_enabled,
-        gemini_model=cfg.gemini_model if cfg.gemini_enabled else None,
+        engine="Deterministic Grounded Engine",
         embedding_backend=embedder.__class__.__name__,
         embedding_model=cfg.embedding_model,
         ml_model_available=metrics.available,

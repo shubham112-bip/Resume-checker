@@ -1,6 +1,6 @@
 # AI-Based Resume Screening and Candidate Evaluation System
 
-An academic, production-quality recruitment decision support system combining **Traditional ATS**, **Local Transformer Embeddings (BAAI/bge-small-en-v1.5)**, **FAISS Vector Search**, **Scikit-Learn Machine Learning (LR / RF / KNN)**, **Google Gemini GenAI**, and **LangGraph Multi-Agent Orchestration**.
+An academic, production-quality recruitment decision support system combining **Traditional ATS**, **Local Transformer Embeddings (BAAI/bge-small-en-v1.5)**, **FAISS Vector Search**, **Scikit-Learn Machine Learning (LR / RF / KNN)**, **Isotonic Calibration**, and **LangGraph Multi-Agent Orchestration**.
 
 Developed for MCA / Computer Science college academic demonstration and viva defense.
 
@@ -61,7 +61,7 @@ Developed for MCA / Computer Science college academic demonstration and viva def
                  Recommendation Agent (Shortlist / Review / Weak)
                          │
                          ▼
-                 Explanation Agent (Gemini GenAI / Grounded Template)
+                 Explanation Agent (Deterministic Grounded Explainer)
                          │
                          ▼
                  EXPLAINABLE REPORT & RANKING
@@ -79,7 +79,8 @@ Developed for MCA / Computer Science college academic demonstration and viva def
 | **Embeddings** | `BAAI/bge-small-en-v1.5` (Sentence-Transformers) | Fast local inference (384-dim), zero API cost, high retrieval quality |
 | **Vector Database** | FAISS (`faiss-cpu`, `IndexFlatIP`) | Real-time exact inner product cosine search on L2-normalized passages |
 | **Machine Learning** | Scikit-Learn (`LogisticRegression`, `RandomForest`, `KNN`) | Transparent comparative empirical evaluation with cross-validation |
-| **GenAI / LLM** | Google Gemini 2.5 Flash (`google-genai` SDK) | Grounded structured explanations with deterministic template fallback |
+| **Calibration** | Isotonic Regression & Platt Scaling | Non-parametric probability calibration ensuring mathematically reliable confidences |
+| **Explanation** | Grounded Evidence Explainer | Deterministic, fact-checked structured rationales without hallucination |
 | **Orchestration** | LangGraph (`StateGraph`, conditional edges) | Typed state transitions, reflection loops, and error recovery agents |
 | **Tool Protocol** | Model Context Protocol (MCP v2) | Standardized tool server (`app/mcp_server.py`) for external tool use |
 | **Database** | SQLite | Persistent long-term memory (jobs, candidates) and episodic memory |
@@ -202,7 +203,7 @@ Both benchmarks train and compare 3 classification algorithms:
 ```
 
 > **The Definitive Viva Answer:**
-> *"Our system does not declare a resume universally good or bad. First, we calculate resume quality using objective criteria such as completeness, ATS readability, structure, quantified achievements, action verbs, grammar, and consistency. Then we compare the resume with a specific job description using required skill match, experience relevance, semantic similarity, project relevance, education match, ATS compatibility, and resume quality. The ML model learns from these features to predict candidate suitability for that specific role. Gemini is used for structured interpretation and grounded explanations, not for arbitrarily assigning the final score."*
+> *"Our system does not declare a resume universally good or bad. First, we calculate resume quality using objective criteria such as completeness, ATS readability, structure, quantified achievements, action verbs, grammar, and consistency. Then we compare the resume with a specific job description using required skill match, experience relevance, semantic similarity, project relevance, education match, ATS compatibility, and resume quality. The ML model learns from these features to predict candidate suitability for that specific role. Deterministic scoring and explainability engines provide structured, evidence-grounded rationales rather than relying on opaque generative AI."*
 
 
 ---
@@ -230,10 +231,6 @@ cd backend
 python3.11 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-
-# (Optional) Set your Gemini API key in backend/.env:
-# GEMINI_API_KEY=your_key_here
-# If omitted, system runs on grounded deterministic fallback engine!
 
 # Run tests
 pytest -v
