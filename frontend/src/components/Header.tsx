@@ -17,7 +17,7 @@ export function Header({ currentJobTitle, onSelectJob }: HeaderProps) {
   const [dropdownOpen, setDropdownOpen] = useState(false);
 
   useEffect(() => {
-    api.getDemoJobs().then(setDemoJobs).catch(() => {});
+    api.getDemoJobs().then(setDemoJobs).catch(() => { });
   }, []);
 
   return (

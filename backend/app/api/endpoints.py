@@ -502,8 +502,10 @@ def get_ml_metrics(
 def run_benchmark() -> ModelMetricsResponse:
     """Re-executes the Phase 4 ML training & evaluation benchmark pipeline."""
     from app.services.ml.v2_trainer import run_training_and_comparison
+    from app.services.ml.predictor import clear_model_cache
 
     run_training_and_comparison()
+    clear_model_cache()
     return get_cached_metrics(dataset_type="canonical_v2")
 
 

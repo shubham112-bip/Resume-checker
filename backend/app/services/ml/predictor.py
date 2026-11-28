@@ -26,6 +26,11 @@ logger = logging.getLogger(__name__)
 _cached_models: dict[str, tuple[Any, Any, str, Any, str, str]] = {}
 
 
+def clear_model_cache() -> None:
+    """Clear in-memory cached model weights so newly trained models load immediately."""
+    _cached_models.clear()
+
+
 def _load_best_model(
     prefer_v2: bool = True,
     prefer_real: bool = True,
@@ -173,7 +178,7 @@ def get_cached_metrics(dataset_type: str = "real") -> ModelMetricsResponse:
     if dataset_type in {"v2", "canonical_v2", "real", "canonical"}:
         target_file = ML_DIR / "v2_model_metrics.json"
         if not target_file.exists():
-            from scripts.train_v2_ml_models import run_training_and_comparison
+            from app.services.ml.v2_trainer import run_training_and_comparison
 
             run_training_and_comparison()
 

@@ -16,8 +16,8 @@ export default function ArchitecturePage() {
   const [config, setConfig] = useState<any>(null);
 
   useEffect(() => {
-    api.getAgentGraph().then((g) => setGraphData(g)).catch(() => {});
-    api.getConfig().then((c) => setConfig(c)).catch(() => {});
+    api.getAgentGraph().then((g) => setGraphData(g)).catch(() => { });
+    api.getConfig().then((c) => setConfig(c)).catch(() => { });
   }, []);
 
   return (
